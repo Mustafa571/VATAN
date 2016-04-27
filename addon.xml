@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="VATAN"
+       name="TV KANALLARI"
+       version="1.0.0"
+       provider-name="Mustafa U.">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests"/>
+	<import addon="script.module.urlresolver" version="2.4.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV KANALLARI</summary>
+    <language>en</language>
+    <description lang="en">Her hakkı saklıdır. İzinsiz çoğaltılamaz, dağıtılamaz ve amacı dışında
+kullanılamaz.!!!</description>
+     <platform>all</platform>
+  </extension>
+</addon>
