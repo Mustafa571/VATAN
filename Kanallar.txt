@@ -1,6 +1,13 @@
-STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
-SHOW TV * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
-TRT 1  * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-KANAL D * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-KANAL 7 * http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
+TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
+Star TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/29.ts
+ATV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/4.ts
+SHOWTV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+Kanal D HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/27.ts
+TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
+A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
+Fox TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
+
 LIGTV 3 * http://gold.sarimedia.tv:8000/live/izzet/izzet/80.ts
