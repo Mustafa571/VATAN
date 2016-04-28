@@ -36,6 +36,12 @@ if mode is None:
 	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
 	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
+	url = build_url({'mode': 'folder', 'foldername': 'Filmler'})
+	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://profesyonellogo.com/wp-content/uploads/2012/10/sinema_LOGO.jpg')
+	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)-facebook.jpg
+	url = build_url({'mode': 'folder', 'foldername': 'Diziler'})
+	li = xbmcgui.ListItem('Özel Kanallar', iconImage='https://lh5.ggpht.com/8LStBl9nroWvyl5Rfxd0f0TneWtL1Yu7HFI4-hBsr-xKhTmtKKdg_viioYfZ1hMJnO4a')
+	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	
 	xbmcplugin.endOfDirectory(addon_handle)
 
