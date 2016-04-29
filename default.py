@@ -43,7 +43,7 @@ if mode is None:
 	li = xbmcgui.ListItem('Diziler', iconImage='https://lh5.ggpht.com/8LStBl9nroWvyl5Rfxd0f0TneWtL1Yu7HFI4-hBsr-xKhTmtKKdg_viioYfZ1hMJnO4a')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	url = build_url({'mode': 'folder', 'foldername': 'Alman Kanalları'})
-	li = xbmcgui.ListItem('Diziler', iconImage='https://andronews.de/wp-content/uploads/2014/04/screenshot-140425-153659-1024x455.jpg')
+	li = xbmcgui.ListItem('Alman Kanalları', iconImage='https://andronews.de/wp-content/uploads/2014/04/screenshot-140425-153659-1024x455.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	
 	xbmcplugin.endOfDirectory(addon_handle)
