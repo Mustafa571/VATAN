@@ -84,6 +84,7 @@ elif mode[0] == 'folder':
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
+			
 	elif foldername == "Alman Kanalları":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman%20Kanallari.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
