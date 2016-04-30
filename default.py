@@ -89,8 +89,8 @@ elif mode[0] == 'folder':
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Filmler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
-			channelname = channel[0]
-			channelurl = channel[2].replace(' ',"")
+			channelname = channel[1]
+			channelurl = channel[1].replace(' ',"")
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage='http://profesyonellogo.com/wp-content/uploads/2012/10/sinema_LOGO.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
@@ -99,8 +99,8 @@ elif mode[0] == 'folder':
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Diziler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
-			channelname = channel[0]
-			channelurl = channel[3].replace(' ',"")
+			channelname = channel[2]
+			channelurl = channel[1].replace(' ',"")
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage='https://lh5.ggpht.com/8LStBl9nroWvyl5Rfxd0f0TneWtL1Yu7HFI4-hBsr-xKhTmtKKdg_viioYfZ1hMJnO4a')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
@@ -109,8 +109,8 @@ elif mode[0] == 'folder':
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman%20Kanallari.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
-			channelname = channel[0]
-			channelurl = channel[4].replace(' ',"")
+			channelname = channel[3]
+			channelurl = channel[1].replace(' ',"")
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage='https://andronews.de/wp-content/uploads/2014/04/screenshot-140425-153659-1024x455.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
