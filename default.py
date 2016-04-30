@@ -85,7 +85,7 @@ elif mode[0] == 'folder':
 			li = xbmcgui.ListItem(channelname, iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 			
-elif foldername == "Filmler":
+        if foldername == "Filmler":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Filmler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
@@ -95,7 +95,7 @@ elif foldername == "Filmler":
 			li = xbmcgui.ListItem(channelname, iconImage='http://profesyonellogo.com/wp-content/uploads/2012/10/sinema_LOGO.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 			
-elif foldername == "Diziler":
+        if foldername == "Diziler":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Diziler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
@@ -105,7 +105,7 @@ elif foldername == "Diziler":
 			li = xbmcgui.ListItem(channelname, iconImage='https://lh5.ggpht.com/8LStBl9nroWvyl5Rfxd0f0TneWtL1Yu7HFI4-hBsr-xKhTmtKKdg_viioYfZ1hMJnO4a')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 			
-elif foldername == "Alman Kanalları":
+        if foldername == "Alman Kanalları":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman%20Kanallari.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
