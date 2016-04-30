@@ -86,7 +86,7 @@ elif mode[0] == 'folder':
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 			
         elif foldername == "Filmler":
-		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman%20Kanallari.txt")
+		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Filmler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
 			channelname = channel[0]
@@ -96,7 +96,7 @@ elif mode[0] == 'folder':
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 			
 	elif foldername == "Diziler":
-		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman%20Kanallari.txt")
+		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/Diziler.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
 			channelname = channel[0]
