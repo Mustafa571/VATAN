@@ -11,5 +11,4 @@ A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
 Fox TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
 NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 LIGTV 1 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
-LIGTV 2 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/3.ts
 LIGTV 3 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/4.ts
