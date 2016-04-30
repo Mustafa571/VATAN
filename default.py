@@ -33,6 +33,9 @@ if mode is None:
 	url = build_url({'mode': 'folder', 'foldername': 'Maç Özetleri'})
 	li = xbmcgui.ListItem('Maç Özetleri', iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
+	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
+	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
+	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	
 	xbmcplugin.endOfDirectory(addon_handle)
 
@@ -62,7 +65,7 @@ elif mode[0] == 'folder':
 			link[1] = link[1].replace(' ',"")
 			li = xbmcgui.ListItem(link[0], iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=link[1], listitem=li)
-		
+			
 	elif foldername == "Özel Kanallar":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/test7/master/%C3%96zel%20Kanallar.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
