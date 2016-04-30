@@ -63,12 +63,12 @@ elif mode[0] == 'folder':
 			li = xbmcgui.ListItem(link[0], iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=link[1], listitem=li)
 		
-	xbmcplugin.endOfDirectory(addon_handle)
+		xbmcplugin.endOfDirectory(addon_handle)
 
 	elif mode[0] == 'folder':
-	foldername = args['foldername'][0]
-	channellogo = 'http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg'
-	if foldername == "Özel Kanallar":
+	         foldername = args['foldername'][0]
+	         channellogo = 'http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg'
+	         if foldername == "Özel Kanallar":
 		r = requests.get("https://raw.githubusercontent.com/Mustafa571/test4/master/%C3%96zel%20Kanallar.txt")
 		match = re.compile('(.+)\*(.+)').findall(r.content)
 		for channel in match:
@@ -77,4 +77,6 @@ elif mode[0] == 'folder':
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage=channellogo)
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
+
+
 
