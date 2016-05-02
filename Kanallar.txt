@@ -5,7 +5,7 @@ HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765
 Star TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/29.ts
 ATV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/4.ts
 SHOWTV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
-Kanal D HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/27.ts
+Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
 A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
 Fox TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
