@@ -11,9 +11,12 @@ SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 3-SHOW TV HD * http://mn-i.mncdn.com/showtv/smil:showtv.smil/playlist.m3u8
 Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-Kanal D HD * http://www.iptvsaga.com/play/tv3/0038.m3u8
-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
+1-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
+2-TV 8 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/57.ts
+3-TV 8 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/93.ts
 A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
 Kanal 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
+ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 Fox TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
 NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
