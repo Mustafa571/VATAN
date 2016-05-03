@@ -36,9 +36,6 @@ if mode is None:
 	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
 	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
-	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
-	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
-	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 
 	xbmcplugin.endOfDirectory(addon_handle)
 
@@ -78,15 +75,5 @@ elif mode[0] == 'folder':
 			channelurl = ''.join(channelurl.splitlines())
 			li = xbmcgui.ListItem(channelname, iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
-	elif foldername == "Özel Kanallar":
-		r = requests.get("https://raw.githubusercontent.com/Mustafa571/VATAN/master/%C3%96zel%20Kanallar.txt")
-		match = re.compile('(.+)\*(.+)').findall(r.content)
-		for channel in match:
-			channelname = channel[0]
-			channelurl = channel[1].replace(' ',"")
-			channelurl = ''.join(channelurl.splitlines())
-			li = xbmcgui.ListItem(channelname, iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
-			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
-			        		
 
 	xbmcplugin.endOfDirectory(addon_handle)
