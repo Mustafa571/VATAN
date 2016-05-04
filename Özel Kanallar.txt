@@ -1,8 +1,3 @@
 07.05.2016 / Tarihinde bu sayfada (ÖZEL KANALLAR) * 1 Günlüğüne Reklam amaçlı açılıcaktır. * .m3u8
 Arzu eden bir zahmet beni arasın. * .m3u8
 
-ATV * http://178.162.205.72:8081/live_sd/startv/live_sd/star_hi/chunks.m3u8?nimblesessionid=65388363&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTYgMTI6MTQ6MDkgUE0maGFzaF92YWx1ZT1acWcrNFUrUThmSmYrYXV1bHpzdkhRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTk1LjkwLjIyMi4xNjU=
-TV8 * http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=61732077&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTYgMTI6MTM6MjAgUE0maGFzaF92YWx1ZT1mM3JtVTY4WlI2WlgvUG1hdzY0UGh3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTk1LjkwLjIyMi4xNjU=
-A Haber * http://178.162.205.72:8081/live_hd/a_haber/live_hd/a_haber_hi/chunks.m3u8?nimblesessionid=65387937&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTYgMTI6MTE6MzYgUE0maGFzaF92YWx1ZT14NE1HajZPd1hRMlg1OVpLaFROWFZRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTk1LjkwLjIyMi4xNjU=
-
-
