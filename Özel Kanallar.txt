@@ -1,3 +1,6 @@
 07.05.2016 / Tarihinde bu sayfada (ÖZEL KANALLAR) * 1 Günlüğüne Reklam amaçlı açılıcaktır. * .m3u8
 Arzu eden bir zahmet beni arasın. * .m3u8
 
+Show Tv- Test * http://mn-l.mncdn.com:1935/showtv/showtv2/chunklist_w1390229360.m3u8
+LIGTV 1 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
+
