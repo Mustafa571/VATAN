@@ -5,6 +5,7 @@ TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/maste
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 Star TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/29.ts
+Star TV http://mn-l.mncdn.com:1935/startv_live/startv1/chunklist_w2004729904.m3u8?token=66eac8c2d7d4edab7fab044556f5167dce00481065256d2a
 ATV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/4.ts
 2 ATV HD  * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/1.ts
 SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
