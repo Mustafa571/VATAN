@@ -16,6 +16,7 @@ Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=92
 2-TV 8 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/57.ts
 3-TV 8 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/93.ts
 A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
+A Haber * http://yayin9.canlitvlive.tv/ahaber/live.m3u8?tkn=5AnBON08TtGqPJFLDIPt0w&tms=1462470345
 Kanal 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
 ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 Fox TV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
