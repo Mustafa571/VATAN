@@ -2,26 +2,28 @@ Kanalların açılması uzun sürebilir. TEST YAYİNİDİR. *.m3u
 TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT COCUK * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/32.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-SAMANYOLU TV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/433.ts
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 StarTV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
-StarTV HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/29.ts
-ATV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/78.ts
-SHOW HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/434.ts
+1-ATV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/78.ts
+2-ATV HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/95.ts
+SHOW HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 TV 8 HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/408.ts
-CNN TURK * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/226.ts
+CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 TV Net * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
-1-A Haber HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/46.ts
-2-A Haber HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/43.ts
+A Haber HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/43.ts
 Kanal 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
 ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-FOX TV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
+YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+1-FOX HD *  * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/209.ts
+2-FOX HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
 NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
