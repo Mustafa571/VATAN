@@ -6,7 +6,8 @@ LIGTV HD * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/726.ts
 LIGTV 2HD * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/727.ts
 LIGTV 3HD * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/728.ts
 LIGTV 1 DTP * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/731.ts
-TIVIBU SPOR 2(TR) * http://kde.ipne.be:80/live/murataltin/u5w15qe64desyr21/722.ts
+IVIBUSPOR * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/56.ts
+TIVIBUSPOR 2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/430.ts
 SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/719.ts
 SKY SPORT 1 (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/720.ts
 SKY SPORT 2 (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/721.ts
@@ -31,6 +32,7 @@ Film Star (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/275.ts
 FILM SELECT 1 (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/276.ts
 FILM SELECT 2 (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/639.ts
 FILM SELECT 3 (DE) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/640.ts
+UK-ANIMAL PLANET * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/362.ts
 NETGEO WILD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/157.ts
 NATIONAL GEO (TR) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/678.ts
 DISCOVERY SCIENCE (TR) * http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/677.ts
