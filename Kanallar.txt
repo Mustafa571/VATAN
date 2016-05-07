@@ -1,4 +1,5 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
+Özel Kanallar bölümü bugün açılmıştır. *.m3u
 TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
