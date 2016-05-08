@@ -1,28 +1,8 @@
-08.05.2016 / Tarihinde bu sayfada (ÖZEL KANALLAR) * Bugün Reklam amaçlı açılıcaktır. * .m3u8
-Arzu eden bir zahmet beni arasın. * .m3u8
 Açılması biraz sürebilir. *.m3u
+
 FilmTivi HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/13.ts
 Sine TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/36.ts
-Loca 1 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/12.ts
-Loca 2 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/85.ts
-Vip Channel Aksiyon HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/24.ts
-Vip Channel Komedi HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/23.ts
-Vip Channel Belgesel HD 1 * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/14.ts
-Vip Channel Dram HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/17.ts
-Vip Channel Romantik HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/18.ts
-Vip Channel Yesilcam 1HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/10.ts
-Vip Channel Yesilcam HD 2 * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/11.ts
-Vip Channel Turk HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/9.ts
-Vip Channel 3D * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/21.ts
-Vip Channel HD1 * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/30.ts
-Vip Channel 2 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/15.ts
-Vip Channel Animasyon HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/16.ts
-Moviemax Turk HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/89.ts
-Moviemax Premier HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/5.ts
-Moviemax Premier 2 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/38.ts
-Moviemax Family HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/35.ts
-Moviemax Stars HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/37.ts
-MOVIESMART TURK HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/159.ts
+
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
