@@ -1,6 +1,6 @@
 Açılması biraz sürebilir. *.m3u
 
-LigTv * http://byahmetiptv1.ddns.net/live/byahmet63/playlist.m3u8
+LIGTV 1 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
 
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
