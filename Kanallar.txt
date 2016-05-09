@@ -11,11 +11,8 @@ SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 StarTV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
-1-ATV HD * http://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=-aYy8jDZt3VSdonKTNKx3g&e=1462864551
-2-ATV HD * http://178.162.205.71:8081/live_hd/atv/live_hd/atv_mid/chunks.m3u8?nimblesessionid=63579231&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMTYgNjozNzo0MyBQTSZoYXNoX3ZhbHVlPS9nYitLOGxveVZUT2R2RHdtMTJzYXc9PSZ2YWxpZG1pbnV0ZXM9MTAmaXA9OTUuOTAuMjIyLjE2NQ==
-3-ATV HD * http://178.162.205.71:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=63579231&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMTYgNjozNzo0MyBQTSZoYXNoX3ZhbHVlPS9nYitLOGxveVZUT2R2RHdtMTJzYXc9PSZ2YWxpZG1pbnV0ZXM9MTAmaXA9OTUuOTAuMjIyLjE2NQ==
-4-ATV HD * http://trkvz-live.ercdn.net/atvhd/atvhd_480p.m3u8?st=XlpehnQybdj0b3BDeGJxQg&e=1462864700
-SHOW HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+ATV HD * http://185.56.28.73/live/atv.m3u8 
+SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
