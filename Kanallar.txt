@@ -1,4 +1,5 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
+ÖZEL KANALLAR LIGTV Açık. *.m3u
 
 TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
