@@ -1,8 +1,15 @@
 Açılması biraz sürebilir. *.m3u
-LIGTV 1 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
-LIGTV 2 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/3.ts
-LIGTV 3 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/4.ts
-LIGTV 1 YEDEK * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/294.ts
+Bein Sport HD1 * http://149.202.198.114:8000/play/beins1hd 
+Bein Sport HD2  * http://149.202.198.114:8000/play/beins2hd 
+Bein Sport HD3  * http://149.202.198.114:8000/play/beinshd3 
+Bein Sport HD4  * http://149.202.198.114:8000/play/beinshd4 
+Bein Sport HD5  * http://149.202.198.114:8000/play/beinshd5 
+Bein Sport HD6 * http://149.202.198.114:8000/play/beinshd6
+Bein Sport HD8 * http://149.202.198.114:8000/play/beinshd8 
+Bein Sport HD9 * http://149.202.198.114:8000/play/beinshd9 
+Bein Sport HD10 * http://149.202.198.114:8000/play/beinshd10 
+Bein Sport HD 12 * http://149.202.198.114:8000/play/beinshd12 
+...............................................................................
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
