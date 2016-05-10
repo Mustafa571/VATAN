@@ -9,7 +9,7 @@ Bein Sport HD8 * http://149.202.198.114:8000/play/beinshd8
 Bein Sport HD9 * http://149.202.198.114:8000/play/beinshd9 
 Bein Sport HD10 * http://149.202.198.114:8000/play/beinshd10 
 Bein Sport HD 12 * http://149.202.198.114:8000/play/beinshd12 
-...............................................................................
+............................................................................... * .m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
