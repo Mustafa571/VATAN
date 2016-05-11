@@ -7,11 +7,11 @@ TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 1-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
 TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT COCUK * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/32.ts
-BEYAZ TV HD * http://37.187.164.118:1938/live/webtvplay_test1/playlist.m3u8
+BEYAZ TV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/80.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-StarTV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
+STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
 ATV HD * http://185.56.28.73/live/atv.m3u8 
 SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
@@ -27,7 +27,7 @@ KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
 1-A HABER * http://185.56.28.73/live/ahaber.m3u8
 2-A HABER HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/43.ts
-Kanal 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
+KANAL 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
 ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 1-FOX HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/209.ts
