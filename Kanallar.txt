@@ -3,6 +3,7 @@ Yeni Kanallar eklendi..!!!. *.m3u
 
 TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
+TRT AVAZ HD * http://www.iptvsaga.com/play/tv3/0032.m3u8
 TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 TRT DIYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
@@ -17,7 +18,7 @@ STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
 ATV HD * http://185.56.28.73/live/atv.m3u8 
 SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
-1-Kanal D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
+1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 1-TV8 HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/408.ts
 2-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
@@ -41,8 +42,9 @@ TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
-DreamTürk TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
-Bloomberg * http://www.iptvsaga.com/play/tv3/0066.m3u8
+DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
+BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
+POWER TV * http://www.iptvsaga.com/play/tv3/0071.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
 RTL2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/127.ts
