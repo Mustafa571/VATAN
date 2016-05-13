@@ -6,7 +6,7 @@ TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500
 TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
-TRT COCUK * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/32.ts
+TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 BEYAZ TV HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/80.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
