@@ -1,12 +1,9 @@
 Açılması biraz sürebilir. *.m3u
 .================================== . *.m3u
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2353609,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=1280x720
-chunklist_w1263597054.m3u8
-
+0-LIG TV * http://188.165.46.79:1935/live/liveligtv.stream/chunklist_w579380483.m3u8
 1-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
 2-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/2.ts
+
 .================================== . *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
