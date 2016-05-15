@@ -1,6 +1,5 @@
 Açılması biraz sürebilir. *.m3u
 .================================== . *.m3u
-Ben kanallari yükler yüklemez hemen elimden aliyorlar !!. *.m3u
 MAC TV 1 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/402.ts
 MAC TV 2 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/403.ts 
 1-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
