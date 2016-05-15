@@ -1,13 +1,8 @@
 Açılması biraz sürebilir. *.m3u
-LIGTV 3 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.ts
-HD SINEMA * mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
-HD SINEMA 1 * mmsh://yayin7.canliyayin.org/sinema1?MSWMExt=.asf
-HD SİNEMA 2 * mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
-HD SİNEMA 3 * mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
-HD SİNEMA 4 * mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
-HD SİNEMA 5 * mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-
-MUZ TV Azerbaycan * rtmp://85.132.78.6:1935/live/muztv.stream
+.================================== . *.m3u
+1-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
+2-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/2.ts
+.================================== . *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
