@@ -5,7 +5,6 @@ MAC TV 1 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/402.ts
 MAC TV 2 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/403.ts 
 1-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
 2-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/2.ts
-
 .================================== . *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
