@@ -10,7 +10,8 @@ TRT DIYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
 TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
-BEYAZ TV HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/208.ts
+1-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
+2-BEYAZ TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/39.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
