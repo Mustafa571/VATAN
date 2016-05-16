@@ -1,13 +1,5 @@
 Açılması biraz sürebilir. *.m3u
-.================================== . *.m3u
-MAC TV 1 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/402.ts
-MAC TV 2 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/403.ts 
-S-MAC TV 3 * http://nn8.ezstream.club:1935/edge/ch2511/Futbolizm1.m3u8
-S-MAC TV 4 * http://nn8.ezstream.club:1935/edge/ch2510/Futbolizm3.m3u8
-1-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
-2-LigTV  * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/2.ts
-LIGTV 3 * http://darking.iptv101.com:8000/live/8s5b22s/522sdbbs/3.ts
-.================================== . *.m3u
+
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
