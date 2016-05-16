@@ -20,7 +20,7 @@ SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-1-TV8 HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/408.ts
+1-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 2-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
