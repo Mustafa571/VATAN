@@ -22,8 +22,9 @@ SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-1-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
-2-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
+1-TV8 * http://38.117.88.253:7777/TV8_HD.m3u8
+2-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
+3-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
@@ -31,6 +32,8 @@ CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 TV 2 * http://www.iptvsaga.com/play/tv3/0047.m3u8
+IDMAN TV * http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
+YABAN TV * http://38.117.88.253:7777/Yaban_HD.m3u8
 1-TV NET * http://live01.tvnet.doracdn.com/live/smil:tvnet.smil/chunklist_b850000.m3u8
 2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
 1-A HABER * http://185.56.28.73/live/ahaber.m3u8
@@ -45,10 +48,16 @@ TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 1-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
 2-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
+KANAL AVRUPA * http://38.117.88.253:7777/KanalAvrupa_HD.m3u8
+KARADENIZ TÜRK * http://38.117.88.253:7777/KaradenizTurk_HD.m3u8
+MAVI KARADENIZ * http://38.117.88.253:7777/MaviKaradeniz_HD.m3u8
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
+FB TV * http://38.117.88.253:7777/FBTV_HD.m3u8
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
-KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
+1-KRAL TV * http://38.117.88.253:7777/KralTV_HD.m3u8
+2-KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
+KRAL POP * http://38.117.88.253:7777/KralPopTV_HD.m3u8
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
