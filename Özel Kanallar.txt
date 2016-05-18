@@ -1,6 +1,8 @@
 Açılması biraz sürebilir. *.m3u
 ÖZEL KANALLAR (HAZIR) Beni arayabilirsiniz!!!!!!. *.m3u
 ===============================================. *.m3u
+LIGTV 1 * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/3.ts
+===============================================. *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
