@@ -1,8 +1,4 @@
 Açılması biraz sürebilir. *.m3u
-LIGTV 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/3.ts
-LIGTV 2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/55.ts
-LIGTV 3 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.ts
-LIGTV 1 YEDEK * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/294.ts
 ============================. *.m3u
 ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
