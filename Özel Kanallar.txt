@@ -4,7 +4,6 @@ LIGTV 2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/55.ts
 LIGTV 3 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.ts
 LIGTV 1 YEDEK * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/294.ts
 ============================. *.m3u
-Robinson crusoe *  http://play.cdn04.fx.fastcontentdelivery.com/luq45mqpphixexzw6x5lnkout22zde3wausnswxyq33nft7bpvnotpmr7fla/normal.mp4
 ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
 STAR TV HD * http://62.210.177.197/7/aMY3jgNw/45394/9JGSBAL/14636/XbsAgr0/dstartv.m3u8
