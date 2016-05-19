@@ -1,5 +1,11 @@
 Açılması biraz sürebilir. *.m3u
-TEST. *.m3u
+Galatasaray - Kayserispor * http://nn57.ezstream.club:1935/edge/ch2533/yetmis6.m3u8
+Sivasspor - Fenerbahce * http://nn57.ezstream.club:1935/edge/ch253/yetmis6.m3u8
+Trabzonspor - Kasimpaşa * http://nn57.ezstream.club:1935/edge/ch2538/yetmis6.m3u8
+Gaziantepspor - Antalyaspor * http://nn57.ezstream.club:1935/edge/ch2534/yetmis6.m3u8
+Genclerbirligi - Eskisehirspor * http://nn57.ezstream.club:1935/edge/ch2535/yetmis6.m3u8
+Osmanlispor - Akhisar Spor * http://nn57.ezstream.club:1935/edge/ch2536/yetmis6.m3u8
+============================. *.m3u
 ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
 STAR TV HD * http://62.210.177.197/7/aMY3jgNw/45394/9JGSBAL/14636/XbsAgr0/dstartv.m3u8
