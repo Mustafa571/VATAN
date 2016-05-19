@@ -1,5 +1,21 @@
 Açılması biraz sürebilir. *.m3u
-ÖZEL KANALLAR (HAZIR) Beni arayabilirsiniz!!!!!!. *.m3u
+TEST. *.m3u
+ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
+STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
+STAR TV HD * http://62.210.177.197/7/aMY3jgNw/45394/9JGSBAL/14636/XbsAgr0/dstartv.m3u8
+TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
+TV8 * http://62.210.177.197/7/Os3muVsg/45311/zCs_2uV/14636/PX-Ohng/dtv8.m3u8
+TV8 * http://62.210.177.197/7/Os3muVsg/45311/zCs_2uV/14636/PX-Ohng/dtv8.m3u8
+KANAL D HD * http://hdtvizle.ru/14452/71930/71968/kanaldhd.m3u8
+SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
+BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
+TRT BELGESEL HD * http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
+TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+TRTSPOR HD  * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8 
+IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
+IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
+IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
 ===============================================. *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
