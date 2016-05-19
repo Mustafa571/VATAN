@@ -1,11 +1,8 @@
 Açılması biraz sürebilir. *.m3u
-=====Yayınlar Maç saatine 2 dk kala açılır======. *.m3u
-Galatasaray - Kayserispor * http://nn57.ezstream.club:1935/edge/ch2533/yetmis6.m3u8
-Sivasspor - Fenerbahce * http://nn57.ezstream.club:1935/edge/ch253/yetmis6.m3u8
-Trabzonspor - Kasimpaşa * http://nn57.ezstream.club:1935/edge/ch2538/yetmis6.m3u8
-Gaziantepspor - Antalyaspor * http://nn57.ezstream.club:1935/edge/ch2534/yetmis6.m3u8
-Genclerbirligi - Eskisehirspor * http://nn57.ezstream.club:1935/edge/ch2535/yetmis6.m3u8
-Osmanlispor - Akhisar Spor * http://nn57.ezstream.club:1935/edge/ch2536/yetmis6.m3u8
+LIGTV 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/3.ts
+LIGTV 2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/55.ts
+LIGTV 3 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.ts
+LIGTV 1 YEDEK * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/294.ts
 ============================. *.m3u
 ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
