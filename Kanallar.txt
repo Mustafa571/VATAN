@@ -1,7 +1,9 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
 ===BERAAT KANDİLİNİZ MÜBAREK OLSUN====. *.m3u
 ==================================================. *.m3u
-TRT1 HD * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+2-TRT 1 * http://38.117.88.253:7777/TRT1_HD.m3u8
+3-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 TRT AVAZ HD * http://www.iptvsaga.com/play/tv3/0032.m3u8
 TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
