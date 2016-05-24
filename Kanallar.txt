@@ -5,7 +5,6 @@ Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-TRT AVAZ HD * http://www.iptvsaga.com/play/tv3/0032.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 2-TRT HABER * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
@@ -17,12 +16,13 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 1-BEYAZ TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/39.ts
 2-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
+1-HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
+2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
+3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 1-STAR TV HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/98.ts
 2-STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
 3-STAR TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
-4-STAR TV * http://62.210.177.197/7/aMY3jgNw/45394/9JGSBAL/14636/XbsAgr0/dstartv.m3u8
 1-ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 2-ATV HD * http://185.56.28.73/live/atv.m3u8 
 1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
@@ -30,17 +30,12 @@ FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-3-KANAL D HD * http://hdtvizle.ru/14452/71930/71968/kanaldhd.m3u8
-1-TV8 * http://62.210.177.197/7/Os3muVsg/45311/zCs_2uV/14636/PX-Ohng/dtv8.m3u8
-2-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
-3-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
+TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-1-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
-2-HABERTURK * http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/HasBahCa.m3u8
 TV 2 * http://www.iptvsaga.com/play/tv3/0047.m3u8
 1-TV NET * http://live01.tvnet.doracdn.com/live/smil:tvnet.smil/chunklist_b850000.m3u8
 2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
