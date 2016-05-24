@@ -1,19 +1,7 @@
 Açılması biraz sürebilir. *.m3u
 ============================. *.m3u
-ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
-STAR TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
-KANAL D HD * http://hdtvizle.ru/14452/71930/71968/kanaldhd.m3u8
-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
-TRT BELGESEL HD * http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
-TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
-TRTSPOR HD  * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8 
-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
+TV8 * http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=68974692&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDc6MzYgQU0maGFzaF92YWx1ZT1VOEorWFYva3FaN0M0bHdJYk1XdWlRPT0mdmFsaWRtaW51dGVzPTU=
+HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 ===============================================. *.m3u
 ARD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/113.ts
 ZDF * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/142.ts
