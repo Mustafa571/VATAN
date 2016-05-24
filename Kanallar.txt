@@ -1,33 +1,37 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
 ==================================================. *.m3u
-Kanalların aniden kapanması yoğun yüklenme nedeni ile oluyor. *.m3u
-Ayrıca yüklemiş olduğum kanallar, başkaları tarafından alınıyor. *.m3u
-Buna bir çözüm getireceğim !!! . *.m3u
-==================================================. *.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-2-TRT 1 * http://38.117.88.253:7777/TRT1_HD.m3u8
-3-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
+2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
+TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
+2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 TRT AVAZ HD * http://www.iptvsaga.com/play/tv3/0032.m3u8
-TRTHABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+2-TRT HABER * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 TRT DIYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
 TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+1-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+2-TRT BELGESEL HD * http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
-BEYAZ TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/39.ts
+1-BEYAZ TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/39.ts
+2-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
 FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 1-STAR TV HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/98.ts
 2-STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
+3-STAR TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
+4-STAR TV * http://62.210.177.197/7/aMY3jgNw/45394/9JGSBAL/14636/XbsAgr0/dstartv.m3u8
 1-ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
 2-ATV HD * http://185.56.28.73/live/atv.m3u8 
-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+2-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-2-KANALD HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-1-TV8 * http://38.117.88.253:7777/TV8_HD.m3u8
+2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+3-KANAL D HD * http://hdtvizle.ru/14452/71930/71968/kanaldhd.m3u8
+1-TV8 * http://62.210.177.197/7/Os3muVsg/45311/zCs_2uV/14636/PX-Ohng/dtv8.m3u8
 2-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 3-TV8 HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/40.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
@@ -35,17 +39,17 @@ MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
+1-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
+2-HABERTURK * http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/HasBahCa.m3u8
 TV 2 * http://www.iptvsaga.com/play/tv3/0047.m3u8
-IDMAN TV * http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
-YABAN TV * http://38.117.88.253:7777/Yaban_HD.m3u8
 1-TV NET * http://live01.tvnet.doracdn.com/live/smil:tvnet.smil/chunklist_b850000.m3u8
 2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
 1-A HABER * http://185.56.28.73/live/ahaber.m3u8
 2-A HABER HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/43.ts
 1-KANAL 7 HD * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/228.ts
 2-KANAL 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
-ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+1-ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+2-ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 1-FOX HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/209.ts
 2-FOX HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
@@ -53,20 +57,18 @@ TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 1-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
 2-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
-KANAL AVRUPA * http://38.117.88.253:7777/KanalAvrupa_HD.m3u8
-KARADENIZ TÜRK * http://38.117.88.253:7777/KaradenizTurk_HD.m3u8
-MAVI KARADENIZ * http://38.117.88.253:7777/MaviKaradeniz_HD.m3u8
+1-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
+2-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
+3-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
-FB TV * http://38.117.88.253:7777/FBTV_HD.m3u8
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
-1-KRAL TV * http://38.117.88.253:7777/KralTV_HD.m3u8
-2-KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
-KRAL POP * http://38.117.88.253:7777/KralPopTV_HD.m3u8
+KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 POWER TV * http://www.iptvsaga.com/play/tv3/0071.m3u8
+AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
 RTL2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/127.ts
