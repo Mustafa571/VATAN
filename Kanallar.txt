@@ -8,11 +8,17 @@ TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 2-TRT HABER * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-TRT DIYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
+1-TRT DIYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
+2-TRT DIYANET * http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl=
 TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 1-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT BELGESEL HD * http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
+3-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
+1-TRT SPOR * http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
+2-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 1-BEYAZ TV * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/39.ts
 2-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
@@ -30,6 +36,7 @@ FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 TV8 * http://ipsatpro.com:8000/live/222222/222222/382.ts
 TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
@@ -49,7 +56,6 @@ TV 2 * http://www.iptvsaga.com/play/tv3/0047.m3u8
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 1-FOX HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/209.ts
 2-FOX HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
-TRTSPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 1-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
 2-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
