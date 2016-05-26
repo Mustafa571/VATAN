@@ -1,5 +1,7 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
 ==================================================. *.m3u
+====SeyirTurk Portallar Yenilikler Eklenmiştir.Tavsiye Ederim !!====. *.m3u
+==================================================. *.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
@@ -65,6 +67,9 @@ NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
+1-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/playlist.m3u8
+2-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w124947867.m3u8
+RUMELI TV * http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
 KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
