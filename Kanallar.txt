@@ -36,6 +36,7 @@ FiLTV * http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live
 2-ATV HD * http://185.56.28.73/live/atv.m3u8 
 1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 2-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
+SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
