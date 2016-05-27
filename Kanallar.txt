@@ -40,7 +40,7 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-TV8 * http://ipsatpro.com:8000/live/222222/222222/382.ts
+TV8 * http://185.56.28.73/live/tv8.m3u8?
 TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
@@ -68,8 +68,8 @@ NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
-1-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/playlist.m3u8
-2-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w124947867.m3u8
+DENIZLI TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
+OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8
 RUMELI TV * http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
 KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
