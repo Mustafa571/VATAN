@@ -48,7 +48,7 @@ MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-TV 2 * http://www.iptvsaga.com/play/tv3/0047.m3u8
+TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-TV NET * http://live01.tvnet.doracdn.com/live/smil:tvnet.smil/chunklist_b850000.m3u8
 2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
 1-A HABER * http://185.56.28.73/live/ahaber.m3u8
