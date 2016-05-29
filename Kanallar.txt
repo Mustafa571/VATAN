@@ -1,6 +1,6 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
 =ÖZEL KANALLAR BÖLÜMÜNE MUKABELE EKLENMISTIR=. *.m3u
----------HAYIRLI RAMAZANLAR---------. *.m3u
+------------------HAYIRLI RAMAZANLAR---------. *.m3u
 ==================================================. *.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
@@ -39,7 +39,7 @@ FiLTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/424.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-2-KANAL D HD * http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 1-TV8 * http://185.56.28.73/live/tv8.m3u8?
 2-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
