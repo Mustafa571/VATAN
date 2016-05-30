@@ -63,8 +63,9 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 2-FOX HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
 1-NTV SPOR HD * http://live01.tvnet.doracdn.com/live/smil:ntvspor.smil/playlist.m3u8
 2-NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
-1-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
-2-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
+1-NTV * http://185.56.28.73/live/ntv.m3u8
+2-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
+3-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 1-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
