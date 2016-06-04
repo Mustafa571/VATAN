@@ -71,19 +71,27 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
+BJK TV * http://stream-08.vty.dailymotion.com/01/dm/1/x31omum/live.isml/events(live-1464909096)/live-audio=128000-video=2000000.m3u8
+GS TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/818.ts
+FB TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/820.ts
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENIZLI TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8
+1-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w1808595127.m3u8
+2-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8
+TEK RUMELI * http://yayin3.canlitv.com:1935/live/tekrumelitv/chunklist_w1318252361.m3u8
 RUMELI TV * http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
+YASIN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
+NUR TV * http://37.75.10.20/nurtv/nurtv/chunklist.m3u8
 KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 PLANET_TURK  * http://77.223.146.117:1935/live/planett/sansar.m3u8
-POWER TV * http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+1-POWER TV HD * http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w873208706_b1296000.m3u8
+2-POWER TV * http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
