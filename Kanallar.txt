@@ -35,6 +35,7 @@ FiLTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/424.ts
 3-ATV * http://yayin7.canlitvlive.tv/atv/live.m3u8?tkn=IRvgYj7DWNAxZKbALeRRew&tms=1465161332
 4-ATV * http://yayin7.canlitvlive.tv/atv/live.m3u8?tkn=BPfypxgLp62d2Fis1x4hQw&tms=1465161421
 5-ATV * http://yayin7.canlitvlive.tv/atv/live.m3u8?tkn=FfcGutc0WSOM7thJi-ATCA&tms=1465161492
+6-ATV * http://yayin8.canlitv.com:1935/live/atv/chunklist_w1996805355.m3u8?hash=bd4aa8ebdfa16986a0cdbd2f2dc16bbd
 1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 2-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
