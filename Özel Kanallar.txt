@@ -2,33 +2,6 @@ Açılması biraz sürebilir. *.m3u
 ============================. *.m3u
 Çağrı (İslamiyetin Doğuşu) izle * http://www.playbek.net/media/videos/somehiddenflvpath/15862.mp4
 Ilahi-Hoşgeldin Şehri Ramazan * http://www.ilahimerkezi.com/cdn/ip1/erkanmutlu/gonul-dili-2/sehr-i-ramazan.mp3
-Hüdayi Yolu (Aziz Mahmud Hüdayi) * http://www.dinimizislam.com/video/Video/Aziz_Mahmud_Hudayi_Hz_Hudayi_Yolu.flv
-Huzura Giden Yol (Fudayl bin Iyad) * http://www.dinimizislam.com/video/Video/Fudayl_bin_Iyad_Hz_Huzura_Giden_Yol.flv
-Yeşeren Asma (Beşiktaşlı Yahya Efendi) * http://www.dinimizislam.com/video/Video/Besiktasli_Yahya_Efendi_Yeseren_Asma.flv
-Öpülecek Eller (İsmail Fakirullah) * http://www.dinimizislam.com/video/Video/Ismail_Fakirullah_Hz_Opulecek_Eller.flv
-Hasat (Hacı Bayram-ı Veli) * http://www.dinimizislam.com/video/Video/Haci_Bayrami_Veli_Hz_Hasat.flv
-Beyaz Gece (Mehmed Emin Tokadi) * http://www.dinimizislam.com/video/Video/Mehmet_Emin_Tokadi_Hz_Beyaz_Gece.flv
-Can Perdesi (Ahmed Bedevi) * http://www.dinimizislam.com/video/Video/Ahmed_Bedevi_Hz_Can_Perdesi.flv
-İlahi Aşk (İbrahim bin Edhem) * http://www.dinimizislam.com/video/Video/Ibrahim_bin_Ethem_Hz_Ilahi_Ask.flv
-Behlül-i Dânâ hazretleri * http://www.dinimizislam.com/video/Video/Behluli_Daha_Hz.flv
-Maruf-i Kerhi hazretleri (Ateşin Teslim Olduğu Gün) * http://www.dinimizislam.com/video/Video/Marufi_Kerhi_Hz_Atesin_Teslim_Oldugu_Gun.flv
-Uzun Gece (Eshab-ı Kehf) * http://www.dinimizislam.com/video/Video/Eshabi_Kehf_Uzun_Gece.flv
-Kaside-i Bürde Şairi (Kaab bin Züheyr) * http://www.dinimizislam.com/video/Video/Kaab_bin_Zuheyr_Hz_Kasidei_Burde_Sairi.flv
-Issız Kule (Habbabe Hatun) * http://www.dinimizislam.com/video/Video/Habbabe_Hatun_Issiz_Kule.flv
-Büyük Mükafat (Molla Hüsrev) * http://www.dinimizislam.com/video/Video/Molla_Husrev_Hz_Buyuk_Mukafat.flv
-İftira (Hasan Sezai) * http://www.dinimizislam.com/video/Video/Hasan_Sezai_Hz_Iftira.flv
-Batmayan Güneş (Abdülkadir-i Geylani) * http://www.dinimizislam.com/video/Video/Abdulkadir_Geylani_Hz_Batmayan_Gunes.flv
-Bir Zamanlar Sarhoştu (Bişr-i Hafi) * http://www.dinimizislam.com/video/Video/Bisri_Hafi_Hz_Bir_Zamanlar_Sarhostu.flv
-Uyanış (Davud-i Tai) * http://www.dinimizislam.com/video/Video/Davudi_Tai_Hz_Uyanis.flv
-Gayret (Ebül Vefa) * http://www.dinimizislam.com/video/Video/Ebul_Vefa_Hz_Gayret.flv
-Suikast (Harrani hazretleri) * http://www.dinimizislam.com/video/Video/Harrani_Hz_Suikast.flv
-Veliler Serdarı (Hasan-ı Basri) * http://www.dinimizislam.com/video/Video/Hasani_Basri_Hz_Veliler_Serdari.flv
-Sonsuzluğun İki Yakası (Veysel Karani) * http://www.dinimizislam.com/video/Video/Veysel_Karani_Hz_Sonsuzlugun_Iki_Yakasi.flv
-Arayış (Abdullah Tercüman) * http://www.dinimizislam.com/video/Video/Abdullahi_Terc%FCman_Hz_Arayis.flv
-Alaaddin-i Attar hazretleri * http://www.dinimizislam.com/video/Video/Alaaddini_Attar_Hz.flv
-Toprağın Oğlu (Ebu Turab) * http://www.dinimizislam.com/video/Video/Ebu_Turab_Hz_Topragin_Oglu.flv
-Hazret-i Rabia * http://www.dinimizislam.com/video/Video/Rabia_Hz.flv
-Kalbe Düşen Nur (İbrahim Bin Havvas) * http://www.dinimizislam.com/video/Video/Ibrahim_bin_Havvas_Hz_Kalbe_Dusen_Nur.flv
 ============================. *.m3u
 MUKABELE 1.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz01.avi
 MUKABELE 2.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz02.avi
