@@ -1,5 +1,6 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
-=ÖZEL KANALLAR BÖLÜMÜNE MUKABELE EKLENMISTIR=. *.m3u
+===ÖZEL KANALLAR BÖLÜMÜNE===. *.m3u 
+MUKABELE-ILAHI VE ÇAĞRI FILMI EKLENMIŞTIR. *.m3u
 ------------------HAYIRLI RAMAZANLAR---------. *.m3u
 ==================================================. *.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
