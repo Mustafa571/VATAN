@@ -81,7 +81,6 @@ BJK TV * http://stream-08.vty.dailymotion.com/01/dm/1/x31omum/live.isml/events(l
 GS TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/818.ts
 FB TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/820.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-KUDUS TV  * rtmp://yayin8.canliyayin.org/kudustv//kudustv
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
