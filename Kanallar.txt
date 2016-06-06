@@ -16,11 +16,11 @@ TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 2-TRT BELGESEL HD * http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
 3-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 1-TRT SPOR * http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1427451232.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+AKIT TV  * http://yayin3.canlitv.com:1935/live/akittv/playlist.m3u8
 BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
@@ -32,9 +32,8 @@ FiLTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/424.ts
 2-STAR TV * http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
 3-STAR TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/779.ts
 1-ATV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/757.ts
-2-ATV HD * http://185.56.28.73/live/atv.m3u8 
-3-ATV HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/1.ts
-4-ATV HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/95.ts
+2-ATV HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/1.ts
+3-ATV HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/95.ts
 1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 2-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -49,6 +48,10 @@ ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 KABE TV * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE TV * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+HALK TV  * http://yayin3.canlitv.com:1935/live/halktv/playlist.m3u8
+ULUSAL KANAL * rtmp://184.173.181.2/8132//8132
+BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
+KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
@@ -77,6 +80,9 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 BJK TV * http://stream-08.vty.dailymotion.com/01/dm/1/x31omum/live.isml/events(live-1464909096)/live-audio=128000-video=2000000.m3u8
 GS TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/818.ts
 FB TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/820.ts
+BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+KUDUS TV  * rtmp://yayin8.canliyayin.org/kudustv//kudustv
+DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
