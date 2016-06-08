@@ -106,7 +106,6 @@ BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 PLANET TURK  * http://77.223.146.117:1935/live/planett/sansar.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
-NRT 2 * http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
 RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
 RTL2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/127.ts
 PRO7 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/124.ts
