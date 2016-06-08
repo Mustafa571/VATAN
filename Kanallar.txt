@@ -90,7 +90,6 @@ DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 HISTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 KAYSERI TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
 SAMANYOLU AVRUPA TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/433.ts
-TEMPO TV * rtmp://91.93.118.165/tempotv/livestream
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENIZLI TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 1-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w1808595127.m3u8
