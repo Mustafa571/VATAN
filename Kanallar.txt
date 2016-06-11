@@ -1,9 +1,8 @@
 Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
-===ÖZEL KANALLAR BÖLÜMÜNE===. *.m3u 
-MUKABELE-ILAHI VE ÇAĞRI FILMI EKLENMIŞTIR. *.m3u
-------------------HAYIRLI RAMAZANLAR---------. *.m3u
-ÖZEL KANALLAR BÖLÜMÜNE(LigTv.1.2.3+Tivibu.1.2)kısa süreliğine eklendi. *.m3u
-==================================================. *.m3u
+========ÖZEL KANALLAR BÖLÜMÜNE=======. *.m3u 
+(LigTV.1.2.3+Tivibu.1.2)kısa süreliğine eklendi. *.m3u
+MUKABELE-iLAHiLER-EVLiYALAR-FiLMLER-ALMAN KA. eklendi. *.m3u
+==================================================.*.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT 1 HD * http://www.iptvsaga.com/play/tv3/0030.m3u8
