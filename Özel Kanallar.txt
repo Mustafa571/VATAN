@@ -4,7 +4,7 @@ Lig TV 1 SD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
 Lig TV 2 SD * http://okayahmetbilisim.mine.nu:8000/live/acintde03/8zhoXtbx3G/55.ts
 Lig TV 3 SD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/3.ts
 TIVIBU SPOR 1 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/186.ts
-TIVIBU SPOR 2 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/187.ts
+TIVIBU SPOR 2 HD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/430.ts
 =======================================================. *.m3u
 Çağrı (İslamiyetin Doğuşu) izle * http://www.playbek.net/media/videos/somehiddenflvpath/15862.mp4
 Erzurumlu Ibrahim Hakki Hazretleri * http://www.playbek.net:81/video/5e6372ee8aa30c544057c87a4bd51b38/575b2449/somehiddenflvpath/16957.mp4?start=0
