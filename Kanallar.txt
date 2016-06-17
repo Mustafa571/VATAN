@@ -20,6 +20,11 @@ TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 3-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
+Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trtspor/live_hd/trtspor_hi/chunks.m3u8?nimblesessionid=82672046&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6MzM6MTcgUE0maGFzaF92YWx1ZT1SNGpUekc2U1psTk44L0hneENWOUp3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
+Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trtspor/live_hd/trtspor_hi/chunks.m3u8?nimblesessionid=82684471&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6NDk6NDggUE0maGFzaF92YWx1ZT0yWUhUTFlSTUppL0ZJTStwSW9OekpBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
+Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trtspor/live_hd/trtspor_mid/chunks.m3u8?nimblesessionid=82672046&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6MzM6MTcgUE0maGFzaF92YWx1ZT1SNGpUekc2U1psTk44L0hneENWOUp3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
+Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trtspor/live_hd/trtspor_mid/chunks.m3u8?nimblesessionid=82684471&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6NDk6NDggUE0maGFzaF92YWx1ZT0yWUhUTFlSTUppL0ZJTStwSW9OekpBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
+Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trtspor/live_hd/trtspor_low/chunks.m3u8?nimblesessionid=82684471&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDU6NDk6NDggUE0maGFzaF92YWx1ZT0yWUhUTFlSTUppL0ZJTStwSW9OekpBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
 1-TRT SPOR * http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1427451232.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
