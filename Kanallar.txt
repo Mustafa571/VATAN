@@ -28,6 +28,7 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 AKIT TV  * http://yayin3.canlitv.com:1935/live/akittv/playlist.m3u8
 1-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 2-BEYAZ TV * http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+3-Beyaz TV * http://38.117.88.253:7777/BeyazTV_HD.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
@@ -50,6 +51,8 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-TV8 HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/767.ts
 2-TV8 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/57.ts
 3-TV8 * http://xxx2015.mine.nu:8000/enverabi/enverabi/9.ch
+4-TV8 * http://38.117.88.253:7777/TV8_HD.m3u8
+TGRT HABER * http://38.117.88.253:7777/TGRTHaber_HD.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LIVE * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE LIVE * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
@@ -63,7 +66,7 @@ KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-TV NET * http://live01.tvnet.doracdn.com/live/smil:tvnet.smil/chunklist_b850000.m3u8
-2-TV NET * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/235.ts
+2-TV NET * http://38.117.88.253:7777/TVNet_HD.m3u8
 1-A HABER HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/43.ts
 2-A HABER HD * http://gold.sarimedia.tv:8000/live/colmar/colmar/52.ts
 1-KANAL 7 HD * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/228.ts
@@ -73,11 +76,11 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 2-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 1-FOX HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/209.ts
-2-FOX HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/11.ts
+2-FOX HD * http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
 3-FOX HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/42.ts
 4-FOX HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/778.ts
 1-NTV SPOR HD * http://live01.tvnet.doracdn.com/live/smil:ntvspor.smil/playlist.m3u8
-2-NTV SPOR HD * http://okayahmetbilisim.mine.nu:8000/live/kemal01/gcJBFqrLCW/2.ts
+2-NTV SPOR HD * http://38.117.88.253:7777/NTVSpor_HD.m3u8
 1-NTV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/777.ts
 2-NTV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/16.ts
 3-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
@@ -97,11 +100,13 @@ DENIZLI TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w15623736
 1-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w1808595127.m3u8
 2-OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8
 FLASH TV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/52.ts
-RUMELI TV * http://yayin3.canlitv.com:1935/live/rumelitv/playlist.m3u8
+RUMELI TV * http://38.117.88.253:7777/Rumeli_HD.m3u8
 MEDINE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 YASIN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
 NUR TV * http://37.75.10.20/nurtv/nurtv/chunklist.m3u8
-KRAL TV * http://okayahmetbilisim.mine.nu:8000/live/bulent011/yd3NYfqDkh/233.ts
+KRAL TV * http://38.117.88.253:7777/KralTV_HD.m3u8
+KRAL POP * http://38.117.88.253:7777/KralPopTV_HD.m3u8
+TMB * http://38.117.88.253:7777/TMB_HD.m3u8
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
