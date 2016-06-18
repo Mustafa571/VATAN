@@ -6,6 +6,8 @@ MUKABELE-iLAHiLER-EVLiYALAR-FiLMLER-ALMAN KA. eklendi. *.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT 1 HD * http://www.iptvsaga.com/play/tv3/0030.m3u8
+4-TRT 1 * http://149.255.152.110/trt1/index.m3u8
+5-TRT 1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
@@ -20,11 +22,6 @@ TRT MÜZIK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 3-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
-Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trt-hd/live_hd/trthd_hi/chunks.m3u8?nimblesessionid=82695179&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDY6MDM6MzUgUE0maGFzaF92YWx1ZT1hWC9YTVNncTB2cTFGa0RMbzJ4Z2dnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
-Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trt-hd/live_hd/trthd_mid/chunks.m3u8?nimblesessionid=82695179&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDY6MDM6MzUgUE0maGFzaF92YWx1ZT1hWC9YTVNncTB2cTFGa0RMbzJ4Z2dnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
-Ispanya-Türkiye * http://178.162.205.72:8081/live_hd/trt-hd/live_hd/trthd_low/chunks.m3u8?nimblesessionid=82695179&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE2IDY6MDM6MzUgUE0maGFzaF92YWx1ZT1hWC9YTVNncTB2cTFGa0RMbzJ4Z2dnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI0OS4yNDE=
-Ispanya-Türkiye * http://149.255.152.110/trt1/index.m3u8
-Ispanya-Türkiye * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 1-TRT SPOR * http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1427451232.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
