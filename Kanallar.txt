@@ -29,7 +29,7 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 AKIT TV  * http://yayin3.canlitv.com:1935/live/akittv/playlist.m3u8
 1-BEYAZ TV HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/758.ts
 2-BEYAZ TV * http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-3-Beyaz TV * http://38.117.88.253:7777/BeyazTV_HD.m3u8
+3-BEYAZ TV * http://38.117.88.253:7777/BeyazTV_HD.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-HABERTÜRK * http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
@@ -55,7 +55,7 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 4-TV8 * http://38.117.88.253:7777/TV8_HD.m3u8
 TGRT HABER * http://38.117.88.253:7777/TGRTHaber_HD.m3u8
 TGRT BELGESEL * http://38.117.88.253:7777/TGRTBelgesel_HD.m3u8
-Meltem TV * http://38.117.88.253:7777/MeltemTV_HD.m3u8
+MELTEM TV * http://38.117.88.253:7777/MeltemTV_HD.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LIVE * rtmp://livetr.gostream.nl:80/mekke//mekke
 MEDINE LIVE * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
@@ -92,7 +92,7 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-IDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
-BJK TV * http://stream-08.vty.dailymotion.com/01/dm/1/x31omum/live.isml/events(live-1464909096)/live-audio=128000-video=2000000.m3u8
+BJK TV * http://stream-05.vty.dailymotion.com/33/dm/1/x31omum/live.isml/events(live-1466263553)/live-audio=128000-video=2000000.m3u8
 GS TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/818.ts
 FB TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/820.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
