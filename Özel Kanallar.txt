@@ -1,13 +1,6 @@
 Açılması biraz sürebilir. *.m3u
 ================ SPOR ==================. *.m3u
-Lig TV 1 SD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/1.ts
-Lig TV 2 SD * http://okayahmetbilisim.mine.nu:8000/live/acintde03/8zhoXtbx3G/55.ts
-Lig TV 3 SD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/3.ts
-TIVIBU SPOR 1 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/186.ts
-TIVIBU SPOR 2 HD * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/430.ts
-SKY BUNDESLIGA 1 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/113.ts
-SKY SPORT 1 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/101.ts
-SKY SPORT 2 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/102.ts
+TEST (SPOR) yayınları bitmiştir !!!. *.m3u
 ================ EVLIYALAR SERİSİ =========. *.m3u
 Çağrı (İslamiyetin Doğuşu) izle * http://www.playbek.net/media/videos/somehiddenflvpath/15862.mp4
 Erzurumlu Ibrahim Hakki Hz. * http://videoara.net/download/EAf5hiR2-CU/18/Erzurumlu_Ibrahim_Hakki_Hazretleri.mp4
