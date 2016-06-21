@@ -71,7 +71,8 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 2-A HABER HD * http://gold.sarimedia.tv:8000/live/colmar/colmar/52.ts
 3-A HABER HD * http://38.117.88.253:7777/AHaber_HD.m3u8
 1-KANAL 7 HD * http://38.117.88.253:7777/Kanal7_HD.m3u8
-2-KANAL 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
+2-KANAL 7 HD * http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+3-KANAL 7 * http://www.iptvsaga.com/play/tv3/0043.m3u8
 1-ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 2-ÜLKE TV HD * http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
 1-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
