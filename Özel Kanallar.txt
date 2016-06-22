@@ -1,6 +1,22 @@
 Açılması biraz sürebilir. *.m3u
-================ SPOR ==================. *.m3u
-TEST (SPOR) yayınları bitmiştir !!!. *.m3u
+====== TEST==== 5 GÜN ===== TEST =====. *.m3u
+SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/719.ts
+FILM CINEMA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/212.ts
+FILM ACTION (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/273.ts
+FILM HITS (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/274.ts
+FILM COMEDY (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/211.ts
+Film Star (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/275.ts
+Film Select News (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1206.ts
+Film Select 1 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/276.ts
+Film Select 2 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/639.ts
+Film Select 3 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/640.ts
+Film Select 4 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1202.ts
+Film Select 5 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1203.ts
+Film Select 6 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1204.ts
+Film Select 7 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1205.ts
+Film Select 8 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1207.ts
+Film Select 9 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1208.ts
+Film Select 10 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1209.ts
 ================ EVLIYALAR SERİSİ =========. *.m3u
 Çağrı (İslamiyetin Doğuşu) izle * http://www.playbek.net/media/videos/somehiddenflvpath/15862.mp4
 Erzurumlu Ibrahim Hakki Hz. * http://videoara.net/download/EAf5hiR2-CU/18/Erzurumlu_Ibrahim_Hakki_Hazretleri.mp4
