@@ -1,5 +1,5 @@
-Açılması biraz sürebilir. *.m3u
-[COLOR YELLOW]iYi SEYiRLER-SADECE SiZE ÖZEL-MUSTAFA[/COLOR]. *.m3u 
+=[COLOR red]Açılması biraz sürebilir[/COLOR]= *.m3u
+=[COLOR yellow]iYi SEYiRLER-SADECE SiZE ÖZEL-MUSTAFA[/COLOR]= *.m3u 
 ====== TEST==== 5 GÜN ===== TEST =====. *.m3u
 LIGTV * http://136.243.178.167:1935/live/hdiptvcccam.com/playlist.m3u8?wowzasessionid=1641332968
 SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/719.ts
