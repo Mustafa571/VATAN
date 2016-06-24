@@ -19,7 +19,7 @@ Film Select 7 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1205.ts
 Film Select 8 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1207.ts
 Film Select 9 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1208.ts
 Film Select 10 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1209.ts
-================ EVLIYALAR SERİSİ =========. *.m3u
+=====[COLOR red]EVLIYALAR SERİSİ[/COLOR]====. *.m3u
 Çağrı (İslamiyetin Doğuşu) izle * http://www.playbek.net/media/videos/somehiddenflvpath/15862.mp4
 Erzurumlu Ibrahim Hakki Hz. * http://videoara.net/download/EAf5hiR2-CU/18/Erzurumlu_Ibrahim_Hakki_Hazretleri.mp4
 Veysel Karani Hz. * http://videoara.net/download/LLupbNvPKTE/18/Veysel_Karani_-_Filmin_Tumunu_Izle.mp4
