@@ -98,20 +98,31 @@ HATIM DUASI * http://proxy-069.dc3.dailymotion.com/sec(ab7cff8c472b5d68a87239b8b
 =======[COLOR red]ALMAN KANALLARI[/COLOR]=======. *.m3u
 ARD * http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
 ZDF * http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
+TAGESSCHAU 24 * http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
 PRO7 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/153.ts
 VOX * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/157.ts
 RTL * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/155.ts
 RTL2 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/156.ts
+MDR * http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
+SR * http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+N24 * http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+NDR * http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+SWR * http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+WDR * http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+BR * http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+ARD-Alpha * http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 RTL NITRO * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/128.ts
 KABEL EINS * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/119.ts
 EUROSPORT * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/118.ts
 DMAX * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/117.ts
-ARTE * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/114.ts
+ARTE * htt://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
 3 SAT * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/112.ts
 3 PLUS * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/134.ts
+ORF2 * http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+SERVUS TV * http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 SF 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/242.ts
 SF 2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/243.ts
-KIKA * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/120.ts
+KIKA * http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
 SUPER RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/129.ts
 NICKELEDEON * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/131.ts
