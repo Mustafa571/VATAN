@@ -96,7 +96,7 @@ MUKABELE 30.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/c
 HATIM DUASI * http://proxy-069.dc3.dailymotion.com/sec(ab7cff8c472b5d68a87239b8b4901ae6)/video/732/388/177883237_mp4_h264_aac_hq.m3u8
 =======[COLOR red]ALMAN KANALLARI[/COLOR]=======. *.m3u
 ARD * http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
-ZDF * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/154.ts
+ZDF * http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
 SAT 1 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
 PRO7 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/153.ts
 VOX * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/157.ts
