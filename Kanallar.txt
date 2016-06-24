@@ -1,4 +1,4 @@
-Kanalların açılması uzun sürebilir. TEST YAYINIDIR. *.m3u
+=[COLOR red]Kanalların açılması uzun sürebilir.TEST YAYINIDIR[/COLOR]= *.m3u
 ==================================================.*.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
@@ -121,6 +121,3 @@ BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 PLANET TURK  * http://77.223.146.117:1935/live/planett/sansar.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
-RTL * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/126.ts
-RTL2 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/127.ts
-PRO7 * http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/124.ts
