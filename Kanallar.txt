@@ -122,7 +122,7 @@ KRAL TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/810.ts
 KRAL POP * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/810.ts
 ÇAY TV * http://38.117.88.253:7777/CayTV_HD.m3u8
 TMB * http://38.117.88.253:7777/TMB_HD.m3u8
-TEMPO TÜRK HD  * rtmp://91.93.118.165/tempotv/livestream
+TEMPO TÜRK HD * rtmp://91.93.118.165/tempotv/livestream
 TV 100 * http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
 KANAL T * http://38.117.88.253:7777/Kanalt_HD.m3u8
 HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
