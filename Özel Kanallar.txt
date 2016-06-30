@@ -1,8 +1,10 @@
 =[COLOR red]Açılması biraz sürebilir[/COLOR]= *.m3u
 =[COLOR yellow]iYi SEYiRLER-SADECE SiZE ÖZEL-MUSTAFA[/COLOR]= *.m3u 
-====== TEST==== 5 GÜN ===== TEST =====. *.m3u
+====== TEST==== Bayrama kadar uzatıldı ===== TEST =====. *.m3u
 LIGTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
 TiViBU * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/188.ts
+NAT GEO WILD HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/900.ts
+ANIMAL PLANET HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/902.ts
 SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/719.ts
 FILM CINEMA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/212.ts
 FILM ACTION (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/273.ts
