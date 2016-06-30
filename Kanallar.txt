@@ -66,7 +66,7 @@ ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEDINE LİVE * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
 KUDUS TV * rtmp://yayin8.canliyayin.org/kudustv/kudustv
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-KANAL AVRUPA * http://38.117.88.253:7777/KanalAvrupa_HD.m3u8
+KANAL AVRUPA * rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8?
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
