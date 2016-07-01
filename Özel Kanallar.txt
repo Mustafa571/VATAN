@@ -3,8 +3,12 @@
 ====== TEST==== Bayrama kadar uzatıldı ===== TEST =====. *.m3u
 LIGTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
 TiViBU * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/188.ts
-NAT GEO WILD HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/900.ts
-ANIMAL PLANET HD * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/902.ts
+NAT GEO WILD HD (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/900.ts
+ANIMAL PLANET HD (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/902.ts
+BEIN 1 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/49.ts
+BEIN 2 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/47.ts
+BEIN MAX1 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
+BEIN MAX2 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
 SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/719.ts
 FILM CINEMA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/212.ts
 FILM ACTION (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/273.ts
