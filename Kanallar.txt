@@ -92,7 +92,7 @@ TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 2-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
-BJK TV * http://stream-05.vty.dailymotion.com/33/dm/1/x31omum/live.isml/events(live-1466263553)/live-audio=128000-video=2000000.m3u8
+BJK TV * http://stream-13.vty.dailymotion.com/06/dm/1/x31omum/live.isml/events(live-1467238771)/live-audio=128000-video=2000000.m3u8
 GS TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/818.ts
 FB TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/820.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
