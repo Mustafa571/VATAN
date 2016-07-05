@@ -1,7 +1,5 @@
 =[COLOR red]Kanalların açılması uzun sürebilir.TEST YAYINIDIR[/COLOR]= *.m3u
 ===[COLOR orange]RAMAZAN BAYRAMINIZ MÜBAREK OLSUN[/COLOR]=== *.m3u
-Elveda Ya Şehr-i Ramazan (İlahi) * http://mp4down.mobi/converter/download/download.php?id=pn9t5MRr_Sw&title=Elveda%20Ya%20%C5%9Eehr-i%20Ramazan.mp4
-Bayram Namazı Nasıl Kılınır * http://mp4down.mobi/converter/download/download.php?id=Ih4kXaZIJbw&title=Bayram%20Namaz%C4%B1%20Nas%C4%B1l%20K%C4%B1l%C4%B1n%C4%B1r%20-%20Turkiye-Rehberi.Net.mp4
 ==================================================.*.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
