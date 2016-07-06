@@ -1,90 +1,61 @@
 #ALMAN KANALLARI
 #EXTINF:-1,ARD  
 http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ZDF 
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,TAGESSCHAU 24  
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
 #EXTINF:-1,SAT 1 
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/135.ts
-
 #EXTINF:-1,PRO7  
 http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/153.ts
-
 #EXTINF:-1,VOX  
 http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/157.ts
-
 #EXTINF:-1,RTL  
 http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/155.ts
-
 #EXTINF:-1,RTL2  
 http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/156.ts
-
 #EXTINF:-1,MDR  
 http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
-
 #EXTINF:-1,SR  
 http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
-
 #EXTINF:-1,N24  
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
-
 #EXTINF:-1,NDR  
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
-
 #EXTINF:-1,SWR  
 http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
-
 #EXTINF:-1,WDR  
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
-
 #EXTINF:-1,BR  
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-
 #EXTINF:-1,ARD-Alpha  
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-
 #EXTINF:-1,RTL NITRO  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/128.ts
-
 #EXTINF:-1,KABEL EINS  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/119.ts
-
 #EXTINF:-1,EUROSPORT  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/118.ts
-
 #EXTINF:-1,DMAX  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/117.ts
-
 #EXTINF:-1,ARTE  
 htt://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
-3 
-#EXTINF:-1,SAT  
+#EXTINF:-1,SAT 3
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/112.ts
-3 
-#EXTINF:-1,PLUS  
+#EXTINF:-1,PLUS 3 
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/134.ts
-
 #EXTINF:-1,ORF2  
 http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-
 #EXTINF:-1,SERVUS TV  
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-
 #EXTINF:-1,SF 1  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/242.ts
-
 #EXTINF:-1,SF 2  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/243.ts
-
 #EXTINF:-1,KIKA  
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-
 #EXTINF:-1,SUPER RTL  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/129.ts
-
 #EXTINF:-1,NICKELEDEON  
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/131.ts
