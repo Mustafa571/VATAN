@@ -81,6 +81,22 @@ Yürek Dede * http://proxy-013.dc3.dailymotion.com/sec(95bae20d4dcbe32a1ed488e30
 =======[COLOR red]İLAHILER[/COLOR]=======. *.m3u
 ilahi-Ey Allahim Beni Senden Ayirma * http://mp3in.biz/download/Ey%20Allah%C4%B1m%20Beni%20Senden%20Ay%C4%B1rma%20-%20MP3in_Biz.mp3
 Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
+=======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
+DIYANET RADYO * http://diyanet.live.noccdn.net/dvr/diyanetradyo.stream/playlist.m3u8
+KRAL TüRK FM * http://canliradyoyayini.com:3434/
+KRAL POP * http://kralpopwmp.radyotvonline.com/;3162256507203stream.nsv
+MEKKE FM * http://radyodinle.cansuyufm.com:17175/
+ALIAGA RADYO * http://www.radyosahil.com.tr:8000/radyosahil.ogg
+ANTALYA KUMSAL RADYO * http://kumsalradyo.radyoyayini.com:9550/
+GENÇ FM * http://yayin2.yayindakiler.com:4092/
+EFKAR RADYO * http://7889.live.streamtheworld.com/EFKARAAC?uuid=c1e75725-220e-4692-91c5-7e6644bc6b49
+NTV Spor Radyo * http://46.20.3.210:80
+DENİZLİ SES RADYO * http://yayin2.yayindakiler.com:4074/
+HİT FM * http://sunucu.radyodinle.com:2038/
+AKSARAY KRAL FM * http://yayin2.yayindakiler.com:4020/
+KARADENIZIN SESI * http://yayin1.canliyayin.org:8200/;stream.nsv
+KEMENÇE FM * http://dinle.kemencefm.com:6161/
+KARDELEN FM * http://dinle.kardelenfm.com:2000
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
 MUKABELE 1.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz01.avi
 MUKABELE 2.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz02.avi
