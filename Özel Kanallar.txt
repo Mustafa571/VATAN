@@ -84,7 +84,6 @@ Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
 DIYANET RADYO * http://diyanet.live.noccdn.net/dvr/diyanetradyo.stream/playlist.m3u8
 KRAL TüRK FM * http://canliradyoyayini.com:3434/
-KRAL POP * http://kralpopwmp.radyotvonline.com/;3162256507203stream.nsv
 MEKKE FM * http://radyodinle.cansuyufm.com:17175/
 ALIAGA RADYO * http://www.radyosahil.com.tr:8000/radyosahil.ogg
 ANTALYA KUMSAL RADYO * http://kumsalradyo.radyoyayini.com:9550/
@@ -94,7 +93,7 @@ NTV Spor Radyo * http://46.20.3.210:80
 DENİZLİ SES RADYO * http://yayin2.yayindakiler.com:4074/
 HİT FM * http://sunucu.radyodinle.com:2038/
 AKSARAY KRAL FM * http://yayin2.yayindakiler.com:4020/
-KARADENIZIN SESI * http://yayin1.canliyayin.org:8200/;stream.nsv
+KARADENIZIN SESI * http://yayin1.canliyayin.org:8200/
 KEMENÇE FM * http://dinle.kemencefm.com:6161/
 KARDELEN FM * http://dinle.kardelenfm.com:2000
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
