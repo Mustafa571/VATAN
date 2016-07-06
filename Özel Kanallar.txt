@@ -1,6 +1,6 @@
 =[COLOR red]Açılması biraz sürebilir[/COLOR]= *.m3u
 =[COLOR yellow]iYi SEYiRLER-SADECE SiZE ÖZEL-MUSTAFA[/COLOR]= *.m3u 
-====== TEST==== Bayrama kadar uzatıldı ===== TEST =====. *.m3u
+====== TEST====[COLOR green] Bayrama kadar uzatıldı [/COLOR]===== TEST =====. *.m3u
 LIGTV 1 * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/2.ts
 LIGTV 3 * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/3.ts
 SMART SPOR 2 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/11.ts
