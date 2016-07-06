@@ -8,12 +8,7 @@ TiViBU SPOR 1 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/188.ts
 TIVIBU SPOR 2 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/187.ts
 TIVIBU SPOR 3 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/188.ts
 TIVIBU SPOR 4 HD * http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/189.ts
-NAT GEO WILD HD (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/900.ts
-ANIMAL PLANET HD (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/902.ts
-BEIN 1 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/49.ts
-BEIN 2 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/47.ts
-BEIN MAX1 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
-BEIN MAX2 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
+KARIŞIK KANALLAR * https://github.com/Mustafa571/VATAN/edit/master/Karisik.m3u
 SKY - PAKET (DE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
