@@ -115,6 +115,7 @@ MUKABELE 28.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/c
 MUKABELE 29.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz29.avi
 MUKABELE 30.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz30.avi
 HATIM DUASI * http://proxy-069.dc3.dailymotion.com/sec(ab7cff8c472b5d68a87239b8b4901ae6)/video/732/388/177883237_mp4_h264_aac_hq.m3u8
+MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =======[COLOR red]ALMAN KANALLARI[/COLOR]=======. *.m3u
 ARD * http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
 ZDF * http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
