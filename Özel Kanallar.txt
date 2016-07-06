@@ -34,14 +34,8 @@ Film Select 10 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1209.ts
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
-Garip Bir Koleksiyoncu * http://proxy-005.dc3.dailymotion.com/sec(800dfc70ca6524d577a6a8cd9909931e)/video/168/476/213674861_mp4_h264_aac_7.m3u8
-Yalnız Değilsiniz 1 - Dini Film * https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/4365/4/121826453/344755780.mp4?token=577d4d0b_0x13b44344897b06b5ebbb5698e8a5229326413ebe
-Yalnız Değilsiniz 2 - Dini Film * http://videoara.net/download/xjd_Vu3OW3g/18/Sonsuza_Yurumek_Yalniz_Degilsiniz_2.mp4
-Terzi Baba * http://proxy-014.dc3.dailymotion.com/sec(35c954e50ecdc9efb5f986f9434f8c03)/video/835/141/231141538_mp4_h264_aac_ld_1.m3u8
-Emanet-Dini film * http://mp4down.mobi/converter/download/download.php?id=375EaOMqgOo&title=Emanet-Dini%20film%20Ehiwie-samux.com.mp4
-Danimarkalı Gelin (Dini Film) * http://proxy-002.dc3.dailymotion.com/sec(198c2379563cb1dd6790cc787be307dc)/video/262/601/231106262_mp4_h264_aac_ld_1.m3u8
-Yürek Dede * http://proxy-013.dc3.dailymotion.com/sec(95bae20d4dcbe32a1ed488e302d3d9b9)/video/578/947/40749875_mp4_h264_aac_ld.m3u8
-=======[COLOR red]İLAHILER[/COLOR]=======. *.m3u
+DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
+=======[COLOR red]İLAHİLER[/COLOR]=======. *.m3u
 ilahi-Ey Allahim Beni Senden Ayirma * http://mp3in.biz/download/Ey%20Allah%C4%B1m%20Beni%20Senden%20Ay%C4%B1rma%20-%20MP3in_Biz.mp3
 Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
