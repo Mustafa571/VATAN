@@ -82,7 +82,7 @@ Yürek Dede * http://proxy-013.dc3.dailymotion.com/sec(95bae20d4dcbe32a1ed488e30
 ilahi-Ey Allahim Beni Senden Ayirma * http://mp3in.biz/download/Ey%20Allah%C4%B1m%20Beni%20Senden%20Ay%C4%B1rma%20-%20MP3in_Biz.mp3
 Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
-RADYO KANALLARI (DINLE) * 
+RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ra1.m3u
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
 MUKABELE 1.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz01.avi
 MUKABELE 2.Cüz * http://ia802305.us.archive.org/33/items/ilhan-tok-oktakipli/cuz02.avi
