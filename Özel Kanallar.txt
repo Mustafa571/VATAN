@@ -14,23 +14,7 @@ BEIN 1 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/49.ts
 BEIN 2 HD (FRA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/47.ts
 BEIN MAX1 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/14.ts
 BEIN MAX2 (ARA) * http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/15.ts
-SKY BUNDESLIGA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/719.ts
-FILM CINEMA (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/212.ts
-FILM ACTION (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/273.ts
-FILM HITS (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/274.ts
-FILM COMEDY (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/211.ts
-Film Star (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/275.ts
-Film Select News (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1206.ts
-Film Select 1 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/276.ts
-Film Select 2 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/639.ts
-Film Select 3 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/640.ts
-Film Select 4 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1202.ts
-Film Select 5 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1203.ts
-Film Select 6 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1204.ts
-Film Select 7 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1205.ts
-Film Select 8 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1207.ts
-Film Select 9 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1208.ts
-Film Select 10 (DE) * http://kde.ipne.be:80/live/kucukyavuz/bghf39f2j0f/1209.ts
+SKY - PAKET (DE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
