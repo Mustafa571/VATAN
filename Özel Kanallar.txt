@@ -84,6 +84,7 @@ Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
 DIYANET RADYO * http://diyanet.live.noccdn.net/dvr/diyanetradyo.stream/playlist.m3u8
 KRAL TüRK FM * http://canliradyoyayini.com:3434/
+KRAL POP * http://kralpopwmp.radyotvonline.com/;3162256507203stream.m3u
 MEKKE FM * http://radyodinle.cansuyufm.com:17175/
 ALIAGA RADYO * http://www.radyosahil.com.tr:8000/radyosahil.ogg
 ANTALYA KUMSAL RADYO * http://kumsalradyo.radyoyayini.com:9550/
