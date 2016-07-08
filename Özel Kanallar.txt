@@ -1,9 +1,4 @@
 =[COLOR red]Açılması biraz sürebilir[/COLOR]= *.m3u
-=[COLOR yellow]iYi SEYiRLER-SADECE SiZE ÖZEL-MUSTAFA[/COLOR]= *.m3u 
-====== TEST====[COLOR green] Bayrama kadar uzatıldı [/COLOR]===== TEST =====. *.m3u
-SPOR KANALLARI * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
-KARIŞIK KANALLAR * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
-SKY - PAKET (DE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
