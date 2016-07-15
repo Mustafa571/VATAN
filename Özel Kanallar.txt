@@ -1,4 +1,5 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
+ALTTAKİ MAVİ YAZININ ÜSTÜNE BASIN *.m3u
 [COLOR blue]SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER[/COLOR]-[COLOR red]İZLE[/COLOR]- * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
