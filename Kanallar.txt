@@ -95,7 +95,6 @@ DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 HİSTORY (TR) * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/699.ts
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://note4.redtech.tv:80/live/arilar/y7q1y7w29kg/811.ts
-SAMANYOLU TV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/29.ts
 SPORTS TV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/86.ts
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
