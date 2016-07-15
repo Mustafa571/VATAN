@@ -1,6 +1,6 @@
 #[COLOR blue]SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER[/COLOR]
 
-#EXTINF:-1,[COLOR orange]***** TURK SPOR *****[/COLOR]
+#EXTINF:-1,***** [COLOR orange]TURK SPOR[/COLOR] *****
 #EXTINF:-1,TR:LIGTV 1 
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/405.ts
 #EXTINF:-1,TR:LIGTV 2 HD
@@ -18,7 +18,7 @@ http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/698.ts
 #EXTINF:-1,TR:SMARTSPOR 2
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/1404.ts
 
-#EXTINF:-1,[COLOR orange]***** SKY CHANNEL *****[/COLOR]
+#EXTINF:-1,***** [COLOR orange]SKY CHANNEL[/COLOR] *****
 #EXTINF:-1,DE_SKY HISTORY
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/616.ts
 #EXTINF:-1,DE_SKY NAT GEO HD
@@ -60,7 +60,7 @@ http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/476.ts
 #EXTINF:-1,DE_SKY SELECT 7
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/477.ts
 
-#EXTINF:-1,[COLOR orange]***** TURK SINEMA *****[/COLOR]
+#EXTINF:-1,***** [COLOR orange]TURK SINEMA[/COLOR] *****
 #EXTINF:-1,TR_SALON YAYIN AKISI
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/263.ts
 #EXTINF:-1,TR_SALON 1
@@ -158,7 +158,7 @@ http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/264.ts
 #EXTINF:-1,TR_CINEMAX TURK HD
 http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/53.ts
 
-#EXTINF:-1,[COLOR orange]***** TURK DIZI IZLE *****[/COLOR]
+#EXTINF:-1,***** [COLOR orange]TURK DIZI IZLE[/COLOR] *****
 #EXTINF:-1,YUKSEK SOSYETE
 http://androturkstreamingserver.co:8000/movie/emreyazxxveysi85/NJ76Kbsdh6/1495.mkv
 #EXTINF:-1,SAHANE DAMAT
@@ -212,7 +212,7 @@ http://androturkstreamingserver.co:8000/movie/emreyazxxveysi85/NJ76Kbsdh6/1241.m
 #EXTINF:-1,NO 309
 http://androturkstreamingserver.co:8000/movie/emreyazxxveysi85/NJ76Kbsdh6/1238.mkv 
 
-#EXTINF:-1,[COLOR orange]***** TURKISH MOVIE *****[/COLOR]
+#EXTINF:-1,***** [COLOR orange]TURKISH MOVIE[/COLOR] *****
 #EXTINF:-1,KENDINE IYI BAK
 http://androturkstreamingserver.co:8000/movie/emreyazxxveysi85/NJ76Kbsdh6/1707.mkv
 #EXTINF:-1,NADIDE HAYAT 2015
