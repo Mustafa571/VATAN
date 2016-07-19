@@ -28,7 +28,7 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 3-TRT SPOR HD * 
 4-TRT SPOR HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/58.ts
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-1-BEYAZ TV HD * http://151.80.100.126:1923/live/www.ssiptv.net/vipteam.me/10.ts
+1-BEYAZ TV HD * rtmp://37.77.2.234/liveedge/_definst_/BEYAZTVHQ
 2-BEYAZ TV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/35.ts
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
