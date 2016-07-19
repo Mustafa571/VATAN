@@ -55,9 +55,8 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 4-TV8 int HD * http://149.255.152.110/tv8/index.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
-1-MEKKE LİVE * rtmp://livetr.gostream.nl:80/mekke//mekke
-2-MEKKE LİVE * http://livetr.gostream.nl/mekke/mekke/playlist.m3u8
-MEDINE LİVE * http://livetr.gostream.nl/medine/medine/chunklist_w1247083417.m3u8
+MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
+MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 KUDUS TV * rtmp://yayin8.canliyayin.org/kudustv/kudustv
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 KANAL AVRUPA * 
