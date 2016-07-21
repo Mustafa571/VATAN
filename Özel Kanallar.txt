@@ -6,8 +6,11 @@ EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
 DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
 =======[COLOR red]İLAHİLER[/COLOR]=======. *.m3u
-ilahi-Ey Allahim Beni Senden Ayirma * http://mp3in.biz/download/Ey%20Allah%C4%B1m%20Beni%20Senden%20Ay%C4%B1rma%20-%20MP3in_Biz.mp3
+MEHMET ERARABACI Ezan Yarışması Türkiye Finali * http://mp4down.mobi/converter/download/download.php?id=8FC4nX4k_1Y&title=Mehmet%20ERARABACI%20%20%20Ezan%20Yar%C4%B1%C5%9Fmas%C4%B1%20T%C3%BCrkiye%20Finali.mp4
+YA RASULALLAH * http://mp4down.mobi/converter/download/download.php?id=GhBDMUjkMQk&title=MUHTE%C5%9EEM%20%C4%B0LAH%C4%B0.%20YA%20RASULALLAH.mp4
 Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
+Medreseja-Sevdim Seni Mabuduma * http://mp4down.mobi/converter/download/download.php?id=ZJhMWd2rENk&title=SEVDIM%20SENI%20MABUDUMA.mp4
+Mawlaya Albanian Medreseja-Mevlaya * http://mp4down.mobi/converter/download/download.php?id=gz0o-bZba5A&title=Mawlaya%20Albanian%20Medreseja-Mevlaya.mp4
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
 RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ra1.m3u
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
