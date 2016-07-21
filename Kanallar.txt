@@ -1,4 +1,4 @@
-=[COLOR red]Kanalların açılması uzun sürebilir.TEST YAYINIDIR[/COLOR]= *.m3u
+=[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
 ==================================================.*.m3u
 [COLOR orange]SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER[/COLOR] *.m3u
 [COLOR orange]ÖZEL KANALLARA EKLENDİ-TEST AMAÇLI[/COLOR] *.m3u
