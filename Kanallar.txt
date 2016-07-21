@@ -74,6 +74,9 @@ KANAL 7 HD * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/30.ts
 1-NTV * http://149.255.152.110/ntvtr/index.m3u8
 2-NTV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/33.ts
 ÜLKE TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/764.ts
+PLANET MUTFAK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/75.ts
+PLANET PEMBE * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/86.ts
+PLANET COCUK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/733.ts
 1-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
