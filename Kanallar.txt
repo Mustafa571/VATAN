@@ -99,6 +99,7 @@ TEK RUMELİ TV * http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/chunklist_w1
 MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 YASİN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
 KRAL TV * http://proiptv.dnsmas.com:8000/live/ekaya/1bgNJd966y/48.ts
+NR1 TÜRK * http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
 TV 100 * http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
 HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
