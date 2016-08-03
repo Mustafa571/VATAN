@@ -82,7 +82,7 @@ PLANET COCUK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ7
 3-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
 FANATiK TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/425.ts
-BJK TV * http://stream-05.vty.dailymotion.com/33/dm/1/x31omum/live.isml/events(live-1468833644)/live-audio=128000-video=2000000.m3u8
+BJK TV * http://stream-03.vty.dailymotion.com/05/dm/1/x31omum/live.isml/events(live-1469673900)/live-audio=128000-video=2000000.m3u8
 FB TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/367.ts
 GS TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/598.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
