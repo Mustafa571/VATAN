@@ -69,7 +69,7 @@ KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-TV NET * http://yayin7.canlitvlive.tv/tvnet/live.m3u8?tkn=9yNoBm4UE-Ti1BnREDqwaA&tms=1470392342
+TV NET * http://live01.tvnet.doracdn.com/live/smil%3atvnet.smil/chunklist_b850000.m3u8
 1-A HABER HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/639.ts
 2-A HABER HD * http://38.117.88.253:7777/AHaber_HD.m3u8
 KANAL 7 HD * http://yayin8.canlitv.com:1935/live/kanal7/chunklist_w318964239.m3u8?hash=f02f8c5223d96effe2cf5a6c2ef2aca2
@@ -112,7 +112,7 @@ MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 HILAL TV * rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
 YASİN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
 KRAL TV * http://149.255.152.110/kral/index.m3u8
-NR1 TÜRK * http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+NR1 TÜRK * 
 TV 100 * http://livetr.gostream.nl/tv100mobil/smil:tv100mobil/chunklist_w77347002_b1024000.m3u8
 1-HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
 2-HABER 61 TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/971.ts
@@ -121,5 +121,5 @@ DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 TJK TV * http://tjktv.ercdn.net/tjktv_576p.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
-EURONEWS TR * http://yayin7.canlitvlive.tv/euronews/live.m3u8?tkn=Wj7x-encG2UMUm12Ks8LyQ&tms=1470392390
+EURONEWS TR * http://live01.tvnet.doracdn.com/live/smil%3aeuronews.smil/chunklist_b850000.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
