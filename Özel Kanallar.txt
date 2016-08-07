@@ -5,7 +5,7 @@ ALTTAKİ MAVİ YAZININ ÜSTÜNE BASIN *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
 DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
-DİNİ HİKAYELER * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Hikaye.m3u
+DİNİ HİKAYELER * http://biriz.biz/hikaye/
 =======[COLOR red]İLAHİLER[/COLOR]=======. *.m3u
 MEHMET ERARABACI Ezan Yarışması Türkiye Finali * http://mp4down.mobi/converter/download/download.php?id=8FC4nX4k_1Y&title=Mehmet%20ERARABACI%20%20%20Ezan%20Yar%C4%B1%C5%9Fmas%C4%B1%20T%C3%BCrkiye%20Finali.mp4
 YA RASULALLAH * http://mp4down.mobi/converter/download/download.php?id=GhBDMUjkMQk&title=MUHTE%C5%9EEM%20%C4%B0LAH%C4%B0.%20YA%20RASULALLAH.mp4
