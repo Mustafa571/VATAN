@@ -26,8 +26,7 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 4-TRT SPOR * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/55.ts
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-1-BEYAZ TV HD * rtmp://37.77.2.234/liveedge/_definst_/BEYAZTVHQ
-2-BEYAZ TV * http://198.16.100.10/2/IpTA6Jbg/36138/zpz9wod/14705/sjmMCpF/beyaztv.m3u8
+BEYAZ TV HD * rtmp://37.77.2.234/liveedge/_definst_/BEYAZTVHQ
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 A SPOR HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/923.ts
@@ -62,19 +61,16 @@ MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_def
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 KUDUS TV * rtmp://yayin8.canliyayin.org/kudustv/kudustv
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8?
+BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-1-TV NET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
-2-TV NET * http://198.16.100.34/2/mClv4Lxw/36259/qkeZjWj/14705/q25qYkM/tvnet.m3u8
-1-A HABER HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/639.ts
-2-A HABER HD * http://38.117.88.253:7777/AHaber_HD.m3u8
-KANAL 7 HD * http://198.16.100.2/2/hYf09YLA/35914/NFl_BcW/14705/2qskNHg/kanal7.m3u8
-BENGÜ TÜRK * http://198.16.100.26/2/P1ZRBuDQ/36076/WYyWgw8/14705/_kitpvj/benguturk.m3u8
+TV NET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
+A HABER HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/639.ts
+KANAL 7 HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/228.ts
 1-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 2-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 1-FOX HD * http://darking.iptv101.com:8000/live/sgtadb5/f5bsfbbs/27.ts
@@ -88,7 +84,6 @@ BENGÜ TÜRK * http://198.16.100.26/2/P1ZRBuDQ/36076/WYyWgw8/14705/_kitpvj/bengu
 ÜLKE TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/764.ts
 PLANET MUTFAK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/75.ts
 PLANET PEMBE * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/86.ts
-PLANET COCUK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/733.ts
 1-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
@@ -114,7 +109,6 @@ MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 HILAL TV * rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
 YASİN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
 KRAL TV * http://149.255.152.110/kral/index.m3u8
-NR1 TÜRK * 
 TV 100 * http://livetr.gostream.nl/tv100mobil/smil:tv100mobil/chunklist_w77347002_b1024000.m3u8
 1-HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
 2-HABER 61 TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/971.ts
@@ -123,5 +117,4 @@ DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
 BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 TJK TV * http://tjktv.ercdn.net/tjktv_576p.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
-EURONEWS TR * http://198.16.100.10/2/2NbQe5sA/35991/WYdCidc/14705/FLCEu3Y/euronews.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
