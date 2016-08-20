@@ -102,6 +102,7 @@ TEK RUMELİ TV * http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/chunklist_w1
 MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 HILAL TV * rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
 YASİN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
+NUMBER 1 TÜRK * http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
 KRAL TV * http://149.255.152.110/kral/index.m3u8
 TV 100 * http://livetr.gostream.nl/tv100mobil/smil:tv100mobil/chunklist_w77347002_b1024000.m3u8
 1-HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
@@ -112,3 +113,4 @@ BLOOMBERG * http://www.iptvsaga.com/play/tv3/0066.m3u8
 TJK TV * http://tjktv.ercdn.net/tjktv_576p.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
+EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
