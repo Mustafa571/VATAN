@@ -1,15 +1,16 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-ALTTAKİ MAVİ YAZININ ÜSTÜNE BASIN *.m3u
-[COLOR blue]SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER[/COLOR]-[COLOR white]İZLE[/COLOR]- * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+ALTTAKİ [COLOR blue]MAVİ[/COLOR] YAZININ ÜSTÜNE BASIN *.m3u
+[COLOR blue]SPOR LİG-SKY-SİNEMA-DİZİ-FİLMLER[/COLOR]-[COLOR white]İZLE[/COLOR]- * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
 DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
-=======[COLOR red]İLAHİLER[/COLOR]=======. *.m3u
-MEHMET ERARABACI Ezan Yarışması Türkiye Finali * http://mp4down.mobi/converter/download/download.php?id=8FC4nX4k_1Y&title=Mehmet%20ERARABACI%20%20%20Ezan%20Yar%C4%B1%C5%9Fmas%C4%B1%20T%C3%BCrkiye%20Finali.mp4
-Ya Rasulallah-Bachirou Chitou Issa * http://138.201.13.78/dl/s10/fu02A8dJAKjDV3Ddgq9eUg,1471839751/yt:IqAvwvW6vWc-8/Ya%20RASSOULALLAH%20%20%D9%8A%D8%A7%20%D8%B1%D8%B3%D9%88%D9%84%20%D8%A7%D9%84%D9%84%D9%87%20%20%20play%20back%20%D9%83%D8%A7%D8%B1%D8%A7%20%D8%A3%D9%88%D9%83%D9%8A%D9%87%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%AF%20%D8%A8%D8%B4%D9%8A%D8%B1%20%D8%B4%D8%A6%D8%AA%20%D8%B9%D9%8A%D8%B3%D9%89%20bashirshituisayahoo%20com.mp4
+=======[COLOR red]İLAHİLER KARIŞIK[/COLOR]=======. *.m3u
+15 TEMMUZ MARŞI * http://78.47.157.178/dl/s6/1ysbZiljMohQ4RxtHGjGXQ,1471840818/yt:oMnoMKYNIEk-8/%C4%B0%C5%9Fte%2015%20TEMMUZ%20MAR%C5%9EI.mp4
+SAMİ YUSUF-Hasbi Rabbi * http://138.201.13.78/dl/s14/7Lw0zLqIbXssyeqKag1WoA,1471840625/yt:QLPvZ6LordQ-8/Sami%20Yusuf%20-%20Hasbi%20Rabbi%20%28Official%20Video%20HD%29.mp4
+YA RASULALLAH * http://mp4down.mobi/converter/download/download.php?id=GhBDMUjkMQk&title=MUHTE%C5%9EEM%20%C4%B0LAH%C4%B0.%20YA%20RASULALLAH.mp4
 Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
-Medreseja-Sevdim Seni Mabuduma * http://mp4down.mobi/converter/download/download.php?id=ZJhMWd2rENk&title=SEVDIM%20SENI%20MABUDUMA.mp4
+Medreseja-Sevdim Seni Mabuduma * http://convertallvideo.com/index.php?output=yt/ZJhMWd2rENk/128%7e%7e256%7e%7eSEVDIM_SENI_MABUDUMA_uuid-57b9322998b24.mp4
 Mawlaya Albanian Medreseja-Mevlaya * http://proxy-067.dc3.dailymotion.com/sec(ab6355f492484d34cac2d5e386d982c2)/video/245/818/209818542_mp4_h264_aac_1.m3u8
 =======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
 RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ra1.m3u
@@ -17,4 +18,3 @@ RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/mas
 MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =======[COLOR red]ALMAN KANALLARI[/COLOR]=======. *.m3u
 ALMAN KANALLARI-PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
-t * http://www.srv39.youtubeinmp4.com/download.php?r=LYJbgXHAhtxNHrCZZAMSB93UkMUnijcbqUFpWd7p%2FBNQPR7%2B96fjBgz%2Fvq9ExIytg20IRsAll9sgzq3vMwlA5DIDK5DzfOCGV7TeJCWhIlZevJMA5I7LzT%2BhkcUfrO%2B38pJ02W%2BaxLZTUqC0iMhwLSP7Vqnz6KraFkzGkpLwm9g%3D
