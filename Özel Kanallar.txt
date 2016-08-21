@@ -5,7 +5,7 @@ ALTTAKİ [COLOR blue]MAVİ[/COLOR] YAZININ ÜSTÜNE BASIN *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
 DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
-=======[COLOR red]İLAHİLER KARIŞIK[/COLOR]=======. *.m3u
+=======[COLOR red]İLAHİLER VE KARIŞIK-MP4[/COLOR]=======. *.m3u
 15 TEMMUZ MARŞI * http://convertallvideo.com/index.php?output=yt/oMnoMKYNIEk/128%7e%7e256%7e%7e%C4%B0%C5%9Fte_15_TEMMUZ_MAR%C5%9EI_uuid-57b93b8153b16.mp4
 SAMİ YUSUF-Hasbi Rabbi * http://138.201.13.78/dl/s14/7Lw0zLqIbXssyeqKag1WoA,1471840625/yt:QLPvZ6LordQ-8/Sami%20Yusuf%20-%20Hasbi%20Rabbi%20%28Official%20Video%20HD%29.mp4
 YA RASULALLAH-Bachirou Chitou Issa * http://convertallvideo.com/index.php?output=yt/wFZk2T57BZU/128%7e%7e256%7e%7eya_resulallah_uuid-57b93b2851bb0.mp4
