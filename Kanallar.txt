@@ -48,6 +48,7 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-TV8 HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/408.ts
 2-TV8 int HD * http://149.255.152.110/tv8/index.m3u8
 TGRT HABER * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/731.ts
+TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 SKYTURK 360 * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/77.ts
 FİL TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/424.ts
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
