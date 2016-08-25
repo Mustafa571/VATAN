@@ -32,12 +32,12 @@ A SPOR HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kb
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
-1-STAR TV HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/547.ts
-2-STAR TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/8.ts
+1-STAR TV HD * http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1298.ts
+2-STAR TV * http://yayin8.canlitv.com:1935/live/startv/chunklist_w1740208175.m3u8?hash=6c278e0d47677753ce40577999122f4f
 3-STAR TV * http://149.255.152.110/startv/index.m3u8
 4-EURO STAR * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/640.ts
-1-ATV HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/552.ts
-2-ATV HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/799.ts
+1-ATV HD * http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1299.ts
+2-ATV HD * http://yayin8.canlitv.com:1935/live/atv/chunklist_w1874532793.m3u8?hash=6c278e0d47677753ce40577999122f4f
 1-SHOW TV HD * http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 2-SHOW TV * http://mn-l.mncdn.com/showtv/showtv2/chunklist_w732637897.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE2IDQ6MzU6MTMgQU0maGFzaF92YWx1ZT0rRzYyOFFMQU9DVXJlSExyUnorZVdRPT0mdmFsaWRtaW51dGVzPTU%3D
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -66,18 +66,18 @@ KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 TV NET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 A HABER HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/639.ts
-KANAL 7 HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/228.ts
+KANAL 7 HD * http://yayin8.canlitv.com:1935/live/kanal7/chunklist_w1778207773.m3u8?hash=6c278e0d47677753ce40577999122f4f
 1-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 2-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-1-FOX HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/11.ts
+1-FOX HD * http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1297.ts
 2-FOX HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/548.ts
 1-NTV SPOR HD * http://149.255.152.110/ntvspor/index.m3u8
 2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 3-NTV SPOR HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/922.ts
-1-NTV HD * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/16.ts
+1-NTV HD * http://live2.cdn.web.tv/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8?ttl=1472121060&sign=NHu-sOO6DgQbY05CA5r5sw&r=playlist
 2-NTV HD * http://149.255.152.110/ntvtr/index.m3u8
 3-NTV AVRUPA * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/1492.ts
-ÜLKE TV * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/764.ts
+ÜLKE TV * https://r17---sn-4g57knsy.googlevideo.com/videoplayback/id/QGa664kF-hM.139/itag/136/source/yt_live_broadcast/requiressl/yes/playlist_type/LIVE/gcr/de/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/sver/3/fexp/9419452,9422596,9428398,9431012,9433096,9433204,9433221,9433946,9435526,9438327,9438662,9439580,9439819,9442425,9442426,9442596,9444343,9444505,9444725,9444963,9445179,9445664/signature/217C39B3D3981B28F0054770568446E5B8B0D9EE.764AE47A05587E72BD36970915BB50432A76C929/upn/YFQRH82CrJw/key/cms1/cpn/EpFXlkpIWvDFuRiR/mpd_version/4/pacing/0/ip/79.237.173.151/ipbits/0/expire/1472131792/sparams/cmbypass,expire,gcr,gir,hcs,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,nh,pl,playlist_type,ratebypass,requiressl,shardbypass,smhost,source/hcs/yes/mm/32/mn/sn-4g57knsy/ms/lv/mt/1472109798/mv/u/nh/IgpwZjAxLmZyYTE2Kgo2Mi42Ny4zMy45/pl/22/shardbypass/yes/smhost/r6---sn-4g5e6nez.googlevideo.com/
 PLANET MUTFAK * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/75.ts
 PLANET PEMBE * http://androturkstreamingserver.co:8000/live/emreyazxxveysi85/NJ76Kbsdh6/86.ts
 1-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
