@@ -57,7 +57,6 @@ KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-A HABER HD * 
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 1-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 2-YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
@@ -65,8 +64,7 @@ FOX * http://149.255.152.110/foxturk/index.m3u8
 1-NTV SPOR HD * http://149.255.152.110/ntvspor/index.m3u8
 2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 3-NTV SPOR HD * http://149.255.152.110/ntvspor/index.m3u8
-1-NTV HD * 
-2-NTV HD * http://149.255.152.110/ntvtr/index.m3u8
+NTV HD * http://149.255.152.110/ntvtr/index.m3u8
 1-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 2-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_2_av-b.m3u8?sd=10&rebase=on
 3-İDMAN TV HD * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_3_av-b.m3u8?sd=10&rebase=on
