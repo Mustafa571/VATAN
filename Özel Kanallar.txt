@@ -1,6 +1,6 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 ALTTAKİ [COLOR blue]MAVİ[/COLOR] YAZININ ÜSTÜNE BASIN *.m3u
-[COLOR blue]SPOR LİG-SKY-SİNEMA-DİZİ-FİLMLER[/COLOR]-[COLOR white]İZLE[/COLOR]- * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+[COLOR red]TEST[/COLOR]-[COLOR blue]-LIG-TIVIBU-ULUSAL V.S [/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
