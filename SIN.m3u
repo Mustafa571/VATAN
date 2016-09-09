@@ -1,107 +1,316 @@
 #SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER
 
-============ TURK SPOR ============
-#EXTINF:-1,LIG TV 1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1065.ts
-#EXTINF:-1,LIG TV 2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1066.ts
-#EXTINF:-1,LIG TV  3
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1067.ts
-#EXTINF:-1,Salon1(D)*
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1287.ts
-#EXTINF:-1,Salon2(D)*
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1284.ts
-#EXTINF:-1,Salon3(D)*
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1293.ts
-#EXTINF:-1,SINEMA1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1288.ts
-#EXTINF:-1,SINEMA2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1289.ts
+============ KARISIK KANALLAR ============
+#EXTINF:-1,Lig TV 1
+http://htq.qhdtv.tn/iptv/ch1353?code=170004082234535
+#EXTINF:-1,Lig Tv 2
+http://htq.qhdtv.tn/iptv/ch2355?code=170004082234535
+#EXTINF:-1,Lig Tv 3
+http://htq.qhdtv.tn/iptv/ch2356?code=170004082234535
+#EXTINF:-1,Tivibu Sport 1
+http://htq.qhdtv.tn/iptv/ch2361?code=170004082234535
+#EXTINF:-1,Tivibu Sport 2
+http://htq.qhdtv.tn/iptv/ch2362?code=170004082234535
+#EXTINF:-1,Smart Sport 1
+http://htq.qhdtv.tn/iptv/ch1355?code=170004082234535
+#EXTINF:-1,Smart Sport 2
+http://htq.qhdtv.tn/iptv/ch1356?code=170004082234535
+#EXTINF:-1,Discovery Science HD
+http://htq.qhdtv.tn/iptv/ch2342?code=170004082234535
+#EXTINF:-1,Discovery HD TR
+http://htq.qhdtv.tn/iptv/ch2343?code=170004082234535
+#EXTINF:-1,Nat. Geo. HD Tü
+http://htq.qhdtv.tn/iptv/ch2327?code=170004082234535
+#EXTINF:-1,Nat. Geo. Wild TR
+http://htq.qhdtv.tn/iptv/ch2357?code=170004082234535
+#EXTINF:-1,MMX Türk HD
+http://htq.qhdtv.tn/iptv/ch2328?code=170004082234535
+#EXTINF:-1,Sinema TV 2
+http://htq.qhdtv.tn/iptv/ch2312?code=170004082234535
+#EXTINF:-1,Sinema TV
+http://htq.qhdtv.tn/iptv/ch2313?code=170004082234535
+#EXTINF:-1,Turmeneli TV
+http://htq.qhdtv.tn/iptv/ch174?code=170004082234535
+#EXTINF:-1,Turk Mania
+http://htq.qhdtv.tn/iptv/ch835?code=170004082234535
+#EXTINF:-1,TRT Dizi TV Tr
+http://htq.qhdtv.tn/iptv/ch2377?code=170004082234535
+#EXTINF:-1,Tryesil Cam Tr
+http://htq.qhdtv.tn/iptv/ch2378?code=170004082234535
+#EXTINF:-1,Sine Tv TR
+http://htq.qhdtv.tn/iptv/ch2379?code=170004082234535
+#EXTINF:-1,VIP Turk TR
+http://htq.qhdtv.tn/iptv/ch2380?code=170004082234535
+#EXTINF:-1,VIP Yesilcam TR
+http://htq.qhdtv.tn/iptv/ch2381?code=170004082234535
+#EXTINF:-1,VIP Yesilcam 2 TR
+http://htq.qhdtv.tn/iptv/ch2382?code=170004082234535
+#EXTINF:-1,Viasat Nature TR
+http://htq.qhdtv.tn/iptv/ch2383?code=170004082234535
+#EXTINF:-1,Sinema Tvaksiyon_tr
+http://htq.qhdtv.tn/iptv/ch2384?code=170004082234535
+#EXTINF:-1,Movie Smart Prem. TR
+http://htq.qhdtv.tn/iptv/ch2386?code=170004082234535
+#EXTINF:-1,Movie Smart TR
+http://htq.qhdtv.tn/iptv/ch2387?code=170004082234535
+#EXTINF:-1,Movie Smart Prem. 2
+http://htq.qhdtv.tn/iptv/ch2388?code=170004082234535
+#EXTINF:-1,Movie Smart Gold TR
+http://htq.qhdtv.tn/iptv/ch2389?code=170004082234535
+#EXTINF:-1,GS TV TR
+http://htq.qhdtv.tn/iptv/ch2390?code=170004082234535
+#EXTINF:-1,Dizi Premium TR
+http://htq.qhdtv.tn/iptv/ch2391?code=170004082234535
+#EXTINF:-1,BBC Earth TR
+http://htq.qhdtv.tn/iptv/ch2392?code=170004082234535
+#EXTINF:-1,Animal Planet TR
+http://htq.qhdtv.tn/iptv/ch2393?code=170004082234535
+#EXTINF:-1,Sine Tivibu TR
+http://htq.qhdtv.tn/iptv/ch2385?code=170004082234535
+#EXTINF:-1,Salon 1
+http://htq.qhdtv.tn/iptv/ch1350?code=170004082234535
+#EXTINF:-1,Salon 2
+http://htq.qhdtv.tn/iptv/ch1351?code=170004082234535
+#EXTINF:-1,Salon 3
+http://htq.qhdtv.tn/iptv/ch1352?code=170004082234535
+#EXTINF:-1,Loca 1
+http://htq.qhdtv.tn/iptv/ch2358?code=170004082234535
+#EXTINF:-1,Loca 2
+http://htq.qhdtv.tn/iptv/ch2359?code=170004082234535
+#EXTINF:-1,Loca 3
+http://htq.qhdtv.tn/iptv/ch2360?code=170004082234535
 ============ SKY CHANNEL ============
-#EXTINF:-1,EuroSport
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1199.ts
-#EXTINF:-1,Sky Sport HD 1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/383.ts
-#EXTINF:-1,Sky Sport HD 2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/384.ts
-#EXTINF:-1,Sky BundesLiga HD 1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/385.ts
-#EXTINF:-1,Sky Cinema HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/348.ts
-#EXTINF:-1,Sky Cinema 24
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/349.ts
-#EXTINF:-1,Sky Comedy
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/352.ts
-#EXTINF:-1,Sky Nostalgie
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/357.ts
-#EXTINF:-1,Sky Krimi
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/353.ts
-#EXTINF:-1,SkyAtlantic
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/356.ts
-#EXTINF:-1,Sky Action
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/351.ts
-#EXTINF:-1,Sky Hits
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/350.ts
-#EXTINF:-1,Sky Emotion
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/354.ts
-#EXTINF:-1,Sky Kinowelt
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1977.ts
-#EXTINF:-1,Sky Select  HD 1
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/830.ts
-#EXTINF:-1,Sky Select  HD 2
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1070.ts
-#EXTINF:-1,Sky Select  HD 3
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/831.ts
-#EXTINF:-1,Sky Select  HD 4
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/832.ts
-#EXTINF:-1,Sky Select  HD 5
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/833.ts
-#EXTINF:-1,Sky Select  HD 6
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/834.ts
-#EXTINF:-1,Sky Select  HD 7
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1068.ts
-#EXTINF:-1,Sky Select  HD 8
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1069.ts
-#EXTINF:-1,Sky Select HD 9
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1071.ts
-#EXTINF:-1,TNT Film
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1214.ts
-#EXTINF:-1,TNT Comedy
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/376.ts
-#EXTINF:-1,TNT SERIE
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1997.ts
-#EXTINF:-1,13 th Street HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/375.ts
-#EXTINF:-1,de:Fox
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/372.ts
-#EXTINF:-1,Fox Serie
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1978.ts
-#EXTINF:-1,BR HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1984.ts
-#EXTINF:-1,ARTEHD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1981.ts
-#EXTINF:-1,DMAX HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1983.ts
-#EXTINF:-1,RBB HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1982.ts
-#EXTINF:-1,Jukebox
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1980.ts
-#EXTINF:-1,Eins Festival
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1976.ts
-#EXTINF:-1,Goldstar
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1974.ts
-#EXTINF:-1,A&E
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1972.ts
-#EXTINF:-1,CLASSICA
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1973.ts
-#EXTINF:-1,TLC Deutch
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1971.ts
-#EXTINF:-1,E! Entertainment
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1969.ts
-#EXTINF:-1,SyfyHD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/377.ts
-#EXTINF:-1,AxNHD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/374.ts
+#EXTINF:-1,Sky Sportnews DE
+http://htq.qhdtv.tn/iptv/ch1523?code=170004082234535
+#EXTINF:-1,SKY Sport 1 HD DE
+http://htq.qhdtv.tn/iptv/ch405?code=170004082234535
+#EXTINF:-1,Sky Sport 2 HD DE
+http://htq.qhdtv.tn/iptv/ch406?code=170004082234535
+#EXTINF:-1,Sky Bundesliga DE
+http://htq.qhdtv.tn/iptv/ch1521?code=170004082234535
+#EXTINF:-1,Sport1 DE
+http://htq.qhdtv.tn/iptv/ch1520?code=170004082234535
+#EXTINF:-1,EuroSport1 DE
+http://htq.qhdtv.tn/iptv/ch420?code=170004082234535
+#EXTINF:-1,Eurosport2 DE
+http://htq.qhdtv.tn/iptv/ch1519?code=170004082234535
+#EXTINF:-1,SKY ATLANTIC HD DE
+http://htq.qhdtv.tn/iptv/ch402?code=170004082234535
+#EXTINF:-1,SKY CINEMA HD DE
+http://htq.qhdtv.tn/iptv/ch401?code=170004082234535
+#EXTINF:-1,Sky Action DE
+http://htq.qhdtv.tn/iptv/ch411?code=170004082234535
+#EXTINF:-1,Sky Hits DE
+http://htq.qhdtv.tn/iptv/ch1516?code=170004082234535
+#EXTINF:-1,TNT Glitz DE
+http://htq.qhdtv.tn/iptv/ch1522?code=170004082234535
+#EXTINF:-1,TNT Series DE
+http://htq.qhdtv.tn/iptv/ch1518?code=170004082234535
+#EXTINF:-1,MGM DE
+http://htq.qhdtv.tn/iptv/ch1517?code=170004082234535
+#EXTINF:-1,NAT GEO WILD HD
+http://htq.qhdtv.tn/iptv/ch409?code=170004082234535
+#EXTINF:-1,Discovery HD
+http://htq.qhdtv.tn/iptv/ch410?code=170004082234535
+#EXTINF:-1,Nat. Geo DE
+http://htq.qhdtv.tn/iptv/ch408?code=170004082234535
+#EXTINF:-1,Syfy DE
+http://htq.qhdtv.tn/iptv/ch414?code=170004082234535
+#EXTINF:-1,Universal DE
+http://htq.qhdtv.tn/iptv/ch1511?code=170004082234535
+#EXTINF:-1,History DE
+http://htq.qhdtv.tn/iptv/ch1504?code=170004082234535
+#EXTINF:-1,Disney Cinemagic DE
+http://htq.qhdtv.tn/iptv/ch1501?code=170004082234535
+#EXTINF:-1,Disney Channel DE
+http://htq.qhdtv.tn/iptv/ch1500?code=170004082234535
+#EXTINF:-1,Disney Junior DE
+http://htq.qhdtv.tn/iptv/ch404?code=170004082234535
+#EXTINF:-1,KIKA
+http://htq.qhdtv.tn/iptv/ch421?code=170004082234535
+#EXTINF:-1,13 Street DE
+http://htq.qhdtv.tn/iptv/ch1515?code=170004082234535
+#EXTINF:-1,E. DE
+http://htq.qhdtv.tn/iptv/ch1513?code=170004082234535
+#EXTINF:-1,ZDF
+http://htq.qhdtv.tn/iptv/ch416?code=170004082234535
+#EXTINF:-1,ZDF Info
+http://htq.qhdtv.tn/iptv/ch417?code=170004082234535
+#EXTINF:-1,ZDF Kultur
+http://htq.qhdtv.tn/iptv/ch1506?code=170004082234535
+#EXTINF:-1,ZDF Neo
+http://htq.qhdtv.tn/iptv/ch1505?code=170004082234535
+#EXTINF:-1,PRO 7 Fun
+http://htq.qhdtv.tn/iptv/ch1512?code=170004082234535
+#EXTINF:-1,RTL DE
+http://htq.qhdtv.tn/iptv/ch418?code=170004082234535
+#EXTINF:-1,RTL 2
+http://htq.qhdtv.tn/iptv/ch419?code=170004082234535
+#EXTINF:-1,RTL Crime DE
+http://htq.qhdtv.tn/iptv/ch1503?code=170004082234535
+#EXTINF:-1,SAT 1
+http://htq.qhdtv.tn/iptv/ch1507?code=170004082234535
+#EXTINF:-1,Kabel 1
+http://htq.qhdtv.tn/iptv/ch1509?code=170004082234535
+#EXTINF:-1,SIXX
+http://htq.qhdtv.tn/iptv/ch1510?code=170004082234535
+#EXTINF:-1,PRO 7
+http://htq.qhdtv.tn/iptv/ch1508?code=170004082234535
+#EXTINF:-1,NTV DE
+http://htq.qhdtv.tn/iptv/ch1502?code=170004082234535
+#EXTINF:-1,3 Sat
+http://htq.qhdtv.tn/iptv/ch425?code=170004082234535
+#EXTINF:-1,VOX
+http://htq.qhdtv.tn/iptv/ch415?code=170004082234535
+============ ULUSAL KANALLAR =======
+#EXTINF:-1,ATV HD
+http://htq.qhdtv.tn/iptv/ch2349?code=170004082234535
+#EXTINF:-1,Kanal D HD
+http://htq.qhdtv.tn/iptv/ch2333?code=170004082234535
+#EXTINF:-1,Show TV HD
+http://htq.qhdtv.tn/iptv/ch2314?code=170004082234535
+#EXTINF:-1,Star Tv HD
+http://htq.qhdtv.tn/iptv/ch2311?code=170004082234535
+#EXTINF:-1,TV8 Tr
+http://htq.qhdtv.tn/iptv/ch1354?code=170004082234535
+#EXTINF:-1,Fox TV
+http://htq.qhdtv.tn/iptv/ch1376?code=170004082234535
+#EXTINF:-1,CNN Türk HD
+http://htq.qhdtv.tn/iptv/ch2344?code=170004082234535
+#EXTINF:-1,Beyaz TV HD
+http://htq.qhdtv.tn/iptv/ch2347?code=170004082234535
+#EXTINF:-1,Habertürk
+http://htq.qhdtv.tn/iptv/ch2338?code=170004082234535
+#EXTINF:-1,A Haber
+http://htq.qhdtv.tn/iptv/ch2351?code=170004082234535
+#EXTINF:-1,Türkmax HD
+http://htq.qhdtv.tn/iptv/ch2307?code=170004082234535
+#EXTINF:-1,TRT 1
+http://htq.qhdtv.tn/iptv/ch1359?code=170004082234535
+#EXTINF:-1,TRT Sport
+http://htq.qhdtv.tn/iptv/ch1363?code=170004082234535
+#EXTINF:-1,TRT Musik
+http://htq.qhdtv.tn/iptv/ch1365?code=170004082234535
+#EXTINF:-1,TRT Haber
+http://htq.qhdtv.tn/iptv/ch1358?code=170004082234535
+#EXTINF:-1,TRT Diyanet
+http://htq.qhdtv.tn/iptv/ch1361?code=170004082234535
+#EXTINF:-1,TRT Cocuk
+http://htq.qhdtv.tn/iptv/ch1366?code=170004082234535
+#EXTINF:-1,TRT Belgesel
+http://htq.qhdtv.tn/iptv/ch1357?code=170004082234535
+#EXTINF:-1,TRTavaz
+http://htq.qhdtv.tn/iptv/ch1360?code=170004082234535
+#EXTINF:-1,TRT 6
+http://htq.qhdtv.tn/iptv/ch1362?code=170004082234535
+#EXTINF:-1,TRT Arabic
+http://htq.qhdtv.tn/iptv/ch459?code=170004082234535
+#EXTINF:-1,NTV
+http://htq.qhdtv.tn/iptv/ch2323?code=170004082234535
+#EXTINF:-1,NR1 Tv
+http://htq.qhdtv.tn/iptv/ch2324?code=170004082234535
+#EXTINF:-1,NR1 Türk Tv
+http://htq.qhdtv.tn/iptv/ch2325?code=170004082234535
+#EXTINF:-1,NBA TV HD
+http://htq.qhdtv.tn/iptv/ch2326?code=170004082234535
+#EXTINF:-1,TV4
+http://htq.qhdtv.tn/iptv/ch2304?code=170004082234535
+#EXTINF:-1,Tv 24
+http://htq.qhdtv.tn/iptv/ch2305?code=170004082234535
+#EXTINF:-1,TV 2
+http://htq.qhdtv.tn/iptv/ch2306?code=170004082234535
+#EXTINF:-1,VIVA TR
+http://htq.qhdtv.tn/iptv/ch2308?code=170004082234535
+#EXTINF:-1,Ulusal Tv
+http://htq.qhdtv.tn/iptv/ch2301?code=170004082234535
+#EXTINF:-1,Ulke TV
+http://htq.qhdtv.tn/iptv/ch2302?code=170004082234535
+#EXTINF:-1,TVNET HD
+http://htq.qhdtv.tn/iptv/ch2303?code=170004082234535
+#EXTINF:-1,TGRT Haber
+http://htq.qhdtv.tn/iptv/ch2352?code=170004082234535
+#EXTINF:-1,TGRT EU
+http://htq.qhdtv.tn/iptv/ch2309?code=170004082234535
+#EXTINF:-1,TGRT Belgesel
+http://htq.qhdtv.tn/iptv/ch2310?code=170004082234535
+#EXTINF:-1,Mesaj TV
+http://htq.qhdtv.tn/iptv/ch2331?code=170004082234535
+#EXTINF:-1,Meltem Tv
+http://htq.qhdtv.tn/iptv/ch2332?code=170004082234535
+#EXTINF:-1,Kanal A
+http://htq.qhdtv.tn/iptv/ch2334?code=170004082234535
+#EXTINF:-1,Kanal 7
+http://htq.qhdtv.tn/iptv/ch2335?code=170004082234535
+#EXTINF:-1,IZ Tv HD
+http://htq.qhdtv.tn/iptv/ch2336?code=170004082234535
+#EXTINF:-1,Halk TV
+http://htq.qhdtv.tn/iptv/ch2337?code=170004082234535
+#EXTINF:-1,Flash Tv
+http://htq.qhdtv.tn/iptv/ch2339?code=170004082234535
+#EXTINF:-1,Fil Tv TR
+http://htq.qhdtv.tn/iptv/ch2363?code=170004082234535
+#EXTINF:-1,Ege Tv
+http://htq.qhdtv.tn/iptv/ch2340?code=170004082234535
+#EXTINF:-1,Cem Tv
+http://htq.qhdtv.tn/iptv/ch2345?code=170004082234535
+#EXTINF:-1,Blomberg-tv
+http://htq.qhdtv.tn/iptv/ch2346?code=170004082234535
+#EXTINF:-1,benguturk
+http://htq.qhdtv.tn/iptv/ch2348?code=170004082234535
+#EXTINF:-1,Vatan Tv
+http://htq.qhdtv.tn/iptv/ch2300?code=170004082234535
+#EXTINF:-1,Kral Tv TR
+http://htq.qhdtv.tn/iptv/ch2364?code=170004082234535
+#EXTINF:-1,Kral Pop TR
+http://htq.qhdtv.tn/iptv/ch2365?code=170004082234535
+#EXTINF:-1,Sport Tv TR
+http://htq.qhdtv.tn/iptv/ch2366?code=170004082234535
+#EXTINF:-1,Sivas Srt TR
+http://htq.qhdtv.tn/iptv/ch2367?code=170004082234535
+#EXTINF:-1,Seymen Tv TR
+http://htq.qhdtv.tn/iptv/ch2368?code=170004082234535
+#EXTINF:-1,Kanalcay TR
+http://htq.qhdtv.tn/iptv/ch2369?code=170004082234535
+#EXTINF:-1,EM TV TR
+http://htq.qhdtv.tn/iptv/ch2370?code=170004082234535
+#EXTINF:-1,Baby Tv TR
+http://htq.qhdtv.tn/iptv/ch2371?code=170004082234535
+#EXTINF:-1,Aksaray Kanal 68 TR
+http://htq.qhdtv.tn/iptv/ch2372?code=170004082234535
+#EXTINF:-1,Aksaray ART TR
+http://htq.qhdtv.tn/iptv/ch2373?code=170004082234535
+#EXTINF:-1,TRT World TR
+http://htq.qhdtv.tn/iptv/ch2374?code=170004082234535
+#EXTINF:-1,Aspor HD
+http://htq.qhdtv.tn/iptv/ch2350?code=170004082234535
+#EXTINF:-1,SKY 360
+http://htq.qhdtv.tn/iptv/ch1384?code=170004082234535
+#EXTINF:-1,Semerkand TV
+http://htq.qhdtv.tn/iptv/ch2315?code=170004082234535
+#EXTINF:-1,Samanyolu
+http://htq.qhdtv.tn/iptv/ch2316?code=170004082234535
+#EXTINF:-1,Dream Türk
+http://htq.qhdtv.tn/iptv/ch2341?code=170004082234535
+#EXTINF:-1,PowerTurk HD
+http://htq.qhdtv.tn/iptv/ch2317?code=170004082234535
+#EXTINF:-1,Power Tv HD
+http://htq.qhdtv.tn/iptv/ch2318?code=170004082234535
+#EXTINF:-1,Minika Cocuk
+http://htq.qhdtv.tn/iptv/ch2329?code=170004082234535
+#EXTINF:-1,Mini Go
+http://htq.qhdtv.tn/iptv/ch2330?code=170004082234535
+#EXTINF:-1,Minika Go Tr
+http://htq.qhdtv.tn/iptv/ch2375?code=170004082234535
+#EXTINF:-1,Minika Cokuk TR
+http://htq.qhdtv.tn/iptv/ch2376?code=170004082234535
+#EXTINF:-1,Planet TR
+http://htq.qhdtv.tn/iptv/ch2319?code=170004082234535
+#EXTINF:-1,Planet Pembe
+http://htq.qhdtv.tn/iptv/ch2320?code=170004082234535
+#EXTINF:-1,Planet Mutfak
+http://htq.qhdtv.tn/iptv/ch2321?code=170004082234535
+#EXTINF:-1,Planet Cocuk
+http://htq.qhdtv.tn/iptv/ch2322?code=170004082234535
 ============ TURK MOVIE ============
 #EXTINF:-1,ATA DEMIRER-DÖRTNALA
 http://wap.net.az/film/1559/download/niyazi-gul-dortnala-2015-hdrip-hdrip.mp4
