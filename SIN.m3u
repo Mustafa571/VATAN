@@ -2,16 +2,12 @@
 
 ============ KARISIK KANALLAR ============
 #EXTM3U
-#EXTINF:-1,TR | LIGTV 1 HD
-http://panelpro.conbostar.com:8000/live/cemcak/10092017/2.ts
-#EXTINF:-1,TR | LIGTV-1 Secenek
+#EXTINF:-1,TR | LIG TV 1 HD
 http://panelpro.conbostar.com:8000/live/cemcak/10092017/51.ts
 #EXTINF:-1,TR | LIG TV 2 HD
 http://panelpro.conbostar.com:8000/live/cemcak/10092017/3.ts
 #EXTINF:-1,TR | LIG TV 3 HD
 http://panelpro.conbostar.com:8000/live/cemcak/10092017/4.ts
-#EXTINF:-1,TR | LIGTV 4 HD
-http://panelpro.conbostar.com:8000/live/cemcak/10092017/220.ts
 #EXTINF:-1,TR | VIP CHANNEL HD
 http://panelpro.conbostar.com:8000/live/cemcak/10092017/5.ts
 #EXTINF:-1,TR | MOVIEMAX PREMIER HD
