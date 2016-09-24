@@ -99,9 +99,3 @@ TJK TV * http://tjktv.ercdn.net/tjktv_576p.m3u8
 AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
-=[COLOR orange]ALTTAKi iSiMLERi TAM OLARAK YAZAMIYORUM-Elimden aliyorlar[/COLOR]= *.m3u
-L 1 * http://51qya.streamgo1.stream:1935/edge/ch104/ByHayalet47.m3u8 
-L 2 * http://51qya.streamgo1.stream:1935/edge/ch105/ByHayalet47.m3u8 
-L 3 * http://51qya.streamgo1.stream:1935/edge/ch106/ByHayalet47.m3u8 
-T 1 * http://51qya.streamgo1.stream:1935/edge/ch107/ByHayalet47.m3u8 
-T 2 * http://51qya.streamgo1.stream:1935/edge/ch108/ByHayalet47.m3u8 
