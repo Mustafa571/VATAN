@@ -1,6 +1,12 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 ALTTAKİ [COLOR blue]MAVİ[/COLOR] YAZININ ÜSTÜNE BASIN *.m3u
 [COLOR red]TEST[/COLOR]-[COLOR blue]-LIG-TIVIBU-ULUSAL V.S [/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+[COLOR orange]ALTTAKi iSiMLERi TAM OLARAK YAZAMIYORUM-Elimden aliyorlar[/COLOR]= *.m3u
+L 1 * http://51qya.streamgo1.stream:1935/edge/ch104/ByHayalet47.m3u8 
+L 2 * http://51qya.streamgo1.stream:1935/edge/ch105/ByHayalet47.m3u8 
+L 3 * http://51qya.streamgo1.stream:1935/edge/ch106/ByHayalet47.m3u8 
+T 1 * http://51qya.streamgo1.stream:1935/edge/ch107/ByHayalet47.m3u8 
+T 2 * http://51qya.streamgo1.stream:1935/edge/ch108/ByHayalet47.m3u8
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
