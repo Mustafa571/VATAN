@@ -1,61 +1,302 @@
 #SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER
 
 ============ KARISIK KANALLAR ============
-#EXTM3U
-#EXTINF:-1,TR:LIG TV 1
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/896.ts
-#EXTINF:-1,TR:LIG TV 2
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/895.ts
-#EXTINF:-1,TR:LIG TV 3
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/905.ts
-#EXTINF:-1,TR: Lig Tv Secenek
-http://best-ul.mine.nu:8000/live/tish1/tish1/229.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/1681.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/1682.ts
-#EXTINF:-1,TR: Fox TV Turk
-http://best-ul.mine.nu:8000/live/tish1/tish1/114.ts
-#EXTINF:-1,TR: Star Tv
-http://best-ul.mine.nu:8000/live/tish1/tish1/234.ts
-#EXTINF:-1,TR: ATV
-http://best-ul.mine.nu:8000/live/tish1/tish1/230.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/231.ts
-#EXTINF:-1,TR: Kanal D HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/235.ts
-#EXTINF:-1,TR: Show Tv
-http://best-ul.mine.nu:8000/live/tish1/tish1/233.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/236.ts
-#EXTINF:-1,TR: TRT HABER
-http://best-ul.mine.nu:8000/live/tish1/tish1/237.ts
-#EXTINF:-1,TR: TV8
-http://best-ul.mine.nu:8000/live/tish1/tish1/238.ts
-#EXTINF:-1,TR: CNN TURK
-http://best-ul.mine.nu:8000/live/tish1/tish1/900.ts
-#EXTINF:-1,TR: A HABER
-http://best-ul.mine.nu:8000/live/tish1/tish1/901.ts
-#EXTINF:-1,TR: NTV SPOR
-http://best-ul.mine.nu:8000/live/tish1/tish1/907.ts
-#EXTINF:-1,TR: NTV
-http://best-ul.mine.nu:8000/live/tish1/tish1/919.ts
-#EXTINF:-1,TR: DISNEY CHANNEL
-http://best-ul.mine.nu:8000/live/tish1/tish1/908.ts
-#EXTINF:-1,TR: TRT COCUK
-http://best-ul.mine.nu:8000/live/tish1/tish1/909.ts
-#EXTINF:-1,TR: DA VINCI LEARNING HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/910.ts
-#EXTINF:-1,TR: WORLD TRAVEL CHANNEL
-http://best-ul.mine.nu:8000/live/tish1/tish1/911.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://best-ul.mine.nu:8000/live/tish1/tish1/912.ts
-#EXTINF:-1,TR: SALON 1
-http://best-ul.mine.nu:8000/live/tish1/tish1/913.ts
-#EXTINF:-1,TR: NAT GEO WILD HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/914.ts
-#EXTINF:-1,TR: NAT GEO PEOPLE HD
-http://best-ul.mine.nu:8000/live/tish1/tish1/915.ts 
+#EXTM3
+#EXTINF:-1,TR-LiG-1SD
+http://beout-iptv.com:7777/live/saneba/toufik/1695.ts
+*
+#EXTINF:-1,TR-LiG-1HD
+http://beout-iptv.com:7777/live/saneba/toufik/1696.ts
+*
+#EXTINF:-1,TR-LiG-2HD
+http://beout-iptv.com:7777/live/saneba/toufik/1697.ts
+*
+#EXTINF:-1,TR-LiG-3HD
+http://beout-iptv.com:7777/live/saneba/toufik/1698.ts
+*
+#EXTINF:-1,TR-Tivibu-1
+http://beout-iptv.com:7777/live/saneba/toufik/4426.ts
+*
+#EXTINF:-1,TR-Tivibu-3
+http://beout-iptv.com:7777/live/saneba/toufik/4425.ts
+*
+#EXTINF:-1,TR-Smart-Spor1
+http://beout-iptv.com:7777/live/saneba/toufik/4427.ts
+*
+#EXTINF:-1,TR-A-SPOR
+http://beout-iptv.com:7777/live/saneba/toufik/3859.ts
+*
+#EXTINF:-1,TR-NAT-GEO-WILD
+http://beout-iptv.com:7777/live/saneba/toufik/3917.ts
+*
+#EXTINF:-1,TR-ANIMAL-PLANET
+http://beout-iptv.com:7777/live/saneba/toufik/3913.ts
+*
+#EXTINF:-1,TR-SALON3-FULLHD
+http://beout-iptv.com:7777/live/saneba/toufik/2119.ts
+*
+#EXTINF:-1,TR-D-YESILCAM-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3909.ts
+*
+#EXTINF:-1,TR-TRT1-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3841.ts
+#EXTINF:-1,TR-TRT-SPOR
+http://beout-iptv.com:7777/live/saneba/toufik/3843.ts
+#EXTINF:-1,TR-TRT-OKUL
+http://beout-iptv.com:7777/live/saneba/toufik/3844.ts
+#EXTINF:-1,TR-TRT-HABER-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3845.ts
+#EXTINF:-1,TR-TRT-COCUK
+http://beout-iptv.com:7777/live/saneba/toufik/3880.ts
+#EXTINF:-1,TR-TRT-BELGESEL
+http://beout-iptv.com:7777/live/saneba/toufik/3842.ts
+#EXTINF:-1,TR-TRT-TURK
+http://beout-iptv.com:7777/live/saneba/toufik/538.ts
+#EXTINF:-1,TR-ATV-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3231.ts
+#EXTINF:-1,TR-STAR TV
+http://beout-iptv.com:7777/live/saneba/toufik/3232.ts
+#EXTINF:-1,TR-STAR-TV-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3846.ts
+#EXTINF:-1,TR-STAR-SD
+http://beout-iptv.com:7777/live/saneba/toufik/3847.ts
+#EXTINF:-1,TR-SHOWMAX-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3850.ts
+#EXTINF:-1,TR-SHOW-TV-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3848.ts
+#EXTINF:-1,TR-SHOWTURK
+http://beout-iptv.com:7777/live/saneba/toufik/585.ts
+#EXTINF:-1,TR-POWER-TURK-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3233.ts
+#EXTINF:-1,TR-WORLD-TRAVEL-CHANNEL
+http://beout-iptv.com:7777/live/saneba/toufik/3911.ts
+#EXTINF:-1,TR-KANAL-7-AVRUPA
+http://beout-iptv.com:7777/live/saneba/toufik/560.ts
+#EXTINF:-1,TR-ULKE-TV
+http://beout-iptv.com:7777/live/saneba/toufik/600.ts
+#EXTINF:-1,TR-BEYAZ-TV
+http://beout-iptv.com:7777/live/saneba/toufik/580.ts
+#EXTINF:-1,TR-TV8-SD
+http://beout-iptv.com:7777/live/saneba/toufik/3857.ts
+#EXTINF:-1,TR-SINEMA-TV-AKSIYON-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3869.ts
+#EXTINF:-1,TR-POWER-TV-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3860.ts
+#EXTINF:-1,TR-NUMBER-ONE-TV
+http://beout-iptv.com:7777/live/saneba/toufik/3904.ts
+#EXTINF:-1,TR-NUMBER-ONE-TURK
+http://beout-iptv.com:7777/live/saneba/toufik/3905.ts
+#EXTINF:-1,TR-NTV-SPOR
+http://beout-iptv.com:7777/live/saneba/toufik/3868.ts
+#EXTINF:-1,TR-FOX-CRIME-TV
+http://beout-iptv.com:7777/live/saneba/toufik/3908.ts
+#EXTINF:-1,TR-FIL-TV
+http://beout-iptv.com:7777/live/saneba/toufik/3870.ts
+#EXTINF:-1,TR-DREAM-TV
+http://beout-iptv.com:7777/live/saneba/toufik/3893.ts
+#EXTINF:-1,TR-DREAM-TURK
+http://beout-iptv.com:7777/live/saneba/toufik/3894.ts
+#EXTINF:-1,DE-SKYSELECT-1HD
+http://beout-iptv.com:7777/live/saneba/toufik/2657.ts
+#EXTINF:-1,DE-SKYSELECT-2HD
+http://beout-iptv.com:7777/live/saneba/toufik/2658.ts
+#EXTINF:-1,DE-SKYSELECT-3HD
+http://beout-iptv.com:7777/live/saneba/toufik/2659.ts
+#EXTINF:-1,DE-SKYSELECT-5HD
+http://beout-iptv.com:7777/live/saneba/toufik/2661.ts
+#EXTINF:-1,DE-SKYSELECT-6HD
+http://beout-iptv.com:7777/live/saneba/toufik/2662.ts
+#EXTINF:-1,DE-SKYSELECT-7HD
+http://beout-iptv.com:7777/live/saneba/toufik/2663.ts
+#EXTINF:-1,DE-SKYSELECT-8HD
+http://beout-iptv.com:7777/live/saneba/toufik/2664.ts
+#EXTINF:-1,DE-SKYSELECT-9HD
+http://beout-iptv.com:7777/live/saneba/toufik/2665.ts
+#EXTINF:-1,DE-SKYSELECT-10HD
+http://beout-iptv.com:7777/live/saneba/toufik/2666.ts
+#EXTINF:-1,DE-SkyCinemaPlus -1HD
+http://beout-iptv.com:7777/live/saneba/toufik/3330.ts
+#EXTINF:-1,DE-SkyCinema-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3331.ts
+#EXTINF:-1,DE-Sky-Atlantic
+http://beout-iptv.com:7777/live/saneba/toufik/3333.ts
+#EXTINF:-1,DE-SkyAction-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3334.ts
+#EXTINF:-1,DE-Sky13Street-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3335.ts
+#EXTINF:-1,DE-SRF-1
+http://beout-iptv.com:7777/live/saneba/toufik/4071.ts
+#EXTINF:-1,DE-Sky-mgm
+http://beout-iptv.com:7777/live/saneba/toufik/4074.ts
+#EXTINF:-1,DE-Sky-FOX-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4073.ts
+#EXTINF:-1,DE-Sky-3sat
+http://beout-iptv.com:7777/live/saneba/toufik/4072.ts
+#EXTINF:-1,DE-Sat-1
+http://beout-iptv.com:7777/live/saneba/toufik/3336.ts
+#EXTINF:-1,DE-RTLII
+http://beout-iptv.com:7777/live/saneba/toufik/3338.ts
+#EXTINF:-1,DE-RTLI
+http://beout-iptv.com:7777/live/saneba/toufik/3339.ts
+#EXTINF:-1,DE-PRO7-MAXX
+http://beout-iptv.com:7777/live/saneba/toufik/3341.ts
+#EXTINF:-1,DE-Pro7
+http://beout-iptv.com:7777/live/saneba/toufik/3342.ts
+#EXTINF:-1,DE-ORF-Eins
+http://beout-iptv.com:7777/live/saneba/toufik/3325.ts
+#EXTINF:-1,DE-ORF-2
+http://beout-iptv.com:7777/live/saneba/toufik/3324.ts
+#EXTINF:-1,DE-Ndr-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3323.ts
+#EXTINF:-1,DE-NICKLODEON
+http://beout-iptv.com:7777/live/saneba/toufik/3938.ts
+#EXTINF:-1,DE-Disney-Channel
+http://beout-iptv.com:7777/live/saneba/toufik/3322.ts
+#EXTINF:-1,DE-Disney-Junior
+http://beout-iptv.com:7777/live/saneba/toufik/3321.ts
+#EXTINF:-1,DE-ARD-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3319.ts
+#EXTINF:-1,DE-Atlantic-HD
+http://beout-iptv.com:7777/live/saneba/toufik/3320.ts
+#EXTINF:-1,DE-SKY-SPORT-2
+http://beout-iptv.com:7777/live/saneba/toufik/2312.ts
+#EXTINF:-1,DE-SKY-SPORT-1
+http://beout-iptv.com:7777/live/saneba/toufik/2313.ts
+#EXTINF:-1,DE-KABEL-1
+http://beout-iptv.com:7777/live/saneba/toufik/224.ts
+#EXTINF:-1,DE-NAT-GEO
+http://beout-iptv.com:7777/live/saneba/toufik/222.ts
+#EXTINF:-1,DE-Nat-Geo-HD
+http://beout-iptv.com:7777/live/saneba/toufik/238.ts
+#EXTINF:-1,DE-NAT-GEO-WILD
+http://beout-iptv.com:7777/live/saneba/toufik/221.ts
+#EXTINF:-1,DE-Sky-Action
+http://beout-iptv.com:7777/live/saneba/toufik/234.ts
+#EXTINF:-1,DE-Sky-Bundesliga-HD-1
+http://beout-iptv.com:7777/live/saneba/toufik/232.ts
+#EXTINF:-1,DE-SKY-Cinema 1
+http://beout-iptv.com:7777/live/saneba/toufik/237.ts
+#EXTINF:-1,DE-Sky-Sport-1HD
+http://beout-iptv.com:7777/live/saneba/toufik/242.ts
+#EXTINF:-1,DE-SKY-TNT-SERIE
+http://beout-iptv.com:7777/live/saneba/toufik/151.ts
+#EXTINF:-1,DE-Super-RTL
+http://beout-iptv.com:7777/live/saneba/toufik/230.ts
+#EXTINF:-1,DE-WDR-HD
+http://beout-iptv.com:7777/live/saneba/toufik/228.ts
+#EXTINF:-1,DE-ZDF
+http://beout-iptv.com:7777/live/saneba/toufik/227.ts
+#EXTINF:-1,DE-DMAX
+http://beout-iptv.com:7777/live/saneba/toufik/3100.ts
+#EXTINF:-1,DE-EURONEWS
+http://beout-iptv.com:7777/live/saneba/toufik/3094.ts
+#EXTINF:-1,DE-KIKA
+http://beout-iptv.com:7777/live/saneba/toufik/3097.ts
+#EXTINF:-1,DE-KIKAHD
+http://beout-iptv.com:7777/live/saneba/toufik/3111.ts
+#EXTINF:-1,DE-PRO-MAX7
+http://beout-iptv.com:7777/live/saneba/toufik/3095.ts
+#EXTINF:-1,DE-RtL-Nitro
+http://beout-iptv.com:7777/live/saneba/toufik/3102.ts
+#EXTINF:-1,DE-RTL2
+http://beout-iptv.com:7777/live/saneba/toufik/3096.ts
+#EXTINF:-1,DE-SAT1HD
+http://beout-iptv.com:7777/live/saneba/toufik/3093.ts
+#EXTINF:-1,DE-SKY-BUNDESLIGA1HD
+http://beout-iptv.com:7777/live/saneba/toufik/3072.ts
+#EXTINF:-1,DE-SkY-DisneyCinemagicHD
+http://beout-iptv.com:7777/live/saneba/toufik/3070.ts
+#EXTINF:-1,DE-Sky-GemanyCinema
+http://beout-iptv.com:7777/live/saneba/toufik/3071.ts
+#EXTINF:-1,DE-SKY-KRIMI
+http://beout-iptv.com:7777/live/saneba/toufik/3098.ts
+#EXTINF:-1,DE-SkyBundesLigaHD
+http://beout-iptv.com:7777/live/saneba/toufik/3152.ts
+#EXTINF:-1,DE-SKYEMOTIONHD
+http://beout-iptv.com:7777/live/saneba/toufik/3147.ts
+#EXTINF:-1,DE-SRF-2
+http://beout-iptv.com:7777/live/saneba/toufik/3091.ts
+#EXTINF:-1,DE-DISNEY-xd
+http://beout-iptv.com:7777/live/saneba/toufik/3090.ts
+#EXTINF:-1,DE:FOX SPORTS 1
+http://beout-iptv.com:7777/live/saneba/toufik/3076.ts
+#EXTINF:-1,DE:FOX SPORTS 2
+http://beout-iptv.com:7777/live/saneba/toufik/3077.ts
+#EXTINF:-1,DE-AXN-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4396.ts
+#EXTINF:-1,DE-Boomerang
+http://beout-iptv.com:7777/live/saneba/toufik/4419.ts
+#EXTINF:-1,DE-BUNDESLIGA-3-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4401.ts
+#EXTINF:-1,DE-Classica
+http://beout-iptv.com:7777/live/saneba/toufik/4412.ts
+#EXTINF:-1,DE-EINSLIVE
+http://beout-iptv.com:7777/live/saneba/toufik/4394.ts
+#EXTINF:-1,DE-EURO-NEWS
+http://beout-iptv.com:7777/live/saneba/toufik/4393.ts
+#EXTINF:-1,DE-FOX-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4422.ts
+#EXTINF:-1,DE-Kinowelt-TV
+http://beout-iptv.com:7777/live/saneba/toufik/4411.ts
+#EXTINF:-1,DE-MDR-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4418.ts
+#EXTINF:-1,DE-Mini-Tv
+http://beout-iptv.com:7777/live/saneba/toufik/4423.ts
+#EXTINF:-1,DE-Nick-Junior
+http://beout-iptv.com:7777/live/saneba/toufik/4410.ts
+#EXTINF:-1,DE-ORF-Sport
+http://beout-iptv.com:7777/live/saneba/toufik/4392.ts
+#EXTINF:-1,DE-Phoenix
+http://beout-iptv.com:7777/live/saneba/toufik/4420.ts
+#EXTINF:-1,DE-Prosieben-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4407.ts
+#EXTINF:-1,DE-Romance-TV
+http://beout-iptv.com:7777/live/saneba/toufik/4409.ts
+#EXTINF:-1,DE-SAT-1-GOLD-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4391.ts
+#EXTINF:-1,DE-Silverline-Movie-Channel
+http://beout-iptv.com:7777/live/saneba/toufik/4406.ts
+#EXTINF:-1,DE-SIXX
+http://beout-iptv.com:7777/live/saneba/toufik/4408.ts
+#EXTINF:-1,DE-Sky-Eurosport-1
+http://beout-iptv.com:7777/live/saneba/toufik/4400.ts
+#EXTINF:-1,DE-Sky-History
+http://beout-iptv.com:7777/live/saneba/toufik/4399.ts
+#EXTINF:-1,DE-SKY-Sport-Austria-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4405.ts
+#EXTINF:-1,DE-Sky-Sport-News
+http://beout-iptv.com:7777/live/saneba/toufik/4417.ts
+#EXTINF:-1,DE-Sonnenklar-TV
+http://beout-iptv.com:7777/live/saneba/toufik/4404.ts
+#EXTINF:-1,DE-Sony-TV
+http://beout-iptv.com:7777/live/saneba/toufik/4403.ts
+#EXTINF:-1,DE-Spiegel-Geschichte-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4416.ts
+#EXTINF:-1,DE-Sport-1-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4402.ts
+#EXTINF:-1,DE-Sport-1-US-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4390.ts
+#EXTINF:-1,DE-Sport-Time-1-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4415.ts
+#EXTINF:-1,DE-SPORT1 --HD
+http://beout-iptv.com:7777/live/saneba/toufik/4398.ts
+#EXTINF:-1,DE-TNT-COMEDY-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4389.ts
+#EXTINF:-1,DE-Tnt-Film--HD
+http://beout-iptv.com:7777/live/saneba/toufik/4397.ts
+#EXTINF:-1,DE-VOX
+http://beout-iptv.com:7777/live/saneba/toufik/4421.ts
+#EXTINF:-1,DE-Welt-der-Wunder
+http://beout-iptv.com:7777/live/saneba/toufik/4388.ts
+#EXTINF:-1,DE-ZDF-info
+http://beout-iptv.com:7777/live/saneba/toufik/4414.ts
+#EXTINF:-1,DE-ZDF-KULTUR-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4387.ts
+#EXTINF:-1,DE-ZDF-NEO-HD
+http://beout-iptv.com:7777/live/saneba/toufik/4413.ts
+#EXTINF:-1,DE-ZEE-Deutschland
+http://beout-iptv.com:7777/live/saneba/toufik/4386.ts
+
 ============ TURK MOVIE ============
 #EXTINF:-1,ATA DEMIRER-DÖRTNALA
 http://wap.net.az/film/1559/download/niyazi-gul-dortnala-2015-hdrip-hdrip.mp4
