@@ -1,4 +1,296 @@
 #SPOR LİG-SKY PAKETİ-SİNEMA-DİZİ VE FİLMLER
 
 ============ KARISIK KANALLAR ============
+#EXTM3U
+#EXTINF:-1,LIGTV 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/2.ts
+#EXTINF:-1,LIGTV1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/51.ts
+#EXTINF:-1,LIG TV 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/3.ts
+#EXTINF:-1,LIG TV 3 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/4.ts
+#EXTINF:-1,LIGTV 4 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/220.ts
+#EXTINF:-1,VIP CHANNEL HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/5.ts
+#EXTINF:-1,MOVIEMAX PREMIER HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/6.ts
+#EXTINF:-1,SALON 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/7.ts
+#EXTINF:-1,SALON 2  HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/8.ts
+#EXTINF:-1,SALON 3 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/9.ts
+#EXTINF:-1,SMARTSPOR HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/10.ts
+#EXTINF:-1,SMARTSPOR 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/11.ts
+#EXTINF:-1,NBA TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/12.ts
+#EXTINF:-1,TIVIBU SPOR 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/186.ts
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/187.ts
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/188.ts
+#EXTINF:-1,TIVIBU SPOR 4 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/189.ts
+#EXTINF:-1,YESILCAM 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/14.ts
+#EXTINF:-1,YESILCAM 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/15.ts
+#EXTINF:-1,LOCA 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/16.ts
+#EXTINF:-1,LOCA 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/149.ts
+#EXTINF:-1,LOCA 3 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/131.ts
+#EXTINF:-1,VIP CHANNEL TURK HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/13.ts
+#EXTINF:-1,MOVIEMAX TURK HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/81.ts
+#EXTINF:-1,MOVIESMART TURK HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/159.ts
+#EXTINF:-1,FILM TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/17.ts
+#EXTINF:-1,VIP CHANNEL 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/19.ts
+#EXTINF:-1,ANIMASYON HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/20.ts
+#EXTINF:-1,MOVIEMAX PREMIER 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/24.ts
+#EXTINF:-1,MOVIEMAX STARS HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/22.ts
+#EXTINF:-1,MOVIEMAX FAMILY HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/23.ts
+#EXTINF:-1,SINE TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/21.ts
+#EXTINF:-1,MGM HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/63.ts
+#EXTINF:-1,MOVIEMAX ACTION 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/65.ts
+#EXTINF:-1,MOVIEMAX ACTION HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/68.ts
+#EXTINF:-1,MOVIEMAX COMEDY HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/73.ts
+#EXTINF:-1,DIZIMAX SCIFI HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/66.ts
+#EXTINF:-1,MOVIEMAX FESTIVAL HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/72.ts
+#EXTINF:-1,SHOW TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/25.ts
+#EXTINF:-1,SHOW TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/97.ts
+#EXTINF:-1,KANAL D HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/26.ts
+#EXTINF:-1,KANAL D
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/96.ts
+#EXTINF:-1,ATV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/1.ts
+#EXTINF:-1,ATV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/95.ts
+#EXTINF:-1,STAR HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/28.ts
+#EXTINF:-1,STAR TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/98.ts
+#EXTINF:-1,TV 8 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/57.ts
+#EXTINF:-1,TV 8
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/93.ts
+#EXTINF:-1,FOX TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/27.ts
+#EXTINF:-1,FOX TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/209.ts
+#EXTINF:-1,BEYAZ TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/35.ts
+#EXTINF:-1,BEYAZ TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/208.ts
+#EXTINF:-1,SAMANYOLU TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/29.ts
+#EXTINF:-1,KANAL 7 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/30.ts
+#EXTINF:-1,BUGUN TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/39.ts
+#EXTINF:-1,FLASH TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/52.ts
+#EXTINF:-1,TRT 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/31.ts
+#EXTINF:-1,TRT SPOR HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/58.ts
+#EXTINF:-1,TRT SPOR
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/215.ts
+#EXTINF:-1,TRT 3 SPOR HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/280.ts
+#EXTINF:-1,NTV SPOR
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/59.ts
+#EXTINF:-1,A SPOR
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/75.ts
+#EXTINF:-1,NTV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/33.ts
+#EXTINF:-1,HALK  TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/41.ts
+#EXTINF:-1,ULKE TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/45.ts
+#EXTINF:-1,CNNTURK HABER
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/32.ts
+#EXTINF:-1,HABER TURK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/34.ts
+#EXTINF:-1,A HABER  HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/43.ts
+#EXTINF:-1,TRT HABER HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/40.ts
+#EXTINF:-1,TGRT  HABER
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/38.ts
+#EXTINF:-1,IDMAN TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/226.ts
+#EXTINF:-1,360 TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/89.ts
+#EXTINF:-1,SPORTS TV HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/86.ts
+#EXTINF:-1,GS TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/295.ts
+#EXTINF:-1,BJK TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/294.ts
+#EXTINF:-1,FENERBAHCE  TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/84.ts
+#EXTINF:-1,BURSASPOR  TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/91.ts
+#EXTINF:-1,KANALTURK HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/79.ts
+#EXTINF:-1,KANAL  24
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/110.ts
+#EXTINF:-1,KRAL  TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/48.ts
+#EXTINF:-1,DREAM TURK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/47.ts
+#EXTINF:-1,POWER TURK HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/49.ts
+#EXTINF:-1,TRT  MUZIK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/50.ts
+#EXTINF:-1,TRT HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/82.ts
+#EXTINF:-1,TV2
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/83.ts
+#EXTINF:-1,PLANET MUTFAK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/216.ts
+#EXTINF:-1,NUMBER ONE TURK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/218.ts
+#EXTINF:-1,CINE 5
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/224.ts
+#EXTINF:-1,BLOOMBERG TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/217.ts
+#EXTINF:-1,TLC TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/87.ts
+#EXTINF:-1,E2
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/88.ts
+#EXTINF:-1,PLANET  COCUK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/85.ts
+#EXTINF:-1,PLANET PEMBE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/219.ts
+#EXTINF:-1,TRT COCUK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/174.ts
+#EXTINF:-1,PLANET TURK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/184.ts
+#EXTINF:-1,CARTOON NETWORK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/80.ts
+#EXTINF:-1,MINIKA GO
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/46.ts
+#EXTINF:-1,YUMURCAK TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/44.ts
+#EXTINF:-1,MINIKA COCUK
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/223.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/221.ts
+#EXTINF:-1,TRGT BELGESEL
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/222.ts
+#EXTINF:-1,YABAN  TV
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/90.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/125.ts
+============ ALMAN KANALLARI ============
+#EXTINF:-1,SKY SELECT HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/205.ts
+#EXTINF:-1,SKY SELECT 1 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/204.ts
+#EXTINF:-1,SKY SELECT 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/203.ts
+#EXTINF:-1,SKY SELECT 3 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/283.ts
+#EXTINF:-1,SKY SELECT 4 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/282.ts
+#EXTINF:-1,PIRIMA FILA 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/127.ts
+#EXTINF:-1,PIRIMA FILA 2 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/128.ts
+#EXTINF:-1,PIRIMA FILA 3 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/129.ts
+#EXTINF:-1,PIRIMA FILA 4 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/55.ts
+#EXTINF:-1,PIRIMA FILA 5 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/143.ts
+#EXTINF:-1,PIRIMA FILA 6 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/92.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/113.ts
+#EXTINF:-1,SKY BUNDESLIGA 1
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/225.ts
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/101.ts
+#EXTINF:-1,SKY SPORT 1 DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/183.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/102.ts
+#EXTINF:-1,SKY SPORT 2 DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/235.ts
+#EXTINF:-1,SKY CINEMA DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/150.ts
+#EXTINF:-1,SKY ACTION HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/151.ts
+#EXTINF:-1,SKY COMEDY HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/244.ts
+#EXTINF:-1,PROSIEBEN HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/153.ts
+#EXTINF:-1,ZDF HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/154.ts
+#EXTINF:-1,ORF 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/246.ts
+#EXTINF:-1,SAT 1 DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/245.ts
+#EXTINF:-1,VOX HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/157.ts
+#EXTINF:-1,RTL HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/155.ts
+#EXTINF:-1,RTL 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/156.ts
+#EXTINF:-1,EUROSPORT 1 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/194.ts
+#EXTINF:-1,EUROSPORT 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/195.ts
+#EXTINF:-1,SUPER RTL DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/276.ts
+#EXTINF:-1,SKY CINEMA +1 DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/279.ts
+#EXTINF:-1,NICKNICHT  DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/277.ts
+#EXTINF:-1,NICKELODEON HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/252.ts
+#EXTINF:-1,SKY EMOTION DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/274.ts
+#EXTINF:-1,SKY ATLANTIC DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/275.ts
+#EXTINF:-1,13TH STREET DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/278.ts
+#EXTINF:-1,SPORT TIME 2 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/258.ts
+#EXTINF:-1,SPORT TIME 3 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/257.ts
+#EXTINF:-1,SPORT TIME 4 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/256.ts
+#EXTINF:-1,SPORT TIME 5 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/255.ts
+#EXTINF:-1,SPORT TIME 6 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/254.ts
+#EXTINF:-1,SPORT TIME 7 HD DE
+http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/253.ts
 
