@@ -1,6 +1,4 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-ALTTAKİ [COLOR blue]MAVİ[/COLOR] YAZININ ÜSTÜNE BASIN *.m3u
-[COLOR blue]-YAYINLAR KALICI DEĞiL-[/COLOR][COLOR orange]AÇILDI[/COLOR]* https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 [COLOR orange]ALTTAKi iSiMLERi TAM OLARAK YAZAMIYORUM-Elimden aliyorlar[/COLOR]= *.m3u
 L 1 * http://51qya.streamgo1.stream:1935/edge/ch104/ByHayalet47.m3u8 
 L 2 * http://51qya.streamgo1.stream:1935/edge/ch105/ByHayalet47.m3u8 
