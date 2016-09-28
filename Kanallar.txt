@@ -33,7 +33,6 @@ A HABER * http://85.132.59.163:1234/ahaber
 2-STAR TV * http://151.252.39.85:80/telezapp/StarTV.stream/yetmis6.m3u8
 1-ATV HD * http://151.252.39.85:80/telezapp/ATVHD.stream/playlist.m3u8
 2-ATV HD * http://boxiptv.noip.us:9998/live/testt/testt/984.ts
-SHOW TV HD * http://151.252.39.85:80/telezapp/ShowHD.stream/yetmis6.m3u8
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
