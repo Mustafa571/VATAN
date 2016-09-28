@@ -49,5 +49,3 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
 #EXTINF:-1,SUPER RTL  
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/363.ts
-#EXTINF:-1,Test
-http://kde.ipne.be:80/live/kucukbayrak/b5g4f5e2qad/726.ts
