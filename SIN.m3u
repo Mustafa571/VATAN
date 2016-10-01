@@ -2,11 +2,6 @@
 #EXTM3U
 #EXTINF:-1,BEYAZ
 http://stream-12.vty.dailymotion.com/15/dm/1/x4kopfq/live.isml/events(live-1475114165)/live-audio=128000-video=4000000.m3u8
-#EXTINF:-1,GS TV
-http://stream-01.vty.dailymotion.com/31/dm/1/xne3bf/live.isml/events(live-1474612709)/live-audio=128000-video=2000000.m3u8
-#EXTINF:-1,FB TV
-http://stream-06.vty.dailymotion.com/12/dm/1/x21oo10/live.isml/events(live-1474593041)/live-audio=128000-video=1200000.m3u8
-#EXTINF:-1,BJK TV
-http://stream-04.vty.dailymotion.com/02/dm/1/x31omum/live.isml/events(live-1475109131)/live-audio=128000-video=2000000.m3u8
+
 
 
