@@ -1,5 +1,5 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
-[COLOR orange]=========DUYURU = Okuyun =========[/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
+[COLOR yellow]========= DUYURU  =  Okuyun =========[/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 ==================================================.*.m3u
 1-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT 1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
