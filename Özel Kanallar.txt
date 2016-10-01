@@ -20,3 +20,5 @@ MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/V
 ALMAN KANALLARI-PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR red]YOUTUBE ULUSAL KANALLAR[/COLOR]=. *.m3u
 ULUSAL TEST * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+test. *.m3u
+test1 * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
