@@ -1,7 +1,21 @@
 ============ KARISIK KANALLAR ============
 #EXTM3U
-#EXTINF:-1,BEYAZ
-http://stream-12.vty.dailymotion.com/15/dm/1/x4kopfq/live.isml/events(live-1475114165)/live-audio=128000-video=4000000.m3u8
+#EXTINF:-1,ATV
+http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+#EXTINF:-1,KANAL 7
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1,KRAL
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kral/kral/kral.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1,NAT GEO WİLD TÜRK
+http://203108:203108@212.129.54.180:5019
+#EXTINF:-1,NTV
+http://origin.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
+#EXTINF:-1,NUMBER ONE TÜRK
+http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
+#EXTINF:-1,SHOW TV
+http://origin.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
+#EXTINF:-1,STAR TV
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 
 
 
