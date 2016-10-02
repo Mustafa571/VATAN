@@ -1,8 +1,8 @@
 ============ KARISIK KANALLAR ============
 #EXTM3U
-#EXTINF:-1,TR-LIG_TV_HD
+#EXTINF:-1,TR-L1 TV HD
 http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
-#EXTINF:-1,TR-LiGTV_3
+#EXTINF:-1,TR-L3 TV HD
 http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
 #EXTINF:-1,TR-SALON_1_HD
 http://sharingmaster.org:8000/live/norase54/bvg879/11566.ts
