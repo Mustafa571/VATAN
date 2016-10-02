@@ -73,6 +73,7 @@ TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
+DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8 
