@@ -33,8 +33,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 1-A HABER * http://85.132.59.163:1234/ahaber
 2-A HABER * http://sharingmaster.org:8000/live/norase54/bvg879/5304.ts
-1-STAR TV * http://85.132.59.163:1234/startv
-2-STAR TV * http://startv_dogus-lh.akamaihd.net/i/startv_1@32761/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1475643162~acl=%2f*~data=hdntl~hmac=1ca00f53677e68cd41866f86ab6ddd448a8bbf70b222a63047b531bb2ac07707
+STAR TV * http://85.132.59.163:1234/startv
 1-ATV HD * http://boxiptv.noip.us:9998/live/testt/testt/984.ts
 2-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
 SHOW TV * http://sharingmaster.org:8000/live/norase54/bvg879/5276.ts
@@ -46,7 +45,6 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 4-KANAL D * http://sharingmaster.org:8000/live/norase54/bvg879/5286.ts
 1-TV8 HD * http://85.132.59.163:1234/tv8int
 2-TV8 HD * http://sharingmaster.org:8000/live/norase54/bvg879/5258.ts
-A9 TV * rtmp://live.harunyahya.tv/harunyahyalive/hytest1
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
