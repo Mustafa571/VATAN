@@ -79,7 +79,7 @@ BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
-MANiSA MEDYA *http://live2.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafea1a4/index.m3u8?ttl=1475654151&sign=eP1dOMWQJeGOHc0u-pE2Gg&r=playlist
+MANiSA MEDYA * http://live2.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafea1a4/index.m3u8?ttl=1475654151&sign=eP1dOMWQJeGOHc0u-pE2Gg&r=playlist
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
