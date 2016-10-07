@@ -6,6 +6,7 @@
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 5-TRT1 HD * http://sharingmaster.org:8000/live/norase54/bvg879/5264.ts
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
@@ -32,7 +33,8 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 A HABER * http://sharingmaster.org:8000/live/norase54/bvg879/5304.ts
-STAR TV * http://iptv.re/live/1/1/2455.ts
+1-STAR TV * http://iptv.re/live/1/1/2455.ts
+2-STAR TV * http://85.132.59.163:1234/startv
 1-ATV HD * http://iptv.re/live/1/1/2454.ts
 2-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
 3-ATV AVRUPA * http://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=IKb-fTDt7bIFYh20P9qpIQ&e=1475641441
@@ -45,8 +47,8 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 4-KANAL D * http://sharingmaster.org:8000/live/norase54/bvg879/5286.ts
 1-TV8 HD * http://sharingmaster.org:8000/live/norase54/bvg879/5258.ts
-2-TV8 HD * http://tb-live.cdn.tv8.com.tr/tv8/tv8hd_720p.m3u8?e=1475639623&st=p1Jm5RzqmpRorTx6aVorDQ
-3-TV8 HD * http://yayin7.canlitvlive.co/tv8/live.m3u8?tkn=mdAwfYaNbY1e_JyW1iensA&tms=1475658053
+2-TV8 iNT HD * http://85.132.59.163:1234/tv8int
+iDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
@@ -104,3 +106,4 @@ AV TV * http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
+Kral World TV * https://www.youtube.com/watch?v=LdMBWeU4zPk
