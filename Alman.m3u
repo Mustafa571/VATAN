@@ -49,3 +49,7 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
 #EXTINF:-1,SUPER RTL  
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/363.ts
+#EXTINF:-1,Test1 MERDIVEN BABA
+https://17wy0x1.oloadcdn.net/dl/l/qA-LTKVPeXHJkgOT/-KFQTk6TJeM/m3rd1v3n.mp4?mime=true
+#EXTINF:-1,Test2 MERDIVEN BABA
+https://vd39.mycdn.me/?sig=0cb252f3c3a8e58d57ea443d2a02160f061b6191&ct=4&urls=217.20.153.76&expires=1475992186461&srcIp=31.16.255.244&srcAg=GECKO&clientType=0&id=131261598233&type=1&bytes=0-7426
