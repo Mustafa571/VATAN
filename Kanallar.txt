@@ -25,18 +25,19 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1427451232.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-1-BEYAZ TV HD * http://stream-10.vty.dailymotion.com/46/dm/1/x4kopfq/live.isml/live.m3u8?e=1476162046&st=i4jDWwgMmMlM659dtrXnOQ#cell=lvty
-2-BEYAZ TV HD * http://stream-01.vty.dailymotion.com/46/dm/1/x4kopfq/live.isml/events(live-1475798691)/live-audio=128000-video=2000000.m3u8
+BEYAZ TV HD * http://178.162.205.72:8081/live_hd/beyaztv/live_sd/e2_hi/chunks.m3u8?nimblesessionid=5527990&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDY6NDEgUE0maGFzaF92YWx1ZT1iTmF3MTNHTlVTdG4rTWdrNkZPRjBnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 A HABER * http://sharingmaster.org:8000/live/norase54/bvg879/5304.ts
-1-STAR TV * http://iptv.re/live/1/1/2455.ts
+1-STAR TV * http://startv_dogus-lh.akamaihd.net/i/startv_1@32761/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1476115365~acl=%2f*~data=hdntl~hmac=61b155017f4527936c07220f8ee1a4b0369223ea60445909963b835c0d210808
 2-STAR TV * http://85.132.59.163:1234/startv
-1-ATV HD * http://iptv.re/live/1/1/2454.ts
+3-STAR TV * http://62.210.177.197/7/c94DsdKQ/36018/BRumqUq/14760/ATtEbfs/dstartv.m3u8
+1-ATV HD * http://178.162.205.72:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=5527565&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDQ6MzQgUE0maGFzaF92YWx1ZT1UOEgrcnozSElxZ3ZOallNTjJUZlpRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
 2-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
+3-ATV * http://62.210.177.197/7/WDzrx4-w/36064/4bvE64d/14760/dvtsKgk/datv.m3u8
 1-SHOW TV * http://sharingmaster.org:8000/live/norase54/bvg879/5276.ts
 2-SHOW TV * http://iptv.re/live/1/1/2458.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -47,6 +48,10 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 4-KANAL D * http://sharingmaster.org:8000/live/norase54/bvg879/5286.ts
 1-TV8 HD * http://sharingmaster.org:8000/live/norase54/bvg879/5258.ts
 2-TV8 iNT HD * http://85.132.59.163:1234/tv8int
+3-TV8 * http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=109140551&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDU6MjMgUE0maGFzaF92YWx1ZT0vUndhd1RwYVFMMzk3UXhpWTd4Ynh3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
+4-TV8 * http://tb-live.cdn.tv8.com.tr/tv8/tv8hd_720p.m3u8?e=1476073049&st=ajiDt83AxsREJBOiZeozKQ
+5-TV8 * http://62.210.177.197/7/dGPV1gKw/35947/pU-WaiS/14760/ZVx8oPy/dtv8.m3u8
+6-TV8 * http://yayin7.canlitvlive.co/tv8/live.m3u8?tkn=fJMPPM9rjQqfLANxMVLpiw&tms=1476044291
 iDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
@@ -75,6 +80,7 @@ FLASH TV * rtmp://184.173.181.2:1935/8158/8158
 2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 1-NTV HD * http://propanel.viplive2.org:8080/live/mazlumuluc/041220151345/33.ts
 2-NTV HD * http://yayin7.canlitvlive.co/ntv/live.m3u8?tkn=OMd-TnWgB2FzB58sk-8X3g&tms=1475657926
+3-NTV * http://62.210.177.197/7/RFNlE5-g/36099/_Hoj9eD/14760/lPeYSRp/dntv.m3u8
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
