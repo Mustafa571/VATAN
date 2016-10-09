@@ -1,4 +1,5 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
+[COLOR yellow]YENi TV8,5 - L1[/COLOR]iZLE * http://51qya.streamgo1.stream:1935/edge/ch104/playlist.m3u8
 ==================================================.*.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
