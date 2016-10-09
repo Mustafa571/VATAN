@@ -49,3 +49,5 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
 #EXTINF:-1,SUPER RTL  
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/363.ts
+#EXTINF:-1,MUSIC INDIA
+http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
