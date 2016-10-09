@@ -33,9 +33,8 @@ BEYAZ TV HD * http://178.162.205.72:8081/live_hd/beyaztv/live_sd/e2_hi/chunks.m3
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 A HABER * http://sharingmaster.org:8000/live/norase54/bvg879/5304.ts
-1-STAR TV * http://startv_dogus-lh.akamaihd.net/i/startv_1@32761/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1476115365~acl=%2f*~data=hdntl~hmac=61b155017f4527936c07220f8ee1a4b0369223ea60445909963b835c0d210808
-2-STAR TV * http://85.132.59.163:1234/startv
-3-STAR TV * http://62.210.177.197/7/c94DsdKQ/36018/BRumqUq/14760/ATtEbfs/dstartv.m3u8
+1-STAR TV * http://85.132.59.163:1234/startv
+2-STAR TV * http://62.210.177.197/7/c94DsdKQ/36018/BRumqUq/14760/ATtEbfs/dstartv.m3u8
 1-ATV HD * http://178.162.205.72:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=5527565&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDQ6MzQgUE0maGFzaF92YWx1ZT1UOEgrcnozSElxZ3ZOallNTjJUZlpRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
 2-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
 3-ATV * http://62.210.177.197/7/WDzrx4-w/36064/4bvE64d/14760/dvtsKgk/datv.m3u8
