@@ -4,11 +4,11 @@
 http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
 #EXTINF:-1,TR-L3 TV HD
 http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
-#EXTINF:-1,1-Extra L1
+#EXTINF:-1, 1-Yeni TV8,5 - L1
 http://51qya.streamgo1.stream:1935/edge/ch104/playlist.m3u8
-#EXTINF:-1,2-Extra L1
+#EXTINF:-1, 2-Yeni TV8,5 - L1
 http://185.59.222.55:1935/edge/ch104/kalearkasi.m3u8
-#EXTINF:-1,Extra T1
+#EXTINF:-1,EXTRA T1
 http://fra1.ddns.net:97/live/test/test/521.m3u8
 #EXTINF:-1,TR-SALON_1_HD
 http://sharingmaster.org:8000/live/norase54/bvg879/11566.ts
