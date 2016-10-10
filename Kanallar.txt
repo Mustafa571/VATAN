@@ -26,18 +26,15 @@ TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1427451232.m3u8
 3-TRT SPOR HD * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-BEYAZ TV HD * http://178.162.205.72:8081/live_hd/beyaztv/live_sd/e2_hi/chunks.m3u8?nimblesessionid=5527990&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDY6NDEgUE0maGFzaF92YWx1ZT1iTmF3MTNHTlVTdG4rTWdrNkZPRjBnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
 A HABER * http://sharingmaster.org:8000/live/norase54/bvg879/5304.ts
-1-STAR TV * http://85.132.59.163:1234/startv
-2-STAR TV * http://62.210.177.197/7/c94DsdKQ/36018/BRumqUq/14760/ATtEbfs/dstartv.m3u8
-1-ATV HD * http://178.162.205.72:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=5527565&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDQ6MzQgUE0maGFzaF92YWx1ZT1UOEgrcnozSElxZ3ZOallNTjJUZlpRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
-2-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
-3-ATV * http://62.210.177.197/7/WDzrx4-w/36064/4bvE64d/14760/dvtsKgk/datv.m3u8
+STAR TV * http://85.132.59.163:1234/startv
+1-ATV AVRUPA * http://sharingmaster.org:8000/live/norase54/bvg879/5302.ts
+2-ATV * http://62.210.177.197/7/WDzrx4-w/36064/4bvE64d/14760/dvtsKgk/datv.m3u8
 1-SHOW TV * http://sharingmaster.org:8000/live/norase54/bvg879/5276.ts
 2-SHOW TV * http://iptv.re/live/1/1/2458.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -48,10 +45,6 @@ SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 4-KANAL D * http://sharingmaster.org:8000/live/norase54/bvg879/5286.ts
 1-TV8 HD * http://sharingmaster.org:8000/live/norase54/bvg879/5258.ts
 2-TV8 iNT HD * http://85.132.59.163:1234/tv8int
-3-TV8 * http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=109140551&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDE2IDQ6MDU6MjMgUE0maGFzaF92YWx1ZT0vUndhd1RwYVFMMzk3UXhpWTd4Ynh3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTMxLjE2LjI1NS4yNDQ=
-4-TV8 * http://tb-live.cdn.tv8.com.tr/tv8/tv8hd_720p.m3u8?e=1476073049&st=ajiDt83AxsREJBOiZeozKQ
-5-TV8 * http://62.210.177.197/7/dGPV1gKw/35947/pU-WaiS/14760/ZVx8oPy/dtv8.m3u8
-6-TV8 * http://yayin7.canlitvlive.co/tv8/live.m3u8?tkn=fJMPPM9rjQqfLANxMVLpiw&tms=1476044291
 iDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
@@ -86,11 +79,9 @@ BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
-MANiSA MEDYA * http://live2.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafea1a4/index.m3u8?ttl=1475654151&sign=eP1dOMWQJeGOHc0u-pE2Gg&r=playlist
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
-BJK * http://stream-02.vty.dailymotion.com/50/dm/1/x31omum/live.isml/events(live-1475242749)/live-audio=128000-video=2000000.m3u8
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8 
