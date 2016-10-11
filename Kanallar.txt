@@ -32,7 +32,8 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 A HABER * http://51.255.88.234:8080/live/189nad1604/189nad1604/1632.ts
 1-STAR TV * http://85.132.59.163:1234/startv
 2-STAR TV * http://51.255.88.234:8080/live/189nad1604/189nad1604/3418.ts
-1-ATV AVRUPA * 
+3-STAR TV * http://proxiiptv.dyndns.tv:8000/live/dreamserver/dreamserver/601.ts
+1-ATV * http://proxiiptv.dyndns.tv:8000/live/dreamserver/dreamserver/593.ts
 2-ATV * http://62.210.177.197/7/WDzrx4-w/36064/4bvE64d/14760/dvtsKgk/datv.m3u8
 1-SHOW TV * http://51.255.88.234:8080/live/189nad1604/189nad1604/3419.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -69,7 +70,8 @@ YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 FLASH TV * rtmp://184.173.181.2:1935/8158/8158
 1-NTV SPOR HD * http://185.59.222.55:1935/edge/ch1/yetmis6.m3u8
 2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
-NTV HD * http://51.255.88.234:8080/live/189nad1604/189nad1604/1611.ts
+1-NTV HD * http://51.255.88.234:8080/live/189nad1604/189nad1604/1611.ts
+2-NTV HD * http://proxiiptv.dyndns.tv:8000/live/dreamserver/dreamserver/602.ts
 ÜLKE TV HD * http://51.255.88.234:8080/live/189nad1604/189nad1604/8930.ts
 KANAL 7 HD * http://51.255.88.234:8080/live/189nad1604/189nad1604/8927.ts
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
