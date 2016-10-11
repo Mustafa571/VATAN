@@ -1,177 +1,133 @@
 #EXTM3U
-#EXTINF:-1,<>===#=== Germany CHANNEL ===#===<>
-http://iptv.re/live/1/1/2812.ts
-#EXTINF:-1,DE: Sky Cinema
-http://iptv.re/live/1/1/2370.ts
-#EXTINF:-1,DE: Sky Cinema 1
-http://iptv.re/live/1/1/2371.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://iptv.re/live/1/1/2619.ts
-#EXTINF:-1,DE: Sky Cinema 24
-http://iptv.re/live/1/1/2372.ts
-#EXTINF:-1,DE: Sky Movies Comedy
-http://iptv.re/live/1/1/1836.ts
-#EXTINF:-1,DE: Sky Hits
-http://iptv.re/live/1/1/2377.ts
-#EXTINF:-1,DE: Sky Movies Action
-http://iptv.re/live/1/1/1835.ts
-#EXTINF:-1,DE: SKY MOVIES EMOTION
-http://iptv.re/live/1/1/3231.ts
-#EXTINF:-1,DE: RTL PASSION
-http://iptv.re/live/1/1/3232.ts
-#EXTINF:-1,DE: RTL NITRO
-http://iptv.re/live/1/1/3234.ts
-#EXTINF:-1,DE: RTL CRIME
-http://iptv.re/live/1/1/3233.ts
-#EXTINF:-1,DE: DISNEY XD
-http://iptv.re/live/1/1/3224.ts
-#EXTINF:-1,DE: DISNEY Channel
-http://iptv.re/live/1/1/3225.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://iptv.re/live/1/1/3226.ts
-#EXTINF:-1,DE: ZDF
-http://iptv.re/live/1/1/2608.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://iptv.re/live/1/1/2606.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://iptv.re/live/1/1/2607.ts
-#EXTINF:-1,DE: RTL 2
-http://iptv.re/live/1/1/2611.ts
-#EXTINF:-1,DE: RTL
-http://iptv.re/live/1/1/2610.ts
-#EXTINF:-1,DE: VOX
-http://iptv.re/live/1/1/2609.ts
-#EXTINF:-1,SyFy Deu
-http://iptv.re/live/1/1/2614.ts
-#EXTINF:-1,DE: Prosieben
-http://iptv.re/live/1/1/2612.ts
-#EXTINF:-1,DE: Nickelodeon
-http://iptv.re/live/1/1/2613.ts
-#EXTINF:-1,DE: Discovery
-http://iptv.re/live/1/1/2378.ts
-#EXTINF:-1,DE: Sky Select 1
-http://iptv.re/live/1/1/1831.ts
-#EXTINF:-1,DE: Sky Select 2
-http://iptv.re/live/1/1/1832.ts
-#EXTINF:-1,DE: Sky Select 3
-http://iptv.re/live/1/1/1833.ts
-#EXTINF:-1,DE: Sky Select 4
-http://iptv.re/live/1/1/1834.ts
-#EXTINF:-1,DE: Sky Sports 1
-http://iptv.re/live/1/1/1947.ts
-#EXTINF:-1,DE: Sky Sports 2
-http://iptv.re/live/1/1/1948.ts
-#EXTINF:-1,DE: Sky Bundesliga
-http://iptv.re/live/1/1/2379.ts
-#EXTINF:-1,DE: TNT Serie
-http://iptv.re/live/1/1/3697.ts
-#EXTINF:-1,DE: TNT Film
-http://iptv.re/live/1/1/3709.ts
-#EXTINF:-1,DE: TELE 5
-http://iptv.re/live/1/1/3689.ts
-#EXTINF:-1,DE: Super RTL
-http://iptv.re/live/1/1/3229.ts
-#EXTINF:-1,DE: Sport 1
-http://iptv.re/live/1/1/3693.ts
-#EXTINF:-1,DE: Sky News
-http://iptv.re/live/1/1/3694.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://iptv.re/live/1/1/3696.ts
-#EXTINF:-1,DE: Sat1 Gold
-http://iptv.re/live/1/1/3703.ts
-#EXTINF:-1,DE: Sat 1
-http://iptv.re/live/1/1/2015.ts
-#EXTINF:-1,DE: Prosieben Maxx
-http://iptv.re/live/1/1/3228.ts
-#EXTINF:-1,DE: NTV
-http://iptv.re/live/1/1/3692.ts
-#EXTINF:-1,DE: Nat Geo Wild
-http://iptv.re/live/1/1/3700.ts
-#EXTINF:-1,DE: Nat Geo
-http://iptv.re/live/1/1/3699.ts
-#EXTINF:-1,DE: N24
-http://iptv.re/live/1/1/3708.ts
-#EXTINF:-1,DE: Motor Vision
-http://iptv.re/live/1/1/3701.ts
-#EXTINF:-1,DE: Kika
-http://iptv.re/live/1/1/3690.ts
-#EXTINF:-1,DE: Kabel Eins
-http://iptv.re/live/1/1/2016.ts
-#EXTINF:-1,DE: hr-Fernsehen
-http://iptv.re/live/1/1/3691.ts
-#EXTINF:-1,DE: Heitmat Kanal
-http://iptv.re/live/1/1/3698.ts
-#EXTINF:-1,DE: DMAX
-http://iptv.re/live/1/1/2017.ts
-#EXTINF:-1,DE: Discovery Channel
-http://iptv.re/live/1/1/3707.ts
-#EXTINF:-1,DE: Das Erste
-http://iptv.re/live/1/1/2014.ts
-#EXTINF:-1,DE: Cartoon Network
-http://iptv.re/live/1/1/3705.ts
-#EXTINF:-1,DE: Boomrang
-http://iptv.re/live/1/1/3706.ts
-#EXTINF:-1,DE: Baby TV
-http://iptv.re/live/1/1/3704.ts
-#EXTINF:-1,DE: ARTE
-http://iptv.re/live/1/1/3702.ts
-#EXTINF:-1,DE: 13th Street
-http://iptv.re/live/1/1/3695.ts
-
-#EXTINF:-1,<>===#=== Turque Channel ===#===<>
-http://iptv.re/live/1/1/3533.ts
-#EXTINF:-1,TR Sinema TV
-http://iptv.re/live/1/1/3382.ts
-#EXTINF:-1,TR MovieSmart Turk
-http://iptv.re/live/1/1/3377.ts
-#EXTINF:-1,TR MovieSmart Premium HD
-http://iptv.re/live/1/1/3380.ts
-#EXTINF:-1,TR MovieSmart Premium 2
-http://iptv.re/live/1/1/3381.ts
-#EXTINF:-1,TR MovieSmart Platin2
-http://iptv.re/live/1/1/3379.ts
-#EXTINF:-1,TR MovieSmart Platin
-http://iptv.re/live/1/1/3378.ts
-#EXTINF:-1,TR MovieSmart Gold
-http://iptv.re/live/1/1/3376.ts
-#EXTINF:-1,TR MovieSmart Fest
-http://iptv.re/live/1/1/3374.ts
-#EXTINF:-1,TR MovieSmart Family
-http://iptv.re/live/1/1/3373.ts
-#EXTINF:-1,TR MovieSmart Classic
-http://iptv.re/live/1/1/3375.ts
-#EXTINF:-1,TR Movie Smart Action HD
-http://iptv.re/live/1/1/3372.ts
-#EXTINF:-1,TR: ATV
-http://iptv.re/live/1/1/2454.ts
-#EXTINF:-1,TR: TRT 1
-http://iptv.re/live/1/1/2457.ts
-#EXTINF:-1,TR: Star TV
-http://iptv.re/live/1/1/2455.ts
-#EXTINF:-1,TR: Smart Sport
-http://iptv.re/live/1/1/2460.ts
-#EXTINF:-1,TR: TRT
-http://iptv.re/live/1/1/2733.ts
-#EXTINF:-1,TR: TRT 3 Spor
-http://iptv.re/live/1/1/2734.ts
-#EXTINF:-1,TR: Sports TV
-http://iptv.re/live/1/1/2735.ts
-#EXTINF:-1,TR: FOX TV
-http://iptv.re/live/1/1/2731.ts
-#EXTINF:-1,TR: Fox Life HD
-http://iptv.re/live/1/1/2732.ts
-#EXTINF:-1,TR: Show TV
-http://iptv.re/live/1/1/2458.ts
-#EXTINF:-1,TR: NTV Spor
-http://iptv.re/live/1/1/2452.ts
-#EXTINF:-1,TR: MovieSmart Premium
-http://iptv.re/live/1/1/2462.ts
-#EXTINF:-1,TR: MovieSmart Action
-http://iptv.re/live/1/1/2463.ts
-#EXTINF:-1,TR: Kral Pop TV
-http://iptv.re/live/1/1/2456.ts
-#EXTINF:-1,TR: Kanal D
-http://iptv.re/live/1/1/2453.ts
-#EXTINF:-1,TR: Fox Sports
-http://iptv.re/live/1/1/2461.ts
-
+#EXTINF:-1,VIP: LIG TV HD 1 TR
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4497.ts
+#EXTINF:-1,VIP: LIG TV HD 2 TR
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4498.ts
+#EXTINF:-1,VIP: LIG TV HD 3 TR
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4499.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2408.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2409.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2410.ts
+#EXTINF:-1,TR: LIGTV 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1153.ts
+#EXTINF:-1,TR: FB TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1154.ts
+#EXTINF:-1,TR: LIGTV 3 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1155.ts
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5622.ts
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5623.ts
+#EXTINF:-1,TR: A Sport HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1602.ts
+#EXTINF:-1,TR: ARENA SPORT 2 TV
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3695.ts
+#EXTINF:-1,TR: TRT SPORT HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1289.ts
+#EXTINF:-1,TR: EuroSport 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8384.ts
+#EXTINF:-1,TR: ATV HD ( 1080P )
+http://51.255.88.234:8080/li…/189nad1604/189nad1604/10834.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1606.ts
+#EXTINF:-1,TR: TRT WORLD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2472.ts
+#EXTINF:-1,TR: TRT COCUK
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2466.ts
+#EXTINF:-1,TR: BELGESEL 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2225.ts
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2467.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2468.ts
+#EXTINF:-1,TR: TRT Muzik
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3910.ts
+#EXTINF:-1,TR: TRT Turk
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8928.ts
+#EXTINF:-1,TR: TRT OKUL
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8929.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3427.ts
+#EXTINF:-1,TR: DIYANET TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8932.ts
+#EXTINF:-1,TR: TV2
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2474.ts
+#EXTINF:-1,TR: TV8 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4572.ts
+#EXTINF:-1,TR: A TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3423.ts
+#EXTINF:-1,TR: FOX TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3260.ts
+#EXTINF:-1,TR: FX HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2221.ts
+#EXTINF:-1,TR: STAR HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3418.ts
+#EXTINF:-1,TR: SHOW HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3419.ts
+#EXTINF:-1,TR: NTV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1611.ts
+#EXTINF:-1,TR: KANAL T
+http://51.255.88.234:8080/live/189nad1604/189nad1604/9543.ts
+#EXTINF:-1,TR: Kanal A
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8917.ts
+#EXTINF:-1,TR: SALON 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2066.ts
+#EXTINF:-1,TR: SALON 2 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2065.ts
+#EXTINF:-1,TR: SALON 3 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2064.ts
+#EXTINF:-1,TR: LOCA 1 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5644.ts
+#EXTINF:-1,TR: LOCA 2 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5645.ts
+#EXTINF:-1,TR: LOCA 3 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5646.ts
+#EXTINF:-1,TR: HABER TURK
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4052.ts
+#EXTINF:-1,TR: TGRT Belgesel
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4573.ts
+#EXTINF:-1,TR: Power TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/6491.ts
+#EXTINF:-1,TR: TGRT HABER
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4581.ts
+#EXTINF:-1,TR: teve2
+http://51.255.88.234:8080/live/189nad1604/189nad1604/4483.ts
+#EXTINF:-1,TR: CNN TURK HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/2475.ts
+#EXTINF:-1,TR: Star TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1604.ts
+#EXTINF:-1,TR: A HABER HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1632.ts
+#EXTINF:-1,TR: Kanal D HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1603.ts
+#EXTINF:-1,TR: CARTOON NETWORK
+http://51.255.88.234:8080/live/189nad1604/189nad1604/1851.ts
+#EXTINF:-1,TR: Dream Turk
+http://51.255.88.234:8080/live/189nad1604/189nad1604/3422.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8930.ts
+#EXTINF:-1,TR: Planet Turk
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8913.ts
+#EXTINF:-1,TR: Planet Pembe
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8912.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8911.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8910.ts
+#EXTINF:-1,TR: MinikaGo
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8906.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8927.ts
+#EXTINF:-1,TR: Beyaz Tv
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8888.ts
+#EXTINF:-1,TR: FLASH TV
+http://51.255.88.234:8080/live/189nad1604/189nad1604/5634.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://51.255.88.234:8080/live/189nad1604/189nad1604/6069.ts
+#EXTINF:-1,TR: Kanal 3
+http://51.255.88.234:8080/live/189nad1604/189nad1604/6071.ts
+#EXTINF:-1,TR: National Geographic HD
+http://51.255.88.234:8080/live/189nad1604/189nad1604/8272.ts
