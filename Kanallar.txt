@@ -1,5 +1,4 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
-L 1 * http://iptvfast.dyndns.org:5969/live/8182F2CBdb/8182F2CBdb/1402.ts
 ==================================================.*.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
@@ -29,16 +28,16 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D
-A HABER * http://yayin7.canlitvlive.co/ahaber/live.m3u8?tkn=6SXrtgqkvT6HFl355HrXDA&tms=1476303521
+A HABER * 
 1-STAR TV * http://85.132.59.163:1234/startv
-2-STAR TV * http://iptvfast.dyndns.org:5969/live/8182F2CBdb/8182F2CBdb/485.ts
-ATV * http://iptvfast.dyndns.org:5969/live/8182F2CBdb/8182F2CBdb/1102.ts
+2-STAR TV * 
+ATV * 
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-TV8 * http://iptvfast.dyndns.org:5969/live/8182F2CBdb/8182F2CBdb/1001.ts
+TV8 * 
 TV8 iNT HD * http://85.132.59.163:1234/tv8int
 iDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
@@ -61,12 +60,9 @@ AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-1-FOX HD * http://fox.staging.viviso.tv/480/live.m3u8
-2-FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
-FLASH TV * rtmp://184.173.181.2:1935/8158/8158
-1-NTV SPOR HD * http://185.59.222.55:1935/edge/ch1/yetmis6.m3u8
-2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
-NTV * http://yayin7.canlitvlive.co/ntv/live.m3u8?tkn=11X1Ve6W0vOfGDLHDQWNnw&tms=1476303484
+FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
+NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
+NTV * 
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
