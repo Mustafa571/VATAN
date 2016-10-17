@@ -3,28 +3,6 @@
 http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ZDF 
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TAGESSCHAU 24  
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,RTL ll HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/359.ts
-#EXTINF:-1,Universal Channel
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1687.ts
-#EXTINF:-1,VOX HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1684.ts
-#EXTINF:-1,SIXX HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1681.ts
-#EXTINF:-1,PHOENIX
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1688.ts
-#EXTINF:-1,RTL Crime
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1689.ts
-#EXTINF:-1,Romance tv
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1690.ts
-#EXTINF:-1,PRO 7
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1677.ts
-#EXTINF:-1,SAT.1 HD
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/361.ts
-#EXTINF:-1,NDR
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1995.ts
 #EXTINF:-1,MDR  
 http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
 #EXTINF:-1,SR  
@@ -39,17 +17,12 @@ http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 #EXTINF:-1,BR  
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1,ARD-Alpha  
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1,ORF2  
 http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1,SERVUS TV  
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-#EXTINF:-1,KIKA  
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-#EXTINF:-1,SUPER RTL  
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/363.ts
+#EXTINF:-1,===============================
 #EXTINF:-1,MUSIC INDIA
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
-#EXTINF:-1,KARA BELA Film
-https://vd6.mycdn.me/?sig=da093fa25ea757a4050dc1588d794dd115458504&ct=4&urls=217.20.157.208&expires=1476568632663&srcIp=31.16.255.244&srcAg=GECKO&clientType=0&id=146256104103&type=1&bytes=0-7499
+#EXTINF:-1,INDIA B4U MUSIC
+http://151.80.27.59:8000/live/helmi/helmi/4716.ts
