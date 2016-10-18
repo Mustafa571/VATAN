@@ -1,1 +1,113 @@
 #EXTM3U
+#EXTINF:-1,===== SPOR OZEL =====
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/8850.ts
+#EXTINF:-1,-TR: LIGTV-1 HD VIP
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10048.ts
+#EXTINF:-1,-TR: LIGTV-1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3417.ts
+#EXTINF:-1,-TR: LIGTV-1 HD VIP YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/15655.ts
+#EXTINF:-1,TR: LIGTV 1 EX
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/11075.ts
+#EXTINF:-1,TR: LIGTV 1 SD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12238.ts
+#EXTINF:-1,-TR- LIGTV 1
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13651.ts
+#EXTINF:-1,-TR: LIGTV-1 HD VIP MAC SAATI ACIK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14216.ts
+#EXTINF:-1,TR: LIGTV HD MAC SAATI ACIK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14217.ts
+#EXTINF:-1,TR-: LIGTV 1 LOCAL YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13027.ts
+#EXTINF:-1,TR: LIG TV 1 VIP1
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13539.ts
+#EXTINF:-1,-TR:  LIGTV-1 HD VIP SUPERLIG 1 (MACTA ACIK)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/6397.ts
+#EXTINF:-1,TR: LIGTV EX. YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13461.ts
+#EXTINF:-1,-TR: LIGTV-2 HD VIP
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3418.ts
+#EXTINF:-1,-TR: LIGTV-2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10049.ts
+#EXTINF:-1,-TR- LIGTV 2
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13652.ts
+#EXTINF:-1,TR-: LIGTV 2 LOCAL YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13028.ts
+#EXTINF:-1,TR: LIG TV 2 VIP2
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13540.ts
+#EXTINF:-1,TR: LIGTV 2 EX
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/11074.ts
+#EXTINF:-1,TR: LIGTV-2 HD VIP (MACTA ACIK)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14218.ts
+#EXTINF:-1,TR-:  SUPERLIG 2 (MACTA ACIKSADECE)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/6398.ts
+#EXTINF:-1,-TR: LIGTV-3 HD VIP
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3419.ts
+#EXTINF:-1,TR: LIGTV 3 EX
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/11076.ts
+#EXTINF:-1,-TR- LIGTV 3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13653.ts
+#EXTINF:-1,TR-: LIGTV 3 LOCAL YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13029.ts
+#EXTINF:-1,TR: LIG TV 3 VIP3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13541.ts
+#EXTINF:-1,TR-:  SUPERLIG 3 (MACTA ACIKSADECE)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/6399.ts
+#EXTINF:-1,-TR: LIGTV-4 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3420.ts
+#EXTINF:-1,-TR- LIGTV 4
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13654.ts
+#EXTINF:-1,TR-:  SUPERLIG 4 (MACTA ACIKSADECE)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/6428.ts
+#EXTINF:-1,TR: LIGTV 1 YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12075.ts
+#EXTINF:-1,TR: LIGTV 2 YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12076.ts
+#EXTINF:-1,TR: LIGTV 3 YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12077.ts
+#EXTINF:-1,-TR: LIGTV-3 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10050.ts
+#EXTINF:-1,-TR: LIGTV-4 HD VIP
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10051.ts
+#EXTINF:-1,TR: LIGTV 4 YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12078.ts
+#EXTINF:-1,TR-: LIGTV 4 LOCAL YEDEK
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13030.ts
+#EXTINF:-1,TR-: TIVIBUSPOR 1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14242.ts
+#EXTINF:-1,TR:- TIVIBUSPOR-1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10055.ts
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10.ts
+#EXTINF:-1,TR-: TIVIBUSPOR-1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/4486.ts
+#EXTINF:-1,TR-: TIVIBU SPOR HD (LOCAL)
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13031.ts
+#EXTINF:-1,TR-: TIVIBUSPOR 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14241.ts
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/11.ts
+#EXTINF:-1,TR-: TIVIBUSPOR-2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/4487.ts
+#EXTINF:-1,TR-: TIVIBUSPOR 3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12717.ts
+#EXTINF:-1,-TR- TIVIBUSPOR 3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13655.ts
+#EXTINF:-1,TR: TIVIBU SPOR 3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13565.ts
+#EXTINF:-1,TR-: TIVIBUSPOR 4
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12718.ts
+#EXTINF:-1,TR: TIVIBUSPOR 4
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12112.ts
+#EXTINF:-1,TR-: SMARTSPORT
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/4683.ts
+#EXTINF:-1,TR:- SMARTSPOR 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10058.ts
+#EXTINF:-1,TR-: SPORT TV HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/14246.ts
+#EXTINF:-1,TR-: SPORTSTV HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3427.ts
+#EXTINF:-1,TR: EUROSPORT 1
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10871.ts
+#EXTINF:-1,TR: EUROSPORT 2
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10872.ts
