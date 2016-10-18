@@ -17,7 +17,7 @@ Mawlaya Albanian Medreseja-Mevlaya * http://proxy-067.dc3.dailymotion.com/sec(ab
 RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ra1.m3u
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
 MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
-=======[COLOR red]ALMAN KANALLARI[/COLOR]=======. *.m3u
+=======[COLOR red]ALMAN ve DiGER KANALLAR[/COLOR]=======. *.m3u
 ALMAN KANALLARI-PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 
 
