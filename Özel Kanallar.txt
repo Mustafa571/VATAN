@@ -18,6 +18,6 @@ RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/mas
 =======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
 MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =======[COLOR red]ALMAN ve DiGER KANALLAR[/COLOR]=======. *.m3u
-ALMAN KANALLARI-PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
+ALMAN ve DiĞER KANALLAR * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 
 
