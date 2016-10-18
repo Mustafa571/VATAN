@@ -1,5 +1,6 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR green]KARIŞIK KANALLAR 1-[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+=[COLOR green]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+=[COLOR green]KARIŞIK SPOR KANALLARI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
 [COLOR orange]ALTTAKi iSiMLERi TAM OLARAK YAZAMIYORUM-Elimden aliyorlar[/COLOR]= *.m3u
 L 1 * http://51qya.streamgo1.stream:1935/edge/ch104/ByHayalet47.m3u8 
 L 2 * http://51qya.streamgo1.stream:1935/edge/ch105/ByHayalet47.m3u8 
