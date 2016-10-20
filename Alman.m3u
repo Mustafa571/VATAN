@@ -3,6 +3,8 @@
 http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ZDF 
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ASTRO TV 
+http://rrbalancer.broadcast.tneg.de:1935/astrotv/smil:astro.smil/chunklist_w7919528_b1548000.m3u8
 #EXTINF:-1,MDR  
 http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
 #EXTINF:-1,SR  
