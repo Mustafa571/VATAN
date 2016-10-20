@@ -27,9 +27,18 @@ http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.
 #EXTINF:-1,INDIA B4U MUSIC
 http://151.80.27.59:8000/live/helmi/helmi/4716.ts
 === Česká televize ===========
-#EXTINF:-1,TV Noe
-rtmp://w100.quickmedia.tv/prozeta-live04/_definst_?id=mPlvpEWWYV7fDm-03/prozeta-live04-MP4_288p-1.stream
-#EXTINF:-1,O 24
-http://80.188.78.151/aa/74f07e7c45247d20a80be44f09639f44/1476769451373/0985e51b9942246f02d992d826ef6103/2402-tv-pc/hls/1502.m3u8
+#EXTINF:-1,TV Morava 
+http://stream.redigy.cz:1934/tvm.flv
+#EXTINF:-1,Televize Polar
+rtmp://185.58.41.34/polar/polarlive-2
+#EXTINF:-1,Východoceská Televize
+rtmp://185.58.41.34/vctv/vctvlive-1
+#EXTINF:-1,retrotv
+rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
+#EXTINF:-1,Fashion tv
+http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1929455622.m3u8
+===FiLiMLER==========
+#EXTINF:-1,Dragme to hell-HORROR
+http://stor20.streamcloud.eu:8080/6lv74sywkkoax3ptxzninth2xwmxxigrm6m26lseepvaode3buea6edzai/video.mp4
 
 
