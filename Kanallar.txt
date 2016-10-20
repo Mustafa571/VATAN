@@ -49,6 +49,8 @@ TV 8 HD * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/53.ts
 1-TV8,5 HD *http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/15522.ts
 2-TV8,5 HD * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/15523.ts
 KANAL 7 * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3454.ts
+KANAL 7 HD * http://stream-13.vty.dailymotion.com/50/dm/1/x4k2h1q/live.isml/events(live-1476793859)/live-audio=128000-video=2000000.m3u8
+KANAL AVRUPA * rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_//stream1
 iDMAN TV * http://149.255.152.70/idman/index.m3u8
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
