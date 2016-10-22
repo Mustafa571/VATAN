@@ -1,5 +1,5 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
-[COLOR orange]LÜTFEN OKUYUN[/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
+[COLOR orange]LÜTFEN OKUYUN[/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 ==================================================.*.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
@@ -29,26 +29,15 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D 
-1-STAR TV * http://85.132.59.163:1234/startv
-2-STAR TV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10074.ts
-3-STAR TV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/38.ts
-1-ATV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3447.ts
-2-ATV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10120.ts
-3-ATV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/33.ts
-1-SHOW TV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/7478.ts
-2-SHOW TV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/9558.ts
-3-SHOW TV * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10077.ts
+STAR TV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
+ATV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
+SHOW TV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-TV 8 HD * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/53.ts
 1-TV8 iNT * http://85.132.59.163:1234/tv8int
-2-TV8 iNT * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/11150.ts
-1-TV8,5 HD *http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/15522.ts
-2-TV8,5 HD * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/15523.ts
-KANAL 7 * http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/3454.ts
 KANAL 7 HD * http://stream-13.vty.dailymotion.com/50/dm/1/x4k2h1q/live.isml/events(live-1476793859)/live-audio=128000-video=2000000.m3u8
 KANAL AVRUPA * rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_//stream1
 iDMAN TV * http://149.255.152.70/idman/index.m3u8
