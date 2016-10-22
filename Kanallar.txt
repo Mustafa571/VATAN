@@ -46,7 +46,8 @@ TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w144
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
-MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
+1-MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
+2-MEKKE LIVE * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10366.ts
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 KUDUS TV * rtmp://yayin8.canliyayin.org/kudustv/kudustv
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
