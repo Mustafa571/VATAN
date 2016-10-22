@@ -29,15 +29,21 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D 
-STAR TV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
-ATV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
-SHOW TV * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
+1-STAR TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5126.ts
+2-STAR TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10009.ts
+1-ATV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5125.ts
+2-ATV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10010.ts
+1-SHOW TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5127.ts
+2-SHOW TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10012.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
+BEYAZ TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5137.ts
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-1-TV8 iNT * http://85.132.59.163:1234/tv8int
+A HABER * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5150.ts
+TV8 HD * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5129.ts
+TV8 iNT * http://85.132.59.163:1234/tv8int
 KANAL 7 HD * http://stream-13.vty.dailymotion.com/50/dm/1/x4k2h1q/live.isml/events(live-1476793859)/live-audio=128000-video=2000000.m3u8
 KANAL AVRUPA * rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_//stream1
 iDMAN TV * http://149.255.152.70/idman/index.m3u8
@@ -64,7 +70,7 @@ BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
 NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
-NTV * hhttp://178.162.205.71:8081/live_sd/ntv/live_sd/ntv_hi/chunks.m3u8?nimblesessionid=111284858&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAxNiA0OjEzOjE1IFBNJmhhc2hfdmFsdWU9bVhiMmJkWERjSGVjcHV3MU55b1dHZz09JnZhbGlkbWludXRlcz0xMCZpcD0zMS4xNi4yNTUuMjQ0
+NTV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5134.ts
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
