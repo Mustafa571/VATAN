@@ -6,4 +6,32 @@ http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6412.ts
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6413.ts
 #EXTINF:-1,-TR: LIGTV-3 HD 
 http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6414.ts
+#EXTINF:-1,LiG TV 1 SD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/636.m3u8
+#EXTINF:-1,LiG TV 1 HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/634.m3u8
+#EXTINF:-1,LIG TV YEDEK
+http://149.202.71.237:8000/live/DenizTok/DenizTok/3693.m3u8
+#EXTINF:-1,LiG TV 2 HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/637.m3u8
+#EXTINF:-1,LiG TV 3 HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/1026.m3u8
+#EXTINF:-1,LiG TV 4 HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/3696.m3u8
+#EXTINF:-1,TIVIBU SPOR 1
+http://149.202.71.237:8000/live/DenizTok/DenizTok/2647.m3u8
+#EXTINF:-1,TIVIBU SPOR 2
+http://149.202.71.237:8000/live/DenizTok/DenizTok/3698.m3u8
+#EXTINF:-1,TIVIBU SPOR 3 (sadece maclarda)
+http://149.202.71.237:8000/live/DenizTok/DenizTok/3694.m3u8
+#EXTINF:-1,TIVIBU SPOR 4 (sadece maclarda)
+http://149.202.71.237:8000/live/DenizTok/DenizTok/3695.m3u8
+#EXTINF:-1,SMART SPOR 1
+http://149.202.71.237:8000/live/DenizTok/DenizTok/2833.m3u8
+#EXTINF:-1,SMART SPOR 2
+http://149.202.71.237:8000/live/DenizTok/DenizTok/2834.m3u8
+#EXTINF:-1,NTV_SPOR_HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/604.m3u8
+#EXTINF:-1,A_SPOR_HD
+http://149.202.71.237:8000/live/DenizTok/DenizTok/605.m3u8
 
