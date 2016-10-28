@@ -39,8 +39,6 @@ rtmp://185.58.41.34/polar/polarlive-2
 rtmp://185.58.41.34/vctv/vctvlive-1
 #EXTINF:-1,retrotv
 rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
-#EXTINF:-1,Fashion tv
-http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1929455622.m3u8
 ===FiLiMLER==========
 
 
