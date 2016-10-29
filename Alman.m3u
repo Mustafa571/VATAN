@@ -40,6 +40,8 @@ rtmp://185.58.41.34/vctv/vctvlive-1
 #EXTINF:-1,retrotv
 rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
 ===FiLiMLER==========
+#EXTINF:-1,Karabela
+https://vd10.mycdn.me/?sig=776e7f4f583608b117b3ea1f2ab9956cb7a14d24&ct=4&urls=217.20.153.77&expires=1477867248135&srcIp=31.16.255.244&srcAg=GECKO&clientType=0&id=215579101863&type=3&bytes=0-7499
 
 
 
