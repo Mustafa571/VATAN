@@ -17,8 +17,7 @@ FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m
 2-TRT DİYANET * http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl=
 3-TRT DİYANET * http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-1-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
-2-TRT BELGESEL HD * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+IP Belgesel * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1675.ts
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
 1-TRT SPOR * http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
@@ -30,38 +29,35 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D 
-1-STAR TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5126.ts
-2-STAR TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10009.ts
-1-ATV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5125.ts
-2-ATV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10010.ts
-1-SHOW TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5127.ts
-2-SHOW TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10012.ts
+1-STAR TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/22.ts
+2-STAR TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/124.ts
+1-ATV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/24.ts
+2-ATV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/122.ts
+1-SHOW TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/6.ts
+2-SHOW TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/123.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
-BEYAZ TV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5137.ts
+BEYAZ TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/220.ts
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-A HABER * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5150.ts
-TV8 HD * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5129.ts
+A HABER * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/108.ts
+1-TV8 HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/26.ts
+2-TV8 HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/133.ts
 TV8 iNT * http://85.132.59.163:1234/tv8int
-KANAL 7 HD * http://stream-13.vty.dailymotion.com/50/dm/1/x4k2h1q/live.isml/events(live-1476793859)/live-audio=128000-video=2000000.m3u8
-KANAL AVRUPA * rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_//stream1
 iDMAN TV * http://149.255.152.70/idman/index.m3u8
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
-1-MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
-2-MEKKE LIVE * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/10366.ts
+MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 KUDUS TV * rtmp://yayin8.canliyayin.org/kudustv/kudustv
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
-KANAL URFA  * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TV 2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
@@ -71,13 +67,14 @@ BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 YABAN TV * http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
 NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
-NTV * http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/5134.ts
+NTV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/52.ts
 TAY TV * http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+GALATASARAY TV * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/129.ts
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
