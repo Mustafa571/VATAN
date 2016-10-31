@@ -1,37 +1,235 @@
 #EXTM3U
-#EXTINF:-1,===== SPOR OZEL =====
-#EXTINF:-1,-TR: LIGTV-1 HD 
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6412.ts
-#EXTINF:-1,-TR: LIGTV-2 HD
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6413.ts
-#EXTINF:-1,-TR: LIGTV-3 HD 
-http://clientportal.link:8080/live/rfB0kMIb91/eSw7AZSyxv/6414.ts
-#EXTINF:-1,LiG TV 1 SD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/636.m3u8
-#EXTINF:-1,LiG TV 1 HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/634.m3u8
-#EXTINF:-1,LIG TV YEDEK
-http://149.202.71.237:8000/live/DenizTok/DenizTok/3693.m3u8
-#EXTINF:-1,LiG TV 2 HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/637.m3u8
-#EXTINF:-1,LiG TV 3 HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/1026.m3u8
-#EXTINF:-1,LiG TV 4 HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/3696.m3u8
-#EXTINF:-1,TIVIBU SPOR 1
-http://149.202.71.237:8000/live/DenizTok/DenizTok/2647.m3u8
-#EXTINF:-1,TIVIBU SPOR 2
-http://149.202.71.237:8000/live/DenizTok/DenizTok/3698.m3u8
-#EXTINF:-1,TIVIBU SPOR 3 (sadece maclarda)
-http://149.202.71.237:8000/live/DenizTok/DenizTok/3694.m3u8
-#EXTINF:-1,TIVIBU SPOR 4 (sadece maclarda)
-http://149.202.71.237:8000/live/DenizTok/DenizTok/3695.m3u8
-#EXTINF:-1,SMART SPOR 1
-http://149.202.71.237:8000/live/DenizTok/DenizTok/2833.m3u8
-#EXTINF:-1,SMART SPOR 2
-http://149.202.71.237:8000/live/DenizTok/DenizTok/2834.m3u8
-#EXTINF:-1,NTV_SPOR_HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/604.m3u8
-#EXTINF:-1,A_SPOR_HD
-http://149.202.71.237:8000/live/DenizTok/DenizTok/605.m3u8
-
+#EXTINF:-1,TR | LIG TV 1 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1.ts
+#EXTINF:-1,TR | LIGTV 1  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/234.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/2.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/3.ts
+#EXTINF:-1,TR | LIGTV_4_HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/308.ts
+#EXTINF:-1,TR | VIP CHANNEL  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/4.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1835.ts
+#EXTINF:-1,TR | IZ TV ( DIJITURK )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/175.ts
+#EXTINF:-1,YENI KANAL 3
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/147.ts
+#EXTINF:-1,TR | A SPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/246.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/5.ts
+#EXTINF:-1,TR | SALON 1  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/7.ts
+#EXTINF:-1,TR | SALON 2  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/8.ts
+#EXTINF:-1,TR | SALON 3  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/9.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/15.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/209.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/338.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/13.ts
+#EXTINF:-1,TR | Tivibu Spor 1 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/210.ts
+#EXTINF:-1,TR | Tivibu Spor 2 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/211.ts
+#EXTINF:-1,TR | Tivibu Spor 3 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/212.ts
+#EXTINF:-1,TR | Tivibu Spor 4 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/213.ts
+#EXTINF:-1,TR | SMART SPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/10.ts
+#EXTINF:-1,TR | Smart Spor 2  HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/11.ts
+#EXTINF:-1,TR | NBA-TV-HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/12.ts
+#EXTINF:-1,TR | MOVIE SMART TURK HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/107.ts
+#EXTINF:-1,TR | MOVIE PREMIUM HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/36.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/49.ts
+#EXTINF:-1,TR | MOVIE PLATIN 2 HD ( dsmart )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/203.ts
+#EXTINF:-1,TR | Dizi Smart Platin HD  - D-Smart
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/105.ts
+#EXTINF:-1,TR | SiNETIVI KARNAVAL (TIVIBU)
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/127.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY (DSMART) HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/88.ts
+#EXTINF:-1,TR | MOVIESMART GOLD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/104.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1679.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/94.ts
+#EXTINF:-1,TR | DIZI TV ( FILBOX )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/106.ts
+#EXTINF:-1,TR | EUROSPORT 1 HD (FILBOX )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/17.ts
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/215.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH. HD-FILBOX
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/208.ts
+#EXTINF:-1,TR | Animal Planet ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/183.ts
+#EXTINF:-1,TR | NATIONAL GEOGRAPHIC HD ( DSMART )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/20.ts
+#EXTINF:-1,TR | BBC Earth HD (D-SMART)
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/103.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/53.ts
+#EXTINF:-1,TR | SINE TV HD-Tivibu
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/21.ts
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/32.ts
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/14.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/18.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/19.ts
+#EXTINF:-1,TR | DIZIMAX SCI-FI HD ( DIJITURK )
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/35.ts
+#EXTINF:-1,TR | Moviemax Türk HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/194.ts
+#EXTINF:-1,TR | FILM TV HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/45.ts
+#EXTINF:-1,TR | MovieMax Oscar HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1840.ts
+#EXTINF:-1,TR | MGM HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1839.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/6.ts
+#EXTINF:-1,TR | SHOW TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/123.ts
+#EXTINF:-1,TR | STAR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/22.ts
+#EXTINF:-1,TR | STAR TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/124.ts
+#EXTINF:-1,TR | ATV HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/24.ts
+#EXTINF:-1,TR | ATV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/122.ts
+#EXTINF:-1,TR | KANAL D HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/23.ts
+#EXTINF:-1,TR | KANAL D
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/125.ts
+#EXTINF:-1,TR | TV 8 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/26.ts
+#EXTINF:-1,TR | TV 8
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/133.ts
+#EXTINF:-1,TR | FOX HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/27.ts
+#EXTINF:-1,TR | FOX TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/221.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/90.ts
+#EXTINF:-1,TR | FLASH-TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1660.ts
+#EXTINF:-1,TR | EGE TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1659.ts
+#EXTINF:-1,TR | NUMBER ONE TURK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1656.ts
+#EXTINF:-1,TR | NUMBER ONE
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1657.ts
+#EXTINF:-1,TR | KANAL CAY RIZE
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1658.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/220.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/28.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/25.ts
+#EXTINF:-1,TR | A SPOR
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/109.ts
+#EXTINF:-1,TR | ASPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/57.ts
+#EXTINF:-1,TR | NTV SPOR
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/80.ts
+#EXTINF:-1,TR | NTV SPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/111.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/55.ts
+#EXTINF:-1,TR | TRT-SPOR
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/114.ts
+#EXTINF:-1,TR | TRT 3 SPOR HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/294.ts
+#EXTINF:-1,TR | FLASH TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/51.ts
+#EXTINF:-1,TR | NTV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/52.ts
+#EXTINF:-1,TR | HALK TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/110.ts
+#EXTINF:-1,TR | TLC TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/126.ts
+#EXTINF:-1,TR | PLANET PEMBE
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1677.ts
+#EXTINF:-1,TR | PLANET MUTFAK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1678.ts
+#EXTINF:-1,TR | YABAN TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/102.ts
+#EXTINF:-1,TR | TRT HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/29.ts
+#EXTINF:-1,TR I BABY TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1838.ts
+#EXTINF:-1,TR | PLANET COCUK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/38.ts
+#EXTINF:-1,TR | MINIKA GO
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/97.ts
+#EXTINF:-1,TR | CARTOON NETWORK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/116.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/115.ts
+#EXTINF:-1,TR | TRT COCUK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/180.ts
+#EXTINF:-1,TR | POWER  TURK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/40.ts
+#EXTINF:-1,TR | KRAL TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/100.ts
+#EXTINF:-1,TR | DREAM TURK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/118.ts
+#EXTINF:-1,TR | TRT KURDI
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1837.ts
+#EXTINF:-1,TR | IP Mutfak
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1836.ts
+#EXTINF:-1,TR | TRT MUZIK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/113.ts
+#EXTINF:-1,TR | TRT HABER
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/112.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/33.ts
+#EXTINF:-1,TR | HABERTURK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/92.ts
+#EXTINF:-1,TR | SEYMEN TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/34.ts
+#EXTINF:-1,TR | A HABER HD
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/108.ts
+#EXTINF:-1,TR | SKY 360
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/121.ts
+#EXTINF:-1,TR | IDMAN TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/225.ts
+#EXTINF:-1,TR | GALATASARAY TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/129.ts
+#EXTINF:-1,TR | BURSASPOR TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/128.ts
+#EXTINF:-1,TR | SPORST TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/120.ts
+#EXTINF:-1,TR | ULKE  TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/42.ts
+#EXTINF:-1,TR | KANAL 24
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/138.ts
+#EXTINF:-1,TR | VIVA TV
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/117.ts
+#EXTINF:-1,TR | TV2
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/56.ts
+#EXTINF:-1,TR | PLANET TURK
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/191.ts
+#EXTINF:-1,TR | IP Belgesel
+http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/1675.ts
