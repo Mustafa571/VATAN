@@ -1,6 +1,5 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
 [COLOR orange]LÜTFEN OKUYUN[/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-K.m3u
-(FRAGMAN)-Hz. Muhammed: Allah'ın Elçisi 28.10.2016 Sinemalarda * http://proxy-070.dc3.dailymotion.com/sec(43c9e3715d88af073399bf61f0d9e6f8)/video/193/425/296524391_mp4_h264_aac_1.m3u8
 ==================================================.*.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
