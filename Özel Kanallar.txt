@@ -2,6 +2,25 @@
 =[COLOR green]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =[COLOR green]KARIŞIK VE SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
 =[COLOR blue]ALMAN v.s SKY KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
+NTV Spor * http://ipsatpro.com:8000/live/amigo/amigo/1996.ts
+Lig TV 1 HD * http://151.80.105.182:8000/live/don/don/10735.ts
+LiG TV 1 HD * http://sat.hitech0iptv.com:8000/live/elf/elf/1395.ts
+Lig tv 1 HD * http://ipsatpro.com:8000/live/amigo/amigo/2002.ts
+LiG TV 1 HD * http://mediaipro.com:8000/live/Leonard/Leonard/392.ts
+
+Lig TV 2 * http://151.80.105.182:8000/live/don/don/10734.ts
+Lig tv 2 * http://ipsatpro.com:8000/live/amigo/amigo/2001.ts
+LiG TV 2 * http://mediaipro.com:8000/live/Leonard/Leonard/391.ts
+
+LIG TV 3 HD * http://sat.hitech0iptv.com:8000/live/elf/elf/1396.ts
+Lig TV 3 HD * http://151.80.105.182:8000/live/don/don/10733.ts
+Lig tv 3 HD * http://ipsatpro.com:8000/live/amigo/amigo/2000.ts
+LiG TV 3 HD * http://mediaipro.com:8000/live/Leonard/Leonard/390.ts
+
+Tivibu Spor 2 HD * http://mediaipro.com:8000/live/Leonard/Leonard/2991.ts
+Tivibu Spor 2 HD * http://ipsatpro.com:8000/live/amigo/amigo/1965.ts
+Tivibu Spor 3 HD * http://ipsatpro.com:8000/live/amigo/amigo/1997.ts
+Tivibu Spor 3 HD * http://mediaipro.com:8000/live/Leonard/Leonard/2990.ts
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
