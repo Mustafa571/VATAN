@@ -2,11 +2,11 @@
 =[COLOR green]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =[COLOR green]KARIŞIK VE SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
 =[COLOR blue]ALMAN v.s SKY KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
-LiG TV 1 HD * http://sat.hitech0iptv.com:8000/live/elf/elf/1395.ts
+LiG TV 1 HD * http://lucky.lts1.net:23000/live/EBJh411t6M/NJKOH1cLqE/19589.ts
 LiG TV 1 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4188.ts
-LiG TV 2 HD *http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4189.ts
-LiG TV 3 HD *http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4190.ts
-LiG TV 3 HD * http://sat.hitech0iptv.com:8000/live/elf/elf/1396.ts
+LiG TV 2 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4189.ts
+LiG TV 3 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4190.ts
+LiG TV 4 HD * http://lucky.lts1.net:23000/live/EBJh411t6M/NJKOH1cLqE/19580.ts
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
