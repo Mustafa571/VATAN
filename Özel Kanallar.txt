@@ -1,7 +1,8 @@
 =[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR green]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =[COLOR green]KARIŞIK VE SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
-=[COLOR blue]ALMAN v.s SKY KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
+=[COLOR blue]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
+=[COLOR blue]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
 Türkiye ve Kosovo-12.11.2016 * https://raw.githubusercontent.com/kusdili/Hilal/master/10-11-2016%2007-04-12.avi
 Türkiye ve Kosovo-12.11.2016 * https://raw.githubusercontent.com/kusdili/Hilal/master/10-11-2016%2007-04-12.avi
 Türkiye ve Kosovo-12.11.2016 * https://raw.githubusercontent.com/kusdili/Hilal/master/10-11-2016%2007-04-12.avi
