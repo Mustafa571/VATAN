@@ -7,6 +7,7 @@
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
@@ -32,6 +33,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-STAR TV * http://185.53.8.216/live/star.m3u8?tkn=UVT4JolF3Gzpa9Jv8HC4uw&tms=1478760488
 3-STAR TV * http://185.53.8.216/live/star.m3u8?tkn=8KTl_qICDEEv5NiG5ghwIg&tms=1478503115
 EURO STAR * http://185.53.9.67/live/eurostar.m3u8?tkn=5Uw7CwZ2u76PDwZTl3lh5g&tms=1478502190
+Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
 1-ATV * http://185.53.9.67/live/atv.m3u8?tkn=Q2wj4oBszhazg69Q0zVGpw&tms=1478760351
 2-ATV * http://185.53.9.67/live/atv.m3u8?tkn=ACYZDBJ4ekNN7kubKK8WUg&tms=1478760386
 3-ATV * http://185.53.9.67/live/atv.m3u8?tkn=mjoGZtibWMJzjouw8g3QXg&tms=1478502646
