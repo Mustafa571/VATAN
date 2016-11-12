@@ -8,6 +8,7 @@
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+BELGESEL NAT G.TR* http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
