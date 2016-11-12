@@ -3,10 +3,10 @@
 =[COLOR green]KARIŞIK VE SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
 =[COLOR blue]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
 =[COLOR blue]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
-Türkiye ve Kosovo-12.11.2016 * http://185.53.9.67/live/tv8.m3u8?tkn=CFt_kR7wuNJOBotQERrtNg&tms=1478933829
-Türkiye ve Kosovo-12.11.2016 * http://185.53.8.216/live/tv8.m3u8?tkn=gLJjmTsQCfbJtH5Y6zrIig&tms=1478933919
 Türkiye ve Kosovo-12.11.2016 * http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4194.ts
-Türkiye ve Kosovo-12.11.2016 * http://185.53.8.216/live/tv8.m3u8?tkn=dweOzOx3tjqbZhVq18YpHA&tms=1478933891
+Türkiye ve Kosovo-12.11.2016 * http://185.53.8.216/live/tv8.m3u8?tkn=gLJjmTsQCfbJtH5Y6zrIig&tms=1478933919
+Türkiye ve Kosovo-12.11.2016 * http://yayin7.canlitvlive.live/tv8/live.m3u8?tkn=K9AbbMZbOXzgFS4qJRan6w&tms=1478946220
+Türkiye ve Kosovo-12.11.2016 * http://185.53.9.67/live/tv8.m3u8?tkn=CFt_kR7wuNJOBotQERrtNg&tms=1478933829
 Türkiye ve Kosovo-12.11.2016 * http://yayin7.canlitvlive.co/tv8/live.m3u8?tkn=mQacXcRaqlzoNRZIjeVBCQ&tms=1478945397
 Türkiye ve Kosovo-12.11.2016 * http://yayin7.canlitvlive.live/tv8/live.m3u8?tkn=ZGx5QRf101jgdjwSVIAopQ&tms=1478944831
 Türkiye ve Kosovo-12.11.2016 * http://tb-live.cdn.tv8.com.tr/tv8/tv8hd_720p.m3u8?e=1478981537&st=iFHSRhaxLKfJfGs_7-Ngrw
