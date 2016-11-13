@@ -1,15 +1,5 @@
 ============ KARISIK KANALLAR ============
 #EXTM3U
-#EXTINF:-1,TR-L1 TV HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
-#EXTINF:-1,TR-L3 TV HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
-#EXTINF:-1, 1-Yeni TV8,5 - L1
-http://51qya.streamgo1.stream:1935/edge/ch104/playlist.m3u8
-#EXTINF:-1, 2-Yeni TV8,5 - L1
-http://185.59.222.55:1935/edge/ch104/kalearkasi.m3u8
-#EXTINF:-1,EXTRA T1
-http://fra1.ddns.net:97/live/test/test/521.m3u8
 #EXTINF:-1,TR-SALON_1_HD
 http://sharingmaster.org:8000/live/norase54/bvg879/11566.ts
 #EXTINF:-1,TR-SALON_3_HD
@@ -24,8 +14,6 @@ http://sharingmaster.org:8000/live/norase54/bvg879/5274.ts
 http://sharingmaster.org:8000/live/norase54/bvg879/5273.ts
 #EXTINF:-1,TR-MOVIESMART PREMIUM
 http://sharingmaster.org:8000/live/norase54/bvg879/5271.ts
-#EXTINF:-1,TR-NUHBABA TV
-http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 ============ ALMAN KANALLARI ============
 #EXTINF:-1,-===SkyDE-Germany_Channels===-
 http://sharingmaster.org:8000/live/norase54/bvg879/8505.ts
