@@ -1,20 +1,12 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
-=[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
+=[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
 =[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
 =[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
-=======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
-EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
-=======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
-DİNİ FİLMLER (İZLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
-=======[COLOR red]İLAHİLER VE KARIŞIK-MP4[/COLOR]=======. *.m3u
-Clip-Mishari Rashid Al Afasy * https://proxy-040.dc3.dailymotion.com/sec(8356d1b1481283f8adb06358a5373b86)/video/781/729/188927187_mp4_h264_aac_hq_1.m3u8
-Mawlaya Albanian Medreseja-Mevlaya * http://proxy-067.dc3.dailymotion.com/sec(ab6355f492484d34cac2d5e386d982c2)/video/245/818/209818542_mp4_h264_aac_1.m3u8
-Sultan Seyyid Abdulbaki-Adıyaman-Menzil * http://proxy-054.dc3.dailymotion.com/sec(e5fa43c1f68f95a5c632d029fba37d68)/video/098/680/114086890_mp4_h264_aac_2.m3u8
-=======[COLOR red]RADYOLAR[/COLOR]=======. *.m3u
-RADYO KANALLARI (DINLE) * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ra1.m3u
-=======[COLOR red]KUR`AN MUKABELE[/COLOR]=======. *.m3u
-MUKABELE KOMPLE PAKET 1-30 CÜZ * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
-=======[COLOR red]ALMAN ve DiGER KANALLAR[/COLOR]=======. *.m3u
-ALMAN ve DiĞER KANALLAR * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
+=[COLOR blue]İLAHİLER VE KARIŞIK-MP4[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/%C4%B0LAH%C4%B0LER%20VE%20KARI%C5%9EIK.m3u
+=[COLOR blue]EVLİYALAR SERİSİ[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
+=[COLOR blue]DİNİ FİLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
+=[COLOR blue]RADYOLAR[/COLOR]=DiNLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Radyolar.m3u
+=[COLOR blue]KUR`AN MUKABELE 1-30 CÜZ[/COLOR]=iZLE-DiNLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
+=[COLOR blue]ALMAN ve DiGER KANALLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
