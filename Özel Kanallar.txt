@@ -1,19 +1,9 @@
-=[COLOR orange]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR green]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
-=[COLOR green]KARIŞIK VE SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/S-PO.m3u
-=[COLOR blue]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
-=[COLOR blue]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
-LiG TV 1 HD * http://lucky.lts1.net:23000/live/EBJh411t6M/NJKOH1cLqE/19589.ts
-LiG TV 1 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4188.ts
-LiG TV 1/3 HD * http://sharingmaster.org:8000/live/norase54/bvg879/10049.ts
-LiG TV 2 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4189.ts
-LiG TV 3 HD * http://sharingmaster.org:8000/live/norase54/bvg879/10050.ts
-LiG TV 3 HD * http://iptvfree1.com:6969/live/9/==>_www.iptvrestream.net_<==/4190.ts
-LiG TV 4 HD * http://lucky.lts1.net:23000/live/EBJh411t6M/NJKOH1cLqE/19580.ts
-Tivibu Spor 1 HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/210.ts
-Tivibu Spor 2 HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/211.ts
-Tivibu Spor 4 HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/213.ts
-SMART SPOR HD * http://1.bnn1panel3-vb.xyz:80/live/sinop57/JF2bP65fn4/10.ts
+=[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
+=[COLOR orange]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
+=[COLOR orange]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Karisik.m3u
+=[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Paket%205.m3u
+=[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
+=[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =======[COLOR red]EVLİYALAR SERİSİ[/COLOR]=======. *.m3u
 EVLİYALAR SERİSİ- PAKET * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =======[COLOR red]DİNİ FİLMLER[/COLOR]=======. *.m3u
