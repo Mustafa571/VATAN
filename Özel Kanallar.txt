@@ -4,7 +4,7 @@
 =[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/SKY-Ler.m3u
 =[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
 =[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
-=[COLOR white]Elimde Olduğu Müddetce size sunuyorum[/COLOR] * 
+=[COLOR white]Elimde olduğu müddetce sizlere sunuyorum[/COLOR] * 
 =[COLOR green]YEDEK SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Lig-Sky.m3u
 =[COLOR green]YEDEK ULUSAL[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Ulusal.m3u
 =[COLOR green]YEDEK ALAMAN SKY[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-AlmanSky.m3u
