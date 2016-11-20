@@ -4,11 +4,12 @@
 =[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/SKY-Ler.m3u
 =[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
 =[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
+=[COLOR white]Elimde Olduğu Müddetce size sunuyorum[/COLOR] * 
 =[COLOR green]YEDEK SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Lig-Sky.m3u
 =[COLOR green]YEDEK ULUSAL[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Ulusal.m3u
 =[COLOR green]YEDEK ALAMAN SKY[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-AlmanSky.m3u
 =[COLOR green]YEDEK TÜRK MOVIE[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-T%C3%BCrk-Mov.m3u
-=[COLOR green]YEDEK RADYOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-RadyoTR.m3u
+=[COLOR green]YEDEK RADYOLAR[/COLOR]=DiNLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-RadyoTR.m3u
 =[COLOR blue]İLAHİLER VE KARIŞIK-MP4[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/%C4%B0LAH%C4%B0LER%20VE%20KARI%C5%9EIK.m3u
 =[COLOR blue]EVLİYALAR SERİSİ[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =[COLOR blue]DİNİ FİLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
