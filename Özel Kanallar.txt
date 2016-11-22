@@ -5,7 +5,7 @@
 =[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
 =[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 =[COLOR white]Elimde olduğu müddetce sizlere sunuyorum[/COLOR] * 
-=[COLOR green]YEDEK SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Lig-Sky.m3u
+=[COLOR green]YEDEK SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Lig-Sky.txt
 =[COLOR green]YEDEK ULUSAL[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-Ulusal.m3u
 =[COLOR green]YEDEK ALAMAN SKY[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-AlmanSky.m3u
 =[COLOR green]YEDEK TÜRK MOVIE[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Yedek-T%C3%BCrk-Mov.m3u
