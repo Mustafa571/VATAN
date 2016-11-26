@@ -39,8 +39,6 @@ Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
 1-ATV * http://185.53.9.67/live/atv.m3u8?tkn=Q2wj4oBszhazg69Q0zVGpw&tms=1478760351
 2-ATV * http://185.53.9.67/live/atv.m3u8?tkn=ACYZDBJ4ekNN7kubKK8WUg&tms=1478760386
 3-ATV * http://185.53.9.67/live/atv.m3u8?tkn=mjoGZtibWMJzjouw8g3QXg&tms=1478502646
-1-Yeni ATV2 * https://istr-n21.nktcdn.com/data/videos/9598/9598224-,240,360,480,.mp4.urlset/fragment-1-f3-v1.m4s?token=pbm0tqkinRO8LF6g52UXUA&ts=1480258778
-2-Yeni ATV2 * http://trkvz-live.ercdn.net/a2tv/a2tv_576p.m3u8?st=xpEhym7YtrZYUqoUlZ9VtQ&e=1480214105
 1-SHOW TV * http://185.53.9.67/live/showtv.m3u8?tkn=sSpQFucui9EKIfH_GDONPw&tms=1478760420
 2-SHOW TV * http://185.53.8.216/live/showtv.m3u8?tkn=9UN-134UCS9B9qtaFAmRzg&tms=1478760441
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -65,6 +63,7 @@ CARTOON NETWORK * http://185.53.8.216/live/cartoon.m3u8?tkn=wbtY4XiU2l2aNgwpQTOp
 1-TV8,5 * http://185.53.9.67/live/tv85.m3u8
 2-TV8,5 * http://185.53.8.216/live/tv85.m3u8?tkn=zKOur0IY4TIZOrsDCo1WYg&tms=1480175530
 TV8 iNT * http://185.53.8.216/live/tv8int.m3u8?tkn=SXOP0tUDSMCeO2TqmmDVBw&tms=1478502049
+CBC SPOR HD * http://185.53.8.216/live/cbcsport.m3u8?tkn=UEosiG6JbIDB9ju-4ICZiw&tms=1480198115
 1-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=qT3Y2EsI-0vA_9pXGH6Xng&tms=1478711216
 2-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=jgvzhX1Q9_E0DBYbqkzysA&tms=1478711332
 3-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=mt-l3Yg4s7M3OVpj2JnAow&tms=1480175565
