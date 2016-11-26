@@ -2,10 +2,11 @@
 [COLOR blue]11.12.2016 MEVLiD KANDiLi-[/COLOR]Üstüne basın * https://raw.githubusercontent.com/kusdili/Hilal/master/06-11-2016%2009-01-32.avi
 [COLOR orange]LÜTFEN OKUYUN !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
 ==================================================.*.m3u
-1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
-3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
-4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
+1-TRT1 *http://185.53.8.216/live/trt1.m3u8?tkn=AnycQv_v21MDj-hh-2jRpQ&tms=1480194316
+2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+3-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
+4-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
+5-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 BELGESEL NAT G.TR* http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
@@ -52,9 +53,10 @@ KIDZ TV * http://185.53.8.216/live/kidzanimez.m3u8?tkn=SKAstr0P-ttyEoXGGyh68A&tm
 MINIKA COCUK * http://185.53.8.216/live/minikacocuk.m3u8?tkn=mtE84Kyi6X02bmP9wWjWZg&tms=1480139027
 MINIKA GO * http://185.53.8.216/live/minikago.m3u8?tkn=aZCGrRW5C_MweEvyY6jF-Q&tms=1480139063
 CARTOON NETWORK * http://185.53.8.216/live/cartoon.m3u8?tkn=wbtY4XiU2l2aNgwpQTOpag&tms=1480139096
-1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+1-KANAL D HD * http://185.53.8.216/live/kanald.m3u8?tkn=hJDzYEaPsR98YZeQDZm7gw&tms=1480194404
+2-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
+3-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+4-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 1-A HABER HD * http://185.53.9.67/live/ahaber.m3u8?tkn=tJ4_fxWdm3vCTqul4yZ9PA&tms=1478711070
 2-A HABER * http://185.53.8.216/live/ahaber.m3u8?tkn=kpmBywIX-3RI3EGEdoaPgg&tms=1478711004
 3-A HABER * http://185.53.9.67/live/ahaber.m3u8?tkn=B7KErFWEUcdVdae68MSBng&tms=1478760542
@@ -64,7 +66,7 @@ CARTOON NETWORK * http://185.53.8.216/live/cartoon.m3u8?tkn=wbtY4XiU2l2aNgwpQTOp
 2-TV8,5 * http://185.53.8.216/live/tv85.m3u8?tkn=zKOur0IY4TIZOrsDCo1WYg&tms=1480175530
 TV8 iNT * http://185.53.8.216/live/tv8int.m3u8?tkn=SXOP0tUDSMCeO2TqmmDVBw&tms=1478502049
 1-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=qT3Y2EsI-0vA_9pXGH6Xng&tms=1478711216
-2-IDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=jgvzhX1Q9_E0DBYbqkzysA&tms=1478711332
+2-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=jgvzhX1Q9_E0DBYbqkzysA&tms=1478711332
 3-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=mt-l3Yg4s7M3OVpj2JnAow&tms=1480175565
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
@@ -88,6 +90,7 @@ AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 YABAN TV * http://185.53.8.216/live/yabantv.m3u8?tkn=D6Q37ds03PofxbvcNy6JlQ&tms=1478501903
+FOX SD * http://185.53.8.216/live/foxtv.m3u8?tkn=6lzgq5GJ59Klx5iuPz0hVA&tms=1480194174
 FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
 1-NTV SPOR HD * http://185.53.8.216/live/ntvspor.m3u8?tkn=_Ubf-kPOcXpCtGaNDLR0bQ&tms=1478710910
 2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
