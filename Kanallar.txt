@@ -84,7 +84,7 @@ KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-TV 2 * http://37.48.83.13/live/tv2.m3u8?tkn=X3IY32OBiRylsr40x3blnQ&tms=1480139220
+TeVe 2 * http://yayin7.canlitvlive.co/tv2/live.m3u8?tkn=BNjXoPIuexcwxe2XPC9c-w&tms=1480249457
 AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
