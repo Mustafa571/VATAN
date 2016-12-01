@@ -2,14 +2,14 @@
 [COLOR blue]11.12.2016 MEVLiD KANDiLi-[/COLOR]Üstüne basın * https://raw.githubusercontent.com/kusdili/Hilal/master/06-11-2016%2009-01-32.avi
 [COLOR orange]LÜTFEN OKUYUN !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
 ==================================================.*.m3u
-1-TRT1 *http://185.53.8.216/live/trt1.m3u8?tkn=AnycQv_v21MDj-hh-2jRpQ&tms=1480194316
-2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-3-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
-4-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
-5-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
+1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
+3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
+4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
+5-TRT1 HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/224.ts
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-BELGESEL NAT G.TR* http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
@@ -22,88 +22,72 @@ FRM TV SINEMA * http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
-1-TRT SPOR * http://185.53.8.216/live/trtspor.m3u8?tkn=RbS5EI-PHK82L2kenx3ayw&tms=1480138807
-2-TRT SPOR * http://185.53.8.216/live/trtspor.m3u8?tkn=vEn44D4Du3LebAO3PLZR3g&tms=1480138868
-3-TRT SPOR * http://185.53.8.216/live/trtspor.m3u8?tkn=vyPw3cI5DU4qMvdxATNcXg&tms=1480138889
+TRT SPOR * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/262.ts
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-HABERTÜRK * http://195.175.227.153/haberturk_ios/smil:ihaberturk.smil/playlist.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D 
-1-STAR TV * http://185.53.8.216/live/star.m3u8?tkn=Yo5nE4HPPfHssvYJ5Tfx8Q&tms=1478760462
-2-STAR TV * http://185.53.8.216/live/star.m3u8?tkn=UVT4JolF3Gzpa9Jv8HC4uw&tms=1478760488
-3-STAR TV * http://185.53.8.216/live/star.m3u8?tkn=8KTl_qICDEEv5NiG5ghwIg&tms=1478503115
-EURO STAR * http://185.53.9.67/live/eurostar.m3u8?tkn=5Uw7CwZ2u76PDwZTl3lh5g&tms=1478502190
+1-STAR TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/4.ts
+2-STAR TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/5.ts
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
-1-ATV * http://185.53.9.67/live/atv.m3u8?tkn=Q2wj4oBszhazg69Q0zVGpw&tms=1478760351
-2-ATV * http://185.53.9.67/live/atv.m3u8?tkn=ACYZDBJ4ekNN7kubKK8WUg&tms=1478760386
-3-ATV * http://185.53.9.67/live/atv.m3u8?tkn=mjoGZtibWMJzjouw8g3QXg&tms=1478502646
-1-SHOW TV * http://185.53.9.67/live/showtv.m3u8?tkn=sSpQFucui9EKIfH_GDONPw&tms=1478760420
-2-SHOW TV * http://185.53.8.216/live/showtv.m3u8?tkn=9UN-134UCS9B9qtaFAmRzg&tms=1478760441
+A2 TV HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/353.ts
+1-ATV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/6.ts
+2-ATV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/7.ts
+1-SHOW TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/8.ts 
+2-SHOW TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/9.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
-1-BEYAZ TV * http://185.53.9.67/live/beyaztv.m3u8?tkn=ZtNu3ThN0QIC21Fvpm4QJQ&tms=1478711118
-2-BEYAZ TV * http://185.53.8.216/live/beyaztv.m3u8?tkn=G4bds13BIeIIPABUh6gnuQ&tms=1478760521
-TLC * http://185.53.9.67/live/tlctv.m3u8?tkn=Ie-X1gHQZ-FPSLRIQK_bxg&tms=1478502698
-DISNEY CHANNEL * http://185.53.8.216/live/dchannel.m3u8?tkn=y00zX_2ctJKC90KcfzhUoA&tms=1478502984
-KIDZ TV * http://185.53.8.216/live/kidzanimez.m3u8?tkn=SKAstr0P-ttyEoXGGyh68A&tms=1480138972
-MINIKA COCUK * http://185.53.8.216/live/minikacocuk.m3u8?tkn=mtE84Kyi6X02bmP9wWjWZg&tms=1480139027
-MINIKA GO * http://185.53.8.216/live/minikago.m3u8?tkn=aZCGrRW5C_MweEvyY6jF-Q&tms=1480139063
-CARTOON NETWORK * http://185.53.8.216/live/cartoon.m3u8?tkn=wbtY4XiU2l2aNgwpQTOpag&tms=1480139096
-1-KANAL D HD * http://185.53.8.216/live/kanald.m3u8?tkn=hJDzYEaPsR98YZeQDZm7gw&tms=1480194404
-2-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-3-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-4-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-1-A HABER HD * http://185.53.9.67/live/ahaber.m3u8?tkn=tJ4_fxWdm3vCTqul4yZ9PA&tms=1478711070
-2-A HABER * http://185.53.8.216/live/ahaber.m3u8?tkn=kpmBywIX-3RI3EGEdoaPgg&tms=1478711004
-3-A HABER * http://185.53.9.67/live/ahaber.m3u8?tkn=B7KErFWEUcdVdae68MSBng&tms=1478760542
-1-TV8 HD * http://185.53.8.216/live/tv8.m3u8?tkn=WU0n_w30jKMHHBJH7CGBLA&tms=1478760576
-2-TV8 HD * http://185.53.8.216/live/tv8.m3u8?tkn=nZbooR2raDzPUopmHRZhgg&tms=1478760603
-1-TV8,5 * http://185.53.9.67/live/tv85.m3u8
-2-TV8,5 * http://185.53.8.216/live/tv85.m3u8?tkn=zKOur0IY4TIZOrsDCo1WYg&tms=1480175530
-TV8 iNT * http://185.53.8.216/live/tv8int.m3u8?tkn=SXOP0tUDSMCeO2TqmmDVBw&tms=1478502049
-CBC SPOR HD * http://185.53.8.216/live/cbcsport.m3u8?tkn=UEosiG6JbIDB9ju-4ICZiw&tms=1480198115
-1-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=qT3Y2EsI-0vA_9pXGH6Xng&tms=1478711216
-2-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=jgvzhX1Q9_E0DBYbqkzysA&tms=1478711332
-3-iDMAN TV * http://185.53.8.216/live/idmantv.m3u8?tkn=mt-l3Yg4s7M3OVpj2JnAow&tms=1480175565
+1-BEYAZ TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/17.ts
+2-BEYAZ TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/274.ts
+TLC * https://vod02.cdn.web.tv/id/id/idideyuqv7k_,360,480,.mp4.urlset/playlist-f2-v1-a1.m3u8
+1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
+2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+A HABER HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/32.ts
+1-TV8 HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/12.ts
+2-TV8 HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/13.ts
+TV8,5 * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/234.ts 
+Fil TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/19.ts
+CBC SPOR HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/62.ts
+iDMAN TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/59.ts
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
-KANAL 7 * http://185.53.9.67/live/kanal7.m3u8?tkn=z63zAhV6XiuAPV-nZM4WDQ&tms=1478502252
-KANAL7 AVRUPA * http://185.53.8.216/live/kanal7avrupa.m3u8?tkn=8qg38bDdDZ-Q0bhKfUgdKw&tms=1478502346
+KANAL 7 HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/227.ts
+KANAL 7 SD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/16.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
-FLASH TV * http://185.53.9.67/live/flashtv.m3u8?tkn=JIRT5a8EAA-IO-t0-yjJNg&tms=1478502093
-ÜLKE TV * http://185.53.8.216/live/ulketv.m3u8?tkn=l7dVh2jnQWSHJ57rzJpY0A&tms=1480175023
+FLASH TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/23.ts
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-TeVe 2 * http://yayin7.canlitvlive.co/tv2/live.m3u8?tkn=BNjXoPIuexcwxe2XPC9c-w&tms=1480249457
+1-TeVe 2 * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/14.ts
+2-TeVe 2 * http://yayin7.canlitvlive.co/tv2/live.m3u8?tkn=BNjXoPIuexcwxe2XPC9c-w&tms=1480249457
 AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
-YABAN TV * http://185.53.8.216/live/yabantv.m3u8?tkn=D6Q37ds03PofxbvcNy6JlQ&tms=1478501903
-FOX SD * http://185.53.8.216/live/foxtv.m3u8?tkn=6lzgq5GJ59Klx5iuPz0hVA&tms=1480194174
-FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
-1-NTV SPOR HD * http://185.53.8.216/live/ntvspor.m3u8?tkn=_Ubf-kPOcXpCtGaNDLR0bQ&tms=1478710910
-2-NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
-1-NTV * http://185.53.8.216/live/ntv.m3u8?tkn=MkXdsxgCukTfa_Zp7_jaNw&tms=1478710596
-2-NTV * http://185.53.8.216/live/ntv.m3u8?tkn=ml-updmLAW_2EcQv5fO25g&tms=1478710779
-3-NTV * http://185.53.8.216/live/ntv.m3u8?tkn=V-b9lQxe5Oas34dNA48ixQ&tms=1478760664
-NTV AVRUPA * http://185.53.8.216/live/ntvavrupa.m3u8?tkn=Ie6-LjMxKSgux_SM0paylA&tms=1478710853
+1-FOX HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/10.ts
+1-FOX SD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/11.ts
+3-FOX HD * http://yayin2.canlitv.life/foxtv.m3u8
+NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
+1-NTV HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/225.ts
+2-NTV HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/28.ts
+GS TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/53.ts
+FB TV HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/54.ts
+BJK TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/55.ts
+A SPOR HD * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/60.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-KON TV * http://185.53.9.67/live/kontv.m3u8?tkn=z8Vw0bUN7SnJTmgkGY5Ozw&tms=1478502750
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-FB TV * http://185.53.9.67/live/fbtv.m3u8?tkn=haa2xkOEnEVVYkHPZlJ8dA&tms=1478502148
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
