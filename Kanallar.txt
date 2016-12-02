@@ -30,7 +30,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 2-STAR TV * http://169.50.130.113/stream/startv.m3u8?tkn=w8VmfKCj2iIh5IFqJn1H_w&tms=1480718227
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8 
-ATV * http://149.202.199.167:8000/live/abdel/abdel/1570.ts 
+ATV * http://169.50.197.179/stream/atv.m3u8?tkn=7XkywGF50TXDRPhh0NAsTw&tms=1480718430 
 SHOW TV * http://149.202.199.167:8000/live/abdel/abdel/2002.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 SHOW TÜRK * http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
