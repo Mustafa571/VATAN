@@ -5,8 +5,8 @@
 =[COLOR orange]YERLi FiLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Filimler.m3u
 =[COLOR orange]KARIŞIK KANALLAR [/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SIN.m3u
 ========[COLOR red]Önemli DUYURU[/COLOR]=Lütfen Okuyun * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
-========[COLOR orange]SIPARIS VERILEN PAKETLER GELDI[/COLOR]
-========[COLOR orange]ISLEMLERI HAZIRLIYORUM[/COLOR]
+========[COLOR orange]SIPARIS VERILEN PAKETLER GELDI[/COLOR]= * 
+========[COLOR orange]ISLEMLERI HAZIRLIYORUM[/COLOR]= * 
 =[COLOR blue]İLAHİLER VE KARIŞIK-MP4[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/%C4%B0LAH%C4%B0LER%20VE%20KARI%C5%9EIK.m3u
 =[COLOR blue]EVLİYALAR SERİSİ[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =[COLOR blue]DİNİ FİLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
