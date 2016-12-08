@@ -24,18 +24,6 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 === Česká televize ==============
 #EXTINF:-1,TV Morava 
 http://stream.redigy.cz:1934/tvm.flv
-#EXTINF:-1,Televize Polar
-rtmp://185.58.41.34/polar/polarlive-2
-#EXTINF:-1,Východoceská Televize
-rtmp://185.58.41.34/vctv/vctvlive-1
 #EXTINF:-1,retrotv
 rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
-=== HiND KANALLARI ===============
-Eklenti yakinda
-=== BULGAR KANALLARI =============
-Eklenti yakinda
-=== RUSYA KANALLARI ==============
-Eklenti yakinda
-=== YUNAN KANALLARI ==============
-Eklenti yakinda
 
