@@ -28,11 +28,11 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-HABERTÜRK * http://www.iptvsaga.com/play/tv3/0073.m3u8
 3-HABERTÜRK * http://mn-l.mncdn.com/haberturk/haberturk2/chunklist_w285695095.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDY6NDk6MDggQU0maGFzaF92YWx1ZT1GSHEwMmNtZVlKMEJTdnpudXZGSkxBPT0mdmFsaWRtaW51dGVzPTU%3D 
 1-STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+2-STAR TV * http://149.202.199.167:8000/live/abdel/abdel/1572.ts
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8 
 ATV * 
 SHOW TV * http://149.202.199.167:8000/live/abdel/abdel/2002.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
-SHOW TÜRK * http://163.158.221.81:100/hdmi
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8 
@@ -66,7 +66,7 @@ MANISA MEDYA TV * https://live02.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafe
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 TV10 * rtmp://5.135.142.60:1935/tv10/xetero
-FOX SD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
+FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
 FANATIK TV * http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
 NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 NTV HD * https://live02.cdn.web.tv/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
