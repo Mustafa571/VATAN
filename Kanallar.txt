@@ -9,9 +9,6 @@
 TRT3 SPOR * https://live01.cdn.web.tv/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8?st=o2TKqePp4DWMV1_7ziAW2g&e=1480147006&r=playlist
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
-FRM TV SINEMA * 
-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
@@ -22,6 +19,8 @@ FRM TV SINEMA *
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
+BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
@@ -32,10 +31,13 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8 
 ATV * 
 SHOW TV * http://149.202.199.167:8000/live/abdel/abdel/2002.ts
-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8 
+SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
+SHOW TÜRK * http://163.158.221.81:100/hdmi
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8 
+KANAL 7 * http://163.158.221.81:88/hdmi
+ÜLKE TV * http://163.158.221.81:87/hdmi
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
@@ -44,17 +46,21 @@ ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 1-FLASH TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/23.ts
-2-FLASH TV SECENEK * rtmp://184.173.181.2/8158//8158
+2-FLASH TV * http://163.158.221.81:85/hdmi
+3-FLASH TV SECENEK * rtmp://184.173.181.2/8158//8158
 CNN TURK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
-24 TV  * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+1-24 TV HD * http://163.158.221.81:89/hdmi
+2-24 TV * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 1-TeVe 2 * https://2122248070.dogannet.tv/S2/HLS_LIVE/tv2/1000/prog_index.m3u8
 2-TeVe 2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+BENGÜ TÜRK * http://163.158.221.81:97/hdmi
+KANAL B * http://163.158.221.81:93/hdmi
 MERSIN SUN TV * rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
