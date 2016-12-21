@@ -1,122 +1,86 @@
 ============ KARISIK KANALLAR ============
 #EXTM3U
-#EXTINF:-1,TR-SALON_1_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/11566.ts
-#EXTINF:-1,TR-SALON_3_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/11568.ts
-#EXTINF:-1,TR-MovieSmart_Family_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/11565.ts
-#EXTINF:-1,TR-SINEMA TV
-http://sharingmaster.org:8000/live/norase54/bvg879/5275.ts
-#EXTINF:-1,TR-SINEMA AiLE
-http://sharingmaster.org:8000/live/norase54/bvg879/5274.ts
-#EXTINF:-1,TR-MOVIEMAX-FESTIVAL
-http://sharingmaster.org:8000/live/norase54/bvg879/5273.ts
-#EXTINF:-1,TR-MOVIESMART PREMIUM
-http://sharingmaster.org:8000/live/norase54/bvg879/5271.ts
-============ ALMAN KANALLARI ============
-#EXTINF:-1,-===SkyDE-Germany_Channels===-
-http://sharingmaster.org:8000/live/norase54/bvg879/8505.ts
-#EXTINF:-1,DE-Sky_Select_1_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12939.ts
-#EXTINF:-1,DE-Sky_Select_2_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12940.ts
-#EXTINF:-1,DE-Sky_Select_3_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12941.ts
-#EXTINF:-1,DE-Sky_Select_4_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12942.ts
-#EXTINF:-1,DE-Sky_Select_5_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12943.ts
-#EXTINF:-1,DE-Sky_Select_6_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/12944.ts
-#EXTINF:-1,DE-Sky_Cinema
-http://sharingmaster.org:8000/live/norase54/bvg879/3667.ts
-#EXTINF:-1,DE-Sky_Cinema_+24
-http://sharingmaster.org:8000/live/norase54/bvg879/3668.ts
-#EXTINF:-1,DE-Sky_Action
-http://sharingmaster.org:8000/live/norase54/bvg879/3598.ts
-#EXTINF:-1,DE-Sky_Comedy
-http://sharingmaster.org:8000/live/norase54/bvg879/3599.ts
-#EXTINF:-1,DE-Sky_Emotion
-http://sharingmaster.org:8000/live/norase54/bvg879/3669.ts
-#EXTINF:-1,DE-Sky_Atlantic
-http://sharingmaster.org:8000/live/norase54/bvg879/10277.ts
-#EXTINF:-1,DE-Sky_Cinema_007
-http://sharingmaster.org:8000/live/norase54/bvg879/10278.ts
-#EXTINF:-1,DE-Sky_Nostalgie
-http://sharingmaster.org:8000/live/norase54/bvg879/10275.ts
-#EXTINF:-1,DE-Sky_Krimi
-http://sharingmaster.org:8000/live/norase54/bvg879/10276.ts
-#EXTINF:-1,DE-Classica_Deutschland
-http://sharingmaster.org:8000/live/norase54/bvg879/10509.ts
-#EXTINF:-1,DE-Syfy_Deutschland
-http://sharingmaster.org:8000/live/norase54/bvg879/10271.ts
-#EXTINF:-1,DE-AXN
-http://sharingmaster.org:8000/live/norase54/bvg879/10511.ts
-#EXTINF:-1,DE-13th_Street
-http://sharingmaster.org:8000/live/norase54/bvg879/10290.ts
-#EXTINF:-1,DE-TNT_Serie
-http://sharingmaster.org:8000/live/norase54/bvg879/10270.ts
-#EXTINF:-1,DE-Vox
-http://sharingmaster.org:8000/live/norase54/bvg879/3760.ts
-#EXTINF:-1,DE-RTL
-http://sharingmaster.org:8000/live/norase54/bvg879/3758.ts
-#EXTINF:-1,DE-RTL_2
-http://sharingmaster.org:8000/live/norase54/bvg879/3759.ts
-#EXTINF:-1,DE-Super_RTL
-http://sharingmaster.org:8000/live/norase54/bvg879/3670.ts
-#EXTINF:-1,DE-Pro_7
-http://sharingmaster.org:8000/live/norase54/bvg879/10918.ts
-#EXTINF:-1,DE-RTL_Nitro
-http://sharingmaster.org:8000/live/norase54/bvg879/10356.ts
-#EXTINF:-1,DE-RTL_Crime
-http://sharingmaster.org:8000/live/norase54/bvg879/10280.ts
-#EXTINF:-1,DE-RTL_Passion
-http://sharingmaster.org:8000/live/norase54/bvg879/10279.ts
-#EXTINF:-1,DE-ZDF
-http://sharingmaster.org:8000/live/norase54/bvg879/3671.ts
-#EXTINF:-1,DE-MGM_Channel
-http://sharingmaster.org:8000/live/norase54/bvg879/10283.ts
-#EXTINF:-1,DE-Kabel_1
-http://sharingmaster.org:8000/live/norase54/bvg879/10789.ts
-#EXTINF:-1,DE-Fox_Deutschland
-http://sharingmaster.org:8000/live/norase54/bvg879/10287.ts
-#EXTINF:-1,DE-ORF1
-http://sharingmaster.org:8000/live/norase54/bvg879/10358.ts
-#EXTINF:-1,DE-ORF2
-http://sharingmaster.org:8000/live/norase54/bvg879/10357.ts
-#EXTINF:-1,DE-Jukebox
-http://sharingmaster.org:8000/live/norase54/bvg879/10284.ts
-#EXTINF:-1,DE-Heimatkanal
-http://sharingmaster.org:8000/live/norase54/bvg879/10285.ts
-#EXTINF:-1,DE-GoldStar_TV
-http://sharingmaster.org:8000/live/norase54/bvg879/10286.ts
-#EXTINF:-1,DE-Motorvision_TV
-http://sharingmaster.org:8000/live/norase54/bvg879/10282.ts
-#EXTINF:-1,DE-Disney_XD
-http://sharingmaster.org:8000/live/norase54/bvg879/10288.ts
-#EXTINF:-1,DE-Spiegel_Geschichte
-http://sharingmaster.org:8000/live/norase54/bvg879/10272.ts
-#EXTINF:-1,DE-Nat_Geo_Wild
-http://sharingmaster.org:8000/live/norase54/bvg879/10510.ts
-#EXTINF:-1,DE-National_Geographic_Channel
-http://sharingmaster.org:8000/live/norase54/bvg879/10281.ts
-#EXTINF:-1,DE-Discovery_Channel
-http://sharingmaster.org:8000/live/norase54/bvg879/10289.ts
-#EXTINF:-1,DE-Sky_Sport_News
-http://sharingmaster.org:8000/live/norase54/bvg879/10273.ts
-#EXTINF:-1,DE-Sky_Sport_HD1
-http://sharingmaster.org:8000/live/norase54/bvg879/10429.ts
-#EXTINF:-1,DE-Sky_Sport_HD2
-http://sharingmaster.org:8000/live/norase54/bvg879/10430.ts
-#EXTINF:-1,DE-Sky_Austria
-http://sharingmaster.org:8000/live/norase54/bvg879/10274.ts
-#EXTINF:-1,DE-Sky_Bundesliga_1
-http://sharingmaster.org:8000/live/norase54/bvg879/10428.ts
-#EXTINF:-1,DE-3_sat_HD
-http://sharingmaster.org:8000/live/norase54/bvg879/10790.ts
-
-
-
-
-
+#EXTINF:-1,TRT 1 HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/112.ts
+#EXTINF:-1,TRT Muzik
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/221.ts
+#EXTINF:-1,Fox Tv HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/45.ts
+#EXTINF:-1,Kanal D
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/16.ts
+#EXTINF:-1,Show Tv HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/33.ts
+#EXTINF:-1,STAR TV HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/32.ts
+#EXTINF:-1,STAR TV HQ
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/108.ts
+#EXTINF:-1,TV8 HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/27.ts
+#EXTINF:-1,TV8 HQ
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/107.ts
+#EXTINF:-1,BEYAZ TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/23.ts
+#EXTINF:-1,UlusalTV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/1.ts
+#EXTINF:-1,TV 2
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/28.ts
+#EXTINF:-1,HALK TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/43.ts
+#EXTINF:-1,Flash TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/46.ts
+#EXTINF:-1,KANAL A
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/11.ts
+#EXTINF:-1,24TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/59.ts
+#EXTINF:-1,NTV TURKIYE
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/109.ts
+#EXTINF:-1,TRT HABER
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/115.ts
+#EXTINF:-1,CNN TURK HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/111.ts
+#EXTINF:-1,CNN TURK SD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/13.ts
+#EXTINF:-1,A HABER
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/58.ts
+#EXTINF:-1,HABERTURK HD
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/44.ts
+#EXTINF:-1,NTV EURO
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/37.ts
+#EXTINF:-1,Atv Avrupa
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/56.ts
+#EXTINF:-1,Euro Star
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/47.ts
+#EXTINF:-1,Euro D
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/48.ts
+#EXTINF:-1,TV 8 INT
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/29.ts
+#EXTINF:-1,TGRT HABER
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/30.ts
+#EXTINF:-1,TGRT BELGESEL
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/31.ts
+#EXTINF:-1,SHOW TURK
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/34.ts
+#EXTINF:-1,PLANET MUTFAK
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/36.ts
+#EXTINF:-1,NR1 TURK
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/38.ts
+#EXTINF:-1,VIVA TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/26.ts
+#EXTINF:-1,Kral TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/41.ts
+#EXTINF:-1,KRAL POP TV
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/42.ts
+#EXTINF:-1,TRT COCUK
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/114.ts
+#EXTINF:-1,CARTOON NETWORK TR
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/187.ts
+#EXTINF:-1,DISNEY CHANNEL TR
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/188.ts
+#EXTINF:-1,minikaGO
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/39.ts
+#EXTINF:-1,minikaCOCUK
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/40.ts
+#EXTINF:-1,TRT SPOR
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/113.ts
+#EXTINF:-1,NTV SPOR Turkiye
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/20.ts
