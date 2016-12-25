@@ -15,3 +15,12 @@ http://proxy-038.dc3.dailymotion.com/sec(bc017a3072adf4e88639b26523c5f6e4)/video
 http://proxy-062.dc3.dailymotion.com/sec(61e540ae33828073cc9357c2b068a9d6)/video/126/838/213838621_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Sami Yusuf - Al Mu’allim
 http://proxy-022.dc3.dailymotion.com/sec(7a0d9b14a9253a39ff9c7b13ac760884)/video/223/181/5181322_mp4_h264_aac_ld.m3u8
+========== Test MP3 Clip ==========
+#EXTINF:-1, Bülent Serttas - Güldalim kizim
+http://hilal.bplaced.net/B%fclent%20Serttas%20-%20G%fcldalim%20kizim.mp4
+#EXTINF:-1,Sinan Akçil feat. Ferah Zeydan - Sarttir
+http://hilal.bplaced.net/Sinan%20Ak%e7il%20feat.%20Ferah%20Zeydan%20-%20Sarttir.mp4
+#EXTINF:-1, Karamele - Roman Havasi
+http://hilal.bplaced.net/Karamele%20-%20Roman%20Havasi.mp4
+#EXTINF:-1, Elif Kaya - Tövbe Tövbe
+http://hilal.bplaced.net/Elif%20Kaya%20-%20T%f6vbe%20T%f6vbe.mp4
