@@ -8,6 +8,8 @@
 TRT3 SPOR * https://live01.cdn.web.tv/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8?st=o2TKqePp4DWMV1_7ziAW2g&e=1480147006&r=playlist
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+ANIMAL-PLANET * http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/312.ts
+NATIONAL GEO WILD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/115.ts
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
