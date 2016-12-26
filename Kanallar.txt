@@ -32,12 +32,14 @@ Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
 1-ATV * http://185.148.162.2:8080/play/a00m
 2-ATV HD * http://185.148.162.2:8080/play/a00r
 A2 * http://185.148.162.2:8080/play/a00u
-SHOW TV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/4.ts
+1-SHOW TV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/4.ts
+2-SHOW TV HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/88.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8 
-TV8 * https://tv8-tb-live.ercdn.net/tv8/tv8hd_720p.m3u8?e=1481658203&st=A84f8JjtBsFr3Qw6fblksQ
+TV8 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/8.ts
+TV 8 HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/75.ts
 1-A SPOR HD * http://185.148.162.2:8080/play/a00t
 2-A SPOR * http://185.148.162.2:8080/play/a00o
 KANAL 7 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/7.ts
@@ -47,7 +49,6 @@ TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w144
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 CEM HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/614.ts
-VATAN TV HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/666.ts
 ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
@@ -74,6 +75,7 @@ IDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m
 FANATIK TV * http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
 NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 NTV HD * https://live02.cdn.web.tv/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
+NTV HABER * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/15.ts
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
@@ -86,8 +88,7 @@ DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 OLAY TV * http://canli.olaytv.com.tr:1935/olaytv/olaytv/chunklist_w270926405.m3u8 
-1-ULUSAL KANAL * http://184.173.181.2:1935/8132/8132/playlist.m3u8
-2-ULUSAL KANAL * http://163.158.221.81:94/hdmi
+ULUSAL KANAL * http://184.173.181.2:1935/8132/8132/playlist.m3u8
 RUMELİ TV * http://yayin3.canlitv.com:1935/live/rumelitv/chunklist_w460868813.m3u8
 TEK RUMELI TV * http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/iptvdelisi.m3u8
 MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
