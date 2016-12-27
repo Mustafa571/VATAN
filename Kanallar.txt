@@ -31,9 +31,11 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 2-STAR TV * http://149.202.199.167:8000/live/abdel/abdel/1572.ts
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8 
-1-ATV * http://185.148.162.2:8080/play/a00m
-2-ATV HD * http://185.148.162.2:8080/play/a00r
-A2 * http://185.148.162.2:8080/play/a00u
+1-ATV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/3.ts
+2-ATV HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/73.ts
+3-ATV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/561.ts
+4-ATV SD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/764.ts
+A2 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/97.ts
 1-SHOW TV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/4.ts
 2-SHOW TV HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/88.ts
 SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
@@ -42,8 +44,8 @@ SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8 
 TV8 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/8.ts
 TV 8 HD * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/75.ts
-1-A SPOR HD * http://185.148.162.2:8080/play/a00t
-2-A SPOR * http://185.148.162.2:8080/play/a00o
+TV 8,5 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/12.ts
+A SPOR * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/82.ts
 KANAL 7 * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/7.ts
 ÜLKE TV * http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/20.ts
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
