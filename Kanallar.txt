@@ -109,8 +109,8 @@ BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
-Test hali * http://hilal.bplaced.net/hali.m3u
-Test-tv8 * http://mertcankiyak.info/MAG250/tv8.php
-Test-tv8-2 * https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=5gQp0SoxpBQf137wy1GIOg&e=1483173159
-Test Beyaz * http://37.77.31.3:1935/liveedge/BEYAZTVHQ/playlist.m3u8
-
+==================================================.*.m3u
+Test-Star * http://startvlive.dygdigital.com/i/startv_1@32761/master.m3u8?hdnea=st=1483166870~exp=1483168670~acl=/*~hmac=5a831594cd32b6731d33619d2764858bb7bab1f6f1343ed9160b62c2c66d6441
+Test-tv8 * https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=5gQp0SoxpBQf137wy1GIOg&e=1483173159
+Test-BeyazTv * http://37.77.31.3:1935/liveedge/BEYAZTVHQ/playlist.m3u8
+Test-Fox * http://mn-i.mncdn.com/foxtv_web/smil:foxtv_iphone.smil/playlist.m3u8?token=2f268182afa19918f29837a3e899a03db000d043b3502989
