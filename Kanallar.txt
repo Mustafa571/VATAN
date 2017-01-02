@@ -110,6 +110,5 @@ TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
 ==================================================.*.m3u
-Test-BeyazTv * http://37.77.31.3:1935/liveedge/BEYAZTVHQ/playlist.m3u8
-A Test * http://hilal.bplaced.net/A.php
+Test Ulusal * http://hilal.bplaced.net/Hic%20deneme%20bile.m3u
 
