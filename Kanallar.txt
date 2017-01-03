@@ -77,9 +77,8 @@ NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w10794466
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-1-BEYAZ TV * http://37.77.2.234:1935/beyaz/live/playlist.m3u8
-2-BEYAZ TV HD * rtmp://37.77.2.234:1935/liveedge/BEYAZTVHQ
-3-BEYAZ TV HD * http://501server.com:8080/live/mert015ytr/281215ytr/208.ts
+1-BEYAZ TV HD * http://37.77.31.3:1935/liveedge/BEYAZTVHQ/playlist.m3u8
+2-BEYAZ TV HD * http://501server.com:8080/live/mert015ytr/281215ytr/208.ts
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
