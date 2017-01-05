@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_idman.png" tvg-name="IDMAN TV"
+http://bak01-edge03.itdc.ge/idman/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbMyFAjFUp3-e2ObsiPYmcJFNc2QuruQQ7WqDr63eApizA**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_aztv.png" tvg-name="AZ TV"
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbM3DMddbuJfgPCIk0sBDiGfJzQrmAG0KDEP0j6OENUszg**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_atvaz.png" tvg-name="ATV AZ"
+http://bak01-edge03.itdc.ge/atvaz/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbN3XVElnjNLcj9pvCkhlB0JAgfytjbCqRtWKTeLUK3sMA**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_xazer.png" tvg-name="XAZER TV"
+http://bak01-edge03.itdc.ge/xazer/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPExkR7uhpCwsyNo74oJpiZUSqZAJJubZ_h2ZGsR65c2g**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_cbcsport.png" tvg-name="CBC SPORT"
+http://bak01-edge03.itdc.ge/cbcsport/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbOmjQbvdkWAF1hVfDxO84cSdiODgiXAxT-GnrKzhxthaw**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_cbcaz.png" tvg-name="CBC AZERBAYCAN"
+http://bak01-edge03.itdc.ge/cbcaz/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPD0CjBNNa0aa89OvjffRmcZjzCzBS9wvrM4EY5UeLWZg**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_ktv1.png" tvg-name="KA TV"
+http://bak01-edge03.itdc.ge/ktv1/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbMDEM3iI0tTDQQWXpVXDN54Fu95_0_8tSMqYKleapU7ew**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_chatbox.png" tvg-name="CHATBOX"
+http://bak01-edge03.itdc.ge/chatbox/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPg8lbYTcOL6_lKjSe9f95g1kGDeMfnaz-u9cpMK_1Vyw**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_space.png" tvg-name="SPACE"
+http://bak01-edge03.itdc.ge/space/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbNAw3mXFSSS9hcXnZoc-8jn9e0CNE1gCVqkETAP5gd75g**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_ictimai.png" tvg-name="ICTIMAI"
+http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPvQTQoQ6ocvRBEECJiU0vQ0C0b2E7eMKCwwirqHjhz_g**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_lider.png" tvg-name="LIDER"
+http://bak01-edge03.itdc.ge/lider/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPl_JU6o8Nc6cZi5-P0Dqi_7FFfUxkS2eYNAi2l0RYoHQ**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_vip.png" tvg-name="VIP TV"
+http://bak01-edge03.itdc.ge/vip/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbMLvbRsyCx8dUdg-LoDIyYgxze23s6Kg1P9av_kVfaoLw**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_arb.png" tvg-name="ARB Live"
+http://bak01-edge03.itdc.ge/arb/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbPOJ2FMfvHjEYCaNpg2q-r4_XD8InQUzBr4mXWlOQWZag**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_arbgunes.png" tvg-name="ARB GÜNES"
+http://bak01-edge03.itdc.ge/arbgunes/index.m3u8?token=70EQ8Wd9UJFu8Gzj2e-c_y6ihxiR7HEuR_drA668WbMy-lIgnjElEgihC2_6kG1wIRYR6nfkohsswj_s-XTpCQ**
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_tvmakkah.png" tvg-name="TV MAKKAH"
+http://bak01-edge03.itdc.ge/tvmakkah/index.m3u8?token=V9ruwejuRN18XbYHbbu3rPrbsX_1diDp6LcWK0ElLVSQL87GE_ktDg_nAHPQhM9SkR38QdORnSNeTNoq1AwaYw**
