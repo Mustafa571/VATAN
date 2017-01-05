@@ -2,6 +2,7 @@
 =[COLOR orange]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Paket1.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/SKY-Ler.m3u
+=[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 ========[COLOR red]Önemli DUYURU[/COLOR]=Lütfen Okuyun * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 =[COLOR green]TEST YAYINI iSTEYEN BANA YAZABiLiR[/COLOR]= * 
 =[COLOR blue]İLAHİLER VE KARIŞIK CLİPLER-MP4[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/%C4%B0LAH%C4%B0LER%20VE%20KARI%C5%9EIK.m3u
