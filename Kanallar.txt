@@ -29,13 +29,15 @@ STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_liv
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
 ATV HD * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
 SHOW TV HD * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
+1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
+2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 TV 8 HD * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
+1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 KANAL 7 HD * http://501server.com:8080/live/mert015ytr/281215ytr/30.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
@@ -59,6 +61,7 @@ MANISA MEDYA TV * https://live02.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafe
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 TV10 * rtmp://5.135.142.60:1935/tv10/xetero
+TVEM * http://tvem.netmedya.org/tvem/tvem.stream/playlist.m3u8
 1-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
 2-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 IDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
@@ -72,7 +75,8 @@ TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 1-BEYAZ TV HD * http://37.77.31.3:1935/liveedge/BEYAZTVHQ/playlist.m3u8
 2-BEYAZ TV HD * http://501server.com:8080/live/mert015ytr/281215ytr/208.ts
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
-SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+1-SPORTS TV * http://stream.sportstv.com.tr/sportstv/SportsTV3/radyodelisi.m3u8
+2-SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 EGE TV * http://stream2.taksimbilisim.com:1935/egetv/smil:egetv.smil/chunklist_w1687898748_b640000.m3u8
@@ -101,4 +105,4 @@ TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
 ==================================================.*.m3u
-Test Ulusal * http://hilal.bplaced.net/Hic%20deneme%20bile.m3u
+Test * http://hilal.bplaced.net/hali-Test.m3u
