@@ -1,5 +1,4 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR orange]KARIŞIK (TR)PAKET[/COLOR]=iZLE * http://hilal.bplaced.net/Karisik.m3u
 =[COLOR orange]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI-1[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Paket1.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI-2[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/SKY-Ler.m3u
