@@ -25,13 +25,8 @@ BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-1-STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-2-STAR TV * http://iptv.fastcccam.tv:8080/live/testfast/hg5sdf98/91.ts
+STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
-1-ATV HD * http://iptv.fastcccam.tv:8080/live/testfast/hg5sdf98/93.ts
-2-ATV SD * http://iptv.fastcccam.tv:8080/live/testfast/hg5sdf98/66.ts
-1-SHOW TV HD * http://iptv.fastcccam.tv:8080/live/testfast/hg5sdf98/90.ts
-2-SHOW TV SD * http://iptv.fastcccam.tv:8080/live/testfast/hg5sdf98/63.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
