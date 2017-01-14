@@ -36,6 +36,7 @@ SHOW TV * http:\/\/mn-i.mncdn.com\/showtv_ios\/smil:showtv.smil\/playlist.m3u8?t
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
+TV8 iNT * https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_576p.m3u8?e=1484413313&st=zz0LzoDX3OQV7vF3nkPVZQ
 KANAL 7 HD * http://501server.com:8080/live/mert015ytr/281215ytr/30.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
