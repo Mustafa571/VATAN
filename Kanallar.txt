@@ -103,4 +103,3 @@ NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livest
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
 ==================================================.*.m3u
 Test * http://hilal.bplaced.net/hali-Test.m3u
-KaD * http://media.netd.com.tr//S2/HLS_LIVE/kanaldnp/playlist.m3u8
