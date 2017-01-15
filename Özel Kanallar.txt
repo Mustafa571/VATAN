@@ -4,6 +4,7 @@
 =[COLOR orange]TÜRK YERLi(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/T%C3%BCrk-Paket.m3u
 =[COLOR orange]TÜRK VOD-FiLM(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/T%C3%BCrkVod.m3u
 =[COLOR orange]TÜRK DiZi(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/T%C3%BCrkDizi.m3u
+=[COLOR orange]TEST!! Komple Paket[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TESTTE.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]FiLiMLER-YouTube[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u
 ========[COLOR red]Önemli DUYURU[/COLOR]=Lütfen Okuyun * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
