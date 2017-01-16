@@ -1,5 +1,5 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR orange]SPOR KANALLARI(NEW)[/COLOR]=iZLE * 
+=[COLOR orange]SPOR KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Paket1.m3u
 =[COLOR orange]TÜRK YERLi(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/T%C3%BCrk-Paket.m3u
 =[COLOR orange]AR-BEiN SPORT(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/AR-BEiN-SPORT.m3u
