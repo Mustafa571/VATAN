@@ -1,9 +1,9 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR orange]SPOR KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
+=[COLOR blue]SPOR KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Sporlar.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI(1-NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Paket1.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI(2-NEW)[/COLOR]=iZLE *https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Alman-Yedek.m3u
-=[COLOR orange]TÜRK YERLi(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/T%C3%BCrk-Paket.m3u
-=[COLOR orange]AR-BEiN SPORT(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/AR-BEiN-SPORT.m3u
+=[COLOR blue]TÜRK YERLi(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/T%C3%BCrk-Paket.m3u
+=[COLOR purple]AR-BEiN SPORT(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/AR-BEiN-SPORT.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]FiLiMLER-YouTube[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u
 ========[COLOR red]Önemli DUYURU[/COLOR]=Lütfen Okuyun * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
