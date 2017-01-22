@@ -27,7 +27,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
-SHOW TV * http:\/\/mn-i.mncdn.com\/showtv_ios\/smil:showtv.smil\/playlist.m3u8?token=a2372e5e89999a68e1f02daa6b5efc27ff9868fb68ff30d0
+SHOW TV * http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/playlist.m3u8?token=91f441cff739351f7ce598ae96520a6d81d7beb9ecd97c00
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
@@ -36,7 +36,7 @@ SHOW TV * http:\/\/mn-i.mncdn.com\/showtv_ios\/smil:showtv.smil\/playlist.m3u8?t
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
-TV8 iNT * https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_576p.m3u8?e=1484413313&st=zz0LzoDX3OQV7vF3nkPVZQ
+TV8 iNT * https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=Zvj8WX_9xdLKqJ8-uKIcCQ&e=1485093791
 KANAL 7 HD * http://501server.com:8080/live/mert015ytr/281215ytr/30.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
