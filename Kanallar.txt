@@ -70,7 +70,8 @@ NTV HD * https://live02.cdn.web.tv/streams/725528006e858fe951867f4e2436843f_live
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-BEYAZ TV HD * https://stream-12.vty.dailymotion.com/09/dm/1/x4kopfq/live.isml/live.m3u8?dvr_window_length=90&e=1485326384&st=NwsTeH59Niumlte5XWBK5g#cell=lvty&p2p=sr&comment=QOEP2PLIVE3
+1-BEYAZ TV HD * https://stream-12.vty.dailymotion.com/09/dm/1/x4kopfq/live.isml/live.m3u8?dvr_window_length=90&e=1485326384&st=NwsTeH59Niumlte5XWBK5g#cell=lvty&p2p=sr&comment=QOEP2PLIVE3
+2-BEYAZ TV HD * https://stream-04.vty.dailymotion.com/09/dm/1/x4kopfq/live.isml/live.m3u8?dvr_window_length=90&e=1485325317&st=RusGmZjVmQicPsP1ShP81A#cell=lvty&comment=QOEP2PLIVE3
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 1-SPORTS TV * http://stream.sportstv.com.tr/sportstv/SportsTV3/radyodelisi.m3u8
 2-SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
@@ -103,5 +104,3 @@ NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livest
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
 ==================================================.*.m3u
 Test * http://hilal.bplaced.net/hali-Test.m3u
-Test1 * http://hilal.bplaced.net/beyaz.php
-Test2 * http://hilal.bplaced.net/beyaz.m3u
