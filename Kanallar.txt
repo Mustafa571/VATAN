@@ -60,8 +60,9 @@ KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 TV10 * rtmp://5.135.142.60:1935/tv10/xetero
 TVEM * http://tvem.netmedya.org/tvem/tvem.stream/playlist.m3u8
-1-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
-2-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
+1-FOX HD * http://mn-i.mncdn.com/foxtv/smil:foxtv_iphone.smil/playlist.m3u8?token=aa7593a14fefadf934b05c9901707114238436a5861b5a3e
+2-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
+3-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 IDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 FANATIK TV * http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
 A SPOR HD * http://501server.com:8080/live/mert015ytr/281215ytr/39.ts
