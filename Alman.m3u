@@ -8,7 +8,7 @@ http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
 #EXTINF:-1,SR  
 http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1,N24  
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,NDR  
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
 #EXTINF:-1,SWR  
