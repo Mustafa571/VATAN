@@ -27,7 +27,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
-SHOW TV * http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/playlist.m3u8?token=91f441cff739351f7ce598ae96520a6d81d7beb9ecd97c00
+SHOW TV * http:\/\/mn-i.mncdn.com\/showtv_ios\/smil:showtv.smil\/playlist.m3u8?token=c63ab829a38900a33897cf608d6bee87badea90a08aad988
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
@@ -40,7 +40,6 @@ TV8 iNT * https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=NWboPvObSK2KvAN
 KANAL 7 * http://51.15.4.69/live/kanal7Live/index.m3u8
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
-ON4 TV * http://yayin.netradyom.com:1935/live/on4/sansar.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
 MEDINE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
 FLASH TV * http://yayin.canlitvplay.com:8000/live/tevfikgoksu/xKPEBasGLc/23.ts
@@ -55,7 +54,6 @@ CEM TV * http://501server.com:8080/live/mert015ytr/281215ytr/2352.ts
 AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 MERSIN SUN TV * rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
-MANISA MEDYA TV * https://live02.cdn.web.tv/streams/c071af0f7cb08384a242f12ddafea1a4/index.m3u8
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 BEREKET TV * rtmp://berekettv.mediatriple.net/berekettv
 TV10 * rtmp://5.135.142.60:1935/tv10/xetero
@@ -63,13 +61,10 @@ TVEM * http://tvem.netmedya.org/tvem/tvem.stream/playlist.m3u8
 1-FOX HD * http://mn-i.mncdn.com/foxtv/smil:foxtv_iphone.smil/playlist.m3u8?token=aa7593a14fefadf934b05c9901707114238436a5861b5a3e
 2-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w757713564.m3u8
 3-FOX HD * http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
-IDMAN TV * http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 FANATIK TV * http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
-A SPOR HD * http://501server.com:8080/live/mert015ytr/281215ytr/39.ts
 NTV SPOR HD * http://yayin3.canlitv.com:1935/canlitv/ntvspor/chunklist_w1079446686.m3u8?hash=90bd9afc20232148c172927d0f2084d8
 NTV HD * https://live02.cdn.web.tv/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-DOST TV  * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 1-BEYAZ TV HD * https://stream-04.vty.dailymotion.com/09/dm/1/x4kopfq/live.isml/live.m3u8?dvr_window_length=90&e=1
 2-BEYAZ TV HD * https://stream-12.vty.dailymotion.com/09/dm/1/x4kopfq/live.isml/live.m3u8?dvr_window_length=90&e=1485326384&st=NwsTeH59Niumlte5XWBK5g#cell=lvty&p2p=sr&comment=QOEP2PLIVE3
