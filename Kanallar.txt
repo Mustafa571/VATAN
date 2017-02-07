@@ -3,7 +3,6 @@
 ==================================================.*.m3u
 [COLOR green]Yeni Eklenen ULUSAL TV ler-1[/COLOR]iZLE * http://hilal.bplaced.net/Eklenti-U.m3u
 [COLOR blue]Yeni Eklenen ULUSAL TV ler-2[/COLOR]iZLE * http://hilal.bplaced.net/Canli.m3u
-[COLOR green]Yeni Eklenen ULUSAL TV ler-3[/COLOR]iZLE * http://hilal.bplaced.net/Paket/Test.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
