@@ -1,8 +1,8 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR blue]SPOR KANALLARI(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Spor.m3u
-=[COLOR purple](NEW)[/COLOR][COLOR green]PAKETLER[/COLOR][COLOR purple](NEW)[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/PAKETLER/Paketler.m3u
+=[COLOR purple](NEW)[/COLOR][COLOR green]PAKETLER[/COLOR][COLOR purple](NEW)[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/TR1.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Alman.m3u
-=[COLOR orange]TÜRK-MOViE(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Yerli-Mo.m3u
+=[COLOR green]TÜRK-MOViE(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Yerli-Mo.m3u
 =[COLOR blue]TÜRK-ULUSAL(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Yerli.m3u
 =[COLOR purple]AR-BEiN SPORT(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/AR-BEiN-SPORT.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
