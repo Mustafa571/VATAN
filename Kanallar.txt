@@ -26,6 +26,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+EURO STAR * http://staravrupalive.dygdigital.com/i/staravrupa_1@409248/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1488123717~acl=%2f*~data=hdntl~hmac=466b36b9698404ed88a039b4d36028c5a40f4c31e9cb4c06d62feedab6ea08b4
 Azeri Star TV * http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
 SHOW TV * http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/chunklist_w760465108_b848000.m3u8?token=73bc03a532d10e1f8cca72c11a326bceac85050cbb2c2c1d
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
