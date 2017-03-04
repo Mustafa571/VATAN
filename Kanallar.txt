@@ -7,37 +7,40 @@
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
-TRT3 SPOR * https://live01.cdn.web.tv/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8?st=o2TKqePp4DWMV1_7ziAW2g&e=1480147006&r=playlist
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-TRT BELGESEL * http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+TRT-SPOR * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3843.ts
+ANIMAL PLANET * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3913.ts
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 2-TRT HABER * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-1-TRT DİYANET HD * http://www.iptvsaga.com/play/tv3/0062.m3u8
-2-TRT DİYANET * http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl=
-3-TRT DİYANET * http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
+TRT DİYANET * http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-TRT ÇOCUK * http://www.iptvsaga.com/play/tv3/0053.m3u8
-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+TRT ÇOCUK * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3880.ts
+1-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+2-BELGESEL NAT G.TR * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3917.ts
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKANT HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-STAR TV * https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-EURO STAR * http://staravrupalive.dygdigital.com/i/staravrupa_1@409248/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1488123717~acl=%2f*~data=hdntl~hmac=466b36b9698404ed88a039b4d36028c5a40f4c31e9cb4c06d62feedab6ea08b4
-SHOW TV * http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/chunklist_w760465108_b848000.m3u8?token=73bc03a532d10e1f8cca72c11a326bceac85050cbb2c2c1d
+ATV SD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
+1-STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
+2-STAR TV HD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3846.ts
+3-STAR TV SD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3847.ts
+1-SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
+2-SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3848.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
-1-KANAL D HD * http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-2-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-3-KANAL D * http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
-TV8 int* https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=5T2V_iSP-HYbM7Ct4Sdt-w&e=1487261734
-KANAL 7 * http://51.15.4.69/live/kanal7Live/index.m3u8
+TV8 HD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3856.ts
+TV8 SD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3857.ts
+BEYAZ TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/580.ts
+1-KANAL 7 * http://51.15.4.69/live/kanal7Live/index.m3u8
+2-KANAL 7 * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/565.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
