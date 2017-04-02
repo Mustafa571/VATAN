@@ -10,7 +10,7 @@
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]FiLiMLER-YouTube[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u
 ========[COLOR red]Önemli DUYURU[/COLOR]=Lütfen Okuyun * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
-=[COLOR green]TEST YAYINI iSTEYEN BANA YAZABiLiR[/COLOR]= * 
+=[COLOR green]PAKETLER [COLOR yellow]02.04.2017 [/COLOR]GÜNCELLENDi-iSTEYEN BANA YAZABiLiR[/COLOR]= * 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
 =[COLOR blue]EVLİYALAR SERİSİ[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =[COLOR blue]DİNİ FİLMLER[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiniFi.m3u
