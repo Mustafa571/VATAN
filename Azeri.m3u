@@ -33,7 +33,4 @@ http://bak01-edge03.itdc.ge/tvmakkah/index.m3u8?token=Bq6ZR2kguBalrxNYC7Pa3jxGVa
 rtmp://85.132.78.6:1935/live/muztv.stream
 #EXTINF:-1,AZ-STAR TV 
 http://yayin.azstartv.com:1935/azstartv/azstartv/playlist.m3u8
-#EXTINF:-1,Besiktas TV
-http://www.dailymotion.com/embed/video/x31omum?autoplay=1
-#EXTINF:-1,Besiktas TV
-http://www.dailymotion.com/video/x31omum
+
