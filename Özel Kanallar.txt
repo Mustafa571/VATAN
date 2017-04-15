@@ -1,4 +1,5 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
+=[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE *http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[COLOR blue]SPOR KANALLARI(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Spor.m3u
 =[COLOR blue]YEDEK SPOR KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/yedek-spor.m3u
 =[COLOR purple](NEW)[/COLOR][COLOR green]PAKETLER[/COLOR][COLOR purple](NEW)[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/TR1.m3u
