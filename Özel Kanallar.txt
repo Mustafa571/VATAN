@@ -1,7 +1,8 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE *http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
-=[COLOR blue]SPOR KANALLARI(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Spor.m3u
-=[COLOR blue]YEDEK SPOR KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/yedek-spor.m3u
+=[COLOR blue]SPOR KANALLARI[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Spor.m3u
+=[COLOR blue]ARENA(Yeni)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Are.m3u
+=[COLOR blue]YEDEK SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/yedek-spor.m3u
 =[COLOR purple](NEW)[/COLOR][COLOR green]PAKETLER[/COLOR][COLOR purple](NEW)[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/TR1.m3u
 =[COLOR orange]ALMAN v.s SKY KANALLARI(NEW)[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/Alman.m3u
 =[COLOR orange]YEDEK ALMAN v.s SKY KANALLARI(NEW)[/COLOR]=iZLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Karisik%20Paketler/Alman-yedek.m3u
