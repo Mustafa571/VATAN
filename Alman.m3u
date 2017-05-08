@@ -26,10 +26,4 @@ http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 http://stream.redigy.cz:1934/tvm.flv
 #EXTINF:-1,retrotv
 rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
-=== Hind Filim ==============
-#EXTINF:-1,Villain almanca altyazi 1
-http://cdn5.streamcloud.eu:8080/2lv74lvvmkoax3ptxzpyfwhgvvk3v62u3ob2crsrjpotxsavffhebxcwbi/video.mp4
-#EXTINF:-1,Villain almanca altyazi 2
-http://cdn6.streamcloud.eu:8080/5tv75vu4mkoax3ptxzpifwpdvusfskswryhokbcoyppecerhzeuh2z33ce/video.mp4
-#EXTINF:-1,Villain almanca altyazi 3
-http://cdn4.streamcloud.eu:8080/vlv75xu5mkoax3ptxziyfxxkvz3tjkbtdpc3h7flwlse4vffzfgsjbrsuq/video.mp4
+
