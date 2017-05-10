@@ -8,7 +8,6 @@
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT TURK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-TRT-SPOR * http://casaiptv.com:7777/live/tarik00/tarik123456/3843.ts
 1-TRT OKUL HD * http://www.iptvsaga.com/play/tv3/0034.m3u8
 2-TRT OKUL * http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 1-TRT HABER HD * http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
@@ -18,17 +17,13 @@ TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3880.ts
 1-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
-2-BELGESEL NAT G.TR * http://casaiptv.com:7777/live/tarik00/tarik123456/3917.ts
 İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKAND HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-ATV HD * http://casaiptv.com:7777/live/tarik00/tarik123456/3231.ts
-SiNEMA KANALI * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
-1-STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
-2-STAR TV HD * http://casaiptv.com:7777/live/tarik00/tarik123456/3846.ts
-1-SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
-2-SHOW TV * http://casaiptv.com:7777/live/tarik00/tarik123456/100.ts
+ATV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
+STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
+SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -38,8 +33,6 @@ TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.
 TV8 HD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3856.ts
 TV8 SD * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3857.ts
 BEYAZ TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/580.ts
-1-KANAL 7 * http://casaiptv.com:7777/live/tarik00/tarik123456/565.ts
-2-KANAL 7 AVRUPA * http://casaiptv.com:7777/live/tarik00/tarik123456/560.ts
 TVNET * http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b1200000.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 MEKKE LİVE * http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream3.m3u8
@@ -50,8 +43,7 @@ KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 24 TV * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
-1-TeVe 2 * https://2122248070.dogannet.tv/S2/HLS_LIVE/tv2/1000/prog_index.m3u8
-2-TeVe 2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+TeVe 2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 CEM TV * http://501server.com:8080/live/mert015ytr/281215ytr/2352.ts
 AKİT TV * http://yayin3.canlitv.com:1935/canlitv/akittv/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
@@ -84,12 +76,6 @@ HILAL TV * rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
 YASİN TV * http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8?wowzasessionid=1579597263
 NUMBER 1 TÜRK * rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 KRAL POP AKUSTIK TV * http://kraldigital.radyotvonline.com/kraldigital/smil:akustiktv.smil/iptvdelisi.m3u8?token=28f874b6b348bd9ece56f263d7515b9620e6c9baf355d178
-KRAL POP KONSER TV * http://kraldigital.radyotvonline.com/kraldigital/smil:konsertv.smil/iptvdelisi.m3u8?token=340278454773acfaa15c381f575b0fee30af0daf0fc1bfee
-KRAL NO NAME TV * http://kraldigital.radyotvonline.com/kraldigital/smil:nonametv.smil/iptvdelisi.m3u8?token=5fdd84f3cf8fdf1710227a260f98159830105318abbd4744
-KRAL 90 LAR TV * http://kraldigital.radyotvonline.com/kraldigital/smil:doksanlartv.smil/iptvdelisi.m3u8?token=2cc37cca7bf72d656d32a6776ccebe8b77c609d10646ff22
-KRAL HOME MADE * http://kraldigital.radyotvonline.com/kraldigital/smil:homemadetv.smil/iptvdelisi.m3u8?token=7e9afda0c7a67299f4ae1ada8eaed5f17e94617d95440ec9
-KRAL KONSER TV * http://kraldigital.radyotvonline.com/kraldigital/smil:demotv.smil/iptvdelisi.m3u8?token=39b2321f02a6e1994c32d58a2304c81acd0950b955e04826
-TV 100 * http://livetr.gostream.nl/tv100mobil/smil:tv100mobil/chunklist_w77347002_b1024000.m3u8
 HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
 POWERTÜRK HD * http://www.iptvsaga.com/play/tv3/0070.m3u8
 DREAM TÜRK TV * http://www.iptvsaga.com/play/tv3/0060.m3u8
