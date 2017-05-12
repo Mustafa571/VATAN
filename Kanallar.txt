@@ -21,6 +21,7 @@ TRT ÇOCUK * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3880.ts
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKAND HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+FRM TV Sinema * http://185.50.68.221:1935/live/myStream/playlist.m3u8
 ATV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
 STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
 SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
