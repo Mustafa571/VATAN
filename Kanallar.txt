@@ -22,7 +22,7 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 1-SEMERKAND HD  * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 FRM TV Sinema * http://185.50.68.221:1935/live/myStream/playlist.m3u8
-1-ATV * http://yayin7.canlitvlive.co/atv/live.m3u8?tkn=Dvki1jXbqE1eOYKk2lG2IA&tms=1495265423
+1-ATV * http://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=6-kKbriq4di7lQK6yaHWtg&e=1495507347
 2-ATV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
 STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
 SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
