@@ -2,7 +2,6 @@
 [COLOR orange]LÜTFEN OKUYUN !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
 ==================================================.*.m3u
 [COLOR blue]= Sağlam Yayınlar !!!= ULUSAL TV =[/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
-[COLOR orange]=HAYIRLI RAMAZANLAR DiLERiM=[/COLOR]
 [COLOR blue]= Yedek ULUSAL TV ler =[/COLOR] iZLE * http://hilal.bplaced.net/Paket/Yedek-Byah.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
