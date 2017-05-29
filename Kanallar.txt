@@ -23,7 +23,8 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 FRM TV Sinema * http://185.50.68.221:1935/live/myStream/playlist.m3u8
 1-ATV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3851.ts
-2-ATV HD * http://62.210.177.136:8081/canlitv/ATV/chunks.m3u8?nimblesessionid=562084&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDE3IDY6MDE6MTggUE0maGFzaF92YWx1ZT0rOGV3NnpoN1V6eW4yZkdDQ1p0c0pnPT0mdmFsaWRtaW51dGVzPTIw
+2-ATV HD * http://casaiptv.com:7777/live/amin00/amin123456/3851.ts
+3-ATV HD * http://casaiptv.com:7777/live/amin00/amin123456/3231.ts
 STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
 SHOW TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/100.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
