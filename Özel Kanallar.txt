@@ -1,5 +1,5 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR blue]Hz.Muhammed Allah'ın Elçisi[/COLOR]= * http://hilal.bplaced.net/yorum.m3u
+=[COLOR white]Hz.Muhammed Allah'ın Elçisi-Filimler bölümüne Eklendi[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE *http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[COLOR blue]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/yedek-spor.m3u
 =[COLOR green]ULUSAL TV[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/TR1.m3u
