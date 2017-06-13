@@ -1,5 +1,6 @@
 =[COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/COLOR]= *.m3u
 [COLOR orange]LÜTFEN OKUYUN !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
+[COLOR orange]iPTV Paket-Bilgi !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 ==================================================.*.m3u
 [COLOR blue]= Sağlam Yayınlar !!!= ULUSAL TV =[/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
 [COLOR yellow]= Yedek ULUSAL TV 1 =[/COLOR] iZLE * http://hilal.bplaced.net/Paket/Yedek-Byah.m3u
@@ -88,6 +89,6 @@ BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
-ATV-Test1 * http://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=r40qjnwE83eWhjqPNqycdg&e=1496726547
-ATV-Test2 * http://62.210.177.136:8081/canlitv/ATV/chunks.m3u8?nimblesessionid=679215&wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTcgNDozODoyMyBQTSZoYXNoX3ZhbHVlPThRSVhQdDV5cWp0U1B5eHorVGhWMmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+Star-Test1 * http://62.210.177.136:8081/canlitv/StarTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE3IDQ6NDY6MzIgQU0maGFzaF92YWx1ZT1DbWNxcE5aNVBkQVpwUU4xWXVnZ1BnPT0mdmFsaWRtaW51dGVzPTIw
+ATV-Test2 * http://62.210.177.136:8081/canlitv/ATV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE3IDQ6NTA6NDQgQU0maGFzaF92YWx1ZT1Gb2tOamM0U3pRSnV3ZW42c0FpUzJRPT0mdmFsaWRtaW51dGVzPTIw
 
