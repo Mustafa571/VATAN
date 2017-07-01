@@ -89,6 +89,4 @@ BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist
 TRT World * http://www.iptvsaga.com/play/tv3/0031.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
-Star-Test1 * http://62.210.177.136:8081/canlitv/StarTV/chunks.m3u8?nimblesessionid=753721&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE3IDE6NDk6NTkgUE0maGFzaF92YWx1ZT1JOEEyTW5YSWEzQmM3NkpnZG5KVWhnPT0mdmFsaWRtaW51dGVzPTIw
-ATV-Test2 * http://62.210.177.136:8081/canlitv/ATV/chunks.m3u8?nimblesessionid=753729&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE3IDE6NTE6MDQgUE0maGFzaF92YWx1ZT1ZYVZ0anRqTGc5eXMrZnV6Vmd5Y3VBPT0mdmFsaWRtaW51dGVzPTIw
-
+KANAL 58 * http://yayin7.canlitvlive.io/kanal58/live.m3u8?tkn=FYu2GjW9gVSsU2mO_mljew&tms=1498932789
