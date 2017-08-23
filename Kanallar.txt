@@ -32,7 +32,8 @@ FİL TV Sinema * http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
 STAR TV * http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3232.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+1-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+2-KANAL D HD * http://media.netd.com.tr//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
 TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
