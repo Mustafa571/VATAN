@@ -21,5 +21,5 @@ http://stream.redigy.cz:1934/tvm.flv
 #EXTINF:-1,retrotv
 rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
 ============ Rusia ==============
-#EXTINF:-1,OMSK TV
-http://cdn-01.bonus-tv.ru:9090/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/track_0_2500/playlist.m3u8
+#EXTINF:-1,OMSK-TV
+http://cdn-01.bonus-tv.ru:9090/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
