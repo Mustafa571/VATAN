@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,TR-BEiN-1SD
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/1695.ts
+#EXTINF:-1,TR-BEiN-1HD
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/1696.ts
+#EXTINF:-1,TR-BEiN-2HD
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/1697.ts
+#EXTINF:-1,TR-BEiN-3HD
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/1698.ts
+#EXTINF:-1,TR-A-SPOR
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3859.ts
+#EXTINF:-1,TR-NTV-SPOR
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3868.ts
+#EXTINF:-1,TR-TRT-SPOR
+http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/3843.ts
+#EXTINF:-1,TR-BURSA-SPOR
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:-1, TR-Tivibu-1
 http://otmanshowiptv.com:7777/live/redamanar/V5ugJCEFJK/4426.ts
 #EXTINF:-1, TR-Tivibu-1
