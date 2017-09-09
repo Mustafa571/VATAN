@@ -51,9 +51,10 @@ KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 TeVe 2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 MERSIN SUN TV * rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+MALATYA TV * http://broadcasttr.com:1935/tvm/smil:tvm.smil/chunklist_w812231480_b664000_sltur.m3u8
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-FOX HD * http://mn-i.mncdn.com/foxtv_mobile/smil:foxtv.smil/playlist.m3u8?token=ecd70364fe71ef817c54dc8a5d489e77f198d70fd60a2526
+FOXTV HD * https://mn-i.mncdn.com/foxtv_mobile/smil:foxtv.smil/playlist.m3u8?token=a0536c3f7b47fd61f7cefec47115aa66888045391e439f9c
 SiVAS SRT * rtmp://stream.taksimbilisim.com:1935/srt/bant1
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
