@@ -5,7 +5,6 @@
 [COLOR blue]= Sağlam Yayınlar !!!= ULUSAL TV =[/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
 [COLOR yellow]= Yedek ULUSAL TV 1 =[/COLOR] iZLE * http://hilal.bplaced.net/Paket/Yedek-Byah.m3u
 [COLOR yellow]= Yedek ULUSAL TV 2 =[/COLOR] iZLE * http://hilal.bplaced.net/Paket/Yedek-Ulusal-2.m3u
-TR Nat Geo Wild * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3917.ts
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
