@@ -26,8 +26,12 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 FRM TV Sinema * http://185.50.68.221:1935/live/myStream/playlist.m3u8
 FİL TV Sinema * http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
+1-ATV HD * http://85.132.71.6/turk/atv/index.m3u8
+2-ATV HD * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4861.ts
+A2 * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4876.ts
 1-STAR TV * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3846.ts
 2-STAR TV HD * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3847.ts
+SHOW TV * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4864.ts
 1-SHOW MAX * http://mn-l.mncdn.com:1935/showmax/showmax2/radyodelisi.m3u8
 2-SHOW MAX * http://mn-l.mncdn.com/showmax/showmax2/chunklist_w1615647150.m3u8
 1-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -51,9 +55,12 @@ KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 1-FOXTV SD * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3855.ts
 2-FOXTV HD * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3854.ts
+BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
 SiVAS SRT * rtmp://stream.taksimbilisim.com:1935/srt/bant1
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+TV8 * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4867.ts
+TV8.5 * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4868.ts
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
 1-SPORTS TV * http://stream.sportstv.com.tr/sportstv/SportsTV3/radyodelisi.m3u8
 2-SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
