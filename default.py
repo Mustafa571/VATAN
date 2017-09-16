@@ -53,14 +53,14 @@ elif mode[0] == 'folder':
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 		
 	elif foldername == "Maç Özetleri":
-		r = requests.get("http://www.ligtv.com.tr/mac-ozetleri/spor-toto-super-lig")
+		r = requests.get("http://tr.beinsports.com/mac-ozetleri/super-lig")
 		match = re.compile('data-title=.+?(?=data-player)').findall(r.content)
 		for link in match:
 			link = link.replace('\'',"")
 			link = link.replace('data-title=',"")
-			link = link.replace('Ligtv.com.tr',"")
+			link = link.replace('http://tr.beinsports.com/',"")
 			link = link.split('  data-video=')
-			link[0] = link[0].replace('maç özeti',"")
+			link[0] = link[0].replace('"/mac-ozetleri',"")
 			link[0] = link[0].replace('İY',"")
 			link[1] = link[1].replace(' ',"")
 			li = xbmcgui.ListItem(link[0], iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
