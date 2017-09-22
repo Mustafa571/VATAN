@@ -26,6 +26,11 @@ TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 FRM TV Sinema * http://185.50.68.221:1935/live/myStream/playlist.m3u8
 FİL TV Sinema * http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
+SiNEMA 1 * http://yayin5.canliyayin.org/sinema1?MSWMExt=.asf
+SiNEMA 2 * http://yayin5.canliyayin.org/sinema2?MSWMExt=.asf
+SiNEMA 3 * http://yayin5.canliyayin.org/sinema3?MSWMExt=.asf
+SiNEMA 4 * http://yayin5.canliyayin.org/sinema4?MSWMExt=.asf
+SiNEMA 5 * http://yayin5.canliyayin.org/sinema5?MSWMExt=.asf
 1-ATV HD * http://85.132.71.6/turk/atv/index.m3u8
 2-ATV HD * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4861.ts
 A2 * http://163.172.61.19:1881/live/xxx489594/ANDPLUSd4OtcVo719/4876.ts
@@ -85,6 +90,5 @@ BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist
 TRT World * http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w1187988455.m3u8
 NUHBABA TV * http://46.4.68.85:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
-tes * http://yayin5.canliyayin.org/sinema1?MSWMExt=.asf
-tes * mmsh://yayin5.canliyayin.org/sinema1?MSWMExt=.asf
+
 
