@@ -58,9 +58,9 @@ elif mode[0] == 'folder':
 		for link in match:
 			link = link.replace('\'',"")
 			link = link.replace('data-title=',"")
-			link = link.replace('http://tr.beinsports.com/mac-ozetleri/super-lig',"")
+			link = link.replace('tr.beinsports.com',"")
 			link = link.split('  data-video=')
-			link[0] = link[0].replace('"videolig_match_list_content"',"")
+			link[0] = link[0].replace('maç özeti',"")
 			link[0] = link[0].replace('İY',"")
 			link[1] = link[1].replace(' ',"")
 			li = xbmcgui.ListItem(link[0], iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
