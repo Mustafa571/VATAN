@@ -31,7 +31,7 @@ if mode is None:
 	li = xbmcgui.ListItem('Ulusal Kanallar', iconImage='http://www.ulusalkanal.com.tr/images/haberler/ulusal_kanal_25_31_mart_yayin_akisi_h10064.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	url = build_url({'mode': 'folder', 'foldername': 'Maç Özetleri'})
-	li = xbmcgui.ListItem('Maç Özetleri', iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
+	li = xbmcgui.ListItem('Maç Özetlerii', iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
 	li = xbmcgui.ListItem('Özel Kanallar', iconImage='http://i.huffpost.com/gen/2385860/images/o-STREAMING-facebook.jpg')
@@ -52,7 +52,7 @@ elif mode[0] == 'folder':
 			li = xbmcgui.ListItem(channelname, iconImage=channellogo)
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 		
-	elif foldername == "Maç Özetleri":
+	elif foldername == "Maç Özetlerii":
 		r = requests.get("http://tr.beinsports.com/mac-ozetleri/super-lig")
 		match = re.compile('data-title=.+?(?=data-player)').findall(r.content)
 		for link in match:
