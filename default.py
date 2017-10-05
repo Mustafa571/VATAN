@@ -30,7 +30,7 @@ if mode is None:
 	url = build_url({'mode': 'folder', 'foldername': 'Ulusal Kanallar'})
 	li = xbmcgui.ListItem('Ulusal Kanallar', iconImage='http://www.ulusalkanal.com.tr/images/haberler/ulusal_kanal_25_31_mart_yayin_akisi_h10064.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
-	url = build_url({'mode': 'folder', 'foldername': 'Maç Özetleri'})
+	url = build_url({'mode': 'folder', 'foldername': 'Maç Özetlerii'})
 	li = xbmcgui.ListItem('Maç Özetlerii', iconImage='http://media07.ligtv.com.tr/img/news/2016/2/20/iste-bursaspor-fenerbahce-macinin-ozeti/748_416/ozet.jpg')
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 	url = build_url({'mode': 'folder', 'foldername': 'Özel Kanallar'})
