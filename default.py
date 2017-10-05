@@ -59,7 +59,7 @@ elif mode[0] == 'folder':
 			link = link.replace('\'',"")
 			link = link.replace('data-title=',"")
 			link = link.replace('tr.beinsports.com',"")
-			link = link.split(' data-videolink=')
+			link = link.split('data-video=')
 			link[0] = link[0].replace('maç özeti',"")
 			link[0] = link[0].replace('İY',"")
 			link[1] = link[1].replace(' ',"")
