@@ -51,18 +51,18 @@ EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-KANAL A * http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+1-KANAL A * http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+2-KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 BELGESEL TV * http://188.165.239.200:7088/
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 24 TV * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-KANAL A * http://nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8
 AHiTV * http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist_w1234346180.m3u8?hash=1781a61ade0062b3b8235e372ad5ad02
 360 TV * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-MERSIN SUN TV * rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
 MALATYA TV * http://broadcasttr.com:1935/tvm/bant1/chunklist_w381540822.m3u8
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-SiVAS SRT * rtmp://stream.taksimbilisim.com:1935/srt/bant1
+1-SiVAS SRT * rtmp://stream.taksimbilisim.com:1935/srt/bant1
+2-SiVAS SRT * http://stream.taksimbilisim.com:1935/srt/bant1/SRT.m3u8
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 TV4 * http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u8?wowzasessionid=1125083810
@@ -70,30 +70,30 @@ KAYSERİ TV * http://yayin3.canliyayin.org:1935/tvkayseri/tvkayseri/playlist.m3u
 2-SPORTS TV * http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
-DEHA TV -Denizli- * http://stream2.taksimbilisim.com:1935/deha/bant1/DEHATV.m3u8
+DEHA TV - Denizli * http://stream2.taksimbilisim.com:1935/deha/bant1/DEHATV.m3u8
 DOST TV * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 ALANYA TV * http://stream2.taksimbilisim.com:1935/alanyatv/bant1/AlanyaTV.m3u8
-BTV -Ordu- * http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
+BTV -Ordu * http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
 GÜNEYDOGU TV-Sanliurfa- * http://stream2.taksimbilisim.com:1935/gtv/bant1/GuneydoguTV.m3u8
-GÜNEY TV -Mersin- * http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/GTV.m3u8
+GÜNEY TV - Mersin * http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/GTV.m3u8
 KANAL 26 * http://stream.taksimbilisim.com:1935/kanal26/bant1/Kanal26.m3u8
-Kanal 68 -Aksaray- * http://stream.taksimbilisim.com:1935/kanal68/bant1/Kanal68.m3u8
-KANAL V * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
-Kanal F -Muğla- * http://stream.taksimbilisim.com:1935/kanalf/bant1/KanalFetiye.m3u8
+Kanal 68 - Aksaray * http://stream.taksimbilisim.com:1935/kanal68/bant1/Kanal68.m3u8
+Kanal F - Muğla * http://stream.taksimbilisim.com:1935/kanalf/bant1/KanalFetiye.m3u8
 LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
 Olay TV-Gaziantep-* http://stream.taksimbilisim.com:1935/olaytv/bant1/OlayTV.m3u8 
 EKiN TV * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
 OLAY TV * http://s02.vidpanel.com/olaytv/olaytv.m3u8
 BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
-SRT -Sivas- * http://stream.taksimbilisim.com:1935/srt/bant1/SRT.m3u8
-SUN TV -Mersin- * http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3u
-TV1 -Kayseri- * http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
+1-MERSIN SUN TV * http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3u
+2-MERSIN SUN TV * rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+TV1 -Kayseri * http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
 TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 TV 52 * http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 TV 2000 * rtmp://stream.taksimbilisim.com/tv2000/bant1
 AKSU TV * http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-VTV -Antalya- * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
+1-VTV -Antalya * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
+2-VTV -Antalya * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 TEK RUMELI TV * http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/iptvdelisi.m3u8
 MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
