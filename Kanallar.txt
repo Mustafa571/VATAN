@@ -48,6 +48,7 @@ EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 3-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
+TV8 iNT * http://canlitvizle.gallery@tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=8m3GKo_bTS8DHD7thJAz3g&e=1507598830
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
@@ -91,15 +92,21 @@ TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 TV 52 * http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 TV 2000 * rtmp://stream.taksimbilisim.com/tv2000/bant1
+AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
+TVNET * http://canlitvizle.gallery@canli2.tvnet.tv.tr/live/smil:tvnet.smil/playlist.m3u8
 AKSU TV * http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 1-VTV -Antalya * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
 2-VTV -Antalya * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 TEK RUMELI TV * http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/iptvdelisi.m3u8
+RUMELi TV * http://38.117.88.250:7777/Rumeli_HD.m3u8?session=bd26828ab6a1f692d8daa079fdca5ed78e5d3ab7708cbc7777e5c8dc35d4f8db
+1AN TV * rtmp://broadcasttr.com:1935/birantv/bant1
+VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 MEDİNE TV * http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
 HILAL TV * rtmp://yayin5.canliyayin.org/hilaltv//hilaltv
 HABER 61 TV * rtmp://win8.yayinda.org/haber61tv/haber61tv
 TMB TV * rtmp://tmbtv.mediatriple.net/tmbtv/tmbtv2
+UÇANKUŞ TV * http://live.gridtelekom.com:1935/ucak/live/playlist.m3u8
 PLANET TÜRK * rtmp://77.223.146.117/live/planett
 DREAM TÜRK TV * http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
 DREAM TV * http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
@@ -112,3 +119,4 @@ NRT2-Arap * http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3
 TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
 ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
+RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
