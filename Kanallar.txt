@@ -35,6 +35,7 @@ SiNEMA TV 2 * http://yayin5.canliyayin.org/sinema2?MSWMExt=.asf
 SiNEMA TV 3 * http://yayin5.canliyayin.org/sinema3?MSWMExt=.asf
 SiNEMA TV 4 * http://yayin5.canliyayin.org/sinema4?MSWMExt=.asf
 SiNEMA TV 5 * http://yayin5.canliyayin.org/sinema5?MSWMExt=.asf
+ATV HD * http://clientportalpro.com:2500/live/watti-general1day18/TARXAJyVEJ/1377.ts
 1-STAR TV * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3846.ts
 2-STAR TV HD * http://casaiptv.com:7777/live/clien1/vz9aZgjmJV/3847.ts
 EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
@@ -43,6 +44,8 @@ EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 1-KANAL D HD * http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 2-KANAL D HD * http://media.netd.com.tr//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 3-KANAL D HD * https://soledge4.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
+FOX TV * http://clientportalpro.com:2500/live/watti-general1day18/TARXAJyVEJ/1369.ts
+KANAL 7 HD * http://clientportalpro.com:2500/live/watti-general1day18/TARXAJyVEJ/1584.ts
 1-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 2-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
@@ -79,7 +82,7 @@ KANAL 26 * http://stream.taksimbilisim.com:1935/kanal26/bant1/Kanal26.m3u8
 DEN TV * http://stream.taksimbilisim.com:1935/kanalf/bant1/KanalFetiye.m3u8
 LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
 Olay TV-Gaziantep-* http://stream.taksimbilisim.com:1935/olaytv/bant1/OlayTV.m3u8 
-EKiN TV * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
+EKiN TV * http://clientportalpro.com:2500/live/watti-general1day18/TARXAJyVEJ/6763.ts
 OLAY TV * http://s02.vidpanel.com/olaytv/olaytv.m3u8
 BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
 1-MERSIN SUN TV * http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3u
