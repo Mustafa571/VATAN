@@ -21,6 +21,7 @@ TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+Habertürk * http://mn-i.mncdn.com/haberturk/smil:haberturk.smil/playlist.m3u8?token=4b4e71d56bbc4fe3aaac059bae3c2bb9f3d7d159f78b5e45
 1-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
