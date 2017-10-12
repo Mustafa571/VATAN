@@ -26,7 +26,7 @@ HABERTÜRK * http://mn-i.mncdn.com/haberturk/smil:haberturk.smil/playlist.m3u8?t
 1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+CNN TÜRK * http://portal.geniptv.com:8080/live/VgyP1Kaf2Q/i5pas73ngo/1117.ts 
 YABAN TV * http://live3.canlitv.info:1935/live1/yabantv/chunklist_w601872677.m3u8
 AV TV * https://ams.tvizlehd.com/live/avtv/playlist.m3u8
 1-SEMERKAND HD * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
