@@ -21,12 +21,10 @@ TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 TRT MÜZİK * http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 TRT AVAZ * http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 TRT ÇOCUK * http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-HABERTÜRK * http://mn-i.mncdn.com/haberturk/smil:haberturk.smil/playlist.m3u8?token=4b4e71d56bbc4fe3aaac059bae3c2bb9f3d7d159f78b5e45
-1-BELGESEL NAT G.TR * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
+DENiZHABER-BELGESEL * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 TBMM TV * http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-CNN TÜRK * http://portal.geniptv.com:8080/live/VgyP1Kaf2Q/i5pas73ngo/1117.ts 
 YABAN TV * http://live3.canlitv.info:1935/live1/yabantv/chunklist_w601872677.m3u8
 AV TV * https://ams.tvizlehd.com/live/avtv/playlist.m3u8
 1-SEMERKAND HD * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
@@ -55,7 +53,6 @@ FiL TV * https://ams.tvizlehd.com/live/filtv/playlist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 3-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
 TV8 * https://ams.tvizlehd.com/live/tv81/playlist.m3u8
-TV8 iNT * http://canlitvizle.gallery@tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=eaAUrPg4F3TgdXzMwNh8hA&e=1507678211
 MELTEM TV * http://37.75.10.20/meltemtvcanli/smil:meltemtvcanli/chunklist_w1856280051_b780000.m3u8
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 KANAL TEK * http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
@@ -81,7 +78,6 @@ DEHA TV - Denizli * http://stream2.taksimbilisim.com:1935/deha/bant1/DEHATV.m3u8
 DOST TV * http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 ALANYA TV * http://stream2.taksimbilisim.com:1935/alanyatv/bant1/AlanyaTV.m3u8
 ABANT TV * https://ams.tvizlehd.com/live/abanttv/playlist.m3u8
-BTV -Ordu * http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
 EDiRNE TV * https://ams.tvizlehd.com/live/edirnetv/playlist.m3u8
 İÇEL TV * https://ams.tvizlehd.com/live/iceltv/playlist.m3u8
 RiZE TV * https://ams.tvizlehd.com/live/rizetv/playlist.m3u8
