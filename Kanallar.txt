@@ -135,3 +135,4 @@ ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
 RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+Test pas * https://pastebin.com/raw/RVT1CTpX
