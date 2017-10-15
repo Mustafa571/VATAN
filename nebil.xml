@@ -1,0 +1,1209 @@
+option:network-caching=157286400
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item><title>[COLOR skyblue][B][I]UPDATE[/COLOR][COLOR deepskyblue]   28.02.2017 [/COLOR][COLOR white]               ***** #BYHARUN *****[/COLOR][/I][/B]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-
+O.jpg</thumbnail><fanart>http://www.haberfark.net/d/news/3860.jpg</fanart></item>
+
+<item><title>[COLOR white][I]------------------------------------ULUSAL KANALLAR-------------------------------------[/COLOR][/I]
+</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR yellow][B]-->[COLOR lime]   TRT KANALLARI[COLOR yellow]   <--[/COLOR][/B]</title><link>$doregex[makelist]</link><regex> <name>makelist</name><listrepeat><![CDATA[<title>[COLOR yellow][B]*[COLOR lime]   [makelist.param2][B][/COLOR][/B]</title><link>$doregex[finalURL]</link><thumbnail>http://logonoid.com/images/trt-logo.png</thumbnail>]]></listrepeat><expres><![CDATA[href="./([^"]*)" title="([^"]*)"]]></expres><page>http://www.trt.net.tr/anasayfa/canli.aspx?y=tv&k=trt1</page><agent>iPhone</agent><cookieJar></cookieJar></regex><regex><name>finalURL</name>
+<expres>$pyFunction: '$doregex[finalM3U8]' if not '$doregex[finalM3U8]'=='' else '$doregex[finalF4M]'</expres><page></page></regex<regex>
+<name>finalM3U8</name><expres>(http.*index_[7|1].*?)\s</expres><page>$doregex[getM3U8]</page></regex><regex><name>getM3U8</name><expres>prmfi = "(http[^"]+)</expres><page>$doregex[getLink]</page><referer>http://www.trt.net.tr/anasayfa/[makelist.param1]</referer>
+<cookieJar></cookieJar></regex><regex><name>finalF4M</name><expres>(http.*index_[1|7].*?)\s</expres><page>$doregex[getF4Mclean]</page></regex><regex><name>getF4Mclean</name><expres>$pyFunction:'$doregex[getF4M]'.replace('/z','/i').replace('manifest.f4m','master.m3u8')</expres><page></page></regex><regex><name>getF4M</name><expres>prmfi = "(http.*?f4m)"</expres><page>$doregex[getLink]</page>
+<referer>http://www.trt.net.tr/anasayfa/[makelist.param1]</referer><cookieJar></cookieJar></regex><regex><name>getLink</name><expres>$pyFunction:base64.b64decode("$doregex[getBase64]")</expres><page></page>
+</regex><regex><name>getBase64</name><expres>dcm1\("([^"]+)</expres><page>http://www.trt.net.tr/anasayfa/[makelist.param1]</page><cookieJar></cookieJar></regex><thumbnail>http://logonoid.com/images/trt-logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]ATV[/COLOR][/B]</title>
+<link>$doregex[getsxURL]</link>
+<regex>
+<name>getsxURL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://videotoken.tmgrup.com.tr/webtv/secure?url=http://trkvz-live.ercdn.net/atvhd/atvhd.m3u8'):
+ headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.atv.com.tr/webtv/canli-yayin'}
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('Url".*?"(.*?)",', source.text)[0]
+ return m3u8 + '|User-Agent' + '|Referer'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.atv.com.tr/c/i/logo.png?v2</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]ATV YEDEK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.show/kanallar.php?kanal=atv-canli-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.show/atv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.atv.com.tr/c/i/logo.png?v2</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]STAR[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=star-tv-canli-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/star-tv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/de/8/87/Logo_Star_TV_ab_2012.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]SHOW[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=show-tv-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/show-tv-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/147px-Show_TV.svg.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]SHOWMAX[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=show-max-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/show-max-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/9/9b/ShowMax_logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]KANAL D[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=kanal-d&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/kanal-d'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/522px-Kanal_D_logo.svg.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]teve2[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.show/kanallar.php?kanal=teve2-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.show/teve2-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.teve2.com.tr/assets/img/teve2logo.png?v=1</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]KANAL 7[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=kanal-7-canli-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/kanal-7-canli-izle/1'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://basin.kanal7.com/dosyalar/LOGO/Kanal%207/Kanal%207%20ekran%20logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+
+ 
+<item>
+<title>[COLOR lime][B]FOX[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=fox-tv-canli-yayin&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/fox-tv-canli-yayin'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/tr/2/20/FOX_logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]360[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tv-360&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tv-360'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]a2[/COLOR][/B]</title>
+<link>$doregex[getsxURL]</link>
+<regex>
+<name>getsxURL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://videotoken.tmgrup.com.tr/webtv/secure?url=http://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8'):
+ headers = {'User-Agent': 'Mozilla/5.0','Referer': 'http://www.a2tv.com.tr/webtv/canli-yayin'}
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('Url".*?"(.*?)",', source.text)[0]
+ return m3u8 + '|User-Agent' + '|Referer'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.anahaberim.com/files/uploads/news/default/a2-tv-yakinda-geliyo-473af806432d5cec5ae3.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]HABERTÜRK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=haberturk-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/haberturk-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]NTV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=ntv-canli-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/ntv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/NTV_logo.png/800px-NTV_logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]KANAL 24[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = ':https://www.canlitv.plus/kanallar.php?kanal=kanal-24-canli-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/kanal-24-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/e/e9/Kanal_24.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]TV 8[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tv-8-canli-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tv-8-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]TV 8,5[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tv8-5-canli-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tv8-5-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]BEYAZ TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=beyaz-tv-canli-izle&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/beyaz-tv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.beyaztv.com.tr/images/logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]TGRT HABER[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tgrt-haber&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tgrt-haber'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.canlitvlive.co/logo/tgrt-haber.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]CNN TÜRK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=cnn-turk&security=4b48ac230531183a320b34af299d5c4c'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/cnn-turk'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://bridgecountynews.files.wordpress.com/2016/07/cnn-turk-logo.png?w=162&h=124</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]HALK TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=halk-tv-canli-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/halk-tv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://turkce.tvfrekansi.com/wp-content/uploads/2015/01/halk_tv_logo-200x200.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]ULUSAL KANAL[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=ulusal-kanal&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/ulusal-kanal'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.ulusalkanal.com.tr/images/banner/logoorjinal.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]TELE 1[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tele1-tv-izle&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tele1-tv-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tele1.com.tr/wp-content/uploads/2016/11/tele1_logo_yeni.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]CAY TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=cay-tv&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/cay-tv'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/12/cay-tv-logo-resmi.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]TEK RUMELI[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=tek-rumeli-tv&security=e0c77cfabeeafd916c519c22739058b1'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/tek-rumeli-tv'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1102490078/Tek_rumelitv_logo_400x400.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+item>
+<title>[COLOR lime][B]OLAY TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=olay-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/olay-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.olaytv.com.tr/lib/img/logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]FLASH TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.canlitv.plus/kanallar.php?kanal=flash-tv-canli-izle&security=20e3d7ea8c9d7ecf97e78718aee3a712'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'https://www.canlitv.plus/flash-tv-canli-izle'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/483340127/flashtv_400x400.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+<item><title>[COLOR white][I]-------------------------------------YEREL KANALLAR---------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]SONY CHANNEL[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://www.ecanlitvizle.net/embed.php?kanal=sony-channel-turkiye</page><referer>http://www.ecanlitvizle.net/sony-channel-turkiye/</referer></regex><thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR lime][B]EGE TV[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://www.ecanlitvizle.net/embed.php?kanal=ege-tv-izle</page><referer>http://www.ecanlitvizle.net/ege-tv-izle/</referer></regex><thumbnail>http://www.ecanlitvizle.net/logo/ege-tv-izle.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR lime][B]ADANA TV[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://www.ecanlitvizle.net/embed.php?kanal=adana-tv</page><referer>http://www.ecanlitvizle.net/adana-tv/</referer></regex><thumbnail>http://www.ecanlitvizle.net/logo/adana-tv.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR lime][B]ICEL TV[/COLOR][/B]</title><link>http://stream.taksimbilisim.com:1935/iceltv/smil:iceltv.smil/iptvdelisi.m3u8</link><thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcccB4bHGId_IWMywLakftgKpT5VVc24bFmx2ojD-tXxyhUCvdn8Vk0Q</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR lime][B]MERSIN SEHIR TV[/COLOR][/B]</title><link>http://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37/playlist.m3u8</link><thumbnail>http://www.noc.com.tr/wp-content/uploads/2015/08/Mersin_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_amblem-260x260.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]MELTEM TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=meltem-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/meltem-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.imeskom.com/resimler/videolar/detay/8382.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+ 
+<item><title>[COLOR lime][B]ÖNCÜ TV[/COLOR][/B]</title><link>http://yayin3.canlitv.com:1935/live/oncutv/playlist.m3u8</link><thumbnail>http://www.oncurtv.com/images/banner/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]1AN TV[/COLOR][/B]</title><link>http://broadcasttr.com:1935/birantv/bant1/chunklist_w1734772755.m3u8
+</link><thumbnail>http://1antv.com/wp-content/uploads/2016/10/1antv_logo_120.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR lime][B]TLC[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=tlc-tv'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/tlc-tv/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_TLC.svg/380px-Logo_TLC.svg.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR lime][B]BUDEMS TV[/COLOR][/B]</title>
+<link>http://yayin3.canliyayin.org:1935/budemstv/budemstv/playlist.m3u8</link><thumbnail>https://pbs.twimg.com/profile_images/689750936768659456/wmQGeVKz_400x400.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]ALTAS TV[/COLOR][/B]</title>
+<link>http://151.80.102.86:1935/altastv/smil:altastv.smil/playlist.m3u8</link><thumbnail>http://www.mesudiyegazetesi.com.tr/wp-content/uploads/2016/03/atlas-tv-logo-resmi1-300x247.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR lime][B]CEM TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=cem-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/cem-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1539638251/CEMTVLOGO_son_400x400.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR lime][B]TV EM[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=tv-em-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/tv-em-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvem.com.tr/Content/assets/img/logo@tvem@x2yeni.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR lime][B]VIYANA TV[/COLOR][/B]</title><link>http://46.105.37.166:1935/viyanatv/viyanatv/playlist.m3u8</link><thumbnail>http://www.sat-address.com/f/pics/Stations/Viyana-TV_o.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+  
+<item><title>[COLOR lime][B]KANAL BEN[/COLOR][/B]</title><link>http://kanalben.cubecdn.net/live/kanalben1.m3u8</link><thumbnail>http://www.kanalben.com/images/bentv-logo.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item>
+<title>[COLOR lime][B]KRT TV[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://www.hdtvler1.net/yayinlar/karadeniztv.php</page><referer>http://www.hdtvler1.net/karadeniz-tv/</referer></regex><thumbnail>http://www.imeskom.com/resimler/videolar/detay/8382.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR lime][B]KRT TV[/COLOR][/B]</title><link>http://yayin5.canliyayin.org:1935/karadeniztv/karadeniz2/playlist.m3u8</link><thumbnail>http://www.krttv.com.tr/images/KRT-LOGO.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]KONYA ÜN TV[/COLOR][/B]</title><link>http://yayin3.canlitv.com:1935/live/untv/playlist.m3u8
+</link><thumbnail>http://www.ajansuntv.selcuk.edu.tr/wp-content/uploads/2016/11/logo-300x185.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]KANAL 19[/COLOR][/B]</title><link>http://www.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+</link><thumbnail>http://2.bp.blogspot.com/-x0ttonp9kkE/UuFYKOm4-xI/AAAAAAAAK5Q/vDRVGMH7C2w/s1600/kanal19.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item><title>[COLOR lime][B]TV 21[/COLOR][/B]</title><link>http://yayin3.canlitv.com:1935/live/tv21/
+chunklist_w721279223.m3u8
+</link><thumbnail>http://www.tv21.com.tr/images/genel/logo_1_1.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR lime][B]PAMUKKALE TV[/COLOR][/B]</title><link>http://159.253.44.101:1935/pamukkaletv/pamukkaletv/playlist.m3u8</link><thumbnail>https://www.tvfrekans.com/wp-content/uploads/2012/11/pamukkale-tv-logo-resmi-300x75.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR lime][B]DRT DENIZLI TV[/COLOR][/B]</title><link>https://ams.tvizlehd.com/live/drtdenizlitv/playlist.m3u8</link><thumbnail>http://turkce.tvfrekansi.com/wp-content/uploads/2015/01/drt_denizli_tr_logo-200x200.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR lime][B]ASTV BURSA[/COLOR][/B]</title><link>http://yayin3.canlitv.com:1935/canlitv/astv/playlist.m3u8?hash=5d2be6122ab3613b693feb443f9024e0</link><thumbnail>https://referenceur-tv.com/wp-content/uploads/2013/05/astv-bursa-tv-online-live-channel-streaming.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR white][I]------------------------------------COCUK KANALLARI------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR yellow][B]MINIKA GO[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=minika-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/minika-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.canlitvlive.co/logo/minika-go.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]MINIKA COCUK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=minika-cocuk'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/minika-cocuk/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.canlitvlive.co/logo/minika-cocuk.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]PLANET COCUK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.canlitvlive.co/tvizle.php?t=1&tv=planet-cocuk'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.canlitvlive.co/izle/planet-cocuk.html'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://webtviptv.com/wp-content/uploads/2016/04/planetcocuk.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR yellow][B]CIZGI FILM[/COLOR][/B]</title><link>http://yayin.networkbil.com/cizgifilmtv/playlist.m3u8</link><thumbnail>https://s-media-cache-ak0.pinimg.com/236x/62/a9/4d/62a94d959e0cc6baf95c33db35c5c194.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>  
+ 
+<item>
+<title>[COLOR yellow][B]TRT COCUK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=trt-cocuk-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/trt-cocuk-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.56.54/f4d8174abe0d4c9e8f0e9006c5095f51_wh80.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR white]---------------------------------BELGESEL KANALLAR---------------------------------[/COLOR]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]TRT BELGESEL[/COLOR][/B]</title><link>http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_500_av-p.m3u8</link><thumbnail>http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-15.56.08/4e138d419d1746d693f49d1247570f0d.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]TGRT BELGESEL[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)"</expres><page>http://www.canlitv.com/tgrt-belgesel</page><referer>http://www.canlitv.com/tgrt-belgesel</referer></regex><thumbnail>http://turkce.tvfrekansi.com/wp-content/uploads/2015/04/Tgrt_belgesel.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]MAKINE TV[/COLOR][/B]</title><link>rtmp://streaming.imajnetwork.com:80/makinetv/makinetv</link><thumbnail>http://www.makinetv.net/images/Upload/4b02995640f648d7908a32fe55afbb27.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]OTOMOTIV DÜNYASI[/COLOR][/B]</title><link>http://cdn1.streamencoding.com:1935/medyathink_live/otodunyasitv/playlist.m3u8</link><thumbnail>http://www.otomotivdunyasi.tv/uploads/logo/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]TURIZM TV[/COLOR][/B]</title><link>http://1.rtmp.org:80/tv117/yayin.stream/playlist.m3u8</link><thumbnail>https://4.bp.blogspot.com/-N7pDxTnmT5E/Vt7z6YA7BYI/AAAAAAAABcU/9wz8rteltKQ/s320/TourismTV%2B%2528ID%252900.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item><title>[COLOR orangered][B]TARIM TÜRK[/COLOR][/B]</title><link>http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8</link><thumbnail>http://tarimturktv.com/wp-content/uploads/2016/01/tarimturk_logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]BEREKET TV[/COLOR][/B]</title><link>http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8</link><thumbnail>http://static.bereket.tv/images/news/1445_5d9bbff934f043e33f5c604d915ddf92.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR orangered][B]KÖY TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.canlitvlive.co/tvizle.php?t=1&tv=koy-tv'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.canlitvlive.co/izle/koy-tv.html'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.koytv.tv/img/logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+item><title>[COLOR orangered][B]KÖY TV[/COLOR][/B]</title><link>http://www.arkumedia.com:1935/koytv/koytv/playlist.m3u8</link><thumbnail>http://www.koytv.tv/img/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]YABAN TV[/COLOR][/B]</title><link>http://yayin3.canlitv.com:1935/live1/yabantv/playlist.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Yaban_tv_logo_new.png/614px-Yaban_tv_logo_new.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item><title>[COLOR orangered][B]YAT TV[/COLOR][/B]</title><link>http://s03.vidpanel.com/yattv/yattv.m3u8</link><thumbnail>http://img.vidpanel.com/img/yat/yat_logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]DENIZ HABER[/COLOR][/B]</title><link>http://s03.vidpanel.com/denizhaber/denizhaber.m3u8</link><thumbnail>http://img.vidpanel.com/img/denizhaber/denizhaber-logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR white][I]------------------------------------SINEMA KANALLARI-------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR darkturquoise][B]PLANET TÜRK[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=planet-sinema-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/planet-sinema-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/8/8f/Planet_T%C3%BCrk_logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR darkturquoise][B]FIL TV[/COLOR][/B]</title><link>http://canlitv.gallery@canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8</link><thumbnail>http://www.hdtvizle.com/uploads/posts/2015-08/1439320596_filtv.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR darkturquoise][B]FRM TV[/COLOR][/B]</title><link>http://185.50.68.221:1935/live/myStream/chunklist_w1003771200.m3u8</link><thumbnail>http://www.frmtv.com/wp-content/uploads/2016/10/frmtvlogo-turkiye.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR darkturquoise][B]SKY ACTION[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/5163.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/1/19/Sky_de_action_hd.png/revision/latest/scale-to-width-down/640?cb=20130725043925</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR darkturquoise][B]SKY ATLANTIC[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/5125.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Atlantic_DE_Logo_2015.png/800px-Sky_Atlantic_DE_Logo_2015.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR darkturquoise][B]TNT FILM[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/6278.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TNT_Film_HD_Logo_2016.png/120px-TNT_Film_HD_Logo_2016.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR darkturquoise][B]SINEMA 1[/COLOR][/B]</title><link>http://yayin7.canliyayin.org/sinema1/playlist.m3u8</link><thumbnail>http://www.avm.gen.tr/resimler/barutcuoglu_sinemalari_barutcuoglu_avm_b.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR darkturquoise][B]SINEMA 2[/COLOR][/B]</title><link>http://yayin7.canliyayin.org/sinema2/playlist.m3u8</link><thumbnail>http://www.avm.gen.tr/resimler/barutcuoglu_sinemalari_barutcuoglu_avm_b.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR darkturquoise][B]SINEMA 3[/COLOR][/B]</title><link>http://yayin7.canliyayin.org/sinema3/playlist.m3u8</link><thumbnail>http://www.avm.gen.tr/resimler/barutcuoglu_sinemalari_barutcuoglu_avm_b.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR darkturquoise][B]SINEMA 4[/COLOR][/B]</title><link>http://yayin7.canliyayin.org/sinema4/playlist.m3u8</link><thumbnail>http://www.avm.gen.tr/resimler/barutcuoglu_sinemalari_barutcuoglu_avm_b.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+ 
+<item><title>[COLOR white]---------------SPOR KANALLARI---------------[/COLOR]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orange][B]SKY BUNDESLIGA[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/3504.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/798px-Sky_Sport_Bundesliga_Logo_2016.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LIG TV 1[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13006.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LIG TV 2[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13007.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LIG TV 3[/COLOR][/B]</title><link>http://mrsl1xtv.nl:2222/4.ch?u=HD1034:p=7VBGCVD</link><thumbnail>http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]SMART SPOR[/COLOR][/B]</title><link>http://mrsl1xtv.nl:2222/15.ch?u=HD1034:p=7VBGCVD</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TIVIBU SPOR[/COLOR][/B]</title><link>plugin://plugin.video.f4mTester/?url=http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13051.ts&amp;streamtype=TSDOWNLOADER</link><thumbnail>https://4.bp.blogspot.com/-18M27OY1O2k/WRxTuvCZXuI/AAAAAAAAAVU/ezlZqnAyHrco1lxD7A1fmoghUMLSEf5rQCLcB/s320/tivibu.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+item><title>[COLOR orange][B]TRT SPOR[/COLOR][/B]</title><link>http://mrsl1xtv.nl:2222/6.ch?u=HD1034:p=7VBGCVD</link><thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a7/TRT_Spor_HD.png/revision/latest/scale-to-width-down/640?cb=20151105010304</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]TRT SPOR[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=trt-spor-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/trt-spor-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a7/TRT_Spor_HD.png/revision/latest/scale-to-width-down/640?cb=20151105010304</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]A SPOR[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=a-spor-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/a-spor-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.canlitvlive.co/logo/a-spor.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]NTV SPOR[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=ntv-spor-hd-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/ntv-spor-hd-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/tr/thumb/7/7a/NTV_Spor_logosu.png/800px-NTV_Spor_logosu.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+
+ 
+<item><title>[COLOR orange][B]SPORTS TV[/COLOR][/B]</title><link>http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8</link><thumbnail>https://www.sportsnet.com.tr/img/logo_sportstv_large.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orange][B]SPORTS TV[/COLOR][/B]</title><link>https://stream-14.dc3.dailymotion.com/46/dm/3/xne3bf/live-2.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/481px-Galatasaray_Sports_Club_Logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+
+<item><title>[COLOR orange][B]BJK TV[/COLOR][/B]</title><link>https://stream-13.dc3.dailymotion.com/49/dm/3/x31omum/live-2.m3u8</link><thumbnail>https://4.bp.blogspot.com/-Ee84VpOyhCg/VpWhslPzlBI/AAAAAAAABfM/ZQREohARJm0/s400/bjk.tv.logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR orange][B]FB TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=fenerbahce-fb-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/fenerbahce-fb-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.osmantv.com/wp-content/uploads/2016/10/fbtv.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR orange][B]BURSASPOR TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=bursaspor-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/bursaspor-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.canlitvlive.co/logo/bursaspor-tv.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orange][B]FANATIK TV[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.ecanlitvizle.net/embed.php?kanal=fanatik-tv-izle'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.ecanlitvizle.net/fanatik-tv-izle/'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.ecanlitvizle.net/logo/fanatik-tv-izle.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR white][I]-------------------------------------MUSIC KANALLARI-------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRAL[/COLOR][/B]</title>
+<link>http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8</link><thumbnail>http://www.kralmuzik.com.tr/Content/i/logolar/kral-tv-small.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRALPOP[/COLOR][/B]</title>
+<link>http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/Logos/kralpoptv-60.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRALPOP AKUSTIK[/COLOR][/B]</title>
+<link>http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/ImageDigitalTvsContent/dd597e17-cff0-4014-9799-19041c52757f.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRALPOP KONSER[/COLOR][/B]</title>
+<link>http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/ImageDigitalTvsContent/30b34d65-554d-4471-b50f-a2508aaa0ce9.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRAL NONAME[/COLOR][/B]</title>
+<link>http://psbj5i5c.rocketcdn.com/kraldijital-nonametv.smil/chunklist_b2328000.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/ImageDigitalTvsContent/34f26839-933a-409a-9896-e2efb53fa10a.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRALPOP ASK[/COLOR][/B]</title>
+<link>http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist_b2328000.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/ImageDigitalTvsContent/6dd57065-44f2-41fe-bbad-84c184b9e366.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+
+<item><title>[COLOR violet][B]KRALPOP DANS[/COLOR][/B]</title>
+<link>http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist_b2328000.m3u8</link><thumbnail>http://cdn1.kralmuzik.com.tr/media/content/i/ImageDigitalTvsContent/5d274f76-4c59-495f-a257-402fc514b77b.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR violet][B]TRT MUZIK[/COLOR][/B]</title><link>http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?sd=10&rebase=on</link><thumbnail>http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.17.21/244af659756a43359aa47e2b07e45c1e.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR violet][B]DREAM TURK[/COLOR][/B]</title><link>https://live.dogannet.tv/S2/HLS_LIVE/dreamturktv/500/prog_index.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item><title>[COLOR violet][B]POWER TV HD[/COLOR][/B]</title><link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8</link><thumbnail>http://www.powerfm.com.tr/i/powerTVLogo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR violet][B]POWER TURK[/COLOR][/B]</title><link>http://powertv.cdnturk.com/powertv/powerturktv.smil/chunklist_b1028000.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR white][I]------------------------------------NASA KANALLARI--------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR olive][B]NASA TV[/COLOR][/B]</title><link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link><thumbnail>http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-76x76.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR olive][B]NASA MEDIA[/COLOR][/B]</title><link>http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8</link><thumbnail>http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-76x76.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR olive][B]NASA ISS[/COLOR][/B]</title><link>http://iphone-streaming.ustream.tv/uhls\/9408562/streams/live/iphone/master.m3u8</link><thumbnail>http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-76x76.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+ 
+<item><title>[COLOR white][I]------------------------------------ALMAN KANALLARI-------------------------------------[/COLOR][/I]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]ARD[/COLOR][/B]</title><link>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</link><thumbnail>https://4.bp.blogspot.com/-1gM8TlviXSg/V4KjT6sbf-I/AAAAAAAAEB8/cJJJvU3BKoIG8Squ_fNIEzdYK8OeeojlwCLcB/s200/ard_das_erste.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]ARD-ALPHA[/COLOR][/B]</title><link>http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8</link><thumbnail>https://pbs.twimg.com/profile_images/476743729668034560/HC_Q8-Uh_400x400.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]ZDF[/COLOR][/B]</title><link>http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ZDF.svg/800px-ZDF.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]ZDF-INFO[/COLOR][/B]</title><link>http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8</link><thumbnail>http://image1.hoerzu.de/files/station_logos/276.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]ZDF-NEO[/COLOR][/B]</title><link>http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZDFneo_hd.svg/543px-ZDFneo_hd.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]WDR[/COLOR][/B]</title><link>http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]N24[/COLOR][/B]</title><link>https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8</link><thumbnail>http://senderlogos.images.dvbdata.com/302x190_w/175.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]3SAT[/COLOR][/B]</title><link>http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]NDR[/COLOR][/B]</title><link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/180px-NDR_Dachmarke.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]SR[/COLOR][/B]</title><link>http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SR_Dachmarke.PNG/200px-SR_Dachmarke.PNG</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]BR[/COLOR][/B]</title><link>http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8</link><thumbnail>http://www.elmagomasin.de/wp-content/uploads/2014/03/br_bayerisches_fernsehen_nord-300x75.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]SWR[/COLOR][/B]</title><link>http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8?sd=10&rebase=on</link><thumbnail>https://www.aircloak.com/img/SWR-Fernsehen.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]hr[/COLOR][/B]</title><link>http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hr-fernsehen-logo.svg/800px-Hr-fernsehen-logo.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]MDR[/COLOR][/B]</title<link>http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8|X-Forwarded-For=91.63.136.21</link><thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/Watch-MDR-TV-Live-TV-from-Germany.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]RBB[/COLOR][/B]</title><link>http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8|X-Forwarded-For=91.63.136.21</link><thumbnail>https://www.rbb-online.de/content/dam/rbb/rbb/layout/logo_rbb_fernsehen.png.png/img.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]TVA[/COLOR][/B]</title><link>http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8</link><thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tva.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]SERVUS TV[/COLOR][/B]</title><link>http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/de/thumb/1/14/ServusTV_HD.svg/646px-ServusTV_HD.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]PHOENIX[/COLOR][/B]</title><link>http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8</link><thumbnail>http://www.phoenix.de/fm/82/phoenix-logo.gif</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR mediumspringgreen][B]WELT DER WUNDER[/COLOR][/B]</title><link>http://live.vidoo.de/live/weltderwunder/chunklist_w746510742.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/280px-Logo_Welt_der_Wunder_neu.svg.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+
+<item><title>[COLOR white]---------------ARABIC KANALLAR---------------[/COLOR]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]KUDÜS TV[/COLOR][/B]</title><link>http://yayin10.canliyayin.org/P981680400/kudustv/playlist.m3u8</link><thumbnail>https://pbs.twimg.com/profile_images/765093561293570048/zPRIwdl8_reasonably_small.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL ARABIYA [/COLOR][/B]</title><link>https://live.alarabiya.net/alarabiya/myStream_720p/playlist.m3u8</link><thumbnail>https://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+ 
+item><title>[COLOR orangered][B]OTV[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://www.otv.com.lb/new-live.php</page><referer>http://www.otv.com.lb/new-live.php</referer></regex><thumbnail>http://static.kfary.com/pic/2012901612420-otv-lebanon.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item>
+<title>[COLOR orangered][B]OTV[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.otv.com.lb/new-live.php'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.otv.com.lb/new-live'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.kfary.com/pic/2012901612420-otv-lebanon.jpg</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orangered][B]LBC[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://www.lbcgroup.tv/Live/ar'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://www.lbcgroup.tv/Live/ar'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lbcgroup.tv/programsimages/PCL-5-635531118011703749.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orangered][B]AL-JADEED[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://player.l1vetv.com/aljadeed/index-1.php'):
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36','Referer': 'http://player.l1vetv.com/aljadeed/index-1.php'}
+ sourceSX = requests.get(url, headers=headers)
+ startv = re.findall('file:.+?(http.*m3u8.*?)[\'\"]', sourceSX.text)[0]
+ return startv + '|headers'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/ntv-094537.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR orangered][B]AL-MANAR[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title><link>rtmp://live.mediaforall.net:1935/liveorigin/livestream_480p</link><thumbnail>http://blog.camera.org/archives/al%20Manar%20logo.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+item><title>[COLOR orangered][B]AL-JADEED TV[/COLOR][COLOR white]     (LEBANON)[/COLOR][/B]</title><link>$doregex[get-M3u8]</link><regex><name>get-M3u8</name><expres>(http.*m3u8.*)</expres><page>http://player.l1vetv.com/aljadeed/index-1.php</page><referer>http://www.aljadeed.tv/arabic/tv/live</referer></regex><thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/ntv-094537.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL AQSA TV[/COLOR][COLOR white]     (PALESTINE)[/COLOR][/B]</title><link>http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8</link><thumbnail>http://aqsatv.ps/style/atyaf/assets/images/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL QUDS TV[/COLOR][COLOR white]     (PALESTINE)[/COLOR][/B]</title><link>http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8</link><thumbnail>http://www.qudstv.com/img/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]MAAN TV[/COLOR][COLOR white]     (PALESTINE)[/COLOR][/B]</title><link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link><thumbnail>http://adwar.ps/we/wp-content/uploads/2014/08/new_5-500x330.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL FALSTINIAH TV[/COLOR][COLOR white]     (PALESTINE)[/COLOR][/B]</title><link>http://htv.mada.ps:8888/ftv/ftv/tracks-v1a1/index.m3u8</link><thumbnail>http://www.sat-address.com/f/pics/Stations/Al-Falstiniah-TV_o.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL YAWM TV[/COLOR][COLOR white]     (PALESTINE)[/COLOR][/B]</title><link>http://live.paltoday.tv:1935/paltv/live/playlist.m3u8</link><thumbnail>http://de.kingofsat.net/jpg/palestine-alyawm.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL FAJER TV[/COLOR][COLOR white]     (GAZA)[/COLOR][/B]</title><link>http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8</link><thumbnail>https://yt3.ggpht.com/-TsntJTy1g8o/AAAAAAAAAAI/AAAAAAAAAAA/GnLuoaS_1WM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]MEKAMELEEN[/COLOR][COLOR white]     (TUNUSIA)[/COLOR][/B]</title><link>http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8</link><thumbnail>http://i0.wp.com/www.dailynewsegypt.com/app/uploads/2015/02/Mekamleen.jpg?w=476</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]JORDAN TV[/COLOR][/B]</title><link>http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/chunklist_w1149097802.m3u8</link><thumbnail>http://www.jrtv.jo/App_Themes/ar/images/logo.png?lang=ar</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL-MAYADEEN TV[/COLOR][COLOR white]     (JORDAN)[/COLOR][/B]</title><link>http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]DUBAI AL OULA[/COLOR][/B]</title><link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8</link><thumbnail>https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1169_1.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]DUBAI SPORT[/COLOR][/B]</title><link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</link><thumbnail>http://www.prodys.net/new_web/noticias/dubaisports_logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered][B]Al ikhbaria  (Syria)[/COLOR][/B]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/watch?v=8W80kx1RFQ0&autostart=true'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://alikhbariya.sy/images/themes/default/logo.png</thumbnail>
+<fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart>
+</item>
+ 
+<item><title>[COLOR orangered][B]SAMA TV[/COLOR][COLOR white]     (SYRIA)[/COLOR][/B]</title><link>rtmp://sama-tv.net:1935/live/samatv</link><thumbnail>http://www.sama-tv.net/images/logo.png</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</item>
+ 
+<item><title>[COLOR orangered][B]UGARIT[/COLOR][COLOR white]     (SYRIA)[/COLOR][/B]</title><link>http://82.137.248.21:1935/Ugarit/UgaritLive/chunklist_w715647695.m3u8</link><thumbnail>http://live.rtv.gov.sy/images/Ugarit.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]AL OULA[/COLOR][COLOR white]     (SYRIA)[/COLOR][/B]</title><link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link><thumbnail>http://i5.satexpat.com/cha/sy/syria-tv_95x80.gif</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]DRAMA[/COLOR][COLOR white]     (SYRIA)[/COLOR][/B]</title><link>rtmp://82.137.248.21:1935/Drama/DramaLive1</link><thumbnail>http://live.rtv.gov.sy/images/drama.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]ORIENT NEWS[/COLOR][COLOR white]     (SYRIA)[/COLOR][/B]</title><link>https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8</link><thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTYJc1R_HrnUqAOsZL5MMh83OLccIVwimGsEbpiv2Fo9OjMItO3nOhJ</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]SEDU TV[/COLOR][/B]</title><link>rtmp://82.137.248.20:1935/SEdu/SEduLive1</link><thumbnail>http://live.rtv.gov.sy/images/sedu.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]RTV NOUR TV[/COLOR][/B]</title><link>rtmp://82.137.248.21:1935/Nour/NourLive1</link><thumbnail>http://live.rtv.gov.sy/images/nour.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]RT ARABIC[/COLOR][/B]</title><link>http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index1600.m3u8</link><thumbnail>http://i5.satexpat.com/cha/ru/rt_arabic_95x79.gif</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orangered][B]ANB Live TV[/COLOR][/B]</title><link>http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8</link><thumbnail>https://img.new.livestream.com/accounts/00000000000e3dc5/029bf200-4f0a-4845-bd1d-e4d0a4b438aa_170x170.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR white]---------------ARABIC MUSIC---------------[/COLOR]</title><link>http</link><thumbnail>http://www.suslenoto.com.tr/mustafa-kemal-ataturk-siyah-resim-ve-imzasi-40132-13-O.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orange][B]HAWACOM MUSIC CHANELL[/COLOR][/B]</title><link>http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8</link><thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Hawacom_300-125731.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
+ 
+<item><title>[COLOR orange][B]ARABICA TV[/COLOR][/B]</title><link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8</link><thumbnail>http://www.sat-address.com/f/pics/logotipi/Arabica-TV_o.jpg</thumbnail><fanart>http://www.manisaturk.com/wp-content/uploads/2016/11/maxresdefault-768x432.jpg</fanart></item>
