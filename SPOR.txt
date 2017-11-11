@@ -1,6 +1,6 @@
-Bein Sport HD 1 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6671.m3u8
-TR: Bein Sport HD 2 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6670.m3u8
-TR: Bein Sport HD 3 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6669.m3u8
+TR:Bein Sport HD 1 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6671.m3u8
+TR:Bein Sport HD 2 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6670.m3u8
+TR:Bein Sport HD 3 * http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/6669.m3u8
 TR:Tivibu Spor * http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/11473.m3u8
 TR:Tivibu Spor 2 * http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/11472.m3u8
 TR:Tivibu Spor 3 * http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/11471.m3u8
