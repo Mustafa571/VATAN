@@ -134,7 +134,7 @@ KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
 RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
-TELE1 * https://tanya.tvizlehd.com/tele1.m3u8?tkn=TsxrR4aYcaJgtx2nsxqoJg&tms=1510417874
+TELE1 * https://depresan.tvizlehd.com/tele1.m3u8?tkn=Zp4RoZZMO-9DKMEvPNMZiQ&tms=1510432627
 ARTI TV * https://ams.tvizlehd.com/live/artitv/playlist.m3u8
 TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
 
