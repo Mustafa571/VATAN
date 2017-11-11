@@ -104,7 +104,6 @@ TV 52 * http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8
 KANAL 3 * https://ams.tvizlehd.com/live/kanal3/playlist.m3u8
 KANAL 26 * http://stream.taksimbilisim.com:1935/kanal26/smil:kanal26.smil/playlist.m3u8
 TV 5 * https://ams.tvizlehd.com/live/tv5/playlist.m3u8
-TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 TV 2000 * rtmp://stream.taksimbilisim.com/tv2000/bant1
 AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 TVNET * http://canlitvizle.gallery@canli2.tvnet.tv.tr/live/smil:tvnet.smil/playlist.m3u8
@@ -135,3 +134,6 @@ ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
 RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
+TELE1 * plugin://plugin.video.youtube/play/?video_id=bTtJ6gXt2Hs
+ARTI TV * plugin://plugin.video.youtube/play/?video_id=0oTP89N2lpQ
