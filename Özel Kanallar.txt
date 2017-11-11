@@ -1,6 +1,6 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
-=[COLOR blue]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SPOR.m3u
+=[COLOR blue]SPOR KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/SPOR.txt
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]FiLiMLER-YouTube[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
