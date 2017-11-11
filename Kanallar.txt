@@ -137,3 +137,4 @@ TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 TELE1 * https://tanya.tvizlehd.com/tele1.m3u8?tkn=TsxrR4aYcaJgtx2nsxqoJg&tms=1510417874
 ARTI TV * https://ams.tvizlehd.com/live/artitv/playlist.m3u8
 TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
+MED MUZIK * http://live.bestazindi.com:1935/medmuziktv/smil:medmuzik.smil/chunklist_w1305192578_b791800_slen_tkYmVzdGFlbmR0aW1lPTE1MTA0MjEwNDEmYmVzdGFzdGFydHRpbWU9MTUxMDQxMDI0MSZiZXN0YUN1c3RvbVBhcmFtMT1DdXN0b21WYWx1ZSZiZXN0YWhhc2g9OFF6YzY1QUZaeUlmaTNZeFhHNTc4Ujhfa0I2aUVxYUxVdjV6QTNBZnBRTT0=.m3u8
