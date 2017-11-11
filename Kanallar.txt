@@ -135,5 +135,5 @@ KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
 RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
-TELE1 * plugin://plugin.video.youtube/play/?video_id=bTtJ6gXt2Hs
-ARTI TV * plugin://plugin.video.youtube/play/?video_id=0oTP89N2lpQ
+TELE1 * https://tanya.tvizlehd.com/tele1.m3u8?tkn=TsxrR4aYcaJgtx2nsxqoJg&tms=1510417874
+ARTI TV * https://ams.tvizlehd.com/live/artitv/playlist.m3u8
