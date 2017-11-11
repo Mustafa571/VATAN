@@ -8,7 +8,6 @@
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT ARAPCA * http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8
-TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
 1-TRT SPOR * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/playlist.m3u8
 TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
@@ -137,3 +136,4 @@ RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 TELE1 * https://tanya.tvizlehd.com/tele1.m3u8?tkn=TsxrR4aYcaJgtx2nsxqoJg&tms=1510417874
 ARTI TV * https://ams.tvizlehd.com/live/artitv/playlist.m3u8
+TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
