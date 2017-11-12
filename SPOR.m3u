@@ -1,66 +1,63 @@
-#EXTINF:-1,TR:--beIN SPORTS 1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12452.ts
-#EXTINF:-1,TR:--beIN SPORTS 2
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12451.ts
-#EXTINF:-1,TR:--beIN SPORTS 3
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12450.ts
-#EXTINF:-1,TR:--beIN SPORTS 4
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12449.ts
-#EXTINF:-1,BeIN SPORTS 1
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80692.ts
-#EXTINF:-1,BeIN SPORTS 2
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80691.ts
-#EXTINF:-1,BeIN SPORTS 3
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80690.ts
-#EXTINF:-1,BeIN SPORTS 4
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80689.ts
-#EXTINF:-1,BeIN SPORTS MAX 1 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80688.ts
-#EXTINF:-1,BeIN SPORTS MAX 2 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80687.ts
-#EXTINF:-1,EUROSPORT 1
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80686.ts
-#EXTINF:-1,EUROSPORT 1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12434.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80685.ts
-#EXTINF:-1,EUROSPORT 2
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80684.ts
-#EXTINF:-1,EUROSPORT 2
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/12433.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80683.ts
+#EXTM3U
+#EXTINF:-1,beIN SPORTS HD 1
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/135.ts
+#EXTINF:-1,beIN SPORTS 1 HD 265.HVEC
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/2785.ts
+#EXTINF:-1,beIN SPORTS SD 1
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8568.ts
+#EXTINF:-1,beIN SPORTS HD 1 Mobile
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8238.ts
+#EXTINF:-1,beIN SPORTS HD 1 1080i
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8570.ts
+#EXTINF:-1,beIN SPORTS HD 1 720p
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8569.ts
+#EXTINF:-1,beIN SPORTS HD 2
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/134.ts
+#EXTINF:-1,beIN SPORTS HD 3
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/133.ts
+#EXTINF:-1,beIN SPORTS HD 4
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/132.ts
+#EXTINF:-1,beIN SPORTS MAX HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8153.ts
+#EXTINF:-1,beIN SPORTS MAX2 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8154.ts
+#EXTINF:-1,beIN SPORTS HABER HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8576.ts
+#EXTINF:-1,beIN PREMIER 2 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/49.ts
+#EXTINF:-1,beIN PREMIER HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/3150.ts
+#EXTINF:-1,tivibu SPOR 1 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/87.ts
+#EXTINF:-1,tivibu SPOR 2 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/88.ts
+#EXTINF:-1,tivibu SPOR 3 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/126.ts
+#EXTINF:-1,tivibu SPOR 4 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/125.ts
+#EXTINF:-1,D-Smart SPOR 1 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/85.ts
+#EXTINF:-1,S Sport  HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/86.ts
+#EXTINF:-1,Filbox EUROSPORT 1 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/1824.ts
+#EXTINF:-1,D-Smart EUROSPORT 2 HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/103.ts
+#EXTINF:-1,TRT 3 - TRT Spor
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/61.ts
+#EXTINF:-1,TRT Spor HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/60.ts
+#EXTINF:-1,A Spor HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/95.ts
 #EXTINF:-1,NTV SPOR HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80681.ts
-#EXTINF:-1,S-SPORT
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80680.ts
-#EXTINF:-1,SMART SPOR
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80678.ts
-#EXTINF:-1,SMART SPOR HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80677.ts
-#EXTINF:-1,SPORTS TV
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80676.ts
-#EXTINF:-1,SPORTS TV HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80675.ts
-#EXTINF:-1,TIVIBU SPOR 1
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80674.ts
-#EXTINF:-1,TIVIBUSPOR 1 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80670.ts
-#EXTINF:-1,TIVIBU SPOR 2
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80673.ts
-#EXTINF:-1,TIVIBUSPOR 2 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80669.ts
-#EXTINF:-1,TIVIBU SPOR 3
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80672.ts
-#EXTINF:-1,TIVIBUSPOR 3 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80668.ts
-#EXTINF:-1,TIVIBU SPOR 4
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80671.ts
-#EXTINF:-1,TIVIBUSPOR 4 HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80667.ts
-#EXTINF:-1,A SPOR HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80693.ts
-#EXTINF:-1,TRT SPOR
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80666.ts
-#EXTINF:-1,TRT SPOR HD
-http://secure.selling-team.net/live/marinaiodemo/9yeJzAsxah/80664.ts
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/97.ts
+#EXTINF:-1,Sports TV
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/1834.ts
+#EXTINF:-1,GS TV
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/1840.ts
+#EXTINF:-1,FB TV HD
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/1835.ts
+#EXTINF:-1,BJK TV
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/2775.ts
+#EXTINF:-1,BURSA TV
+http://devcon.red:8080/live/lmsmklzj543/jiea56hkm65/8281.ts
