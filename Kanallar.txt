@@ -129,7 +129,7 @@ TRT World * http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w118798845
 EGE ÜNİVERSİTESİ TV * http://stream.ege.edu.tr/canli.m3u8
 NRT2-Arap * http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
 TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
-EKiN TV * http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/11395.m3u8
+EKiN TV * http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/11395.ts
 ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
