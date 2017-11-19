@@ -1,63 +1,39 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS HD 1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/135.ts
-#EXTINF:-1,beIN SPORTS 1 HD 265.HVEC
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2785.ts
-#EXTINF:-1,beIN SPORTS SD 1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8568.ts
-#EXTINF:-1,beIN SPORTS HD 1 Mobile
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8238.ts
-#EXTINF:-1,beIN SPORTS HD 1 1080i
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8570.ts
-#EXTINF:-1,beIN SPORTS HD 1 720p
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8569.ts
-#EXTINF:-1,beIN SPORTS HD 2
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/134.ts
-#EXTINF:-1,beIN SPORTS HD 3
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/133.ts
-#EXTINF:-1,beIN SPORTS HD 4
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/132.ts
-#EXTINF:-1,beIN SPORTS MAX HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8153.ts
-#EXTINF:-1,beIN SPORTS MAX2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8154.ts
-#EXTINF:-1,beIN SPORTS HABER HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8576.ts
-#EXTINF:-1,beIN PREMIER 2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/49.ts
-#EXTINF:-1,beIN PREMIER HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3150.ts
-#EXTINF:-1,tivibu SPOR 1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/87.ts
-#EXTINF:-1,tivibu SPOR 2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/88.ts
-#EXTINF:-1,tivibu SPOR 3 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/126.ts
-#EXTINF:-1,tivibu SPOR 4 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/125.ts
-#EXTINF:-1,D-Smart SPOR 1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/85.ts
-#EXTINF:-1,S Sport  HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/86.ts
-#EXTINF:-1,Filbox EUROSPORT 1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1824.ts
-#EXTINF:-1,D-Smart EUROSPORT 2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/103.ts
-#EXTINF:-1,TRT 3 - TRT Spor
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/61.ts
-#EXTINF:-1,TRT Spor HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/60.ts
-#EXTINF:-1,A Spor HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/95.ts
-#EXTINF:-1,NTV SPOR HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/97.ts
-#EXTINF:-1,Sports TV
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1834.ts
-#EXTINF:-1,GS TV
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1840.ts
-#EXTINF:-1,FB TV HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1835.ts
-#EXTINF:-1,BJK TV
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2775.ts
-#EXTINF:-1,BURSA TV
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/8281.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/133.ts
+#EXTINF:-1,TR | LIGTV 4 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/132.ts
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2785.ts
+#EXTINF:-1,TR I LIG TV HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/49.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3150.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/87.ts
+#EXTINF:-1,TR | TIVIBU SPOR HD 2
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/88.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/126.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/125.ts
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/86.ts
+#EXTINF:-1,TR | NBA TV HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/89.ts
+#EXTINF:-1,AR | BEIN SPORT 1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3195.ts
+#EXTINF:-1,AR | BEIN SPORT 2 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3196.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1839.ts
+#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1824.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/103.ts
