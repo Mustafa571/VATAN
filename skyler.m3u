@@ -1,93 +1,203 @@
 #EXTM3U
-#EXTINF:-1,DE | Sky Atlantic
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1403.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3046.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3047.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3048.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3049.ts
-#EXTINF:-1,DE | Sky Cinema
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1408.ts
-#EXTINF:-1,DE | Sky Cinema 1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1410.ts
-#EXTINF:-1,DE | Sky Cinema Action
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2628.ts
-#EXTINF:-1,DE | Sky Cinema Comedy
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1407.ts
-#EXTINF:-1,DE | Sky Cinema Emotion
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2630.ts
-#EXTINF:-1,DE | Sky Cinema Hits
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1401.ts
-#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1406.ts
-#EXTINF:-1,DE | Sky Krimi / SKY
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1400.ts
-#EXTINF:-1,DE | SKY NATGEO WILD HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2633.ts
-#EXTINF:-1,DE | SKY SELECT 1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1495.ts
-#EXTINF:-1,DE | SKY SELECT 2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1494.ts
-#EXTINF:-1,DE | Sky Select 3 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1493.ts
-#EXTINF:-1,DE | Sky Select 4 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1492.ts
-#EXTINF:-1,DE | Sky Select 5 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1491.ts
-#EXTINF:-1,DE | Sky Select 6 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1490.ts
-#EXTINF:-1,DE | Sky Select 7 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1489.ts
-#EXTINF:-1,DE | Sky Select 8HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1488.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1417.ts
+#EXTINF:-1,DE | BUNDESLIGA 1 HD uuu
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3314.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1415.ts
 #EXTINF:-1,DE | SKY SPORT 2 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1415.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/3045.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1481.ts
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1484.ts
 #EXTINF:-1,DE | SKY SPORT NEWS HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1482.ts
-#EXTINF:-1,DE | SKY SPORT1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1417.ts
-#EXTINF:-1,DE | SKY TNT FILME HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2624.ts
-#EXTINF:-1,DE | SKY TNT SERIES HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/2625.ts
-#EXTINF:-1,DE | SkyAction
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1404.ts
-#EXTINF:-1,DE | SkyCinema
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1425.ts
-#EXTINF:-1,DE | SkyCinema24
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1405.ts
-#EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1483.ts
-#EXTINF:-1,DE | SPORT +1 HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1486.ts
-#EXTINF:-1,DE | SPORT1 US HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1485.ts
-#EXTINF:-1,DE | Srf1
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1472.ts
-#EXTINF:-1,DE | SUPER RTL
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1419.ts
-#EXTINF:-1,DE | SYFY
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1521.ts
-#EXTINF:-1,DE | TLC
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1430.ts
-#EXTINF:-1,DE | TNT Serie HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1520.ts
-#EXTINF:-1,DE | VOX HD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1423.ts
-#EXTINF:-1,DE | WDR
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1505.ts
-#EXTINF:-1,DE | WDRHD
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1480.ts
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1482.ts
+#EXTINF:-1,DE | ZDF.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1422.ts
 #EXTINF:-1,DE | ZDF
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1422.ts
-#EXTINF:-1,DE | ZDF info
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1473.ts
-#EXTINF:-1,DE | zdf neo/ZDFvision
-http://devcon.red:8080/live/jhjrngrkjn241/kikga54gk54/1476.ts
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1515.ts
+#EXTINF:-1,DE | WDRHD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1480.ts
+#EXTINF:-1,DE | WDR.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1505.ts
+#EXTINF:-1,DE | VOX.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1423.ts
+#EXTINF:-1,DE | VOX
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1514.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1520.ts
+#EXTINF:-1,DE | SYFY
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1521.ts
+#EXTINF:-1,DE | SuperRTL
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1419.ts
+#EXTINF:-1,DE | Srf1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1472.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1485.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1487.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1486.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1483.ts
+#EXTINF:-1,DE | SkyNostalgie
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1476.ts
+#EXTINF:-1,DE | SkyHits
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1401.ts
+#EXTINF:-1,DE | SkyCinema24
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1405.ts
+#EXTINF:-1,DE | SkyCinema
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1425.ts
+#EXTINF:-1,DE | SkyAtlantic
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1403.ts
+#EXTINF:-1,DE | SkyAction
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1404.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2624.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1488.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1489.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1490.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1491.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1492.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1493.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1494.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1495.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2633.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1399.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1400.ts
+#EXTINF:-1,DE | SKY EMOTION
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1473.ts
+#EXTINF:-1,DE | SKY Comedy one
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1432.ts
+#EXTINF:-1,DE | SKY COMEDY HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1407.ts
+#EXTINF:-1,DE | SKY CINEMA1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1406.ts
+#EXTINF:-1,DE | SKY CINEMA HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1408.ts
+#EXTINF:-1,DE | SKY CINEMA +1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1410.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3053.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3052.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3051.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3050.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3049.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3048.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3047.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3046.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1481.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3054.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/3045.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA  1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1416.ts
+#EXTINF:-1,DE | SIXX.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1519.ts
+#EXTINF:-1,DE | Sat1 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1510.ts
+#EXTINF:-1,DE | Sat1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1426.ts
+#EXTINF:-1,DE | SAT 1.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1418.ts
+#EXTINF:-1,DE | RTL_NITRO
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1511.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1508.ts
+#EXTINF:-1,DE | RTL_CRIME
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1509.ts
+#EXTINF:-1,DE | RTL2 HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1512.ts
+#EXTINF:-1,DE | RTL HD uuu
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1420.ts
+#EXTINF:-1,DE | RTL PASSÄ°ON
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2626.ts
+#EXTINF:-1,DE | RTL II
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1427.ts
+#EXTINF:-1,DE | RTL HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1513.ts
+#EXTINF:-1,DE | ROMANCE
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1475.ts
+#EXTINF:-1,DE | Prosieben
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1409.ts
+#EXTINF:-1,DE | PRO7_MAXX
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1506.ts
+#EXTINF:-1,DE | Pro7
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1507.ts
+#EXTINF:-1,DE | PRO 7.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1428.ts
+#EXTINF:-1,DE | ORF2
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1517.ts
+#EXTINF:-1,DE | ORF1
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1421.ts
+#EXTINF:-1,DE | NICK_JR
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1504.ts
+#EXTINF:-1,DE | NDR HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1477.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1498.ts
+#EXTINF:-1,DE | NATGEOWILD HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1499.ts
+#EXTINF:-1,DE | NatGeo Wild
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1411.ts
+#EXTINF:-1,DE | N TV.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1474.ts
+#EXTINF:-1,DE | KINO WELT TV
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2630.ts
+#EXTINF:-1,DE | Kika.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1429.ts
+#EXTINF:-1,DE | KabelEins
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2627.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1497.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2631.ts
+#EXTINF:-1,DE | Fox hd
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1522.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1413.ts
+#EXTINF:-1,DE | Eurosport HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1478.ts
+#EXTINF:-1,DE | EURO SPORT
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1412.ts
+#EXTINF:-1,DE | Disney_XD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1502.ts
+#EXTINF:-1,DE | Disney_Junior
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1501.ts
+#EXTINF:-1,DE | DISNEY CINEMAGIC
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2632.ts
+#EXTINF:-1,DE | D MAX HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1518.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1431.ts
+#EXTINF:-1,DE | AXN.
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1523.ts
+#EXTINF:-1,DE | ATV-A
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1430.ts
+#EXTINF:-1,DE | ARD TV
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1516.ts
+#EXTINF:-1,DE | ARD HD
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1500.ts
+#EXTINF:-1,DE | A&E
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/2628.ts
+#EXTINF:-1,DE | 13Street
+http://borcamsat.co:8080/live/WNzcYz5wkF/zR5q9P8CLZ/1402.ts
