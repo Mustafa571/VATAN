@@ -134,7 +134,9 @@ KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
 RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
-TELE1 * http://hilal.bplaced.net/Yayina%20Ulasilamiyor.avi
-ARTI TV * https://ams.tvizlehd.com/live/artitv/playlist.m3u8
+NART TV * rtmp://82.212.74.98/live//7923
+GEM KURDI * http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+TELE1-YOUTUBE Yayininda*
+ARTI TV-YOUTUBE Yayininda * 
 TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
 
