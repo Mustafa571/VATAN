@@ -2,6 +2,7 @@
 [COLOR orange]iPTV Paket-Bilgi !!![/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 ==================================================.*.m3u
 [COLOR lime]= YOUTUBE ULUSAL TV YAYINLARI=[/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
+[COLOR lime]= YEDEK ULUSALLAR=[/COLOR] iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/YEDEK%20ULUSAL.m3u
 1-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 2-TRT1 * http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
