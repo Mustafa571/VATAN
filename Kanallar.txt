@@ -137,7 +137,8 @@ TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
 NART TV * rtmp://82.212.74.98/live//7923
 GEM KURDI * http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
 ÖNCÜ TV * http://yayin3.canlitv.com:1935/live/oncutv/iptvdelisi.m3u8
-TELE1-YOUTUBE Yayininda*
-ARTI TV-YOUTUBE Yayininda * 
+ViZYON TÜRK * http://yayin3.canlitv.com:1935/canlitv/vizyonturktv/chunklist.m3u8
+TELE1-YOUTUBE Yayınında*
+ARTI TV-YOUTUBE Yayınında * 
 TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
 
