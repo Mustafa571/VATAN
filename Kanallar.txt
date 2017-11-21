@@ -8,6 +8,7 @@
 3-TRT1 * http://www.iptvsaga.com/play/tv3/0030.m3u8
 4-TRT1 * http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
 TRT ARAPCA * http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8
+TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
 1-TRT SPOR * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 2-TRT SPOR * http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/playlist.m3u8
 TRT TÜRK * http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
@@ -133,13 +134,5 @@ TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu
 ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 KLiP TV * http://87.98.158.129:1935/mavigecetv/mavigecetv/playlist.m3u8
 KANAL D ROMANYA * http://80.86.107.169:8100/stream.flv
-RUDAW TV Test * https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-TV 10 * rtmp://5.135.142.60:1935/tv10/xetero
-NART TV * rtmp://82.212.74.98/live//7923
-GEM KURDI * http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-ÖNCÜ TV * http://yayin3.canlitv.com:1935/live/oncutv/iptvdelisi.m3u8
-ViZYON TÜRK * http://yayin3.canlitv.com:1935/canlitv/vizyonturktv/chunklist.m3u8
-TELE1-YOUTUBE Yayınında*
-ARTI TV-YOUTUBE Yayınında * 
-TRT KURDi * http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
+
 
