@@ -12,11 +12,13 @@ A SPOR * http://85.132.71.6/turk/aspor/index.m3u8
 AV TV * https://ams.tvizlehd.com/live/avtv/playlist.m3u8
 AHiTV * http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist_w1234346180.m3u8?hash=1781a61ade0062b3b8235e372ad5ad02
 AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
+AKILLI TV * http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
 ALANYA TV * http://stream2.taksimbilisim.com:1935/alanyatv/bant1/AlanyaTV.m3u8
 ABANT TV * https://ams.tvizlehd.com/live/abanttv/playlist.m3u8
 ANADOLU TV * https://ams.tvizlehd.com/live/anadolutv/playlist.m3u8
 AKSU TV * http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
+1-BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
+2-BEYAZ TV * rtmp://37.77.31.3/liveedge/_definst_/BEYAZTVHQ
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
 BEN TV  * rtmp://kanalben.cubecdn.net/live//kanalben1
 BURSASPOR TV  * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
@@ -26,7 +28,9 @@ CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 ÇiFTÇi TV * https://ams.tvizlehd.com/live/ciftcitv/playlist.m3u8
 ÇORUM TV * https://ams.tvizlehd.com/live/corumtv/playlist.m3u8
-KANAL D HD * https://soledge4.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
+1-KANAL D HD * https://soledge4.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
+2-KANAL D * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+3-KANAL D * http://ift.tt/1IEGgLR
 DENiZHABER-BELGESEL * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
