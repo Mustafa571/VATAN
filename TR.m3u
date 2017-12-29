@@ -1,61 +1,99 @@
 #EXTM3U
-#EXTINF:-1,TR: Bein Sports 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22179.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22180.ts
-#EXTINF:-1,TR: Bein Sports 3 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22181.ts
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22182.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22183.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22184.ts
-#EXTINF:-1,TR: FENERBAHCE TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22215.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22331.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22332.ts
-#EXTINF:-1,TR: Tivibu Sport 3
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22334.ts
-#EXTINF:-1,TR: TIVIBU SPOR 4
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22333.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22339.ts
-#EXTINF:-1,TR: ATV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22163.ts
-#EXTINF:-1,TR: FOX TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22225.ts
-#EXTINF:-1,TR: KANAL D HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22240.ts
-#EXTINF:-1,TR: SHOW TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22310.ts
-#EXTINF:-1,TR: TV 8 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22354.ts
-#EXTINF:-1,TR: STAR TV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22325.ts
-#EXTINF:-1,TR: NTV HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22276.ts
-#EXTINF:-1,TR: CNN TURK
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22196.ts
-#EXTINF:-1,TR: HABER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22230.ts
-#EXTINF:-1,TR: HALK TV
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22231.ts
-#EXTINF:-1,TR: A HABER HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22153.ts
-#EXTINF:-1,TR: BEIN GURME HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22171.ts
-#EXTINF:-1,TR: Bein Movies Premier HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22175.ts
-#EXTINF:-1,TR: Bein Movies Stars HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22176.ts
-#EXTINF:-1,TR: Bein Movies Turk HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22177.ts
-#EXTINF:-1,TR: POWER TURK HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22285.ts
-#EXTINF:-1,TR: TRT Diyanet HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22344.ts
-
-
+#EXTINF:-1,BEIN LiGTV 1
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13006.ts
+#EXTINF:-1,BEIN LiGTV 2
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13007.ts
+#EXTINF:-1,TiViBU SPOR
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13051.ts
+#EXTINF:-1,A2
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13001.ts
+#EXTINF:-1,ANiMAL PLANET
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13002.ts
+#EXTINF:-1,ATV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13005.ts
+#EXTINF:-1,1-STAR TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13049.ts
+#EXTINF:-1,2-STAR TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13050.ts
+#EXTINF:-1,BENGÜTÜRK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13008.ts
+#EXTINF:-1,BEYAZ TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13009.ts
+#EXTINF:-1,BLOOMBERG
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13010.ts
+#EXTINF:-1,CNN TÜRK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13014.ts
+#EXTINF:-1,DiSCOVERY CHANNEL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13016.ts
+#EXTINF:-1,DiSNEY CHANNEL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13017.ts
+#EXTINF:-1,DREAM TÜRK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13018.ts
+#EXTINF:-1,DREAM YABANCI
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13019.ts
+#EXTINF:-1,FENERBAHCE
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13020.ts
+#EXTINF:-1,FLASH
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13021.ts
+#EXTINF:-1,FOX TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13022.ts
+#EXTINF:-1,GALATASARAY
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13023.ts
+#EXTINF:-1,HABERTÜRK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13024.ts
+#EXTINF:-1,HALK TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13025.ts
+#EXTINF:-1,KANAL26
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13028.ts
+#EXTINF:-1,KANAL7 AVRUPA
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13029.ts
+#EXTINF:-1,KANAL7
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13030.ts
+#EXTINF:-1,KANALD
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13032.ts
+#EXTINF:-1,KRALPOP
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13033.ts
+#EXTINF:-1,KRALTV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13034.ts
+#EXTINF:-1,MiNiKA COCUK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13035.ts
+#EXTINF:-1,MiNiKA GO
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13036.ts
+#EXTINF:-1,NTV SPOR
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13037.ts
+#EXTINF:-1,PLANET COCUK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13039.ts
+#EXTINF:-1,PLANET MUTVAK
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13040.ts
+#EXTINF:-1,SONY CHANNEL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13041.ts
+#EXTINF:-1,KANAL V
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13044.ts
+#EXTINF:-1,KEMAL SUNAL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13046.ts
+#EXTINF:-1,SHOW TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13047.ts
+#EXTINF:-1,SPORTS TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13048.ts
+#EXTINF:-1,TRT BELGESEL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13052.ts
+#EXTINF:-1,TRT HABER
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13054.ts
+#EXTINF:-1,TRT OKUL
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13055.ts
+#EXTINF:-1,TRT SPOR
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13056.ts
+#EXTINF:-1,TRT1
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13057.ts
+#EXTINF:-1,TV8
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13060.ts
+#EXTINF:-1,TV KAYSERI
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13061.ts
+#EXTINF:-1,TEVE2
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13062.ts
+#EXTINF:-1,TV8.5
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13063.ts
+#EXTINF:-1,ÜLKE TV
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13064.ts
+#EXTINF:-1,YABAN
+http://gelapower.ddns.net:8000/live/gela108/kjdjwuuii/13065.ts
