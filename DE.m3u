@@ -1,55 +1,83 @@
 #EXTM3U
-#EXTINF:-1,DE: Eurosport 2 XTRA HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22837.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22762.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22760.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22759.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22758.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22757.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22756.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22755.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22754.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22753.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22761.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22723.ts
-#EXTINF:-1,DE: SKY SPORT 2
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22720.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22719.ts
-#EXTINF:-1,DE: Sky Sport 3 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22718.ts
-#EXTINF:-1,DE: Sky Sport 4 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22717.ts
-#EXTINF:-1,DE: Sky Sport 5 HD  
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22716.ts
-#EXTINF:-1,DE: Sky Sport 6 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22715.ts
-#EXTINF:-1,DE: Sky Sport 7 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22714.ts
-#EXTINF:-1,DE: Sky Sport 8 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22713.ts
-#EXTINF:-1,DE: Sky Sport 9 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22712.ts
-#EXTINF:-1,DE: Sky Sport 10 HD 
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22721.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22701.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22700.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22698.ts
-#EXTINF:-1,DE: ARD HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22867.ts
-#EXTINF:-1,DE: SKY Sport News HD
-http://satopen-iptv.ddns.net:8000/live/Dmp7GRngQ2/T8cym2r1rR/22709.ts
+#EXTINF:-1,DE | Sky Atlantic
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1403.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/3046.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/3047.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/3048.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/3049.ts
+#EXTINF:-1,DE | Sky Cinema
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1408.ts
+#EXTINF:-1,DE | Sky Cinema 1
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1410.ts
+#EXTINF:-1,DE | Sky Cinema Action
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/2628.ts
+#EXTINF:-1,DE | Sky Cinema Comedy
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1407.ts
+#EXTINF:-1,DE | Sky Cinema Emotion
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/2630.ts
+#EXTINF:-1,DE | Sky Cinema Hits
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1401.ts
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1406.ts
+#EXTINF:-1,DE | Sky Krimi / SKY
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1400.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/2633.ts
+#EXTINF:-1,DE | SKY SELECT 1 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1490.ts
+#EXTINF:-1,DE | Sky Select 7 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1488.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1415.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/3045.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga1
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1481.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1482.ts
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1417.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/2624.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/2625.ts
+#EXTINF:-1,DE | SkyAction
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1404.ts
+#EXTINF:-1,DE | SkyCinema
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1425.ts
+#EXTINF:-1,DE | SkyCinema24
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1405.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1483.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1486.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1485.ts
+#EXTINF:-1,DE | Srf1
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1472.ts
+#EXTINF:-1,DE | SUPER RTL
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1419.ts
+#EXTINF:-1,DE | SYFY
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1521.ts
+#EXTINF:-1,DE | TLC
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1430.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1520.ts
+#EXTINF:-1,DE | VOX HD
+http://devcon.red:8080/live/hffftek586/266zLvsAPE/1423.ts
