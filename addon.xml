@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="VATAN"
        name="TV KANALLARI"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="Mustafa U.">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -15,7 +15,11 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">TV KANALLARI</summary>
     <language>en</language>
-    <description lang="en">Her hakkı saklıdır. İzinsiz çoğaltılamaz, dağıtılamaz ve amacı dışında
+    <description lang="en">All rights reserved. It may not be reproduced without permission.!!!
+Tous droits réservés. Il ne peut être reproduit sans autorisation.!!! 
+Alle Rechte vorbehalten. Es darf nicht ohne Genehmigung vervielfältigt werden.!!!
+Все права защищены. Оно не может быть воспроизведена без разрешения. !!!
+Her hakkı saklıdır. İzinsiz çoğaltılamaz, dağıtılamaz ve amacı dışında
 kullanılamaz.!!!</description>
      <platform>all</platform>
   </extension>
