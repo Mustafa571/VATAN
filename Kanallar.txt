@@ -28,9 +28,7 @@ CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 ÇiFTÇi TV * https://ams.tvizlehd.com/live/ciftcitv/playlist.m3u8
 ÇORUM TV * https://ams.tvizlehd.com/live/corumtv/playlist.m3u8
-1-KANAL D HD * https://soledge4.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
-2-KANAL D * http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-3-KANAL D * http://ift.tt/1IEGgLR
+KANAL D HD * https://raw.githubusercontent.com/Mustafa571/VATAN/master/KanalD.m3u
 DENiZHABER-BELGESEL * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
