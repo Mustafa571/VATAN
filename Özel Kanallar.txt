@@ -1,8 +1,5 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
-=[COLOR yellow]BEiN SPORT[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TR.m3u
-=[COLOR yellow]ULUSAL ULTRAHD[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Ultrahd.m3u
-=[COLOR yellow]SKY YAYINLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DE.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u
 =[COLOR orange]1-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u 
 =[COLOR orange]2-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/PAKETLER/ayonFil.m3u
