@@ -17,6 +17,7 @@ ALANYA TV * http://stream2.taksimbilisim.com:1935/alanyatv/bant1/AlanyaTV.m3u8
 ABANT TV * https://ams.tvizlehd.com/live/abanttv/playlist.m3u8
 ANADOLU TV * https://ams.tvizlehd.com/live/anadolutv/playlist.m3u8
 AKSU TV * http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+BEiN SPORTS HABER * https://ams.tvizlehd.com/live/beinhaber/playlist.m3u8
 1-BEYAZ TV * http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8?
 2-BEYAZ TV * rtmp://37.77.31.3/liveedge/_definst_/BEYAZTVHQ
 BENGÜ TÜRK * http://yayin8.canliyayin.org:1935/benguturk/benguturk/byahmet.m3u8
