@@ -107,4 +107,3 @@ VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 1-VTV -Antalya * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
 2-VTV -Antalya * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 YABAN TV * http://live3.canlitv.info:1935/live1/yabantv/chunklist_w601872677.m3u8
-. * https://ecanlitvizle1.tvizlehd.com/live_hd/atv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6Mjc6NDEgQU0maGFzaF92YWx1ZT1MU2kzcy9rTGdOL1FBRmxqMlpNTTRRPT0mdmFsaWRtaW51dGVzPTEw
