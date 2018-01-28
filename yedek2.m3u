@@ -1,0 +1,577 @@
+#EXTM3U #####Türk Kanalları#####
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-1.png",TRT 1 -- 
+http://yayin.canlitvlive.io/trt1/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/atv.png",ATV HD -- 
+http://yayin.canlitvlive.io/atv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/star-tv.png",Star TV -- 
+http://yayin.canlitvlive.io/startv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/show-tv.png",Show TV -- 
+http://yayin.canlitvlive.io/showtv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png",Kanal D -- 
+http://sorf.tvizlehd.com/kanald.m3u8?tkn=KEo_KpI5YQevaemRdFLLAQ&tms=1517149823
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv8.png",TV8 -- 
+http://yayin.canlitvlive.io/tv8/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ntv.png",NTV -- 
+http://yayin.canlitvlive.io/ntv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/fox-tv.png",Fox TV Türkiye -- 
+http://yayin.canlitvlive.io/foxtv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/a2-tv.png",A2 TV -- 
+http://yayin.canlitvlive.io/a2tv/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ntv-spor.png",NTV Spor -- 
+http://yayin.canlitvlive.io/ntvspor/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-3-spor.png",TRT Spor -- 
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv8bucuk.png",TV8.5 -- 
+http://yayin.canlitvlive.io/tv85/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/a-spor.png",A Spor -- 
+http://yayin.canlitvlive.io/aspor/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/haber-turk.png",Habertürk -- 
+http://yayin.canlitvlive.io/haberturk/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-24.png",Kanal 24 -- 
+http://yayin.canlitvlive.io/kanal24/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-7.png",Kanal 7 -- 
+http://yayin.canlitvlive.io/kanal7/live.m3u8?tkn=u_NP5iATXxiVqmXq1Iy7kQ&tms=1517157017
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/a-haber.png",A Haber -- 
+http://yayin.canlitvlive.io/ahaber/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/flash-tv.png",Flash TV -- 
+http://yayin.canlitvlive.io/flashtv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-net.png",TV Net -- 
+http://yayin.canlitvlive.io/tvnet/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/sky-turk.png",360 TV -- 
+http://yayin.canlitvlive.io/skyturk/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-haber.png",TRT Haber -- 
+http://yayin.canlitvlive.io/trthaber/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tgrt-haber.png",TGRT Haber -- 
+http://yayin.canlitvlive.io/tgrthaber/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ulusal-kanal.png",Ulusal Kanal -- 
+http://yayin.canlitvlive.io/ulusalkanal/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ulke-tv.png",Ülke TV -- 
+http://yayin.canlitvlive.io/ulketv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/halk-tv.png",Halk TV -- 
+http://yayin.canlitvlive.io/halktv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/beyaz-tv.png",Beyaz TV -- 
+http://yayin.canlitvlive.io/beyaztv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bein-sports-haber.png",Bein Sports Haber -- 
+http://yayin.canlitvlive.io/bein-sports-haber/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/a-news.png",A News -- 
+http://yayin.canlitvlive.io/anews/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tvem.png",TVEM -- 
+http://yayin.canlitvlive.io/tvem/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/atv-avrupa.png",ATV Avrupa -- 
+http://yayin.canlitvlive.io/atv-avrupa/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/euro-star.png",Euro Star -- 
+http://yayin.canlitvlive.io/euro-star/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv8-int.png",TV8 İnt -- 
+http://yayin.canlitvlive.io/tv8-int/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/show-turk.png",Show Türk -- 
+http://yayin.canlitvlive.io/show-turk/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tgrt-eu.png",TGRT EU -- 
+http://yayin.canlitvlive.io/tgrteu/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-7-avrupa.png",Kanal 7 Avrupa -- 
+http://yayin.canlitvlive.io/kanal7avrupa/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/cem-tv.png",Cem TV -- 
+http://yayin.canlitvlive.io/cemtv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-belgesel.png",TRT Belgesel -- 
+http://yayin.canlitvlive.io/trtbelgesel/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tgrt-belgesel.png",TGRT Belgesel -- 
+http://yayin.canlitvlive.io/tgrtbelgesel/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/makine-tv.png",Makine TV -- 
+http://yayin.canlitvlive.io/makine-tv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ciftci-tv.png",Çiftçi TV -- 
+http://yayin.canlitvlive.io/ciftci-tv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/yaban-tv.png",Yaban TV -- 
+http://yayin.canlitvlive.io/yabantv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/akilli-tv.png",Akıllı TV -- 
+http://yayin.canlitvlive.io/akillitv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/toprak-tv.png",Toprak TV -- 
+http://yayin.canlitvlive.io/toprak-tv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tjk-tv.png",TJK TV -- 
+http://tjktv.ercdn.net/tjktv.m3u8
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tay-tv.png",Tay TV -- 
+http://yayin.canlitvlive.io/taytv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/fb-tv.png",FB TV -- 
+http://yayin.canlitvlive.io/fbtv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/sports-tv.png",Sports TV -- 
+http://yayin.canlitvlive.io/sportstv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bursaspor-tv.png",Bursaspor TV -- 
+http://yayin.canlitvlive.io/bursasportv/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/cbc-sport.png",CBC Sport -- 
+http://yayin.canlitvlive.io/cbc-sport/live.m3u8?tkn=ED-97KeD5oeLdSmwE7yDuw&tms=1517157018
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/can-azerbaycan.png",Can Azerbaycan -- 
+http://yayin.canlitvlive.io/can-azerbaycan/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/idman-tv.png",İdman TV -- 
+http://yayin.canlitvlive.io/idmantv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/az-tv.png",AZ TV -- 
+http://yayin.canlitvlive.io/aztv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/medeniyet-tv-az.png",Medeniyet TV AZ -- 
+http://yayin.canlitvlive.io/medeniyet-tv-az/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/space-tv-az.png",Space TV AZ -- 
+http://yayin.canlitvlive.io/space-tv-az/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bloomberg-ht.png",Bloomberg HT -- 
+http://yayin.canlitvlive.io/bloomberght/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/euronews.png",Euronews Türkçe -- 
+http://yayin.canlitvlive.io/euronews/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-cocuk.png",TRT Çocuk -- 
+http://yayin.canlitvlive.io/trtcocuk/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/cartoon-network.png",Cartoon Network Türkiye -- 
+http://yayin.canlitvlive.io/cartoonnetwork/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/minika-go.png",Minika Go -- 
+http://yayin.canlitvlive.io/minikago/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/minika-cocuk.png",Minika Çocuk -- 
+http://yayin.canlitvlive.io/minikacocuk/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/disney-channel.png",Disney Channel Türkiye -- 
+http://yayin.canlitvlive.io/disneychannel/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-muzik.png",TRT Müzik -- 
+http://yayin.canlitvlive.io/trtmuzik/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-turk.png",TRT Türk -- 
+http://yayin.canlitvlive.io/trtturk/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-okul.png",TRT Okul -- 
+http://yayin.canlitvlive.io/trtokul/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-arapca.png",TRT Arapça -- 
+http://yayin.canlitvlive.io/trtarapca/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-avaz.png",TRT Avaz -- 
+http://yayin.canlitvlive.io/trtavaz/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-6.png",TRT Kurdi -- 
+http://yayin.canlitvlive.io/trt6/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/trt-diyanet.png",TRT Diyanet -- 
+http://yayin.canlitvlive.io/trtdiyanet/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/dost-tv.png",Dost TV -- 
+http://yayin.canlitvlive.io/dosttv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/rehber-tv.png",Rehber TV -- 
+http://yayin.canlitvlive.io/rehbertv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kabe-tv.png",Kabe TV -- 
+http://yayin.canlitvlive.io/kabe-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/lalegul-tv.png",Lalegül TV -- 
+http://yayin.canlitvlive.io/lalegultv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv5.png",TV5 -- 
+http://yayin.canlitvlive.io/tv5/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/medine-tv.png",Medine TV -- 
+http://yayin.canlitvlive.io/medine-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/mpl.png",MPL -- 
+http://yayin.canlitvlive.io/mpl/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/uzay-haber.png",Uzay Haber -- 
+http://yayin.canlitvlive.io/uzay-haber/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/fm-tv.png",FM TV -- 
+http://yayin.canlitvlive.io/fm-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/gonca-tv.png",Gonca TV -- 
+http://yayin.canlitvlive.io/gonca-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bedir-tv.png",Bedir TV -- 
+http://yayin.canlitvlive.io/bedir-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/berat-tv.png",Berat TV -- 
+http://yayin.canlitvlive.io/berat-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/yasin-tv.png",Yasin TV -- 
+http://yayin.canlitvlive.io/yasin-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/nur-tv.png",Nur TV -- 
+http://yayin.canlitvlive.io/nur-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/diyar-tv.png",Diyar TV -- 
+http://yayin.canlitvlive.io/diyar-tv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/meltem-tv.png",Meltem TV -- 
+http://yayin.canlitvlive.io/meltemtv/live.m3u8?tkn=aqfrH-IRg6w826LXMByqZQ&tms=1517157019
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kudus-tv.png",Kudüs TV -- 
+http://yayin.canlitvlive.io/kudus-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/semerkand-tv.png",Semerkand TV -- 
+http://yayin.canlitvlive.io/semerkandtv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/er-tv.png",ER TV -- 
+http://yayin.canlitvlive.io/er-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/vuslat-tv.png",Vuslat TV -- 
+http://yayin.canlitvlive.io/vuslattv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ege-tv.png",Ege TV -- 
+http://yayin.canlitvlive.io/egetv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/olay-tv.png",Olay TV -- 
+http://yayin.canlitvlive.io/olaytv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-58.png",Kanal 58 -- 
+http://yayin.canlitvlive.io/kanal58/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/planet-turk.png",Planet Türk -- 
+http://yayin.canlitvlive.io/planetturk/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/planet-pembe.png",Sony Channel -- 
+http://yayin.canlitvlive.io/planetpembe/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/planet-cocuk.png",Planet Çocuk -- 
+http://yayin.canlitvlive.io/planetcocuk/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/planet-mutfak.png",Planet Mutfak -- 
+http://yayin.canlitvlive.io/planetmutfak/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/mesaj-tv.png",Mesaj TV -- 
+http://yayin.canlitvlive.io/mesajtv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-tek.png",Kanal Tek -- 
+http://yayin.canlitvlive.io/kanal-tek/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bereket-tv.png",Bereket TV -- 
+http://yayin.canlitvlive.io/bereket-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kibris-genc-tv.png",Kıbrıs Genç TV -- 
+http://yayin.canlitvlive.io/kibrisgenctv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/mavi-karadeniz-tv.png",Mavi Karadeniz TV -- 
+http://yayin.canlitvlive.io/mavikaradeniztv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/benguturk-tv.png",Bengütürk TV -- 
+http://yayin.canlitvlive.io/benguturktv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kon-tv.png",Kon TV -- 
+http://yayin.canlitvlive.io/kontv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-urfa.png",Kanal Urfa -- 
+http://yayin.canlitvlive.io/kanalurfa/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-c.png",Kanal C -- 
+http://yayin.canlitvlive.io/kanal-c/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-15.png",Kanal 15 -- 
+http://yayin.canlitvlive.io/kanal-15/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/es-tv.png",Es TV -- 
+http://yayin.canlitvlive.io/es-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/brt-1.png",Brt 1 -- 
+http://yayin.canlitvlive.io/brt-1-kibris/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/damla-tv.png",Damla TV -- 
+http://yayin.canlitvlive.io/damla-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kackar-tv.png",Kaçkar TV -- 
+http://yayin.canlitvlive.io/kackar-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ful-tv.png",Ful TV -- 
+http://yayin.canlitvlive.io/ful-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/pamukkale-tv.png",Pamukkale TV -- 
+http://yayin.canlitvlive.io/pamukkale-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-68.png",Kanal 68 -- 
+http://yayin.canlitvlive.io/kanal-68/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/beykent-tv.png",Beykent TV -- 
+http://yayin.canlitvlive.io/beykent-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-32.png",Kanal 32 -- 
+http://yayin.canlitvlive.io/kanal-32/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/konya-tv.png",Kanal 42 -- 
+http://yayin.canlitvlive.io/konyatv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/adana-tv.png",Adana TV -- 
+http://yayin.canlitvlive.io/adana-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/duru-tv.png",Duru TV -- 
+http://yayin.canlitvlive.io/duru-tv/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-3.png",Kanal 3 -- 
+http://yayin.canlitvlive.io/kanal-3/live.m3u8?tkn=0MZr4GcwB_PeSsdBLvtd-A&tms=1517157020
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/1an-tv.png",1AN TV -- 
+http://yayin.canlitvlive.io/1an-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/abant-tv.png",Abant TV -- 
+http://yayin.canlitvlive.io/abant-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/fil-tv.png",Fil TV -- 
+http://yayin.canlitvlive.io/fil-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/av-tv.png",Av TV -- 
+http://yayin.canlitvlive.io/av-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/gaziantep-olay-tv.png",Gaziantep Olay TV -- 
+http://yayin.canlitvlive.io/gaziantepolaytv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kocaeli-tv.png",Kocaeli TV -- 
+http://yayin.canlitvlive.io/kocaelitv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/drt-tv.png",Drt TV -- 
+http://yayin.canlitvlive.io/denizli-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-19.png",TV 19 -- 
+http://yayin.canlitvlive.io/tv-19/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-52.png",TV 52 -- 
+http://yayin.canlitvlive.io/tv-52/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-firat.png",Kanal Fırat -- 
+http://yayin.canlitvlive.io/kanal-firat/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/altas-tv.png",Altaş Tv -- 
+http://yayin.canlitvlive.io/altas-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/bati-yakasi-tv.png",Batı Yakası TV -- 
+http://s02.vidpanel.com/batiyakasi/batiyakasi.m3u8
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-41.png",TV 41 -- 
+http://yayin.canlitvlive.io/tv-41/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/alanya-tv.png",Alanya Tv -- 
+http://yayin.canlitvlive.io/alanya-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/haber-61.png",Haber 61 -- 
+http://yayin.canlitvlive.io/haber-61/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kent-deha-tv.png",Kent Deha Tv -- 
+http://yayin.canlitvlive.io/kent-deha-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-f-mugla.png",Kanal F -- 
+http://yayin.canlitvlive.io/kanal-f-mugla/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/sakarya-tv.png",Sakarya Tv -- 
+http://yayin.canlitvlive.io/sakarya-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-26.png",Kanal 26 -- 
+http://yayin.canlitvlive.io/kanal-26/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/guney-tv.png",Güney Tv -- 
+http://yayin.canlitvlive.io/guneytv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/medeniyet-tv.png",Medeniyet TV -- 
+http://nocvp-usd.noccdn.net/asset/7AR6BjyV/playlist.m3u8
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/icel-tv.png",İçel TV -- 
+http://yayin.canlitvlive.io/icel-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-60.png",Kanal 60 -- 
+http://yayin.canlitvlive.io/kanal-60/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/38kent-tv.png",38 Kent TV -- 
+http://yayin.canlitvlive.io/38kent-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/4eylul-tv.png",4 Eylül TV -- 
+http://yayin.canlitvlive.io/4eylul-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/anadolu-tv.png",Anadolu TV -- 
+http://yayin.canlitvlive.io/anadolu-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/akit-tv.png",Akit TV -- 
+http://yayin.canlitvlive.io/akit-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/as-tv.png",AS TV -- 
+http://yayin.canlitvlive.io/as-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/dunya-tv.png",Dünya TV -- 
+http://yayin.canlitvlive.io/dunya-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/aksu-tv.png",Aksu TV -- 
+http://yayin.canlitvlive.io/aksu-tv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-t.png",Kanal T -- 
+http://yayin.canlitvlive.io/kanalt/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-2000.png",TV 2000 -- 
+http://yayin.canlitvlive.io/kanal2000/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/koy-tv.png",Köy TV -- 
+http://yayin.canlitvlive.io/koytv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/cay-tv.png",Çay TV -- 
+http://yayin.canlitvlive.io/caytv/live.m3u8?tkn=tD3BrY6SNNFuNgFDuInU2w&tms=1517157021
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ada-tv.png",Ada TV -- 
+http://yayin.canlitvlive.io/adatv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-b.png",Kanal B -- 
+http://yayin.canlitvlive.io/kanalb/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-avrupa.png",Kanal Avrupa -- 
+http://yayin.canlitvlive.io/kanalavrupa/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-kayseri.png",TV Kayseri -- 
+http://yayin.canlitvlive.io/tvkayseri/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/vatan-tv.png",Vatan TV -- 
+http://yayin.canlitvlive.io/vatantv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/mobilya-tv.png",Mobilya TV -- 
+http://yayin.canlitvlive.io/mobilya-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/otomotiv-dunyasi-tv.png",Otomotiv Dünyası TV -- 
+http://yayin.canlitvlive.io/otomotiv-dunyasi-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kars-tv.png",Kars TV -- 
+http://yayin.canlitvlive.io/kars-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/yerel-turk-tv.png",Yerel Türk TV -- 
+http://yayin.canlitvlive.io/yerel-turk-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/viyana-tv.png",Viyana TV -- 
+http://yayin.canlitvlive.io/viyana-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv100.png",TV100 -- 
+http://yayin.canlitvlive.io/tv100/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ert-sah.png",Ert Şah -- 
+http://yayin.canlitvlive.io/ert-sah-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/doktor-haber-tv.png",Doktor Haber TV -- 
+http://yayin.canlitvlive.io/doktor-haber-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-z.png",Kanal Z -- 
+http://yayin.canlitvlive.io/kanal-z/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/ton-tv.png",Ton TV -- 
+http://yayin.canlitvlive.io/canakkale-ton-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tarim-turk.png",Tarım Türk TV -- 
+http://yayin.canlitvlive.io/tarimturk/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/dogu-tv.png",Doğu TV -- 
+http://yayin.canlitvlive.io/dogu-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-33.png",Kanal 33 -- 
+http://yayin.canlitvlive.io/kanal-33/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-v.png",Kanal V -- 
+http://yayin.canlitvlive.io/kanal-v/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-s.png",Kanal S -- 
+http://yayin.canlitvlive.io/kanal-s/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/evin-tv.png",Evin TV -- 
+http://yayin.canlitvlive.io/evin-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/haberaks-tv.png",Haberaks TV -- 
+http://yayin.canlitvlive.io/haberaks-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/htv-turkiye.png",HTV Türkiye -- 
+http://yayin.canlitvlive.io/htv-turkiye/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kadirga-tv.png",Kadırga TV -- 
+http://yayin.canlitvlive.io/kadirga-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/kanal-28.png",Kanal 28 -- 
+http://yayin.canlitvlive.io/kanal-28/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/karadenizturk-tv.png",Karadeniztürk TV -- 
+http://yayin.canlitvlive.io/karadenizturk-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/krt-tv.png",Karadeniz TV -- 
+http://yayin.canlitvlive.io/krt-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/manisa-medya-tv.png",Manisa Medya TV -- 
+http://yayin.canlitvlive.io/manisa-medya-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/mercan-tv.png",Mercan TV -- 
+http://yayin.canlitvlive.io/mercan-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/rumeli-tv.png",Rumeli TV -- 
+http://yayin.canlitvlive.io/rumeli-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/sihhat-tv.png",Sıhhat TV -- 
+http://yayin.canlitvlive.io/sihhat-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/sim-tv.png",Sim TV -- 
+http://yayin.canlitvlive.io/sim-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tek-rumeli-tv.png",Tek Rumeli TV -- 
+http://yayin.canlitvlive.io/tek-rumeli-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tmb-tv.png",TMB TV -- 
+http://yayin.canlitvlive.io/tmb-tv/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-1.png",TV 1 -- 
+http://yayin.canlitvlive.io/tv-1/live.m3u8?tkn=gQF6TUs0ZQzZJ70bnrpV8Q&tms=1517157022
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-79.png",TV 79 -- 
+http://yayin.canlitvlive.io/tv-79/live.m3u8?tkn=4kdGebHCwDoZFWg9tXfk1Q&tms=1517157023
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/tv-a.png",TV A -- 
+http://yayin.canlitvlive.io/tv-a/live.m3u8?tkn=4kdGebHCwDoZFWg9tXfk1Q&tms=1517157023
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/vizyon-turk.png",Vizyon Türk -- 
+http://yayin.canlitvlive.io/vizyon-turk/live.m3u8?tkn=4kdGebHCwDoZFWg9tXfk1Q&tms=1517157023
+#
+#EXTINF:-1 tvg-logo="http://www.canlitvlive.io/logo/yasam-tv.png",Yaşam TV -- 
+http://yayin.canlitvlive.io/yasam-tv/live.m3u8?tkn=4kdGebHCwDoZFWg9tXfk1Q&tms=1517157023
+#
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-43.png",Kanal 43 -- 
+https://59cba4d34b678.streamlock.net/canlitv/kanal43/playlist.m3u8?hash=5d2be6122ab3613b693feb443f9024e0
+
