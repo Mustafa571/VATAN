@@ -2,8 +2,7 @@
 [I][COLOR orange]iPTV Paket-Bilgi !!![/I][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 ==================================================.*.m3u
 [B][COLOR lime]= YOUTUBE ULUSAL TV YAYINLARI=[/B][/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
-[B][COLOR aqua]= YEDEK ULUSALLAR [/B][/COLOR]- [B][COLOR orange]1[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/YEDEK%20ULUSAL.m3u
-[B][COLOR aqua]= YEDEK ULUSALLAR [/B][/COLOR]- [B][COLOR orange]2[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/yedek2.m3u
+[B][COLOR aqua]= YEDEK ULUSALLAR [/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/YEDEK%20ULUSAL.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 ATV * https://ams.tvizlehd.com/live/atv1/playlist.m3u8
 ATV HD * https://origin.kovalchuk.me/turk/atv_hd/playlist.m3u8
