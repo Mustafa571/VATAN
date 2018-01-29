@@ -1,21 +1,12 @@
 #EXTM3U
-#EXTINF:-1,1-TRT1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,2-TRT1 
+
+#EXTINF:-1,TRT1 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
-#EXTINF:-1,3-TRT1 
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:-1,4-TRT1 
-http://si.trtcdn.com/tv/trt1/trt1_3/chunklist_w1837730856.m3u8
-#EXTINF:-1,1-TRT SPOR 
+#EXTINF:-1,TRT SPOR 
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1,2-TRT SPOR 
-http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/playlist.m3u8
 #EXTINF:-1,TRT TÜRK 
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,1-TRT OKUL HD 
-http://www.iptvsaga.com/play/tv3/0034.m3u8
-#EXTINF:-1,2-TRT OKUL 
+#EXTINF:-1,TRT OKUL 
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1,1-TRT HABER HD 
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
@@ -23,8 +14,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:-1,1-TRT DİYANET 
 http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
-#EXTINF:-1,2-TRT DiYANET 
-http://sol.trtcdn.com/tv/trtdiyanet/smil:trtdiyanet.smil/chunklist_w1941887035_b665600.m3u8
 #EXTINF:-1,TRT MÜZİK 
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,TRT AVAZ 
@@ -33,9 +22,3 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
 #EXTINF:-1,TBMM TV 
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1,TRT ARAPCA 
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8
-#EXTINF:-1,TRT KURDi 
-http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w2436925_b665600.m3u8
-#EXTINF:-1,TRT World 
-http://si.trtcdn.com/tv/webtvizletme/trtworld_1/chunklist_w1187988455.m3u8
