@@ -67,6 +67,8 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXw
 #EXTINF:-1,Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/media_w1753151486_master.m3u8
 
+#EXTINF:-1,Kabel 1
+http://51.254.39.37/TV/RUS/n/386.m3u8
 #EXTINF:-1,KiKA
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
 #EXTINF:-1,KiKa HD
@@ -146,6 +148,10 @@ http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
 #EXTINF:-1,Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8
 
+#EXTINF:-1, Pro Sieben
+http://51.254.39.37/TV/RUS/n/435.m3u8
+#EXTINF:-1, Pro Sieben MAXX
+http://51.254.39.37/TV/RUS/n/385.m3u8
 #EXTINF:-1,Phoenix
 http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
 #EXTINF:-1,Potsdam TV
@@ -155,6 +161,10 @@ rtmp://p3-6.mov.at:1935/live/weekstream
 #EXTINF:-1,Punktum Südharz 
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
 
+#EXTINF:-1,RTL
+http://51.254.39.37/TV/RUS/n/388.m3u8
+#EXTINF:-1,RTL 2
+http://51.254.39.37/TV/RUS/n/389.m3u8
 #EXTINF:-1,RTL Luxemburg
 http://live01.rtl.lu/channel1/smil:channel1/master.m3u8
 #EXTINF:-1,RTL Luxemburg 2
@@ -178,6 +188,8 @@ http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
 
 #EXTINF:-1,3sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:-1,SAT 1
+http://51.254.39.37/TV/RUS/n/384.m3u8
 #EXTINF:-1,SERVUS TV  
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 #EXTINF:-1,SKY SPORT NEWS
@@ -220,12 +232,17 @@ http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 #EXTINF:-1,TRP 1
 rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
 
+#EXTINF:-1,VOX
+http://51.254.39.37/TV/RUS/n/433.m3u8
+
 #EXTINF:-1,Würzburg TV
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
 #EXTINF:-1,Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1,W24 TV (Austria)
 http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,WDR HD
+https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
 #EXTINF:-1,WDR HD (geoblocking)
 http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
 #EXTINF:-1,WDR HD (weltweit)
