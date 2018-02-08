@@ -7,9 +7,8 @@
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
 =[COLOR green]EVLİYALAR SERİSİ-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =[COLOR green]EVLİYALAR SERİSİ-2-Seyyid Muhammed Raşid Hz[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/Menzil'de%20Bir%20Sultan%20-%20Seyyid%20Muhammed%20Rasid%20Hz.m3u
-=[COLOR blue]RADYOLAR[/COLOR]=DiNLE * https://raw.githubusercontent.com/kusdili/Hilal/master/Radyolar.m3u
+=[COLOR blue]RADYOLAR[/COLOR]=DiNLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Radyolar.m3u
 =[COLOR blue]KUR`AN MUKABELE 1-30 CÜZ[/COLOR]=iZLE-DiNLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =[COLOR blue]ALMAN ve DiGER KANALLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * http://hilal.bplaced.net/Russia.m3u
-
