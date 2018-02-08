@@ -1,5 +1,8 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
+=[B][COLOR lime]Yedek Yayinlar TÜRK[/B][/COLOR] * http://yilmaztv.com/1.m3u
+=[B][COLOR lime]Yedek Yayinlar Alman[/B][/COLOR] * http://yilmaztv.com/2.m3u
+=[B][COLOR lime]Yedek Yayinlar Arap[/B][/COLOR] * http://yilmaztv.com/3.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u
 =[COLOR orange]1-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u 
 =[COLOR orange]2-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/PAKETLER/ayonFil.m3u
@@ -11,4 +14,4 @@
 =[COLOR blue]ALMAN ve DiGER KANALLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * http://hilal.bplaced.net/Russia.m3u
-=[COLOR lime]Yedek Ulusal TV[/COLOR] * http://yilmaztv.com/1.m3u
+
