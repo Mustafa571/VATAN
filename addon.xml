@@ -1,26 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="VATAN"
        name="TV KANALLARI"
-       version="1.0.2"
+       version="1.0.0"
        provider-name="M">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.requests"/>
-	<import addon="script.module.urlresolver" version="2.4.0"/>
+    <requires>              
+	<import addon="script.module.metahandler" version="1.0.2"/>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.common.plugin.cache" version="0.9.1"/>
+	<import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.parsedom" version="0.9.1"/>
+        <import addon="script.module.simple.downloader" version="0.9.4"/>
+        <import addon="plugin.video.youtube" version="2.9.2"/>
+        <import addon="script.module.simplejson" version="2.0.10"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="script.module.urlresolver" optional="true"/>
   </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+    
     <summary lang="en">TV KANALLARI</summary>
-    <language>en</language>
-    <description lang="en">All rights reserved. It may not be reproduced without permission.!!!
-Tous droits réservés. Il ne peut être reproduit sans autorisation.!!! 
-Alle Rechte vorbehalten. Es darf nicht ohne Genehmigung vervielfältigt werden.!!!
-Все права защищены. Оно не может быть воспроизведена без разрешения. !!!
-Her hakkı saklıdır. İzinsiz çoğaltılamaz, dağıtılamaz ve amacı dışında
-kullanılamaz.!!!</description>
-     <platform>all</platform>
+    <description lang="en">
+    [COLOR yellow]All rights reserved. It may not be reproduced without permission.!!![/COLOR]
+[COLOR turquoise]Tous droits réservés. Il ne peut être reproduit sans autorisation.!!![/COLOR] 
+[COLOR limegreen]Alle Rechte vorbehalten. Es darf nicht ohne Genehmigung vervielfältigt werden.!!![/COLOR]
+[COLOR red]Все права защищены. Оно не может быть воспроизведена без разрешения. !!![/COLOR]
+[COLOR yellow]Her hakkı saklıdır. İzinsiz çoğaltılamaz, dağıtılamaz ve amacı dışında
+kullanılamaz.!!![/COLOR]</description>
+    <platform>all</platform>
+	<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
   </extension>
 </addon>
