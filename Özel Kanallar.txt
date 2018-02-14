@@ -1,6 +1,6 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
-=[B][COLOR lime]Super Yayinlar[/B][/COLOR] * http://hilal.bplaced.net/Paket/PAKETLER/Depo.txt
+=[B][COLOR lime]Super Yayınlar[/B][/COLOR] * http://hilal.bplaced.net/Paket/PAKETLER/Depo.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u
 =[COLOR orange]1-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Filimler.m3u 
 =[COLOR orange]2-FiLiMLER[/COLOR]=iZLE * http://hilal.bplaced.net/Paket/PAKETLER/ayonFil.m3u
