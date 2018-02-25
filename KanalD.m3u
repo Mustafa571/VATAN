@@ -11,3 +11,7 @@ http://ift.tt/1IEGgLR
 http://188.138.9.246/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,6-KANAL D
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,7-KANAL D
+http://2122248083.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+#EXTINF:-1,8-KANAL D 
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
