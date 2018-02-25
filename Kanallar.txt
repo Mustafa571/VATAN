@@ -34,7 +34,9 @@ BURSA TV * rtmp://win1.yayin.com.tr/bursatv/bursatv
 1-BURSASPOR TV * http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 2-BURSASPOR TV * http://mob.dgntek.com/Bursaspor/bursaspor/chunklist.m3u8
 BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
-CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+1-CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+2-CNN TÜRK * http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+3-CNN TÜRK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 1-ÇiFTÇi TV * https://ams.tvizlehd.com/live/ciftcitv/playlist.m3u8
 2-ÇiFTÇi TV * rtmp://stream.taksimbilisim.com/ciftcitv/bant1
@@ -44,6 +46,8 @@ DENiZHABER-BELGESEL * http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DENIZLI PAMUKKALE * rtmp://ms1.sanlisoy.com/pamukkaletv/pamukkaletv
 DEHA TV - Denizli * http://stream2.taksimbilisim.com:1935/deha/bant1/DEHATV.m3u8
+DREAM TV * http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+DREAM TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 DiYALOG TV * http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
 DiYAR TV *  rtmp://yayin10.canliyayin.org/P981680400//diyartv
 DiYANET TV * https://ams.tvizlehd.com/live/trtdiyanet/chunks.m3u8
@@ -94,7 +98,7 @@ MERSIN SUN TV * http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3
 MEDiNE TV * http://erboy.netmedya.net/medinetv2/medinetv.stream/chunklist.m3u8
 MERCAN TV * http://yayin3.canlitv.com:1935/live/mercantv/chunklist.m3u8
 NTV HD * http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
-1-NTV SPOR * http://ujdwx6qj.rocketcdn.com/ntvsporhd.stream_360p/chunklist.m3u8
+1-NTV SPOR * http://ujdwx6qj.rocketcdn.com/ntvsporhd.stream_720p/chunklist.m3u8
 2-NTV SPOR * http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 NUR TV * http://37.75.10.20/nurtv/nurtv/chunklist.m3u8 
 OLAY TV * http://s02.vidpanel.com/olaytv/olaytv.m3u8
@@ -119,14 +123,16 @@ TARIMTÜRK * http://yayin3.canlitv.com:1935/canlitv/tarimturktv/chunklist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 3-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
 TV8 * https://ams.tvizlehd.com/live/tv81/playlist.m3u8
+TEVE2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 1-TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
 2-TGRT EU * rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 1-TV 24 * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 2-TV 24 * http://mn-l.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 TV 360 * http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-TV4 KARAMEL* http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-TV1 -Kayseri * http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
+TV 4 KARAMEL* http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+TV 1 -Kayseri * http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
 TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+TV 52 * rtmp://stream.taksimbilisim.com/tv52/bant1
 TV EM * https://ams.tvizlehd.com/live/tvem/chunks.m3u8
 TV100 * rtmp://livetr.gostream.nl:80/tv100/tv100
 TV 2000 * rtmp://stream.taksimbilisim.com/tv2000/bant1
@@ -141,8 +147,8 @@ ULUSAL TV * http://98.142.98.125:1935/ulusaltv/ulusaltv/chunklist.m3u8
 2-UÇANKUŞ TV * http://37.77.2.236:1935/ucak/ucak.stream/playlist.m3u8
 VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 VUSLAT TV * http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-1-VTV -Antalya * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
-2-VTV -Antalya * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+1-V TV -Antalya * http://stream2.taksimbilisim.com:1935/kanalvip/bant1/VTV.m3u8
+2-V TV -Antalya * rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 1-YABAN TV * http://live3.canlitv.info:1935/live1/yabantv/chunklist_w601872677.m3u8
 2-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 YAT TV * http://s03.vidpanel.com/yattv/yattv.m3u8
