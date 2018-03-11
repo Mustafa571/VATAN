@@ -4,13 +4,13 @@ http://hilal.bplaced.net/Allah%20Dostlari,%20Evliya.mp4
 #EXTINF:-1,Erzurumlu Ibrahim Hakki Hz.  
 http://proxy-080.dc3.dailymotion.com/sec(10e67705c7076326e97b7e9ea70c77ee)/video/338/706/129607833_mp4_h264_aac_2.m3u8
 #EXTINF:-1,Veysel Karani Hz.(Bulut Aras)  
-http://proxy-031.dc3.dailymotion.com/sec(b62179a4a71e2d2041ce1a110744936d)/video/307/141/231141703_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=dVVwqpMSUOs
 #EXTINF:-1,Haci Bayram-i Veli Hz.
 http://proxy-039.dc3.dailymotion.com/sec(7ea82bb9380906eeae26d802a6b45271)/video/378/141/231141873_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Behlül-i Dana Hz.
 http://proxy-049.dc3.dailymotion.com/sec(95dbfc705b778c6d5f10aac3b3612428)/video/320/386/129683023_mp4_h264_aac_2.m3u8
 #EXTINF:-1,Malik Bin Dinar Hz.  
-http://proxy-003.dc3.dailymotion.com/sec(8d1fde10d174bc038e7511d548f3145e)/video/906/141/231141609_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=AycpUwBSP10
 #EXTINF:-1,Ibrahim bin Ethem Hz.  
 http://proxy-052.dc3.dailymotion.com/sec(f36a0ba457364b3929bd42ec50686ee2)/video/561/601/231106165_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Aziz Mahmud Hüdai Hz.  
@@ -18,15 +18,15 @@ http://proxy-036.dc3.dailymotion.com/sec(7094ce200112d63fdbd795e580f7edd3)/video
 #EXTINF:-1,Ibrahim Bin Havvas Hz.  
 http://proxy-045.dc3.dailymotion.com/sec(cb78bcfda7f2646916169de5fdfc23d7)/video/041/141/231141140_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Ibrahim Gülseni Hz.  
-http://videoara.net/download/3k8BDqfdgpk/22/ibrahim-gulseni-hz.mp4
+plugin://plugin.video.youtube/play/?video_id=3k8BDqfdgpk
 #EXTINF:-1,Hasan-i Basri Hz.  
 http://proxy-062.dc3.dailymotion.com/sec(712441b84aa7171a5e3cecb3f5d346b8)/video/051/141/231141150_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Ahmed Bedevi Hz.  
 http://proxy-066.dc3.dailymotion.com/sec(f829ffd991bdf7ee05191592e95b2c99)/video/354/241/231142453_mp4_h264_aac_1.m3u8
 #EXTINF:-1,Mehmed Emin Tokadi Hz.  
-http://proxy-084.dc3.dailymotion.com/sec(6fdca0cfd8869f25f7131774124bf5c0)/video/524/241/231142425_mp4_h264_aac_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=8tgxwRkOld0
 #EXTINF:-1,Ismail Fakirullah Hz.  
-http://videoara.net/download/W9JgJJYpdP8/22/ismail-fakirullah-hz-1-opulecek-eller.mp4
+plugin://plugin.video.youtube/play/?video_id=W9JgJJYpdP8
 #EXTINF:-1,Yildirim Han ve Emir Sultan  
 http://proxy-050.dc3.dailymotion.com/sec(f524902a833c041fecb95162562a6801)/video/785/601/231106587_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Hz.Rabia  
@@ -36,7 +36,7 @@ http://www.dinimizislam.com/video/Video/Bisri_Hafi_Hz_Bir_Zamanlar_Sarhostu.flv
 #EXTINF:-1,Osman Bedrettin Hz.  
 http://proxy-034.dc3.dailymotion.com/sec(29a9a830506b6667d63b13fd94ecdbbb)/video/165/141/231141561_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Hasan Sezai Hz.  
-http://proxy-017.dc3.dailymotion.com/sec(cce70b8adbcd99b41b89f25d825b8344)/video/769/141/231141967_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=Dcfp946A7hY
 #EXTINF:-1,Ali Semerkandi Hz.  
 http://proxy-057.dc3.dailymotion.com/sec(aab061a2608173614b27f168340485cd)/video/128/141/231141821_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Seyyid Abdülkadir Geylani Hz.  
@@ -52,24 +52,26 @@ http://proxy-053.dc3.dailymotion.com/sec(b354070d5998b7a017baf6779a6f40c8)/video
 #EXTINF:-1,Ebu Turab Hz.  
 http://proxy-060.dc3.dailymotion.com/sec(f6e24f3c960cbdbfa6379307a7395520)/video/981/155/130551189_mp4_h264_aac_2.m3u8 
 #EXTINF:-1,Alaaddin-i Attar Hz.  
-http://proxy-016.dc3.dailymotion.com/sec(971c2d850183f105047e7be554aca978)/video/270/241/231142072_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=boBIwbLRPoQ
 #EXTINF:-1,Abdullah-i Tercüman Hz.  
 http://proxy-041.dc3.dailymotion.com/sec(04788a4e1ec59f2a06bac6806ea1ba85)/video/459/141/231141954_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Fudayl Bin Iyad Hz.  
-http://proxy-031.dc3.dailymotion.com/sec(8887ae34866012ad1b251c01f973a8e1)/video/278/141/231141872_mp4_h264_aac_ld_1.m3u8
-#EXTINF:-1,Ashab-i Kehf  
-http://proxy-083.dc3.dailymotion.com/sec(cff83f3865b8df043ae3c5e3be6497cb)/video/710/557/141755017_mp4_h264_aac_2.m3u8
+plugin://plugin.video.youtube/play/?video_id=UjmC3qRsUtg
+#EXTINF:-1,Ashab-i Kehf 1 
+plugin://plugin.video.youtube/play/?video_id=d08AXmp_ifg
+#EXTINF:-1,Ashab-i Kehf 2 
+plugin://plugin.video.youtube/play/?video_id=x26lhQcw2fo
 #EXTINF:-1,Marufi Kerhi K.S. Hz.  
-http://videoara.net/download/fd5BTGgtus8/22/maruf-i-kerhi-hz-atesin-teslim-oldugu-gun.mp4
+plugin://plugin.video.youtube/play/?video_id=fd5BTGgtus8
 #EXTINF:-1,Davud-i Tai Hz.  
-http://proxy-031.dc3.dailymotion.com/sec(555b8a8b1f988ade34d535c421c19221)/video/276/141/231141672_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=AdAcrlCQfMI
 #EXTINF:-1,Kaab Bin Zuheyr Hz.  
-http://proxy-015.dc3.dailymotion.com/sec(0b506b0e754251cd8b7045c610de5d90)/video/312/141/231141213_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=kXK7Qd6iMWg
 #EXTINF:-1,Molla Hüsrev Hz.  
-http://videoara.net/download/JVa1vp0Wc3I/22/molla-husrev-hz-buyuk-mukafat.mp4
+plugin://plugin.video.youtube/play/?video_id=JVa1vp0Wc3I
 #EXTINF:-1,Aksemseddin Hz.  
-https://10-lvl3-pdl.vimeocdn.com/01/391/1/26955449/60018005.mp4?expires=1480271903&token=07d4e4d5f0452e2953029
+plugin://plugin.video.youtube/play/?video_id=xhduYmnsVCU
 #EXTINF:-1,Ebu Zer el Gifari Hz.  
-http://videoara.net/download/4RMRaODWPYE/22/ebuzer-el-gifari-hayati-full-film.mp4
+plugin://plugin.video.youtube/play/?video_id=4RMRaODWPYE
 
 
