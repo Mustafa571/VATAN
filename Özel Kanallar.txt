@@ -2,6 +2,7 @@
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR lime]Yedek Yayınlar-Ulusal[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
 =[B][COLOR red]STiCK (LAN) KABLOLU OLDU-MÜJDE[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
+=[COLOR blue]GÜNLüK iPTV LiSTEMiZ[/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ip.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
 =[COLOR green]EVLİYALAR SERİSİ-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
