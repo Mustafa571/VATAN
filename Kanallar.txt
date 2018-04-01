@@ -74,6 +74,13 @@ iÇEL TV * rtmp://stream.taksimbilisim.com/iceltv/bant1
 1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 iMEDi TV * http://185.36.100.33/imedi/lq/tracks-v1a1/index.m3u8
+KRAL TV * http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+KRAL POP * http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+KRALPOP AKUSTIK * http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8
+KRALPOP KONSER * http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8
+KRAL NONAME * http://psbj5i5c.rocketcdn.com/kraldijital-nonametv.smil/chunklist_b2328000.m3u8
+KRALPOP ASK * http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist_b2328000.m3u8
+KRALPOP DANS * http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist_b2328000.m3u8
 KARADENiZ TÜRK * https://ams.tvizlehd.com/live/karadenizturktv/playlist.m3u8
 KANAL 26 ESKiSEHiR * http://stream.taksimbilisim.com:1935/kanal26/bant1/Kanal26.m3u8
 KANAL URFA * rtmp://stream.taksimbilisim.com/kanalurfa//bant1
@@ -92,7 +99,8 @@ KONYA SELCUK UNi * rtmp://yayin3.canlitv.com/live/untv
 KANAL Z *  rtmp://stream.taksimbilisim.com/kanalz/bant1
 LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
 MALATYA TV * http://broadcasttr.com:1935/tvm/smil:tvm.smil/chunklist.m3u8
-MAKiNE TV * https://ams.tvizlehd.com/live/makinetv/chunks.m3u8
+1-MAKiNE TV * https://ams.tvizlehd.com/live/makinetv/chunks.m3u8
+2-MAKiNE TV * rtmp://streaming.imajnetwork.com:80/makinetv/makinetv
 MALATYA GÜNES * http://yayin3.canlitv.com:1935/canlitv/malatyagunestv/playlist.m3u8
 MAVi GECE KARADENiZ * http://51.255.99.157:1935/mavigecetv/mavigecetv/playlist.m3u8
 MERSiN SEHiR TV * rtmp://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37
@@ -104,9 +112,11 @@ NTV HD * http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
 2-NTV SPOR * http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 NUR TV * http://37.75.10.20/nurtv/nurtv/chunklist.m3u8 
 OLAY TV * http://s02.vidpanel.com/olaytv/olaytv.m3u8
+OTOMOTiV TV * http://cdn1.streamencoding.com:1935/medyathink_live/otodunyasitv/playlist.m3u8
 ROMAN TV * http://ms.n1.tvkur.noccdn.com:1935/cdn/564b2951d6f5c/playlist.m3u8
 RADYO SPOR * rtmp://37.247.100.100/radyospor//sporcam
 STAR TV HD * http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+SHOWMAX * http://mn-i.mncdn.com/showmax_mobile/showmax2/playlist.m3u8
 SEMERKAND 1 * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 SEMERKAND 2 * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 1-SPORTS TV * http://stream.sportstv.com.tr/sportstv/SportsTV3/radyodelisi.m3u8
@@ -125,7 +135,8 @@ TARIMTÜRK * http://yayin3.canlitv.com:1935/canlitv/tarimturktv/chunklist.m3u8
 2-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w1443613879.m3u8
 3-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
 TV8 * https://ams.tvizlehd.com/live/tv81/playlist.m3u8
-TEVE2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+1-TEVE2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+2-TEVE2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/playlist.m3u8
 1-TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
 2-TGRT EU * rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 1-TV 24 * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
