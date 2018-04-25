@@ -3,7 +3,6 @@
 ==================================================.*.m3u
 [B][COLOR lime]= YOUTUBE ULUSAL TV YAYINLARI=[/B][/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
 =[B][COLOR aqua]Yedek Yayınlar-Ulusal[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
-=[B][COLOR red]STiCK (LAN) KABLOLU OLDU-MÜJDE[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DUYURU.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 1-AV TV * https://ams.tvizlehd.com/live/avtv/playlist.m3u8
 2-AV TV * http://yayin3.canlitv.com:1935/canlitv/avtv/chunklist.m3u8
