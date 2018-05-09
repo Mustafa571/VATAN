@@ -165,4 +165,3 @@ VUSLAT TV * http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 2-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 YAT TV * http://s03.vidpanel.com/yattv/yattv.m3u8
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
-. * https://securevideotoken.tmgrup.com.tr/webtv/secure?649546&url=https%3A%2F%2Ftrkvz-live.ercdn.net%2Fatvhd%2Fatvhd.m3u8&url2=https%3A%2F%2Ftrkvz-live.ercdn.net%2Fatvhd%2Fatvhd.m3u8
