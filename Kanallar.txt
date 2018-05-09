@@ -106,7 +106,8 @@ MERSiN SEHiR TV * rtmp://ms.n1.tvkur.noccdn.com/cdn/558833d1d1a37
 MERSIN SUN TV * http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3u
 MEDiNE TV * http://erboy.netmedya.net/medinetv2/medinetv.stream/chunklist.m3u8
 MERCAN TV * http://yayin3.canlitv.com:1935/live/mercantv/chunklist.m3u8
-NTV HD * http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
+1-NTV HD * http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
+2-NTV HD * http://api.ntv.com.tr/rss/LiveStream
 1-NTV SPOR * http://ujdwx6qj.rocketcdn.com/ntvsporhd.stream_720p/chunklist.m3u8
 2-NTV SPOR * http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 NUR TV * http://37.75.10.20/nurtv/nurtv/chunklist.m3u8 
