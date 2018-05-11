@@ -10,4 +10,3 @@
 =[COLOR blue]ALMAN ve DiGER KANALLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR green]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * http://hilal.bplaced.net/Russia.m3u
-. * https://www.dropbox.com/s/ezmk4ifkxhkzn8w/v.apk?dl=1
