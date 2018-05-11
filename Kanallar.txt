@@ -1,7 +1,6 @@
 =[B][COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/B][/COLOR]= *.m3u
 [I][COLOR orange]iPTV Paket-Bilgi !!![/I][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 ==================================================.*.m3u
-[B][COLOR lime]= YOUTUBE ULUSAL TV YAYINLARI=[/B][/COLOR] iZLE * http://hilal.bplaced.net/Canli.m3u
 =[B][COLOR aqua]Yedek Yayınlar-Ulusal[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 1-AV TV * https://ams.tvizlehd.com/live/avtv/playlist.m3u8
