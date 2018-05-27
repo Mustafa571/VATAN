@@ -40,6 +40,7 @@ BLOOMBERG * http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist
 1-CNN TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
 2-CNN TÜRK * http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 3-CNN TÜRK * http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+CLUBTURK TV * http://live.arkumedia.com:1935/clubturktv/clubturktv/playlist.m3u8
 ÇAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 1-ÇiFTÇi TV * https://ams.tvizlehd.com/live/ciftcitv/playlist.m3u8
 2-ÇiFTÇi TV * rtmp://stream.taksimbilisim.com/ciftcitv/bant1
