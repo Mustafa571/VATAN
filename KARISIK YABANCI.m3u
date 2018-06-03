@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,
-................................................................................................................................
+.................................TÜRKMENiSTAN...............................................................................................
 #EXTINF:-1,>>>>>>>>> TÜRKMENiSTAN <<<<<<<<<
 #EXTINF:-1,TURKMEN OWAZY,
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
@@ -11,24 +11,37 @@ http://217.174.225.146/legacyhls/ch002_400/index.m3u8
 #EXTINF:-1,TURKMENISTAN,
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,
-................................................................................................................................
+..................................AZERi..............................................................................................
 #EXTINF:-1,>>>>>>>>> AZERi <<<<<<<<<
-#EXTINF:-1,AZTV,
-http://85.132.71.6/azeri/aztv/index.m3u8
-#EXTINF:-1,Medeniyyet TV,
-http://85.132.71.6/turk/medeniyyet/index.m3u8
-#EXTINF:-1,ICtimai TV,
-http://85.132.71.6/iptv_ictimai/index.m3u8
-#EXTINF:-1,Space TV,
-http://85.132.71.6/iptv_space/index.m3u8
-#EXTINF:-1,Lider TV,
-http://85.132.71.6/iptv_lider/index.m3u8
-#EXTINF:-1,Xezer TV,
-http://85.132.71.6/iptv_xazar/index.m3u8
-#EXTINF:-1,SPOR-CBC SPORT,
-http://85.132.71.6/turk/cbc_sport/index.m3u8
-#EXTINF:-1,
-................................................................................................................................
+#EXTINF:-1,ARB24
+http://185.118.50.219/AZ-arb24/index.m3u8
+#EXTINF:-1,CBC Azerbaijan
+http://185.118.50.219/AZ-cbc/index.m3u8
+#EXTINF:-1,ARB TV (Region TV)
+http://185.118.50.219/AZ-arb/index.m3u8
+#EXTINF:-1,Azad Azerbaijan
+http://185.118.50.219/AZ-atv/index.m3u8
+#EXTINF:-1,Lider TV
+http://185.118.50.219/AZ-lider/index.m3u8
+#EXTINF:-1,Medeniyyet
+http://185.118.50.219/AZ-medeniyyet/index.m3u8
+#EXTINF:-1,Dunya TV
+http://185.118.50.219/AZ-dunya/index.m3u8
+#EXTINF:-1,Xezer TV
+http://185.118.50.219/AZ-xezer/index.m3u8
+#EXTINF:-1,Space TV
+http://185.118.50.219/AZ-space/index.m3u8
+#EXTINF:-1,Ictimai TV
+http://185.118.50.219/AZ-ictimai/index.m3u8
+#EXTINF:-1,AZTV
+http://185.118.50.219/AZ-aztv/index.m3u8
+#EXTINF:-1,CBC Sport
+http://149.255.155.142/CBCSport/index.m3u8
+#EXTINF:-1,CBC Sport HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1,Idman Azerbaijan
+http://185.118.50.219/AZ-idman/index.m3u8
+...................................BULGARiSTAN.............................................................................................
 #EXTINF:-1,>>>>>>>>> BULGARiSTAN <<<<<<<<<
 #EXTINF:-1,BG-BG DNES,
 http://80.72.95.40:8088
@@ -65,9 +78,8 @@ rtmp://83.222.173.94/tvart//tvart
 #EXTINF:-1,BG-Auto Moto TV,
 rtmp://100automoto.tv/100gaz//shukerov
 #EXTINF:-1,
-................................................................................................................................
+.......................................ÇEKOSLAVAKYA .........................................................................................
 #EXTINF:-1,>>>>>>>>> ÇEKOSLAVAKYA <<<<<<<<<
-#EXTINF:-1,CEKOSLAVAK YAYINLARI
 #EXTINF:-1,CZ-POLAR TV,
 rtmp://stream.polar.cz/polar/polarlive-2
 #EXTINF:-1,CZ-PRAHA TV,
@@ -81,7 +93,7 @@ http://stream.redigy.cz:1934/tvm.flv
 #EXTINF:-1,CZ-VCTV,
 rtmp://stream.polar.cz/vctv/vctvlive-1
 #EXTINF:-1,
-................................................................................................................................
+...................................ALMANYA.............................................................................................
 #EXTINF:-1,>>>>>>>>> ALMANYA <<<<<<<<<
 #EXTINF:-1,DE-123 TV,
 http://123tv-live.hls.adaptive.level3.net/ses/123tv/stream1/streamPlaylist.m3u8
@@ -136,7 +148,7 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
 #EXTINF:-1,DE-WMZ TV,
 rtmp://62.67.13.53/wmzsenftenberg//live.stream
 #EXTINF:-1,
-................................................................................................................................
+...................................RUSYA.............................................................................................
 #EXTINF:-1,>>>>>>>>> RUSYA <<<<<<<<<
 #EXTINF:-1,RU-MIR,
 rtmp://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv_800
