@@ -5,7 +5,8 @@
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 1-ATV * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_atvhd.php
 2-ATV HD* http://185.118.50.219/TR-atv/index.m3u8
-ATV AVRUPA * http://ams.tvizlehd.com/live/atvavrupa/playlist.m3u8
+1-ATV AVRUPA * http://ams.tvizlehd.com/live/atvavrupa/playlist.m3u8
+2-ATV AVRUPA * http://185.24.35.2:8000/play/a00y/index.m3u8
 A2 TV * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_a2.php
 A HABER * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_ahaberhd.php
 A HABER * http://185.118.50.219/TR-ahaber/index.m3u8
@@ -127,6 +128,7 @@ RADYO SPOR * rtmp://37.247.100.100/radyospor//sporcam
 3-STAR TV * http://185.118.50.219/TR-startv/index.m3u8
 1-SHOW TV * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_show.php
 2-SHOW TV * http://185.118.50.219/TR-showtv/index.m3u8
+3-SHOW TV * http://185.24.35.2:8000/play/a01q/index.m3u8
 SHOWMAX * http://mn-i.mncdn.com/showmax_mobile/showmax2/playlist.m3u8
 SEMERKAND 1 * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 SEMERKAND 2 * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
@@ -137,7 +139,8 @@ SARIYER TV * rtmp://s02.vidpanel.com/sariyer/sariyer
 SiNOP YILDIZ TV * http://s02.vidpanel.com/sinopyildiz/sinopyildiz.m3u8
 SUPER KANAL * http://yayin3.canlitv.com:1935/canlitv/superkanal/playlist.m3u8
 TV8 iNT * http://185.118.50.219/TR-tv8int/index.m3u8
-TV8 HD * http://185.118.50.219/TR-tv8/index.m3u8
+1-TV8 HD * http://185.118.50.219/TR-tv8/index.m3u8
+2-TV8 HD * http://185.24.35.2:8000/play/a049/index.m3u8
 TRT SPOR * http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 TRT TÜRK * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_trtturk.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
