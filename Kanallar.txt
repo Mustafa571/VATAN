@@ -177,3 +177,10 @@ VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 YAT TV * http://s03.vidpanel.com/yattv/yattv.m3u8
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
+. * http://live17.webtvcdn.com/hls/hd1/live/index.m3u8?token=3b037e7cf9343fc04177e2432ac17b20&expire=1512422115
+. * http://live17.webtvcdn.com/hls/hd2/live/index.m3u8?token=d8d1a65f61c371f900ab0813e641604b&expire=1512422115
+. * http://live17.webtvcdn.com/hls/hd3/live/index.m3u8?token=afd876bab0b667ddd06e0f00bcec8efa&expire=1512422115
+. * http://live17.webtvcdn.com/hls/hd4/live/index.m3u8?token=920729fe06040514c6635f73e8439db7&expire=1512422115
+. * http://live17.webtvcdn.com/hls/hd5/live/index.m3u8?token=400dd662b3e505d56ea93d97d1ce8be4&expire=1512422116
+. * http://live17.webtvcdn.com/hls/hd7/live/index.m3u8?token=00b93e2469aefff162b61754054e6594&expire=1512422116
+. * http://live17.webtvcdn.com/hls/hd9/live/index.m3u8?token=378b00ef216c4f309c36b9afafdd70d4&expire=1512422116
