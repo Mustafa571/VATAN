@@ -178,3 +178,4 @@ VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 2-YABAN TV HD * https://ams.tvizlehd.com/live/yabantv/chunks.m3u8
 YAT TV * http://s03.vidpanel.com/yattv/yattv.m3u8
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
+. * http://www.trakyagumruk.gov.tr/canli_trakya_gtb/pazarkule/pazarkule_kamera2.aspx
