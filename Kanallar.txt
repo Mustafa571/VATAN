@@ -24,6 +24,7 @@ ASTV BURSA * http://yayin3.canlitv.com:1935/canlitv/astv/chunklist.m3u8
 AN SES TV * rtmp://stream.taksimbilisim.com/tv2000/bant1
 ADA TV * rtmp://ada.iptvboss.net:1835/live//adatv
 ADANA METRO * rtmp://metrotv.garantisistem.com:1935/metrotv/metro1
+BJK TV * https://ams.tvizlehd.com/live/bjktv/playlist.m3u8
 1-BENGÜTÜRK * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_benguturk.php
 2-BENGÜTÜRK * https://ams.tvizlehd.com/live/benguturktv/chunks.m3u8
 1-BEYAZ TV * http://hasbahcaiptv.com/m3u/ulusal/HasBahCa_beyaztv.php
