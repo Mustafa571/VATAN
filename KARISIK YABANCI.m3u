@@ -92,7 +92,10 @@ http://origina.streaming.sk/liveedge/tvfashion/chunklist_w.m3u8
 http://stream.redigy.cz:1934/tvm.flv
 #EXTINF:-1,CZ-VCTV,
 rtmp://stream.polar.cz/vctv/vctvlive-1
-#EXTINF:-1,
+#EXTINF:-1,MORAVA
+http://stream.redigy.cz:1934/tvm.flv
+#EXTINF:-1,RETRO
+rtmp://stream.mediawork.cz/retrotv//retrotvHQ1
 ...................................ALMANYA.............................................................................................
 #EXTINF:-1,>>>>>>>>> ALMANYA <<<<<<<<<
 #EXTINF:-1,DE-123 TV,
