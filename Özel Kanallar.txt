@@ -1,7 +1,5 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR yellow]Alman Paket Test[/COLOR]=iZLE * https://www.dropbox.com/s/mma1olw5007txpl/AlTest.m3u?dl=1
-=[COLOR yellow]Türk Paket Test-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/tr.m3u
-=[COLOR yellow]Türk Paket Test-2[/COLOR]=iZLE * https://www.dropbox.com/s/9tyswyp9oj55osb/T%C3%BCrTest.m3u?dl=1
+=[COLOR yellow]Türk Paket Test[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/tr.m3u
 =[COLOR aqua]SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Sp.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR lime]YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
