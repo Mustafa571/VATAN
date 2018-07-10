@@ -41,6 +41,9 @@ http://bak01-edge03.itdc.ge/tmbru/index.m3u8?token=5hm7Yq4IO1hZY6n-KwLJp-EPblXR6
 http://bak01-edge01.itdc.ge/dalga/tracks-v1a1/index.m3u8?token=5hm7Yq4IO1hZY6n-KwLJp-EPblXR6nS6glkYwOGuI2w*
 #EXTINF:-1,MUZ TV AZERBAYCAN
 rtmp://85.132.78.6:1935/live/muztv.stream
-
+#EXTINF:-1,1-SES TV
+rtmp://www.tvtelekom.net:1935/maksimtv/maksimtv
+#EXTINF:-1,2-SES TV
+http://i52.radyotelekomtv.com:1935/maksimtv/maksimtv/playlist.m3u8
 
 
