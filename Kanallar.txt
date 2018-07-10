@@ -96,7 +96,8 @@ PLANET TÜRK * http://185.118.50.219/TR-planetturk/index.m3u8
 PLANET COCUK * https://ams.tvizlehd.com/live/sonycocuk/chunks.m3u8
 POWER HD Turk * http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u8
 RADYO SPOR * rtmp://37.247.100.100/radyospor//sporcam
-STAR TV * http://185.118.50.219/TR-startv/index.m3u8
+1-STAR TV * http://185.118.50.219/TR-startv/index.m3u8
+2-STAR TV * http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 SHOW TV * http://185.118.50.219/TR-showtv/index.m3u8
 1-SEMERKAND * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
@@ -122,6 +123,7 @@ TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 3-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
 1-TEVE2 * http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 2-TEVE2 * http://live.netd.com.tr/S1/HLS_LIVE/tv2/playlist.m3u8
+3-TEVE2 * http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 1-TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
 2-TGRT EU * rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
 1-TV 24 * http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
