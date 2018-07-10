@@ -65,6 +65,7 @@ iÇEL TV * rtmp://stream.taksimbilisim.com/iceltv/bant1
 1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
 2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 KANAL 7 * http://185.118.50.219/TR-kanal7/index.m3u8
+KRAL ARABESK * http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 KRAL POP * http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 KRALPOP AKUSTIK * http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8
 KRALPOP KONSER * http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8
@@ -99,6 +100,7 @@ RADYO SPOR * rtmp://37.247.100.100/radyospor//sporcam
 1-STAR TV * http://185.118.50.219/TR-startv/index.m3u8
 2-STAR TV * http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 SHOW TV * http://185.118.50.219/TR-showtv/index.m3u8
+SHOWMAX * https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3
 1-SEMERKAND * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 3-SEMERKAND * https://ams.tvizlehd.com/live/semerkandtv/chunks.m3u8
