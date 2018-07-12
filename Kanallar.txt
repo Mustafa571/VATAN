@@ -147,4 +147,4 @@ VATAN TV * http://vatantv-live.cdnnew.com/vatantv/vatantv.m3u8
 1-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 2-YABAN TV HD * https://ams.tvizlehd.com/live/yabantv/chunks.m3u8
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
-. * http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8?simpletvipadresleri
+. * http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8
