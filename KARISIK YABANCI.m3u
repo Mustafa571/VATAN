@@ -213,3 +213,10 @@ http://hls.nebiset.tv/nebiset_500/index.m3u8
 rtmp://streamer.rtcommufa.ru/tugantel//tugantel1
 #EXTINF:-1,RU-SHOPPING LIVE,
 http://shoppinglive.mediacdn.ru/sr1/shoppinglive/chunklist.m3u8
+...................................HiND FiLMLERi.............................................................................................
+#EXTINF:-1,Dhoom 1
+http://catchup.zeeone.de/vod/ZON0324.mp4/index.m3u8
+#EXTINF:-1,Dhoom 2
+http://catchup.zeeone.de/vod/ZON0316.mp4/index.m3u8
+#EXTINF:-1,Dhoom 3
+http://catchup.zeeone.de/vod/ZON0352.mp4/index.m3u8
