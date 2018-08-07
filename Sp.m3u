@@ -1,25 +1,9 @@
 #EXTM3U
-#EXTINF:-1,BEIN-1
-http://kvzcdn.com/dd3_200.m3u8
-#EXTINF:-1,BEIN-2
-http://kvzcdn.com/dd3_201.m3u8
-#EXTINF:-1,BEIN-3
-http://meritkolik.tv/dd3_202.m3u8
 #EXTINF:-1,1-TIVIBU SPOR 
 http://185.118.50.219/TR-tivibuspor/index.m3u8
 #EXTINF:-1,2-TIVIBU SPOR
 http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,TIVIBU-1
-http://kvzcdn.com/dd3_204.m3u8
-#EXTINF:-1,TIVIBU-2
-http://kvzcdn.com/dd3_205.m3u8
-#EXTINF:-1,TIVIBU-3
-http://meritkolik.tv/dd3_205.m3u8
 #EXTINF:-1,iDMAN TV Azerbaijan
 http://185.118.50.219/AZ-idman/index.m3u8
 #EXTINF:-1,CBC Sport Azerbaijan
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
-#EXTINF:-1,SKYSPORT-1
-http://kvzcdn.com/dd3_202.m3u8
-#EXTINF:-1,SPORTHD
-http://kvzcdn.com/dd3_3450.m3u8
