@@ -116,4 +116,3 @@ TEMPO TV * rtmp://91.93.118.165/tempotv/livestream
 UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
-. * https://pastebin.com/raw/ZHA7ktRG
