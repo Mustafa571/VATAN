@@ -8,7 +8,8 @@ TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/mast
 3-ATV * http://31.177.62.134:8003/play/s15
 1-A HABER * http://185.118.50.219/TR-ahaber/index.m3u8
 2-A HABER * http://31.177.62.134:8003/play/s16
-A SPOR * http://31.177.62.134:8003/play/s17
+1-A SPOR * http://31.177.62.134:8003/play/s17
+2-A SPOR * http://185.118.50.219/TR-aspor/index.m3u8 
 1-AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 2-AKiT TV * http://akittv-live.ercdn.net/akittv/akittv_576p.m3u8
 AKILLI TV * http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
@@ -93,13 +94,17 @@ SİNEMA ANİMASYON20 * http://149.202.90.48:9099
 1-SEMERKAND * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 SUPER KANAL * http://yayin3.canlitv.com:1935/canlitv/superkanal/playlist.m3u8
+TRT SPOR * http://185.118.50.219/TR-trtspor/index.m3u8
+TV8 HD * http://185.118.50.219/TR-tv8/index.m3u8
 TV8 iNT * http://185.118.50.219/TR-tv8int/index.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
+TiViBU SPOR * http://185.118.50.219/TR-tivibuspor/index.m3u8
 1-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 2-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 2-TGRT HABER * rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
-TEVE2 * http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+1-TEVE2 * http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+2-TEVE2 HD * http://185.118.50.219/TR-teve2/index.m3u8
 TLC * https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 1-TGRT EU * http://canlitvizle.gallery@cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1/playlist.m3u8
 2-TGRT EU * rtmp://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu1
