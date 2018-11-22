@@ -1,7 +1,9 @@
 =[B][COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/B][/COLOR]= *.m3u
 [I][COLOR orange]iPTV Paket-Bilgi !!![/I][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
 ==================================================.*.m3u
-=[B][COLOR lime]YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
+=[B][COLOR lime]1-YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
+=[B][COLOR orange]2-YEDEK YAYINLAR[/B][/COLOR] * http://canlitvizle.ca/yerlitv.m3u
+=[B][COLOR blue]3-YEDEK YAYINLAR[/B][/COLOR] * http://isiktv.square7.ch/iptv/TurkTV.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 1-ATV HD* http://185.118.50.219/TR-atv/index.m3u8
 2-ATV * http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
