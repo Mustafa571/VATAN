@@ -1,4 +1,5 @@
-#EVLIYALAR SERISI-Güncellendi 07.11.2016
+#EXTM3U
+#EXTINF:-1,EVLiYALAR SERiSi-Güncellendi 11.12.2018
 #EXTINF:-1,Allah Dostlari, Evliyalar  
 http://hilal.bplaced.net/Allah%20Dostlari,%20Evliya.mp4
 #EXTINF:-1,Erzurumlu Ibrahim Hakki Hz.  
@@ -8,11 +9,11 @@ plugin://plugin.video.youtube/play/?video_id=dVVwqpMSUOs
 #EXTINF:-1,Haci Bayram-i Veli Hz.
 http://proxy-039.dc3.dailymotion.com/sec(7ea82bb9380906eeae26d802a6b45271)/video/378/141/231141873_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Behlül-i Dana Hz.
-http://proxy-049.dc3.dailymotion.com/sec(95dbfc705b778c6d5f10aac3b3612428)/video/320/386/129683023_mp4_h264_aac_2.m3u8
+plugin://plugin.video.youtube/play/?video_id=tFjL5nxtcUg
 #EXTINF:-1,Malik Bin Dinar Hz.  
 plugin://plugin.video.youtube/play/?video_id=AycpUwBSP10
 #EXTINF:-1,Ibrahim bin Ethem Hz.  
-http://proxy-052.dc3.dailymotion.com/sec(f36a0ba457364b3929bd42ec50686ee2)/video/561/601/231106165_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=amwFFMDw0ME
 #EXTINF:-1,Aziz Mahmud Hüdai Hz.  
 http://proxy-036.dc3.dailymotion.com/sec(7094ce200112d63fdbd795e580f7edd3)/video/300/155/130551003_mp4_h264_aac_2.m3u8
 #EXTINF:-1,Ibrahim Bin Havvas Hz.  
@@ -20,15 +21,15 @@ http://proxy-045.dc3.dailymotion.com/sec(cb78bcfda7f2646916169de5fdfc23d7)/video
 #EXTINF:-1,Ibrahim Gülseni Hz.  
 plugin://plugin.video.youtube/play/?video_id=3k8BDqfdgpk
 #EXTINF:-1,Hasan-i Basri Hz.  
-http://proxy-062.dc3.dailymotion.com/sec(712441b84aa7171a5e3cecb3f5d346b8)/video/051/141/231141150_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=dIbCJGkn9pQ&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj&index=24
 #EXTINF:-1,Ahmed Bedevi Hz.  
-http://proxy-066.dc3.dailymotion.com/sec(f829ffd991bdf7ee05191592e95b2c99)/video/354/241/231142453_mp4_h264_aac_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=dIbCJGkn9pQ
 #EXTINF:-1,Mehmed Emin Tokadi Hz.  
 plugin://plugin.video.youtube/play/?video_id=8tgxwRkOld0
 #EXTINF:-1,Ismail Fakirullah Hz.  
 plugin://plugin.video.youtube/play/?video_id=W9JgJJYpdP8
 #EXTINF:-1,Yildirim Han ve Emir Sultan  
-http://proxy-050.dc3.dailymotion.com/sec(f524902a833c041fecb95162562a6801)/video/785/601/231106587_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=muSr6Mk6dGE
 #EXTINF:-1,Hz.Rabia  
 http://proxy-048.dc3.dailymotion.com/sec(af3d2cc1ef0d1cc11fb9d45b9b9555d6)/video/433/601/231106334_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Bisri Hafi K.S. Hz.  
@@ -38,7 +39,7 @@ http://proxy-034.dc3.dailymotion.com/sec(29a9a830506b6667d63b13fd94ecdbbb)/video
 #EXTINF:-1,Hasan Sezai Hz.  
 plugin://plugin.video.youtube/play/?video_id=Dcfp946A7hY
 #EXTINF:-1,Ali Semerkandi Hz.  
-http://proxy-057.dc3.dailymotion.com/sec(aab061a2608173614b27f168340485cd)/video/128/141/231141821_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=KFzn6prFKmM&index=15&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj
 #EXTINF:-1,Seyyid Abdülkadir Geylani Hz.  
 http://proxy-041.dc3.dailymotion.com/sec(e03a3bf3d8eb6f0d642c56233fbe32e0)/video/315/241/231142513_mp4_h264_aac_1.m3u8
 #EXTINF:-1,Habbabe Hatun   
@@ -48,11 +49,11 @@ http://proxy-048.dc3.dailymotion.com/sec(0ad74245fa9c7cda22e3302478a2a10b)/video
 #EXTINF:-1,Hayat bin Kays El Harrani Hz.  
 http://proxy-040.dc3.dailymotion.com/sec(15d9e800a41e6c9b0e65242fd9d0a43d)/video/136/141/231141631_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Besiktasli Yahya Efendi  
-http://proxy-053.dc3.dailymotion.com/sec(b354070d5998b7a017baf6779a6f40c8)/video/318/141/231141813_mp4_h264_aac_ld_1.m3u8
+plugin://plugin.video.youtube/play/?video_id=DPnUswuFMTU&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj&index=14
 #EXTINF:-1,Ebu Turab Hz.  
-http://proxy-060.dc3.dailymotion.com/sec(f6e24f3c960cbdbfa6379307a7395520)/video/981/155/130551189_mp4_h264_aac_2.m3u8 
+plugin://plugin.video.youtube/play/?video_id=gknNerqAxWA
 #EXTINF:-1,Alaaddin-i Attar Hz.  
-plugin://plugin.video.youtube/play/?video_id=boBIwbLRPoQ
+plugin://plugin.video.youtube/play/?video_id=NYYGEBfiAvE&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj&index=1
 #EXTINF:-1,Abdullah-i Tercüman Hz.  
 http://proxy-041.dc3.dailymotion.com/sec(04788a4e1ec59f2a06bac6806ea1ba85)/video/459/141/231141954_mp4_h264_aac_ld_1.m3u8
 #EXTINF:-1,Fudayl Bin Iyad Hz.  
@@ -73,5 +74,22 @@ plugin://plugin.video.youtube/play/?video_id=JVa1vp0Wc3I
 plugin://plugin.video.youtube/play/?video_id=xhduYmnsVCU
 #EXTINF:-1,Ebu Zer el Gifari Hz.  
 plugin://plugin.video.youtube/play/?video_id=4RMRaODWPYE
-
-
+#EXTINF:-1,Terzi Baba
+plugin://plugin.video.youtube/play/?video_id=WbK31CrGdCE&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj&index=2
+#EXTINF:-1,Murad-ı Münzavi Hz. - Işıklı Ayakkabılar
+plugin://plugin.video.youtube/play/?video_id=EqY3yBDDR28&index=34&list=PLA_8Zzpc1UPifc3in709jPXD4hJqY9qy4
+#EXTINF:-1,Abdülfettah-i Akri Hz - İki Damla Gözyaşı
+plugin://plugin.video.youtube/play/?video_id=zTFIj5COJIY&index=4&list=PLA_8Zzpc1UPifc3in709jPXD4hJqY9qy4
+#EXTINF:-1,SOMUNCU BABA AŞKIN SIRRI
+plugin://plugin.video.youtube/play/?video_id=jp9dZW3O89Q&index=2&list=PLA_8Zzpc1UPifc3in709jPXD4hJqY9qy4
+#EXTINF:-1,Çağrı
+plugin://plugin.video.youtube/play/?video_id=3neSQxH-UXs
+#EXTINF:-1,Hazreti Eyyub
+plugin://plugin.video.youtube/play/?video_id=KitjH94z7B0
+#EXTINF:-1,Hazreti Ömer'in Adaleti
+plugin://plugin.video.youtube/play/?video_id=d62eg2QxFzw
+#EXTINF:-1,.
+plugin://plugin.video.youtube/play/?video_id=
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
