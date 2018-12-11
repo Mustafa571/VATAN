@@ -3,7 +3,7 @@
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR lime]YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
-=[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
+=[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/clip-liste.m3u
 =[COLOR lime]HAKKINI HELAL ET - Film[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/HakkiniHelalEt.m3u
 =[COLOR violet]EVLİYALAR SERİSİ-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
 =[COLOR violet]EVLİYALAR SERİSİ-2-Seyyid Muhammed Raşid Hz[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Menzil'de%20Bir%20Sultan%20-%20Seyyid%20Muhammed%20Rasid%20Hz.m3u
