@@ -2,7 +2,7 @@
 #EXTINF:-1,Allah Dostlari, Evliyalar  
 http://hilal.bplaced.net/Allah%20Dostlari,%20Evliya.mp4
 #EXTINF:-1,Erzurumlu Ibrahim Hakki Hz.  
-http://proxy-080.dc3.dailymotion.com/sec(10e67705c7076326e97b7e9ea70c77ee)/video/338/706/129607833_mp4_h264_aac_2.m3u8
+plugin://plugin.video.youtube/play/?video_id=RYyX68j3dSM&index=6&list=PLsfGqLGANsx_r--ymsGr1a_kn_68YY8wj
 #EXTINF:-1,Veysel Karani Hz.(Bulut Aras)  
 plugin://plugin.video.youtube/play/?video_id=dVVwqpMSUOs
 #EXTINF:-1,Haci Bayram-i Veli Hz.
