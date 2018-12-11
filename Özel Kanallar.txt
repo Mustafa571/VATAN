@@ -1,14 +1,14 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR aqua]SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Sp.m3u
-=[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * http://hilal.bplaced.net/DiNLENDiRiCi%20ViDEOLAR.m3u
+=[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR lime]YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * http://hilal.bplaced.net/ClipDosya/clip-liste.m3u
-=[COLOR lime]HAKKINI HELAL ET - Film[/COLOR]= * http://hilal.bplaced.net/Paket/HakkiniHelalEt.m3u
+=[COLOR lime]HAKKINI HELAL ET - Film[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/HakkiniHelalEt.m3u
 =[COLOR violet]EVLİYALAR SERİSİ-1[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Evliya.m3u
-=[COLOR violet]EVLİYALAR SERİSİ-2-Seyyid Muhammed Raşid Hz[/COLOR]=iZLE *http://hilal.bplaced.net/Paket/Menzil'de%20Bir%20Sultan%20-%20Seyyid%20Muhammed%20Rasid%20Hz.m3u
+=[COLOR violet]EVLİYALAR SERİSİ-2-Seyyid Muhammed Raşid Hz[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Menzil'de%20Bir%20Sultan%20-%20Seyyid%20Muhammed%20Rasid%20Hz.m3u
 =[COLOR blue]RADYOLAR[/COLOR]=DiNLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Radyolar.m3u
 =[COLOR blue]KUR`AN MUKABELE 1-30 CÜZ[/COLOR]=iZLE-DiNLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
-=[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * http://hilal.bplaced.net/Russia.m3u
+=[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
