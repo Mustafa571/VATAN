@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,TÜRKiYE - UltraHD 4K
+#EXTINF:-1,TÃœRKiYE - UltraHD 4K
 plugin://plugin.video.youtube/play/?video_id=_jjIKMl90iM
 
 #EXTINF:-1,iSTANBUL - UltraHD 4K
@@ -7,33 +7,6 @@ plugin://plugin.video.youtube/play/?video_id=-2FKlfUyAQ8
 
 #EXTINF:-1,Incredible Turkey in 4K (Ultra HD)
 plugin://plugin.video.youtube/play/?video_id=52zmpRT5RFg
-
-#EXTINF:-1,Akvaryum1
-https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
-#EXTINF:-1,Akvaryum
-https://live-stack.cdnvideo.ru/hls/5a8da5d5e563f20a4fc0a0a4.m3u8
-#EXTINF:-1,4k sömine 
-http://kiev1-cdn.lanet.tv/live/2009.m3u8
-#EXTINF:-1,Natur
-https://live-stack.cdnvideo.ru/hls/5a8eef89e563f20a4fc0a686.m3u8
-#EXTINF:-1,Wasserfall
-https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
-#EXTINF:-1,Kamin YD
-https://live-stack.cdnvideo.ru/hls/5a8d9f95e563f20a4fc0a069.m3u8
-#EXTINF:-1,Kamin in einem Winterhaus
-https://live-stack.cdnvideo.ru/hls/5a8d97c8e563f20a4fc0a047.m3u8
-#EXTINF:-1,Raum
-https://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8
-#EXTINF:-1,Meer
-https://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8
-#EXTINF:-1,Natur und Zeit
-https://live-stack.cdnvideo.ru/hls/5a8e9cdfe563f20a4fc0a36f.m3u8
-#EXTINF:-1,Entspannen
-https://live-stack.cdnvideo.ru/hls/5a8e9dd7e563f20a4fc0a379.m3u8
-#EXTINF:-1,Blumenkaktus
-https://live-stack.cdnvideo.ru/hls/5a8d92a8e563f20a4fc0a024.m3u8
-#EXTINF:-1,Blumen
-https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8
 
 #EXTINF:-1,NASA | 4K Video: Thermonuclear Art
 plugin://plugin.video.youtube/play/?video_id=omlXSRvb1Wo
@@ -59,7 +32,7 @@ plugin://plugin.video.youtube/play/?video_id=TxbE79-1OSI
 #EXTINF:-1,Relax Music & Beautiful Big Cats
 plugin://plugin.video.youtube/play/?video_id=OTpIombTKVI
 
-#EXTINF:-1,SÖMiNE - UltraHD 4K
+#EXTINF:-1,SÃ–MiNE - UltraHD 4K
 plugin://plugin.video.youtube/play/?video_id=A3MkYKFeE2o
 
 #EXTINF:-1,AQUARiUM - UltraHD 4K 
@@ -77,7 +50,7 @@ plugin://plugin.video.youtube/play/?video_id=Kw7B1b6YEqY
 #EXTINF:-1,Trails End - 4K Ultra HD 
 plugin://plugin.video.youtube/play/?video_id=h4K-2LcVPWk
 
-#EXTINF:-1,Der beste Garten in 4K – Schmetterlinge, Vögel und Blumen
+#EXTINF:-1,Der beste Garten in 4K â€“ Schmetterlinge, VÃ¶gel und Blumen
 plugin://plugin.video.youtube/play/?video_id=JtVd7q25FDA
 
 #EXTINF:-1,Calming Music: Nature Sounds, Zen Music
@@ -94,7 +67,3 @@ plugin://plugin.video.youtube/play/?video_id=-1izmrnJ_78
 
 #EXTINF:-1,Breathtaking Colors of Nature in 4K 
 plugin://plugin.video.youtube/play/?video_id=rN6nlNC9WQA
-
-
-
-
