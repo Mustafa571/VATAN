@@ -8,6 +8,12 @@ plugin://plugin.video.youtube/play/?video_id=-2FKlfUyAQ8
 #EXTINF:-1,Incredible Turkey in 4K (Ultra HD)
 plugin://plugin.video.youtube/play/?video_id=52zmpRT5RFg
 
+#EXTINF:-1,Şömine ve Kar Yağışı Eşliğinde TÜRK SANAT MÜZİĞİ
+plugin://plugin.video.youtube/play/?video_id=TanDwucNchE
+
+#EXTINF:-1,Şömine eşliğinde Kanun ve Ud
+plugin://plugin.video.youtube/play/?video_id=moNsFV-ufXI
+
 #EXTINF:-1,NASA | 4K Video: Thermonuclear Art
 plugin://plugin.video.youtube/play/?video_id=omlXSRvb1Wo
 
