@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Türkçe Pop Muzik | Kis Özel | 2016/2017 
+plugin://plugin.video.youtube/play/?video_id=QUdVtb7HIYU
+#EXTINF:-1,Koray Avci - Sonra Dersin Ki
+plugin://plugin.video.youtube/play/?video_id=jfyvmYKUtqA
+============ iLAHiLER FULL =========================
+#EXTINF:-1,HASAN DURSUN-KARISIK ILAHILERI FULL
+http://proxy-041.dc3.dailymotion.com/sec(b19da9cd6a5ab81b8dc8bd43c86ee761)/video/790/700/149007097_mp4_h264_aac_hq.m3u8
+#EXTINF:-1,ABDURRAHMAN ÖNÜL-ASK BAHÇESI-2017
+plugin://plugin.video.youtube/play/?video_id=r9IbTBbf-E8
+#EXTINF:-1,Mustafa Ceceli 2016 Full Album Ilahiler
+plugin://plugin.video.youtube/play/?video_id=uAIY72G2gXg
+#EXTINF:-1,Sedat Uçan-Müsaden Var Mi Full Albüm
+plugin://plugin.video.youtube/play/?video_id=LZLwU91d99Q
+#EXTINF:-1,Mustafa Dursun-Derdime Derman Full Album
+plugin://plugin.video.youtube/play/?video_id=jNe5cbnjwUQ
+============ DiNi Radyolar =========================
+#EXTINF:-1,MedineFM Radyo
+http://radyomuz.medinefm.net:9786/;
+
+
+
+
+
+
+
+
