@@ -12,3 +12,4 @@
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
+. * http://repo.turkvod.me/repository.turkvod/repository.turkvod-2.2.1.zip
