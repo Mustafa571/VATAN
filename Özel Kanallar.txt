@@ -1,7 +1,7 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR aqua]SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Sp.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
-=[B][COLOR lime]YEDEK YAYINLAR-ULUSAL[/B][/COLOR] * http://www.yilmaztv.com/1.m3u
+=[B][COLOR lime]ALMAN YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Yalman.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/clip-liste.m3u
 =[COLOR lime]HAKKINI HELAL ET - Film[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/HakkiniHelalEt.m3u
@@ -12,4 +12,3 @@
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
-
