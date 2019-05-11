@@ -4,16 +4,14 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,2-KANAL D
 http://185102219109.dogannet.tv/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,3-KANAL D
-https://soledge4.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8?
-#EXTINF:-1,4-KANAL D
 http://ift.tt/1IEGgLR
-#EXTINF:-1,5-KANAL D
+#EXTINF:-1,4-KANAL D
 http://188.138.9.246/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,6-KANAL D
+#EXTINF:-1,5-KANAL D
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,7-KANAL D
+#EXTINF:-1,6-KANAL D
 http://2122248083.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:-1,8-KANAL D 
+#EXTINF:-1,7-KANAL D 
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1,9-KANAL D
+#EXTINF:-1,8-KANAL D
 http://185.118.50.219/TR-kanald/index.m3u8
