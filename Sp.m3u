@@ -5,7 +5,3 @@ http://185.118.50.219/TR-tivibuspor/index.m3u8
 http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,iDMAN TV Azerbaijan
 http://185.118.50.219/AZ-idman/index.m3u8
-#EXTINF:-1,1-SUPERLIG TV 
-http://46.105.233.106:6060/superlig.ts
-#EXTINF:-1,2-SUPERLIG TV 
-http://46.105.233.106:6060/hls/superlig/playlist.m3u8
