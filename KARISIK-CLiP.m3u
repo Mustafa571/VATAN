@@ -5,6 +5,8 @@ plugin://plugin.video.youtube/play/?video_id=jcWmC1oa4KQ
 plugin://plugin.video.youtube/play/?video_id=IYnu4-69fTA
 #EXTINF:-1,Azeri Günel & Tunar - La ilahe illallah
 plugin://plugin.video.youtube/play/?video_id=pytskmZWqGQ
+#EXTINF:-1,Koray Avci - Sonra Dersin Ki
+plugin://plugin.video.youtube/play/?video_id=jfyvmYKUtqA
 #EXTINF:-1,Ismail YK - Geber Hain
 http://proxy-061.dc3.dailymotion.com/sec(b9c712654a9691a1c7a7c987477f318e)/video/638/393/316393836_mp4_h264_aac_hd_1.m3u8
 #EXTINF:-1,Elif Kaya - Tövbe Tövbe
