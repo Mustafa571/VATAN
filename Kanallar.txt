@@ -3,6 +3,8 @@
 ==================================================.*.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 ATV * http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+ATV AVRUPA * http://trkvz-m.ercdn.net/atvavrupa/atvavrupa.m3u8
+A2 TV * http://trkvz-m.ercdn.net/a2tv/a2tv.m3u8
 AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 ASTV BURSA * http://yayin3.canlitv.com:1935/canlitv/astv/chunklist.m3u8
 1-BRT 1 * rtmp://wms.brtk.net:1935/live/BRTHD
@@ -46,6 +48,7 @@ EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 1-SEMERKAND * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
+teve2 HD * http://live.netd.com.tr/S1/HLS_LIVE/tv2/1500/prog_index.m3u8
 1-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
 2-TGRT BELGESEL * http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 1-TGRT HABER * http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
