@@ -1,6 +1,7 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
 =[COLOR aqua]SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Sp.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
+=[B][COLOR blue]HiNT FILMLERi ALMANCA[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/Hint.m3u
 =[B][COLOR lime]ALMAN YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Yalman.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/clip-liste.m3u
