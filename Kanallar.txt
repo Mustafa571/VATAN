@@ -60,6 +60,7 @@ MAVIKARADENIZ * http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w3734330
 RADYO SPOR * rtmp://37.247.100.100/radyospor//sporcam
 STAR TV * http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+SHOWTV * http://streams.livetv.az/turk/showtv/playlist.m3u8
 1-SEMERKAND * http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 2-SEMERKAND * http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
 TARIM TV * http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
