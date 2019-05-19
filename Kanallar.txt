@@ -25,14 +25,17 @@ BURSA TV * rtmp://win1.yayin.com.tr/bursatv/bursatv
 CAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 ÇiFTÇi TV * rtmp://stream.taksimbilisim.com/ciftcitv/bant1
 KANAL D HD * https://raw.githubusercontent.com/Mustafa571/VATAN/master/KanalD.m3u
+DMAX TÜRK * https://jviqfbc2.rocketcdn.com/dmax.stream_720p/chunklist.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 DREAM TV * http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 DREAM TÜRK * http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 DÜGÜN TV * rtmp://62.113.210.6/televizyon-live//DugunTv
 ETV MANISA* http://broadcasttr.com:1935/manisaetv/bant1/playlist.m3u8
 ELMAS TV Zonguldak * https://59cba4d34b678.streamlock.net/canlitv/elmastv/chunklist.m3u8
-FRM TV * https://5abf72a55aa57.streamlock.net/live/myStream/playlist.m3u8
+1-FRM TV * https://5abf72a55aa57.streamlock.net/live/myStream/playlist.m3u8
+2-FRM TV * http://185.50.68.221:1935/live/myStream/chunklist_w362955688.m3u8
 FANATiK TV * http://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/chunklist_b996000.m3u8
+FORTUNA TV * http://1.rtmp.org:80/tv117/yayin.stream/playlist.m3u8
 GÜNEYDOGU TV-Sanliurfa- * http://stream2.taksimbilisim.com:1935/gtv/bant1/GuneydoguTV.m3u8
 HABER 61 TV * http://win8.yayinda.org:1935/haber61tv/haber61tv/playlist.m3u8
 iÇEL TV * rtmp://stream.taksimbilisim.com/iceltv/bant1
