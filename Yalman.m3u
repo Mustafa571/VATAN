@@ -153,7 +153,7 @@ http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/
 http://62.113.210.250/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #
 #EXTINF:-1,Servus TV
-https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_3392.m3u8
 #
 #EXTINF:-1,OKTO TV
 https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
