@@ -1,4 +1,47 @@
 #EXTM3U #####Alman Kanalları#####
+
+#EXTINF:-1,SuperRTL
+http://62.210.81.11:8484/hls/superq.m3u8
+#
+#EXTINF:-1,RTL
+http://62.210.81.11:8484/hls/rtlq.m3u8
+#
+#EXTINF:-1,RTL2
+http://62.210.81.11:8484/hls/rtl2q.m3u8
+#
+#EXTINF:-1,RTLNitro
+http://62.210.81.11:8484/hls/nitroq.m3u8
+#
+#EXTINF:-1,NTV
+http://62.210.81.11:8484/hls/ntvq.m3u8
+#
+#EXTINF:-1,PRO7
+http://51.159.3.34/r1/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,KABEL1
+http://51.159.3.34/r5/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,DOKU
+http://51.159.3.34/r8/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,SAT1
+http://51.159.3.34/r6/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,DMAX
+http://51.159.3.34/r4/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,PRO7 MAX
+http://51.159.3.34/r2/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,SAT1 GOLD
+http://51.159.3.34/r9/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,TELE5
+http://51.159.3.34/r3/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#
+#EXTINF:-1,SIXX
+http://51.159.3.34/r7/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
+#-----------------------------------------------------------------------------------------------------
 #EXTINF:-1,Sky Sport News HD
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
 #
