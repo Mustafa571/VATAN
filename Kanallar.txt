@@ -83,4 +83,4 @@ UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 YENI MALATYA SPOR  * http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 ZiRAAT TV * http://5.44.154.210/cdn/540ea58191866/playlist.m3u8
-.* https://slave7x.hdfilme.org/drive//hls/93adea8f2639bf1d62147a9ccb3c0c68/93adea8f2639bf1d62147a9ccb3c0c68.m3u8
+
