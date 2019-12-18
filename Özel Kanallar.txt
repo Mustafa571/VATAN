@@ -3,6 +3,7 @@
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR blue]HiNT FILMLERi ALMANCA[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/Hint.m3u
 =[B][COLOR lime]ALMAN YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Yalman.m3u
+=[B][COLOR lime]YEDEK ALMAN YAYINLAR[/B][/COLOR] * http://www.yilmaztv.com/2.m3u
 =[COLOR violet]KARIŞIK YABANCI[/COLOR]=iZLE *https://raw.githubusercontent.com/Mustafa571/VATAN/master/KARISIK%20YABANCI.m3u 
 =[COLOR yellow]İLAHİLER VE KARIŞIK CLİPLER[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/clip-liste.m3u
 =[COLOR lime]HAKKINI HELAL ET - Film[/COLOR]= * https://raw.githubusercontent.com/Mustafa571/VATAN/master/HakkiniHelalEt.m3u
