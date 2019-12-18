@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",BEiN SPOR 1 HD
-http://afatmus.xyz:6464/live/live:dreambox2011/00KpnuWZOP/1153.ts
+https://sport7.biz/lba/123/g5/beinsport1tur.m3u8
 
 #EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/trt1h.png",TRT 1 HD
 http://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/chunklist_b1064000_sltur.m3u8
