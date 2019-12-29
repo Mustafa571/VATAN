@@ -14,7 +14,4 @@
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
-DUMBO Film * https://slave7x.hdfilme.org/drive//hls/93adea8f2639bf1d62147a9ccb3c0c68/93adea8f2639bf1d62147a9ccb3c0c68.m3u8
-ALITA * https://slave4x.hdfilme.org/drive//hls/97aeb7b0274180d184a4f5f3e128c730/97aeb7b0274180d184a4f5f3e128c730.m3u8
-TV Mobile * https://github.com/Mustafa571/VATAN/blob/master/TV%20Mobil-yunusgames.tvmobil-2-v1.1.apk?raw=true
-TV Mobile * https://github.com/Mustafa571/VATAN/raw/master/TV%20Mobil-yunusgames.tvmobil-2-v1.1.apk
+The Call * https://www1054.hlsmp4.com/token=8ld1HNiB6nDe07dpk8vUTg/1577660782/188.194.0.0/11/7/7c/3dbf84a49e81a0c29d9f3f6e87b1f7c7-480p.mp4
