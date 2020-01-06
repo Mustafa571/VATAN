@@ -1,0 +1,168 @@
+﻿
+#EXTM3U
+#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.ozbeceriksizler.net/customprofilepics/profilepic488_2.gif",Â® TÃ¼rkTV. ÃœÃ‡RETSIZ Kaliteli Yayinlar. 
+http://isiktv.square7.ch/iptv/TurkTV.m3u
+
+#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",BeiN SPOR 1 HD
+https://sport7.biz/lba/123/g5/beinsport1tur.m3u8
+
+#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/trt1h.png",TRT 1 HD
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720pp_av-b.m3u8
+
+#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-ID="ATV.tr" tvg-logo="http://isiktv.square7.ch/iptv/atvh.png",ATV HD
+https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/chunklist.m3u8
+
+#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-ID="KanalD.tr" tvg-logo="http://isiktv.square7.ch/iptv/Kd.png",KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="ShowTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/show.png",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="Fox.tr" tvg-logo="http://isiktv.square7.ch/iptv/fox.png,FoX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="Start.tr" tvg-logo="http://isiktv.square7.ch/iptv/Star.png",STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TV8.tr" tvg-logo="http://isiktv.square7.ch/iptv/tv8.png",TV 8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/tv85.png",TV 8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TRTSPOR.tr" tvg-logo="http://isiktv.square7.ch/iptv/trts.png",TRT SPOR HD
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/ntvs.png",NTV Spor HD
+http://46.105.233.106:8005/hls/ntvspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/as.png",A SPOR HD
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TRTHaberHD.tr" tvg-logo="http://isiktv.square7.ch/iptv/trth.jpg",TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/trttu.png",TRT TÃœRK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/trtav.png",TRT AVAZ HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_720p_av-b.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TRTCocuk.tr" tvg-logo="http://isiktv.square7.ch/iptv/trtc.png",TRT Ã‡OCUK HD
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/K7.png",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/_B.png",BEYAZ TV HD
+http://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/24.png",24TV HD
+http://blutv-beta.akamaized.net/24hd/24hd.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/360.png",360tv HD
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b564000.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="CNNTURK.tr" tvg-logo="http://isiktv.square7.ch/iptv/cnn.png",CNN TÃœRK HD
+http://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/ntv.png",NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/tgrt.png",TGRT HABER HD
+http://blutv-beta.akamaized.net/tgrthaber/tgrthaber.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="AHaber.tr" tvg-logo="http://isiktv.square7.ch/iptv/ah.png",A HABER HD
+http://blutv-beta.akamaized.net/ahaber/ahaber.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/ap.png",A PARA HD
+http://blutv-beta.akamaized.net/apara/apara.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/ht.png",HABER TÃœRK HD
+http://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/_h.png",HALK TV HD
+http://blutv-beta.akamaized.net/halktv/halktv.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/_Brtv.png",BRTV KARABÃœK
+http://yerelmedya.tv:1935/brtv/bant1/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/a2.png",A2 HD
+http://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TLC.tr" tvg-logo="http://isiktv.square7.ch/iptv/tlc.png",TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Bht.png",BLOOMBERG HD
+http://blutv-beta.akamaized.net/bloomberghd/bloomberghd.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Uk.jpg",UÃ‡ANKUÅž TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+#EXTINF:-1 tvg-id="TV2.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/T2.png",TEVE 2 HD
+http://blutv-beta.akamaized.net/teve2hd/teve2hd.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/dmax.png",D'MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/C.jpg",KANAL 19 (Ã‡orum TV)
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/43.png",KANAL 43 (KÃ¼tahya TV)
+http://yayin3.canlitv.com:1935/canlitv/kanal43/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/68.jpg",KANAL 68 (Aksaray TV)
+http://yerelmedya.tv:1935/kanal68/_definst_/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/58.jpg",Visyon 58
+http://waw1.artiyerelmedya.net:1935/vizyon58/bant1/chunklist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Ma.jpg",Kanal Malatya
+https://5ab9557ae2fa9.streamlock.net/kanalmalatya_live/kanal_malatya/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Tt.jpg",Trakya TÃ¼rk
+http://live.arkumedia.com:1935/trakyaturktv/trakyaturktv/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+",TV A
+http://broadcasttr.com:1935/tva/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/tyt.jpg",TYT TÃ¼rk
+https://1137653189.rsc.cdn77.org/LS-PRG-62266-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/t9.png",TV9'izmir
+https://59cba4d34b678.streamlock.net/canlitv/tv9izmir/playlist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Mb.jpg",Manisa TV
+http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+"tvg-logo="http://isiktv.square7.ch/iptv/mk.png",MAVIKARADENIZ
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/Sk.png",SEMERKAND TV
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/ipradyotvdelisi.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/156.png",MEDINE TV
+http://live38.netmedya.net/hls/medinetv.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/153.png",LALEGÃœL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-ID="TRTMuzik.tr" tvg-logo="http://isiktv.square7.ch/iptv/trtm.png",TRT MÃœZIK HD
+http://blutv-beta.akamaized.net/trtmuzik/trtmuzik.smil/chunklist_b1096000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/182.png",DREAM'TÃœRK HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/75.png",POWER HD
+http://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="PowerTVTurk.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/74.png",POWER' TÃœRK HD
+http://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/73.png",KRAL' WORLD HD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
+
+#EXTINF:-1 tvg-id="KralPop.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.canlitvizle.kim/uploads/stream_images/69.png",KRAL' POP HD
+http://bqgsd19q.rocketcdn.com/kralpop.smil/chunklist_b814000.m3u8
+
+#EXTINF:-1 tvg-id="KralTV.tr" group-title="(1) TR KANALLAR HD+" tvg-logo="http://isiktv.square7.ch/iptv/kr.png",KRAL'TV HD
+http://mid5dg6m.rocketcdn.com/kraltv.smil/chunklist_b814000.m3u8
