@@ -1,7 +1,5 @@
 ﻿
 #EXTM3U
-#EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-logo="http://www.ozbeceriksizler.net/customprofilepics/profilepic488_2.gif",Â® TÃ¼rkTV. ÃœÃ‡RETSIZ Kaliteli Yayinlar. 
-http://isiktv.square7.ch/iptv/TurkTV.m3u
 
 #EXTINF: -1 group-title="(1) TR KANALLAR HD+" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",BeiN SPOR 1 HD
 https://sport7.biz/lba/123/g5/beinsport1tur.m3u8
