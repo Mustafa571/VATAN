@@ -14,4 +14,4 @@
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 =[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
-The Call * https://www1054.hlsmp4.com/token=8ld1HNiB6nDe07dpk8vUTg/1577660782/188.194.0.0/11/7/7c/3dbf84a49e81a0c29d9f3f6e87b1f7c7-480p.mp4
+. * https://github.com/Mustafa571/VATAN/raw/master/TV%20Mobil-yunusgames.tvmobil-2-v1.1.apk
