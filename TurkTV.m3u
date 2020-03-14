@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF: -1 group-title="HD+ KANALLAR - TürkTV" tvg-logo="http://www.ozbeceriksizler.net/customprofilepics/profilepic488_2.gif",®TürkTV *Ücretsiz Yayinlar
-http://isiktv.square7.ch/iptv/TurkTV.m3u8
 
 #EXTINF: -1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 1  HD
 http://exchange.mixbox.tv:25461/mM1Ixb8AL/xqxJ5HmxKz/341
