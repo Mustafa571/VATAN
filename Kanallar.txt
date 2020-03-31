@@ -1,5 +1,6 @@
 =[B][COLOR red]KANALLARIN AÇILMASI UZUN SÜREBİLİR.[/B][/COLOR]= *.m3u
 [I][COLOR orange]iPTV Paket-Bilgi !!![/I][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Duyurular1.m3u
+[B][COLOR aqua]CORONA LIVE[/B][/COLOR] * plugin://plugin.video.youtube/play/?video_id=qgylp3Td1Bw
 ==================================================.*.m3u
 [B][COLOR yellow]YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
