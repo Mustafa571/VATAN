@@ -1,5 +1,4 @@
 =[COLOR red]Açılması biraz uzun sürebilir[/COLOR]= *.m3u
-=[COLOR aqua]SPOR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Sp.m3u
 =[COLOR orange]DiNLENDiRiCi ViDEOLAR[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/DiNLENDiRiCi%20ViDEOLAR.m3u
 =[B][COLOR blue]HiNT FILMLERi ALMANCA[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/Hint.m3u
 =[B][COLOR lime]ALMAN YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Yalman.m3u
@@ -13,5 +12,3 @@
 =[COLOR blue]KUR`AN MUKABELE 1-30 CÜZ[/COLOR]=Güncellendi * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Mukabele.m3u
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
-=[COLOR orange]RUSYA KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Russia.m3u
-. * https://github.com/Mustafa571/VATAN/raw/master/TV%20Mobil-yunusgames.tvmobil-2-v1.1.apk
