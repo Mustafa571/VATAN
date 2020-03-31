@@ -1,202 +1,202 @@
 #EXTM3U
 
-#EXTINF: -1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 1  HD
+#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 1  HD
 http://exchange.mixbox.tv:25461/mM1Ixb8AL/xqxJ5HmxKz/341
 
-#EXTINF: -1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="LIGTV2.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 2  HD
+#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="LIGTV2.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 2  HD
 http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
 
-#EXTINF: -1 group-title="HD+ KANALLAR - TürkTV",TRT 1 HD
+#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT 1 HD
 http://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="ATV.tr",ATV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="ATV.tr",ATV HD
 http://84.22.33.254/unicast.atv/index.m3u8
 
-#EXTINF: -1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="KanalD.tr",KANAL D HD
+#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="KanalD.tr",KANAL D HD
 http://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="ShowTV.tr",SHOW TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="ShowTV.tr",SHOW TV HD
 http://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="Fox.tr",FoX TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="Fox.tr",FoX TV HD
 http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-logo="http://isiktv.square7.ch/iptv/star.png" tvg-ID="Start.tr",STAR TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-logo="http://isiktv.square7.ch/iptv/star.png" tvg-ID="Start.tr",STAR TV HD
 http://84.22.33.254/unicast.startvturk/index.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-logo="http://isiktv.square7.ch/iptv/tv8.png" tvg-ID="TV8.tr",TV 8 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-logo="http://isiktv.square7.ch/iptv/tv8.png" tvg-ID="TV8.tr",TV 8 HD
 http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="TV8.tr",TV8 int HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="TV8.tr",TV8 int HD
 http://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TV 8.5 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TV 8.5 HD
 http://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="AHaber.tr",A HABER HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="AHaber.tr",A HABER HD
 http://iptvmasterlink.dyndns.org:8080/Entry/ahaberhd_yeni/index.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TELE 1 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TELE 1 HD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="TRTHaberHD.tr",TRT HABER HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="TRTHaberHD.tr",TRT HABER HD
 http://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TRT TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT TÃœRK HD
 http://mn-nl.mncdn.com/blutv_trtturk/trtturk_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TRT WORLD HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT WORLD HD
 http://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="TRTCocuk.tr",TRT ÇOCUK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="TRTCocuk.tr",TRT Ã‡OCUK HD
 http://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",Cartoon Network Türkiye
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",Cartoon Network TÃ¼rkiye
 http://streams2.livetv.az/turk/cartoon/chunks.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TRT AVAZ HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT AVAZ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_720p_av-b.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",EKOTÜRK
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",EKOTÃœRK
 http://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="CNNTURK.tr",CNN TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="CNNTURK.tr",CNN TÃœRK HD
 http://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",HABER TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",HABER TÃœRK HD
 http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",HABER GLOBAL HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",HABER GLOBAL HD
 http://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",NTV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",NTV HD
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",NTV SPOR HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",NTV SPOR HD
 http://46.105.233.106:8005/hls/ntvspor/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="ASpor.tr",A SPOR HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="ASpor.tr",A SPOR HD
 http://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="Kanal7.tr",KANAL 7 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="Kanal7.tr",KANAL 7 HD
 http://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="BEYAZTV.tr,BEYAZ TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="BEYAZTV.tr,BEYAZ TV HD
 http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",24TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",24TV HD
 http://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",360 TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",360 TV HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TGRT HABER HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TGRT HABER HD
 http://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",A PARA HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",A PARA HD
 http://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",GS TV Galatasaray
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",GS TV Galatasaray
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",AKIT TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",AKIT TV HD
 http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",HALK TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",HALK TV HD
 http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",CAN TV 
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",CAN TV 
 http://canbroadcast.com:7000/canlican/tv.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",HABER 61 TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",HABER 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",BRTV KARABÜK
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",BRTV KARABÃœK
 http://yerelmedya.tv:1935/brtv/bant1/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="A2.tr",A2 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="A2.tr",A2 HD
 http://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TLC HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TLC HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",BLOOMBERG HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",BLOOMBERG HD
 http://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="TV2.tr",TEVE 2 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="TV2.tr",TEVE 2 HD
 http://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",FX HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",FX HD
 http://mn-nl.mncdn.com/blutv_fx/fx_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",D'MAX
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",D'MAX
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",UÇANKUŞ TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",UÃ‡ANKUÅž TV
 http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",YANSINEMA TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",YANSINEMA TV
 http://usb1.ninacdn.com/ssh101/YansinemaTV/YansinemaTV/chunklist_w1521989757.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",LEBLEBI TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",LEBLEBI TV
 http://win1.yayin.com.tr/LeblebiTv/LeblebiTV/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",SEMERKAND TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",SEMERKAND TV
 http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",LALEGÜL TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",LALEGÃœL TV HD
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",DIYANET TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",DIYANET TV
 http://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",YABAN TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",YABAN TV
 http://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",VUSLAT TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",VUSLAT TV
 http://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",KANAL 43
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",KANAL 43
 http://yayin3.canlitv.com:1935/canlitv/kanal43/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",KANAL 68
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",KANAL 68
 http://yerelmedya.tv:1935/kanal68/_definst_/bant1/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",Trakya Türk
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",Trakya TÃ¼rk
 http://live.arkumedia.com:1935/trakyaturktv/trakyaturktv/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TYT Türk
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TYT TÃ¼rk
 http://1137653189.rsc.cdn77.org/LS-PRG-62266-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",TJK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",TJK HD
 http://mn-nl.mncdn.com/blutv_tjktv/tjktv_sd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",Manisa TV
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",Manisa TV
 http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",MAVIKARADENIZ
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",MAVIKARADENIZ
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",NR1 HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",NR1 HD
 http://mn-nl.mncdn.com/blutv_nr1tv/nr1tv_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV",NR1 TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV",NR1 TÃœRK HD
 http://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-ID="TRTMuzik.tr",TRT MÜZIK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="TRTMuzik.tr",TRT MÃœZIK HD
 http://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="DreamTurk.tr",DREAM TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="DreamTurk.tr",DREAM TÃœRK HD
 http://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="PowerTV.tr",POWER TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="PowerTV.tr",POWER TV HD
 http://mn-nl.mncdn.com/blutv_power/smil:power_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="PowerTVTurk.tr",POWER TÜRK HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="PowerTVTurk.tr",POWER TÃœRK HD
 http://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_hd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="KralPop.tr",KRAL POP HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="KralPop.tr",KRAL POP HD
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TürkTV" tvg-id="KralTV.tr",KRAL TV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="KralTV.tr",KRAL TV HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
