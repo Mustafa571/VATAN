@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,1-TIVIBU SPOR 
-http://185.118.50.219/TR-tivibuspor/index.m3u8
-#EXTINF:-1,2-TIVIBU SPOR
-http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,iDMAN TV Azerbaijan
-http://185.118.50.219/AZ-idman/index.m3u8
