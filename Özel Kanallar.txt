@@ -13,3 +13,5 @@
 =[COLOR blue]ALMAN KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Alman.m3u
 =[COLOR violet]AZERİ KANALLARI[/COLOR]=iZLE * https://raw.githubusercontent.com/Mustafa571/VATAN/master/Azeri.m3u
 .* https://www960.o0-2.com/token=oG076JxKZ46-YFJuwVF3Ow/1586297218/188.194.0.0/86/3/26/3b78396e62a9791b07762ec2cdf31263-360p.mp4
+.* https://www1564.o0-4.com/token=ICr7jHkzzCZPLeTuaSxCJQ/1586297496/188.194.0.0/86/3/26/3b78396e62a9791b07762ec2cdf31263-360p.mp4
+.* https://www1567.o0-4.com/token=eezfe1mS2qsfBMTX9VPHcg/1586297543/188.194.0.0/86/3/26/3b78396e62a9791b07762ec2cdf31263-360p.mp4
