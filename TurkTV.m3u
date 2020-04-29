@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="LIGTV.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 1  HD
-http://exchange.mixbox.tv:25461/mM1Ixb8AL/xqxJ5HmxKz/341
-
-#EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="LIGTV2.tr" tvg-logo="http://isiktv.square7.ch/iptv/Bein.png",TR : BeIN Sports 2  HD
-http://yayin12.bunusanasoracagim.best:80/selcuksportsfutbol/bein22222/playlist.m3u8
-
 #EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT 1 HD
 http://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
 
