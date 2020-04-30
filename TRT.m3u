@@ -1,8 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1,TRT1 
+#EXTINF:-1,TRT1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 1 yedek1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
-#EXTINF:-1,TRT 1 yedek
+#EXTINF:-1,TRT 1 yedek2
 http://185.118.50.219/TR-trt1/index.m3u8
 #EXTINF:0,TRT 2
 https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
