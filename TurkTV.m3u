@@ -16,7 +16,7 @@ http://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-logo="http://isiktv.square7.ch/iptv/star.png" tvg-ID="Start.tr",STAR TV HD
-http://84.22.33.254/unicast.startvturk/index.m3u8
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-logo="http://isiktv.square7.ch/iptv/tv8.png" tvg-ID="TV8.tr",TV 8 HD
 http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
@@ -194,3 +194,4 @@ http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 
 #EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-id="KralTV.tr",KRAL TV HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
