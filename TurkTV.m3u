@@ -3,8 +3,11 @@
 #EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV",TRT 1 HD
 http://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="ATV.tr",ATV HD
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="ATV.tr",ATV HD+
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+
+#EXTINF:-1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="ATV.tr",ATV HD
+http:l/tv.kuzeytv.com/hls/atv.m3u8
 
 #EXTINF: -1 group-title="HD+ KANALLAR - TÃ¼rkTV" tvg-ID="KanalD.tr",KANAL D HD
 http://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
