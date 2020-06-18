@@ -1,8 +1,8 @@
 
 ==================================================.*.m3u
-[B][COLOR yellow]1-YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
-[B][COLOR aqua]2-YEDEK YAYINLAR[/B][/COLOR] * https://www.dropbox.com/s/ritvae1gi27azxv/Test.m3u?dl=1
+[B][COLOR yellow]YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
+ATV HD * http://94.46.195.170:9000/atv/live.m3u8
 1-AKiT HD * http://akittv-live.ercdn.net/akittv/akittv.m3u8
 2-AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 ASTV BURSA * http://yayin3.canlitv.com:1935/canlitv/astv/chunklist.m3u8
