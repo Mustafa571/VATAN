@@ -1,4 +1,4 @@
-[B][COLOR aqua]CORONA CANLI[/B][/COLOR] * plugin://plugin.video.youtube/play/?video_id=OV88-JERlHk
+[B][COLOR aqua].[/B][/COLOR] * http://isiktv.square7.ch/iptv/TurkTV.m3u
 ==================================================.*.m3u
 [B][COLOR yellow]YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
 BEIN 1 * http://mdscdn.com/vv/bein-sport-1.m3u8
