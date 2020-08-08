@@ -51,4 +51,4 @@ TJK TAY TV * http://tjktv.ercdn.net/tjktv_576p.m3u8
 UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 YENI MALATYA SPOR  * http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
-Test * http://o89.bplaced.net/TurkTV.m3u
+
