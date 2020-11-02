@@ -2,7 +2,7 @@
 ==================================================.*.m3u
 [B][COLOR yellow]YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
 TRT Yayınları Komple * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
-ATV HD * http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+ATV HD * http://185.198.198.67:8000/play/a015
 1-AKiT HD * http://akittv-live.ercdn.net/akittv/akittv.m3u8
 2-AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 ASTV BURSA * http://yayin3.canlitv.com:1935/canlitv/astv/chunklist.m3u8
