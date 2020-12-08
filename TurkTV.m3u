@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/bs1.png" tvg-ID="LIGTV.tr",TR: bein Sport 1 Mobil
-https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8
-
 #EXTINF:-1 group-title="TR - Kanallar" tvg-ID="ATV.tr",ATV [HD]
 http://ch.canlitvlive.io/atv/live.m3u8
 
