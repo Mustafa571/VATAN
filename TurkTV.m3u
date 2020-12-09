@@ -1,15 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TR - Kanallar" tvg-ID="ATV.tr",ATV [HD]
-http://ch.canlitvlive.io/atv/live.m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-izlemek&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/star.png" tvg-ID="Start.tr",STAR TV [HD]
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/show.png" tvg-ID="ShowTV.tr",SHOW TV [HD]
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/star.png" tvg-ID="Start.tr",STAR TV [HD]
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF: -1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/kanald.png" tvg-ID="KanalD.tr",KANAL D [HD]
@@ -24,6 +23,10 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/b.png" tvg-id="BEYAZTV.tr,BEYAZ TV [HD]
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/tv8.png" tvg-ID="TV8.tr",TV 8 [HD]
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 
@@ -33,74 +36,106 @@ https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/24.png" tvg-ID="24.tr",24TV [HD]
-https://canli.ensonhaber.com/tr/24tv/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ahaber.png" tvg-ID="AHaber.tr",A HABER [HD]
-http://ch.canlitvlive.io/ahaber/live.m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=a-haber-izle-13&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar",EGE TV [HD]
-https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar",YABAN TV [HD]
-https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar",ÃœLKE TV [HD]
+#EXTINF:-1 group-title="TR - Kanallar",ÜLKE TV [HD]
 https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar",TV100 [HD]
-http://ch.canlitvlive.io/tv100/live.m3u8
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/tvnet.png" tvg-ID="TVNet.tr",TV NET [HD]
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/tvnet.png" tvg-ID="TVNet.tr",TV NET [HD]
-http://ch.canlitvlive.io/tvnet/live.m3u8
+#EXTINF:-1 group-title="TR - Kanallar",TV 100 [HD]
+https://www.yilmaztv.com/oz/oz.php?channel=tv100&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",BENGÜTÜRK [HD]
+https://www.yilmaztv.com/oz/oz.php?channel=benguturk-tv&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",ULUSAL KANAL [HD]
+https://www.yilmaztv.com/oz/oz.php?channel=ulusal-kanal&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/360.png" tvg-ID="360.tr",360 TV [HD]
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+https://canli.ensonhaber.com/tr/360tv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/cnn.png" tvg-ID="CNNTURK.tr",CNN TÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar",BEIN SPORTS HABER [HD]
+https://www.yilmaztv.com/oz/oz.php?channel=bein-sports-haber&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/cnn.png" tvg-ID="CNNTURK.tr",CNN TÜRK [HD]
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ht.png",HABER TÃœRK [HD]
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ht.png",HABER TÜRK [HD]
+https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/hg.png",HABER GLOBAL [HD]
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ntv.png" tvg-ID="NTV.tr",NTV [HD]
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
+http://api.ntv.com.tr/rss/LiveStream
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trth.png" tvg-ID="TRTHaberHD.tr",TRT HABER [HD]
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/chunklist_b2064000.m3u8
+https://tv-trthaber.live.trt.com.tr/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtt.png",TRT TÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtt.png",TRT TÜRK [HD]
 https://tv-trtturk.live.trt.com.tr/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtc.png" tvg-ID="TRTCocuk.tr",TRT Ã‡OCUK [HD]
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtc.png" tvg-ID="TRTCocuk.tr",TRT ÇOCUK [HD]
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",CARTOON NETWORK
+https://www.yilmaztv.com/oz/oz.php?channel=cartoon-network&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",MINIKA COCUK
+https://www.yilmaztv.com/oz/oz.php?channel=minika-cocuk-16&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",MINIKA GO
+https://www.yilmaztv.com/oz/oz.php?channel=minika-go-9&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",BENGÜ TÜRK [HD]
+https://canli.ensonhaber.com/tr/benguturk/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtb.png",TRT BELGESEL [HD]
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/v.png",VUSLAT TV [HD]
-https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="TR - Kanallar",TGRT BELGESEL [HD]
+https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/et.png",EKOTÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar",VATAN TV
+http://iptvmasterlink.dyndns.org:5566/Entry/vatantv_yeni.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",YABAN TV [HD]
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/v.png",VUSLAT TV [HD]
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/chunklist_b2064000.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/et.png",EKOTÜRK [HD]
 https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -112,12 +147,8 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/b.png" tvg-id="BEYAZTV.tr,BEYAZ TV [HD]
-https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/tgr.png" ,TGRT HABER [HD]
-https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+https://canli.ensonhaber.com/tr/tgrthaber/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ap.png",A PARA [HD]
@@ -125,7 +156,7 @@ https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/chunklist_b1788000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ak.png" ,AKIT TV [HD]
-http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/h.png",HALK TV [HD]
@@ -133,7 +164,7 @@ https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/61.png",HABER 61 TV
-http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/a2.png" tvg-id="A2.tr",A2 [HD]
@@ -141,23 +172,23 @@ https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/dmx.png",DMAX [HD]
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/uk.png",UÃ‡ANKUÅž TV
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/uk.png",UÇANKUŞ TV
 https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/kb.png",KANAL B[HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/kb.png",KANAL B [HD]
 https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/di.png",DIYANET TV [HD]
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/ma.png",Manisa TV
-http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/mk.png",MAVIKARADENIZ
@@ -168,19 +199,15 @@ http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/nr1t.png",NR1 TÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/nr1t.png",NR1 TÜRK [HD]
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/mil.png",MILYON TV
-https://live38.netmedya.net/hls/milyontv.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtm.png" tvg-id="TRTMuzik.tr",TRT MÃœZIK [HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/trtm.png" tvg-id="TRTMuzik.tr",TRT MÜZIK [HD]
 https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/dr.png" tvg-id="DreamTurk.tr",DREAM TÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/dr.png" tvg-id="DreamTurk.tr",DREAM TÜRK [HD]
 https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -188,7 +215,7 @@ https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b206400
 https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/pot.png" tvg-id="PowerTVTurk.tr",POWER TÃœRK [HD]
+#EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/pot.png" tvg-id="PowerTVTurk.tr",POWER TÜRK [HD]
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -198,3 +225,7 @@ http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/kt.png" tvg-id="KralTV.tr",KRAL TV [HD]
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="TR - Kanallar",SLOW KARADENIZ [HD]
+http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
