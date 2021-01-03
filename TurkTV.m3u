@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TR - Kanallar" tvg-ID="ATV.tr",ATV [HD]
-https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-izlemek&stream=1&id=488&p=a97064eae8b49f90fb1f8630615a45bb&type=m3u8
+https://live.canlitvizle.kim/atv-hd/index.m3u8
 
 #EXTINF:-1 group-title="TR - Kanallar" tvg-logo="http://o89.bplaced.net/star.png" tvg-ID="Start.tr",STAR TV [HD]
 https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
