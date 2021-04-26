@@ -10,8 +10,6 @@ https://live.canlitvizle.kim/atv-hd/index.m3u8
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,2-AKiT TV 
 http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1,ASTV BURSA 
-http://yayin3.canlitv.com:1935/canlitv/astv/chunklist.m3u8
 #EXTINF:-1,AYAT  
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:-1,ALTAS TV 
@@ -20,15 +18,11 @@ http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 rtmp://wms.brtk.net:1935/live/BRTHD
 #EXTINF:-1,BRT 2 
 rtmp://wms.brtk.net/live//brt2
-#EXTINF:-1,BRT 3 
-rtmp://wms.brtk.net/live//brt1
 #EXTINF:-1,BURSA TV 
 rtmp://win1.yayin.com.tr/bursatv/bursatv
 #EXTINF:-1,1-CNN TÜRK 
-http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,2-CNN TÜRK 
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,3-CNN TÜRK 
+#EXTINF:-1,2-CNN TÜRK 
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
@@ -36,12 +30,8 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 rtmp://stream.taksimbilisim.com/ciftcitv/bant1
 #EXTINF:-1,KANAL D HD 
 https://mn-nl.mncdn.com/blutv_kanald/kanald_sd.smil/playlist.m3u8
-#EXTINF:-1,DMAX TÜRK 
-https://jviqfbc2.rocketcdn.com/dmax.stream_720p/chunklist.m3u8
 #EXTINF:-1,DENİZLİ TV 
 http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
-#EXTINF:-1,DÜGÜN TV 
-rtmp://62.113.210.6/televizyon-live//DugunTv
 #EXTINF:-1,ETV MANISA
 http://broadcasttr.com:1935/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1,FOXTV 
@@ -68,14 +58,8 @@ rtmp://stream.taksimbilisim.com/kanal33/bant1
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 #EXTINF:-1,KONYA SELCUK UNi 
 rtmp://yayin3.canlitv.com/live/untv
-#EXTINF:-1,KANAL BEN 
-http://kanalben.cubecdn.net/live/kanalben1.m3u8
-#EXTINF:-1,KANAL WOMAN TV 
-https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1,LALEGÜL TV 
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
-#EXTINF:-1,MAKiNE TV 
-rtmp://streaming.imajnetwork.com:80/makinetv/makinetv
 #EXTINF:-1,MAVIKARADENIZ 
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 #EXTINF:-1,1-NTV HD 
@@ -88,29 +72,15 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/playlist.m3u8
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,EUROSTAR 
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1,TV8 
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 #EXTINF:-1,TV8.5 
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
-#EXTINF:-1,1-TGRT BELGESEL 
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/yetmis6.m3u8
-#EXTINF:-1,2-TGRT BELGESEL 
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:-1,1-TGRT HABER 
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1,2-TGRT HABER 
-rtmp://cdn1.streamencoding.com/tgrt_haber/tgrt1
 #EXTINF:-1,TLC 
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,TV 41 
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:-1,TV 52 
 rtmp://stream.taksimbilisim.com/tv52/bant1
-#EXTINF:-1,TJK TAY TV 
-http://tjktv.ercdn.net/tjktv_576p.m3u8
 #EXTINF:-1,UÇANKUŞ TV 
 http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1,YENI MALATYA SPOR  
-http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1,YABAN TV 
 rtmp://yayin3.canlitv.com/live1/yabantv
