@@ -45,3 +45,4 @@ TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 TV 52 * rtmp://stream.taksimbilisim.com/tv52/bant1
 UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
+. * https://www70.uptostream.com/47a2f829be5/1080/0/video.mp4
