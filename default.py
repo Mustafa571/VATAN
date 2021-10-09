@@ -53,7 +53,7 @@ elif mode[0] == 'folder':
 			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelurl, listitem=li)
 		
 	elif foldername == "Maç Özetleri":
-		r = requests.get("http://tr.beinsports.com/mac-ozetleri/super-lig")
+		r = requests.get("https://beinsports.com.tr/mac-ozetleri-goller/super-lig")
 		match = re.compile('data-title=.+?(?=data-player)').findall(r.content)
 		for link in match:
 			link = link.replace('\'',"")
