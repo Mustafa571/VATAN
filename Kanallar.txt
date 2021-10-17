@@ -35,7 +35,8 @@ LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist
 MAVIKARADENIZ * http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 1-NTV HD * http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
 2-NTV HD * http://api.ntv.com.tr/rss/LiveStream
-SHOW TV * https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/playlist.m3u8
+1-SHOW TV * https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/playlist.m3u8
+2-SHOW TV * https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 STAR TV * http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 EUROSTAR * http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 TV8 * http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
