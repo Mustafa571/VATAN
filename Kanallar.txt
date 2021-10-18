@@ -1,6 +1,5 @@
 
 ==================================================.*.m3u
-[B][COLOR yellow]1-YEDEK YAYINLAR[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TurkTV.m3u
 [B][COLOR yellow]2-YEDEK YAYINLAR[/B][/COLOR] *https://raw.githubusercontent.com/itasli/TURKTV/master/index.m3u
 LiVE MEKKE * http://m.live.net.sa:1935/live/quran/playlist.m3u8
 1-AKiT HD * http://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -22,7 +21,12 @@ KONYA SELCUK UNi * rtmp://yayin3.canlitv.com/live/untv
 LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
 MAVIKARADENIZ * http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
 NTV HD * http://api.ntv.com.tr/rss/LiveStream
+TRT HABER * https://tv-trthaber.live.trt.com.tr/master.m3u8
+TRT TÜRK * https://tv-trtturk.live.trt.com.tr/master.m3u8
+TRT ÇOCUK * https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+TV NET * https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 TV 52 * rtmp://stream.taksimbilisim.com/tv52/bant1
 UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
+1-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
+2-YABAN TV * https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
