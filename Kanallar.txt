@@ -2,7 +2,6 @@
 ==================================================.*.m3u
 [B][COLOR yellow]1-YEDEK YAYINLAR[/B][/COLOR] *https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tr.m3u
 [B][COLOR yellow]2-YEDEK YAYINLAR[/B][/COLOR] *https://raw.githubusercontent.com/itasli/TURKTV/master/index.m3u
-[B][COLOR yellow]3-YEDEK YAYINLAR[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/Test/main/test.m3u
 LiVE MEKKE * http://m.live.net.sa:1935/live/quran/playlist.m3u8
 ATV HD * http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
 1-AKiT HD * http://akittv-live.ercdn.net/akittv/akittv.m3u8
