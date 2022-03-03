@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,TRT1 
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8 
 #EXTINF:-1,TRT SPOR 
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1,TRT TÜRK 
