@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1,TRT1 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8 
+#EXTINF:-1,TRT SPOR 
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,TRT TÜRK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TRT OKUL 
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1,1-TRT HABER HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1,2-TRT HABER 
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,1-TRT DİYANET 
+http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
+#EXTINF:-1,TRT MÜZİK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT AVAZ 
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1,TRT ÇOCUK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+#EXTINF:-1,TBMM TV 
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1,TRT WORLD HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_480p_av-p.m3u8?sd=10&rebase=on
