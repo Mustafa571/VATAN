@@ -1,6 +1,7 @@
 
 
 ==================================================.*.m3u
+[B][COLOR yellow]TRT YAYINLARI[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 [B][COLOR yellow]1-YEDEK YAYINLAR Ulusal[/B][/COLOR] *https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u
 [B][COLOR yellow]2-YEDEK YAYINLAR Ulusal[/B][/COLOR] *https://raw.githubusercontent.com/itasli/TURKTV/master/index.m3u
 [B][COLOR yellow]ALMAN YAYINLARI[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/alma.m3u
