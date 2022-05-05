@@ -5,7 +5,6 @@
 [B][COLOR yellow]YEDEK YAYINLAR Ulusal[/B][/COLOR] *https://raw.githubusercontent.com/itasli/TURKTV/master/index.m3u
 [B][COLOR yellow]ALMAN YAYINLARI[/B][/COLOR] *https://raw.githubusercontent.com/Mustafa571/VATAN/master/alma.m3u
 LiVE MEKKE * http://m.live.net.sa:1935/live/quran/playlist.m3u8
-ATV HD * http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
 1-AKiT HD * http://akittv-live.ercdn.net/akittv/akittv.m3u8
 2-AKiT TV * http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 BRT 1 * rtmp://wms.brtk.net:1935/live/BRTHD
@@ -16,22 +15,15 @@ CAY TV * http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 DENİZLİ TV * http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 ETV MANISA* http://broadcasttr.com:1935/manisaetv/bant1/playlist.m3u8
 iÇEL TV * rtmp://stream.taksimbilisim.com/iceltv/bant1
-1-İSTANBUL 1 * rtmp://wowza.istweb.tv/webtv/webtv_wowza1
-2-İSTANBUL 1 * rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 KUDUS TV * http://yayin10.canliyayin.org:1935/P981680400/kudustv/chunklist.m3u8
 KANAL 33 * rtmp://stream.taksimbilisim.com/kanal33/bant1
 KANAL 38 * http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 KONYA SELCUK UNi * rtmp://yayin3.canlitv.com/live/untv
 LALEGÜL TV * http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?
 MAVIKARADENIZ * http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
-NTV HD * http://api.ntv.com.tr/rss/LiveStream
-TRT HABER * https://tv-trthaber.live.trt.com.tr/master.m3u8
-TRT TÜRK * https://tv-trtturk.live.trt.com.tr/master.m3u8
 TRT ÇOCUK * https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 TV NET * https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 TV 41 * http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 TV 52 * rtmp://stream.taksimbilisim.com/tv52/bant1
-UÇANKUŞ TV * http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 1-YABAN TV * rtmp://yayin3.canlitv.com/live1/yabantv
 2-YABAN TV * https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-
