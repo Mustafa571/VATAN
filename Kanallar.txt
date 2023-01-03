@@ -5,7 +5,8 @@
 [B][COLOR aqua]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ul.m3u
 [B][COLOR pink]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/vatan.m3u
 
-ATV AVRUPA * http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/214254
+1-ATV AVRUPA * http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/214254
+2-ATV AVRUPA * http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/29331
 EURO D * https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 KANAL7 AVRUPA * https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 EUROSTAR * https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
