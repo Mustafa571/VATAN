@@ -1,6 +1,6 @@
 
 
-======================GÜNCELLENDI=================.*.m3u
+==================================================.*.m3u
 [B][COLOR yellow]TRT YAYINLARI[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 [B][COLOR aqua]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ul.m3u
 [B][COLOR pink]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/vatan.m3u
