@@ -7,7 +7,7 @@
 [B][COLOR blue]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/hayatiptv/iptv/67cb13995276d384bdc81dc959298b80be3d44f4/TRDECesitlikanallar.m3u
 
 
-
+FOXTV * https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 EURO D * https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 KANAL7 AVRUPA * https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 EUROSTAR * https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
