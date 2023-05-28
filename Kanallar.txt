@@ -4,7 +4,7 @@
 [B][COLOR yellow]TRT YAYINLARI[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/TRT.m3u
 [B][COLOR aqua]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ul.m3u
 [B][COLOR pink]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/vatan.m3u
-[B][COLOR blue]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/hayatiptv/iptv/67cb13995276d384bdc81dc959298b80be3d44f4/TRDECesitlikanallar.m3u
+
 
 
 FOXTV * https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
