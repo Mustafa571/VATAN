@@ -6,11 +6,6 @@
 [B][COLOR pink]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/vatan.m3u
 [B][COLOR yellow]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u
 
-FOXTV * https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-EURO D * https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-KANAL7 AVRUPA * https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+EURO D AVRUPA * https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 STAR TV * https://dogus-live.daioncdn.net/startv/playlist.m3u8
 SHOW TÜRK * https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-NTV * https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-ATV * https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemakNx8t6xDha_4LPhNN9o43Q
-ATV AVRUPA * https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKssei3xxx8vVppscFP1WnoaY
