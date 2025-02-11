@@ -1,18 +1,5 @@
-
-
 ==================================================.*.m3u
 [B][COLOR aqua]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/ul.m3u
 [B][COLOR pink]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/Mustafa571/VATAN/master/vatan.m3u
 [B][COLOR yellow]YEDEK YAYINLAR Ulusal[/B][/COLOR] * https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u
-
-EURO D AVRUPA * https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-STAR TV * https://dogus-live.daioncdn.net/startv/playlist.m3u8
-SHOW TÜRK * https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-TRT2 * https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-TRT HABER * https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-TRT TÜRK * https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-TRT ORTAOKUL * https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
-TRT MÜZİK * https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-TRT AVAZ * https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-TBMM TV * https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-TRT KURDI * https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+LiVE MEKKE * http://m.live.net.sa:1935/live/quran/playlist.m3u8
