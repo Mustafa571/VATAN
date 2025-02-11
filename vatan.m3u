@@ -9,18 +9,38 @@ http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1,DOST TV
 http://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1,HABERTÜRK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1,EURO D AVRUPA 
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1,HABERTÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1,LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1,STAR TV  
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1,TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1,TRT2 
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT HABER 
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT ORTAOKUL 
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT MÜZİK 
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT AVAZ 
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TBMM TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1,TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,TV24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1,TV NET
