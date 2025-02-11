@@ -7,44 +7,24 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 http://hdtvler.net@akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1,CNN TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1,CAY TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1,DENİZLİ TV
-http://stream2.taksimbilisim.com:1935/drt/bant1/chunklist_w1562373657.m3u8
 #EXTINF:-1,DOST TV
 http://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1,HABERTÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1,1-LALEGÜL TV
-http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
-#EXTINF:-1,2-LALEGÜL TV
+#EXTINF:-1,LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1,NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1,TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1,TRT1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TV24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1,TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:-1,1-TGRT BELGESEL
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1,TV 41
-http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:-1,360 TV
 #EXTIMG:-1,https://i.ibb.co/RCYWMyN/360.png
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
